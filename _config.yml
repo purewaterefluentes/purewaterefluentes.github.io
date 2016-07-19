@@ -10,11 +10,11 @@ exclude:
   - vendor/
   - vnu/
   - vnu.zip
-layouts: ./_noita
+layouts: ./_layouts
 sass:
-  sass_dir: noita/_scss
+  sass_dir: website/_scss
   style: compressed
-# compress layout in _noita/compress.html
+# compress layout in _layouts/compress.html
 compress_html:
   clippings: all
   endings: all
@@ -26,20 +26,20 @@ noita:
   name: Noita
   description: Jekyll theme built with Foundation
   author:
-    name: Anatol Broder
-    url: http://penibelst.de/
+    name: Marcelo Garcia
   lang: en
   favicons:
     - /assets/2014/04/21/favicon-152.png
   topbar:
     toggle: Menu
     right:
-      - name: About
-        url: /about/
-      - name: Guide
-        url: /guide/
-      - name: Blog
-        url: /blog/
-      - name: Repository
-        url: https://github.com/penibelst/jekyll-noita
-        class: small button
+      - name: Sobre
+        url: /sobre/
+      - name: Produtos
+        url: /produtos/
+      - name: Serviços
+        url: /servicos/
+      - name: Equipamentos
+        url: /equipamentos/
+        name: Contato
+        url: /contato/
