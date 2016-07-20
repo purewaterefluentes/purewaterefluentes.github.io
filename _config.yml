@@ -24,12 +24,9 @@ compress_html:
 # theme
 purewater:
   name: Purewater Efluentes
-  description: Jekyll theme built with Foundation
   author:
     name: Marcelo Garcia
-  lang: en
-  favicons:
-    - /assets/2014/04/21/favicon-152.png
+  lang: pt
   topbar:
     toggle: Menu
     right:
