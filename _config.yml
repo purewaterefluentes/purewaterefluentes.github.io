@@ -10,7 +10,7 @@ exclude:
   - vendor/
   - vnu/
   - vnu.zip
-layouts: ./_layouts
+layouts_dir: ./_layouts
 sass:
   sass_dir: website/_scss
   style: compressed
@@ -23,7 +23,7 @@ compress_html:
     envs: [travis]
 # theme
 noita:
-  name: Noita
+  name: Purewater Efluentes
   description: Jekyll theme built with Foundation
   author:
     name: Marcelo Garcia
@@ -41,5 +41,5 @@ noita:
         url: /servicos/
       - name: Equipamentos
         url: /equipamentos/
-        name: Contato
+      - name: Contato
         url: /contato/

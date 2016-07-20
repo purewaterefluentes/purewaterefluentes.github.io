@@ -21,68 +21,87 @@ layout: compress
       href="{{ favicon }}">
   {% endfor %}
 
-  <link rel="alternate" href="/blog/feed.atom"
-    title="{{ site.noita.name }}" type="application/atom+xml">
 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <link rel="stylesheet" href="/website/app.css">
-  <script src="/website/js/vendor/modernizr.js"></script>
+
 </head>
 <body>
 
-  <div class="top-bar" data-topbar id="topbar">
-    <ul class="title-area">
-      <li class="name">
-        <h1><a href="/">{{ site.noita.name }}</a></h1>
-      </li>
-      <li class="toggle-topbar menu-icon"><a href="#topbar"><span>{{ site.noita.topbar.toggle }}</span></a></li>
-    </ul>
-    <div class="top-bar-section">
-      {% if site.noita.topbar.left %}
-      <ul class="left">
-      {% for item in site.noita.topbar.left %}
-        <li{% if item.class %} class="has-form"{% endif %}>
-          <a href="{{ item.url }}" class="{{ item.class }}">{{ item.name }}</a>
-        </li>
-      {% endfor %}
-      </ul>
-      {% endif %}
+   <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">{{ site.noita.name }}</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          
+        {% if site.noita.topbar.right %}
+          <ul class="nav navbar-nav navbar-right">
+          {% for item in site.noita.topbar.right %}
+            <li>
+              <a href="{{ item.url }}" class="{{ item.class }}">{{ item.name }}</a>
+            </li>
+          {% endfor %}
+          </ul>
+        {% endif %}
+        </div><!-- /.nav-collapse -->
+      </div>
+    </nav>
 
-      {% if site.noita.topbar.right %}
-      <ul class="right">
-      {% for item in site.noita.topbar.right %}
-        <li{% if item.class %} class="has-form"{% endif %}>
-          <a href="{{ item.url }}" class="{{ item.class }}">{{ item.name }}</a>
-        </li>
-      {% endfor %}
-      </ul>
-      {% endif %}
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="column">
-      <h1>{{ page.title }}</h1>
-    </div>
-  </div>
 
   {{ content }}
 
-  <div class="row">
-    <div class="column">
-      <hr>
-    </div>
-    <div class="small-8 columns">
-      <p>© 2014–2015 <a href="http://penibelst.de/">Anatol Broder</a>. Released under
-      the <a href="http://opensource.org/licenses/MIT">MIT License</a>.</p>
-    </div>
-    <div class="small-4 columns">
-      <p class="text-right menu-icon"><a href="#topbar">&#x25B2;</a></p>
-    </div>
-  </div>
+<footer>
 
-  <script src="/website/js/vendor/jquery.js"></script>
-  <script src="/website/js/vendor/fastclick.js"></script>
-  <script src="/website/js/foundation.min.js"></script>
-  <script>$(document).foundation();</script>
+<p>
+    Rua: Jupiranga, Nº 43 - CEP: 04257-130 - Bairro: Parque Fongaro - Cidade: São Paulo - SP
+    <br>
+    <span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span> +55 11 2946-0903
+    <br>
+    <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> vendas@purewaterefluentes.com.br
+</p>
+
+</footer>
+
+<div class="modal fade" id="image-gallery" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Fechar</span></button>
+                <h4 class="modal-title" id="image-gallery-title"></h4>
+            </div>
+            <div class="modal-body">
+                <img id="image-gallery-image" class="img-responsive" src="">
+            </div>
+            <div class="modal-footer">
+
+                <div class="col-md-2">
+                    <button type="button" class="btn btn-primary" id="show-previous-image">Anterior</button>
+                </div>
+
+                <div class="col-md-8 text-justify" id="image-gallery-caption">
+                    This text will be overwritten by jQuery
+                </div>
+
+                <div class="col-md-2">
+                    <button type="button" id="show-next-image" class="btn btn-default">Próxima</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <!-- script src="dist/js/bootstrap.min.js"></script -->
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+   <!-- script src="assets/js/ie10-viewport-bug-workaround.js"></script -->
+  <script src="/website/js/image-gallery.js"></script>
 </body>
 </html>
