@@ -23,6 +23,14 @@ footer {
   color: #3F7AB7;
 }
 
+.navbar-purewater .navbar-brand{
+    font-weight: normal;
+}
+
+.navbar-purewater .navbar-nav>li>a {
+ font-size: 16px;
+}
+
 .navbar-purewater .navbar-brand:hover,
 .navbar-purewater .navbar-brand:focus,
 .navbar-purewater .navbar-nav > li > a:hover,
