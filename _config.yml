@@ -22,7 +22,7 @@ compress_html:
   ignore:
     envs: [travis]
 # theme
-noita:
+purewater:
   name: Purewater Efluentes
   description: Jekyll theme built with Foundation
   author:

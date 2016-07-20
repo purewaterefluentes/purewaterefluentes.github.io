@@ -3,15 +3,15 @@ layout: compress
 ---
 
 <!doctype html>
-<html dir="ltr" lang="{{ site.noita.lang }}">
+<html dir="ltr" lang="{{ site.purewater.lang }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
-  {% include noita/robots.html %}
-  {% include noita/meta-description.html %}
+  {% include purewater/robots.html %}
+  {% include purewater/meta-description.html %}
 
-  {% for favicon in site.noita.favicons %}
+  {% for favicon in site.purewater.favicons %}
     {% assign size = favicon | split: '-' | last | split: '.' | first %}
     <link rel="icon"
       sizes="{{ size }}x{{ size }}"
@@ -23,12 +23,13 @@ layout: compress
 
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/website/theme.css">
   <link rel="stylesheet" href="/website/app.css">
 
 </head>
 <body>
 
-   <nav class="navbar navbar-inverse navbar-fixed-top">
+   <nav class="navbar navbar-inverse navbar-purewater navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -37,13 +38,13 @@ layout: compress
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/">{{ site.noita.name }}</a>
+          <a class="navbar-brand" href="/">{{ site.purewater.name }}</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           
-        {% if site.noita.topbar.right %}
+        {% if site.purewater.topbar.right %}
           <ul class="nav navbar-nav navbar-right">
-          {% for item in site.noita.topbar.right %}
+          {% for item in site.purewater.topbar.right %}
             <li>
               <a href="{{ item.url }}" class="{{ item.class }}">{{ item.name }}</a>
             </li>
@@ -57,17 +58,17 @@ layout: compress
 
   {{ content }}
 
-<footer>
-
-<p>
-    Rua: Jupiranga, Nº 43 - CEP: 04257-130 - Bairro: Parque Fongaro - Cidade: São Paulo - SP
-    <br>
-    <span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span> +55 11 2946-0903
-    <br>
-    <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> vendas@purewaterefluentes.com.br
-</p>
-
-</footer>
+    <footer>
+      <hr>
+      <div class="row">
+        <div class="col-md-12">
+          <p class="text-center">Rua: Jupiranga, Nº 43 - CEP: 04257-130 - Bairro: Parque Fongaro - Cidade: São Paulo - SP</p>
+          <p class="text-center"><span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span> +55 11 2946-0903</p>
+          <p class="text-center"<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> vendas@purewaterefluentes.com.br</p>
+        </div>
+      </div>
+    </footer>
+</div>
 
 <div class="modal fade" id="image-gallery" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog">

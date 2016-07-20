@@ -1,44 +1,12 @@
 body {
-  padding-top: 50px;
-  padding-bottom: 20px;
-  /*background-color: #F5F5F5;*/
+  padding-top: 45px;
 }
 
-.page-header {
-  color: #3F7AB7 ;
-  border-bottom: 1px solid #3F7AB7;
+footer {
+    margin-top: 20px;
 }
 
-hr {
-  border-top: 1px solid #e5e5e5;
-}
-
-.jumbotron {
-    background-color: #D9D9D9;
-}
-
-.navbar-inverse {
-  background-color: #FFF;
-  border-color: #3F7AB7;
-}
-.navbar-inverse .navbar-brand {
-  color: #3F7AB7;
-  font-size: 20px;
-}
-
-.navbar-inverse .navbar-brand:hover,
-.navbar-inverse .navbar-brand:focus,
- .navbar-inverse .navbar-nav > li > a:hover,
-.navbar-inverse .navbar-nav > li > a:focus {
-    color: #3F7AB7;
-    background-color: transparent;
-  }
-
-.navbar-fixed-top {
-    border-width: 0 0 2px;
-  }
-
-.jumbotron {
+.jumbotron-purewater{
   background-image: url('images/header-bg.jpg');
   background-position: center center;
   background-repeat: no-repeat;
@@ -46,20 +14,19 @@ hr {
   color: #FFF;        
 }
 
-.fixed_width {
-    height: 200px;
-    width: 250px;
-  }
-
-footer > p {
-  text-align: center;
+.navbar-purewater {
+  background-color: #FFF;
+  border-bottom: 2px solid #3F7AB7;
 }
-
-.media {
-  padding-top: 15px;
-}
-
-.media .glyphicon {
-  font-size: 3em;
+.navbar-purewater .navbar-brand,
+.navbar-purewater .navbar-nav>li>a {
   color: #3F7AB7;
 }
+
+.navbar-purewater .navbar-brand:hover,
+.navbar-purewater .navbar-brand:focus,
+.navbar-purewater .navbar-nav > li > a:hover,
+.navbar-purewater .navbar-nav > li > a:focus {
+    color: #3F7AB7;
+    background-color: transparent;
+  }
