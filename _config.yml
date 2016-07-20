@@ -33,8 +33,6 @@ noita:
   topbar:
     toggle: Menu
     right:
-      - name: Sobre
-        url: /sobre/
       - name: Produtos
         url: /produtos/
       - name: Serviços
