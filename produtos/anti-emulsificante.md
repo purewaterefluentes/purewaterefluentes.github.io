@@ -27,5 +27,4 @@ O Anti-Incrustante AQUA-200 pode ser fornecido nas seguintes embalagens:
 
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
-- 
 
