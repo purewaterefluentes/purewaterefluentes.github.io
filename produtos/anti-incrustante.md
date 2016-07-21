@@ -9,7 +9,7 @@ title: Anti-Incrustante
 
 - Controla incrustações com eficiência, incluindo carbonato de cálcio, sulfato de cálcio, sulfato de bário, sulfato de estrôncio,fluoreto de cálcio, ferro, material coloidal, sílica e outros contaminantes orgânicos e inorgânicos.
 - Compatível com a maioria dos sistemas de Osmose Reversa
-- Compatível com 100% dos sistemas de recirculação de água industrial, tais como: Torres de resfriamento, Chiller de resfriamento, Sistemas de caldeiras e outros.
+- Compatível com 100% dos sistemas de recirculação de água industrial, tais como: Torres de resfriamento, Chiller de resfriamento, Sistemas de caldeiras.
 - Reduz o uso de ácidos 
 - Reduz o custos de limpeza e manutenção do sistema 
 - Minimiza as operações de manutenção 
