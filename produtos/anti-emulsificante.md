@@ -23,7 +23,7 @@ Quebra de emulsificação sobrenadante em tratamento de água.
 - Não requer licença da Policia Civil ou Federal para aquisição.
 
 ### Fornecimento
-O Anti-Incrustante AQUA-200 pode ser fornecida nas seguintes embalagens:
+O Anti-Incrustante AQUA-200 pode ser fornecido nas seguintes embalagens:
 
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
