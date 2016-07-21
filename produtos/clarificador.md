@@ -3,7 +3,4 @@ layout: default
 title: Clarificador
 ---
 
-<p>
 Produto destinado a redução de pigmentação (Coloração), e eliminação de resíduos orgânicos passíveis de alteração física ou química no efluente.
-</p>
-

@@ -1,0 +1,9 @@
+---
+layout: default
+title: Cloro Liquido
+title.small: 10% a 12%
+---
+
+Produto não controlado pela Policia Civil.
+
+Cloro liquido com concentração de 10 a 12% de cloro ativo, atua como agente bactericida e pode ser aplicado em tratamento de água e efluentes, de fácil aplicação, também usado em água de reuso nos seguimentos: Lavanderia, Galvanoplastia, Cortumes, Alimenticio e outros.
