@@ -8,7 +8,7 @@ subtitle: Antiespumante
 ## Principais Características
 A Linha de Antiespumante da Purewater Efluentes basea-se em compostos específicos atuando combinadamente entre o efeito dispersante e o antiespumante, agindo com eficácia na formação e no controle de espumas em tratamento de água. 
 
-# Consulte o Boletim:
+#### Consulte o Boletim:
 
 ### Composição
 O AQUA-FLUX é formulado a base de alcoóis graxos com ou sem silicone e espessante estabilazante,  sendo totalmente solúvel em água, proporcionando a diminuição da tensão superficial e maior rapidez do processo de eliminação da espuma, apresentando duradouro efeito residual.
