@@ -5,7 +5,7 @@ title: AQUA-FLUX
 subtitle: Antiespumante
 ---
 
-## Principais Características
+## Apresentação
 A Linha de Antiespumante da Purewater Efluentes basea-se em compostos específicos atuando combinadamente entre o efeito dispersante e o antiespumante, agindo com eficácia na formação e no controle de espumas em tratamento de água. 
 
 #### Consulte o Boletim:
@@ -21,7 +21,7 @@ Desse modo, todas as características funcionais e sensoriais do produto de inte
 ### Principais Aplicações
 Pode ser aplicado em todos os seguimentos da industria, pode ser utilizado também em    estações de tratamento de água e efluentes.
 
-### Caracteristicas
+### Características
 
 - Tipos fabricados: Com silicone / Sem silicone
 - Densidade: 0,97 a 1,2 g/cm3 (25 °C)
