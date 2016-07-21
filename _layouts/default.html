@@ -7,7 +7,13 @@ layout: compress
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
+  <title>
+    {% if {page.pageTitle %}
+      {{page.pageTitle}}
+    {% else %}
+      {{ page.title }}
+    {% endif %}
+  </title>
   {% include purewater/robots.html %}
   {% include purewater/meta-description.html %}
 
@@ -55,6 +61,21 @@ layout: compress
       </div>
     </nav>
 
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron jumbotron-purewater">
+      <div class="container">
+        <h1>
+          {{ page.title }}
+          {% if page.title.small %}
+            <small>{{ page.title.small }}</small>
+          {% endif %}
+        </h1>
+        {% if page.subtitle %}
+          <p>{{ page.subtitle }}</p>
+        {% endif %}
+      </div>
+    </div>
 
   {{ content }}
 
