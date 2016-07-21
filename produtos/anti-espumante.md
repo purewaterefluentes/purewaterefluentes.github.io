@@ -29,6 +29,14 @@ Pode ser aplicado em todos os seguimentos da industria, pode ser utilizado tamb�
 - Aparência: Líquido Branco
 - Odor: Inodoro
 
+### Funcionalidades
+
+- Alta concentração
+- 100% soluvel em água
+- Apresenta efeito duradouro residual.
+- Alta dispersão superficial.
+
+
 ### Transporte e Armazenagem
 O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 50 °C. 
 Pode vir a ocorrer o processo de separação de fases durante o período de armazenagem, o que se reverte sob agitação sem que suas propriedades sejam alteradas. 
