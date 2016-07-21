@@ -5,6 +5,8 @@ title: Anti-Incrustante
 
 ## Anti-Incrustante
 
+### Funcionalidades
+
 - Controla incrustações com eficiência, incluindo carbonato de cálcio, sulfato de cálcio, sulfato de bário, sulfato de estrôncio,fluoreto de cálcio, ferro, material coloidal, sílica e outros contaminantes orgânicos e inorgânicos.
 - Compatível com a maioria dos sistemas de Osmose Reversa
 - Compatível com 100% dos sistemas de recirculação de água industrial, tais como: Torres de resfriamento, Chiller de resfriamento, Sistemas de caldeiras e outros.
@@ -30,4 +32,5 @@ A linha de Anti-Incrustante AQUA-200 pode ser fornecido nas seguintes embalagens
 
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
+
 
