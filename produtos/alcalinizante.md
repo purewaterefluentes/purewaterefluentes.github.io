@@ -26,3 +26,4 @@ A linha de alcalinizantes Purewater Efluentes pode ser fornecida nas seguintes e
 
 - Bombonas plásticas de 30 ou 60 Kg
 - Container plástico IBC de 1000 litros.
+- 
