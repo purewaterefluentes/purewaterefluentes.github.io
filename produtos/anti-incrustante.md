@@ -28,7 +28,7 @@ Produto destinado ao controle de incrustações em linha hidráulica e proteçã
 - Substitui o uso de substâncias de alto risco operacional como os ácido.
 
 ### Fornecimento
-A linha de Anti-Incrustante AQUA-200 pode ser fornecido nas seguintes embalagens:
+A linha de Anti-Incrustante é fornecida nas seguintes embalagens:
 
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
