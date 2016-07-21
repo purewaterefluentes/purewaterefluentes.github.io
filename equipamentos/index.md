@@ -12,7 +12,7 @@ subtitle: Fabricação de equipamentos para tratamento de água e efluentes
    <li><a href="filtro-de-agua-fiberglass-PRFV.html">Filtro Fiberglass - PRFV</a></li>
  </ul>
 
-## Bombas
+## Bombas Dosadoras
 
 <ul>
   <li><a href="bomba-dosadora-de-diafragma-mecanica.html">Bomba Dosadora de Diafragma - Mecânica</a></li>
@@ -21,13 +21,18 @@ subtitle: Fabricação de equipamentos para tratamento de água e efluentes
   <li><a href="bomba-centrifuga-quimica.html">Bomba Centrifuga Química</a></li>
 </ul>
 
-## Eletrodos e Sensores de PH
+## Sensores de PH ORP
 
 <ul>
  <li>Eletrodos e Sensores de PH e ORP</li>
+  <li>Eletrodos de PH</li>
+</ul>
+
+## Medidores de PH ORP
+
+<ul>
  <li>Medidor de Bancada de PH e ORP - Redox</li>
   <li>Medidor de PH e ORP - Redox</li>
-  <li>Eletrodos de PH</li>
 </ul>
 
 ## Equipamentos em Polipropileno e PVC
