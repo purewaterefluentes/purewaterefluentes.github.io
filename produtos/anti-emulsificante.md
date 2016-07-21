@@ -19,11 +19,11 @@ Quebra de emulsificação sobrenadante em tratamento de água.
 - 100% solúvel
 - Fácil aplicação
 - Reduz a formação de massa residual (borra), no tratamento de efluentes.
-- Substitui o uso de substâncias de alto risco operacional como o ácidos.
+- Substitui o uso de substâncias de alto risco operacional como os ácidos.
 - Não requer licença da Policia Civil ou Federal para aquisição.
 
 ### Fornecimento
-A linha de Anti-Incrustante pode ser fornecida nas seguintes embalagens:
+O Anti-Incrustante AQUA-200 pode ser fornecida nas seguintes embalagens:
 
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
