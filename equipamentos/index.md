@@ -6,37 +6,28 @@ subtitle: Fabricação de equipamentos para tratamento de água e efluentes
 
 ## Filtros de Água
 
-<ul>
-   <li><a href="filtro-de-agua-inox.html">Filtro Inox</a></li>
-   <li><a href="filtro-prensa.html">Filtro Prensa</a></li>
-   <li><a href="filtro-de-agua-fiberglass-PRFV.html">Filtro Fiberglass - PRFV</a></li>
- </ul>
+- [Filtro Inox](filtro-de-agua-inox.html)
+- [Filtro Prensa](filtro-prensa.html)
+- [Filtro Fiberglass - PRFV](filtro-de-agua-fiberglass-PRFV.html)
 
 ## Bombas Dosadoras
 
-<ul>
-  <li><a href="bomba-dosadora-de-diafragma-mecanica.html">Bomba Dosadora de Diafragma - Mecânica</a></li>
-  <li><a href="bomba-dosadora-de-diafragma-pneumatica.html">Bomba Dosadora de Diafragma - Pneumática</a></li>
-  <li><a href="bomba-dosadora-de-diafragma-eletromagnetica.html">Bomba Dosadora de Diafragma - Eletromagnética</a></li>
-  <li><a href="bomba-centrifuga-quimica.html">Bomba Centrifuga Química</a></li>
-</ul>
+
+- [Bomba Dosadora de Diafragma - Mecânica](bomba-dosadora-de-diafragma-mecanica.html)
+- [Bomba Dosadora de Diafragma - Pneumática](bomba-dosadora-de-diafragma-pneumatica.html)
+- [Bomba Dosadora de Diafragma - Eletromagnética](bomba-dosadora-de-diafragma-eletromagnetica.html)
+- [Bomba Centrifuga Química](bomba-centrifuga-quimica.html)
 
 ## Sensores de PH ORP
 
-<ul>
- <li>Eletrodos e Sensores de PH e ORP</li>
-  <li>Eletrodos de PH</li>
-</ul>
+- Eletrodos e Sensores de PH e ORP
+- Eletrodos de PH
 
 ## Medidores de PH ORP
 
-<ul>
- <li>Medidor de Bancada de PH e ORP - Redox</li>
-  <li>Medidor de PH e ORP - Redox</li>
-</ul>
+- Medidor de Bancada de PH e ORP - Redox
+- Medidor de PH e ORP - Redox
 
 ## Equipamentos em Polipropileno e PVC
 
-<ul>
-<li><a href="equipamentos-polipropileno.html">Equipamentos em Polipropileno e PVC</a></li>
-</ul>
+- [Equipamentos em Polipropileno e PVC](equipamentos-polipropileno.html)
