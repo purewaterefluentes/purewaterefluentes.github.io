@@ -25,5 +25,6 @@ Usado como neutralizante de acidez em meio líquido e aumento do pH em meio aquo
 A linha de alcalinizantes Purewater Efluentes pode ser fornecida nas seguintes embalagens:
 
 - Bombonas plásticas de 30 ou 60 Kg
-- Container plástico IBC de 1000 litros.
-- 
+- Container plástico IBC de 1000 litros
+
+
