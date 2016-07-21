@@ -19,7 +19,7 @@ Quebra de emulsificação sobrenadante em tratamento de água.
 - 100% solúvel
 - Fácil aplicação
 - Reduz a formação de massa residual (borra), no tratamento de efluentes.
-- Substitui o uso de substâncias de alto risco operacional como os ácidos.
+- Substitui o uso de substâncias de alto risco operacional como os ácido.
 
 
 ### Fornecimento
