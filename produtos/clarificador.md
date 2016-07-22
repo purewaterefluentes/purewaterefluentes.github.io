@@ -6,10 +6,10 @@ subtitle: Clarificador
 ---
 
 
-## Apresentação
+### Apresentação
 Produto destinado a redução de pigmentação (Coloração) em tratamento de efluentes, e a eliminação de resíduos orgânicos passíveis de alteração física ou química no efluente.
 
-#### Consulte o Boletim:
+##### Consulte o Boletim:
 
 ### Composição
 O produto AQUA-600S tem ótimo poder de clarificação para tratamentos de água e tratamento de efluentes agindo diretamente sobre o contaminante residual presente na água ou efluente industrial, sendo formulada a base de sais inorgânicos (Familia 3A) estabilizados, e sendo totalmente solúvel em água proporcionando uma ação direta e eficaz na redução da cor e agentes de pigmentação.
