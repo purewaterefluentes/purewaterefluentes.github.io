@@ -1,8 +1,10 @@
 ---
 layout: default
+pageTitle: Clarificador
 title: AQUA-600
-Subtitle: Clarificador
+subtitle: Clarificador
 ---
+
 
 ## Apresentação
 Produto destinado a redução de pigmentação (Coloração), e eliminação de resíduos orgânicos passíveis de alteração física ou química no efluente.
