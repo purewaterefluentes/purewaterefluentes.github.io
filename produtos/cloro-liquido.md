@@ -6,7 +6,7 @@ subtitle: Cloro liquido
 ---
 
 ### Apresentação
-O cloro liquido saneante apresenta concentração entre 7 a 9% de cloro ativo, podendo também ser fabricado nas concetrações de cloro ativo 2,5% e cloro ativo 5%. Atua como agente bactericida, saneante, desinfectante e clarificante e pode ser aplicado em tratamento de águas em geral e tratamento de efluentes.
+HIPOCLORE é o Cloro liquido saneante que apresenta concentração entre 7 a 9% de cloro ativo, podendo também ser fabricado nas concetrações de cloro ativo 2,5% e cloro ativo 5%. Atua como agente bactericida, saneante, desinfectante e clarificante e pode ser aplicado em tratamento de águas em geral e tratamento de efluentes.
 Possue fácil aplicação e também pode ser aplicado em água de reuso nos seguimentos de: Lavanderia Industrial, Lavanderia Hospitalar, Galvanoplastia, Curtumes, Industria Alimentícia e Industria farmaceutica e outras.
 
 ##### Consulte o Boletim:
