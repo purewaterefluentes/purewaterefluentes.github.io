@@ -1,7 +1,7 @@
 ---
 layout: default
 pageTitle: Clarificador
-title: AQUA-600
+title: AQUA-600S
 subtitle: Clarificador
 ---
 
@@ -48,6 +48,8 @@ Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do AQ
 A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminates presente na água ou efluente.
 
 ### Embalagem
-Bombona plástica de 50 Kg
-Container (IBC) plastico 1000 litros 
+
+- Bombona plástica de 50 Kg
+- Container (IBC) plastico 1000 litros 
+
 
