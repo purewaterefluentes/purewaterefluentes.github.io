@@ -32,3 +32,12 @@ Devido a suas propriedades básicas fortes, a Cal hidratada Extra possui diversa
 - Na indústria de alimentos, participando do processamento da água (para bebidas alcoólicas e refrigerantes)
 - No refinamento do açúcar, para separá-lo do açúcar da cana
 
+## Fornecimento
+
+A Cal Hidratada Extra Purificada pode ser encontrada nas seguintes formas:  Liquida (Leite de Cal) ou Solido em pó
+
+## Embalagens
+
+Sacos de 20 Kg (pó)
+Bombonas plasticas de 50 Kg
+Container (IBC) plastico de 1000 litros
