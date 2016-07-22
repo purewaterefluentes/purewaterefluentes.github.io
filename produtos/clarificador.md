@@ -5,7 +5,6 @@ title: AQUA-600S
 subtitle: Clarificador
 ---
 
-
 ### Apresentação
 Produto destinado a redução de pigmentação (Coloração) em tratamento de efluentes, e a eliminação de resíduos orgânicos passíveis de alteração física ou química no efluente.
 
