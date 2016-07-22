@@ -2,7 +2,7 @@
 layout: default
 title: Alcalinizante
 ---
-## Corretor de pH Alcalino (Alcalinizante)
+## Corretor de pH Alcalino (Elevação de PH)
 
 Fabricamos uma linha completa de produtos destinados ao controle de PH em tratamento de água ou sistemas de recirculação fechado (Torres de resfriamento) ou (Caldeiras), produto de fácil aplicação e pronto para uso.
 Os corretores de pH alcalino possuem a propriedade de elevar o pH da água ou efluentes, tendo como principal ação a neutralização de acidez em meio aquoso.
@@ -19,7 +19,7 @@ Usado como neutralizante de acidez em meio líquido e aumento do pH em meio aquo
 - Fácil aplicação
 - Gera até 65% menos massa residual (borra), no tratamento de efluentes.
 - Substitui o uso de substancias de alto risco operacional como o hidróxido de sódio.
-- Não requer licença da Policia Civil ou Federal para aquisição.
+- Produto NÂO CONTROLADO pelos órgãos ambientais (Produtos perigosos)
 
 ### Fornecimento
 A linha de alcalinizantes Purewater Efluentes pode ser fornecida nas seguintes embalagens:
