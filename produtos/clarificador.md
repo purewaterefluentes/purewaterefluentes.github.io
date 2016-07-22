@@ -7,35 +7,35 @@ subtitle: Clarificador
 
 
 ## Apresentação
-Produto destinado a redução de pigmentação (Coloração), e eliminação de resíduos orgânicos passíveis de alteração física ou química no efluente.
+Produto destinado a redução de pigmentação (Coloração) em tratamento de efluentes, e a eliminação de resíduos orgânicos passíveis de alteração física ou química no efluente.
 
 #### Consulte o Boletim:
 
 ### Composição
-O produto AQUA-600 é possui otimo poder de clarificação para tratamentos de água e tratamento de efluentes agindo diretamente formulado a base de alcoóis graxos com ou sem silicone e espessante estabilazante,  sendo totalmente solúvel em água, proporcionando a diminuição da tensão superficial e maior rapidez do processo de eliminação da espuma, apresentando duradouro efeito residual.
-
-### Mecanismo de Ação
-Sua ação se deve a presença de componentes tensoativos que diminuem a tensão superficial do meio formador de espuma, tornando-as mais instáveis até que ocorra a sua quebra e aproximando-as até que se colapsem entre si. 
-Nesse processo propriedades  físico-químicas do meio são alteradas, ressaltando-se que não há qualquer reação química envolvida, pois os componentes do AQUA-FLUX são inertes quimicamente a grande maioria dos meios formadores de espuma. 
-Desse modo, todas as características funcionais e sensoriais do produto de interesse do processo permanecem inalteradas.
+O produto AQUA-600S tem ótimo poder de clarificação para tratamentos de água e tratamento de efluentes agindo diretamente sobre o contaminante residual presente na água ou efluente industrial, sendo formulada a base de sais inorgânicos (Familia 3A) estabilizados, e sendo totalmente solúvel em água proporcionando uma ação direta e eficaz na redução da cor e agentes de pigmentação.
 
 ### Principais Aplicações
-Pode ser aplicado em todos os seguimentos da industria, pode ser utilizado também em    estações de tratamento de água e efluentes.
+No tratamento de águas residuais, água de poço, piscinas, efluentes industriais, esgoto domestico.
 
 ### Características
 
-- Tipos fabricados: Com silicone / Sem silicone
-- Densidade: 0,97 a 1,2 g/cm3 (25 °C)
-- pH: 6-8
-- Aparência: Líquido Branco
+- Estado: Liquido
+- Densidade: >1,05 g/cm3 (25 °C)
+- pH: <3,5
+- Aparência: Líquido transparente a turvo
 - Odor: Inodoro
+- Produto Não Controlado pelos Órgãos reguladores
+
 
 ### Funcionalidades
 
+- Eficiente na clarificação de água
+- Otímo agente redutor de cor ou pigmentação
 - Alta concentração
-- 100% soluvel em água
-- Apresenta efeito duradouro residual.
-- Alta dispersão superficial.
+- 100% solúvel em água
+- Produto de baixo risco operacional
+- Baixo custo
+- Reduz a formação de borra residual no tratamento de efluentes
 
 
 ### Transporte e Armazenagem
@@ -44,7 +44,10 @@ Pode vir a ocorrer o processo de separação de fases durante o período de arma
 Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
 
 ### Manuseio e Método de Aplicação
-Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do AQUA-FLUX com  na proporção de 1/10 partes de água aplicando no meio formador de espuma. A dosagem a ser utilizada varia de acordo com a aplicação e o meio provocador de espuma e equipamentos.
+Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do AQUA-600S em sua forma original (concentrado) ou se preferir diluído na proporção de 1/2 partes (solução a 50%) de água aplicando no meio aquoso a tratar.
+A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminates presente na água ou efluente.
 
 ### Embalagem
-Bombona plástica de 25 Kg ou 50 Kg
+Bombona plástica de 50 Kg
+Container (IBC) plastico 1000 litros 
+
