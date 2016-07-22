@@ -21,11 +21,12 @@ Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito.
 - Extraído da casca de coco
 - Granulado ou pó
 
-### Carvão Ativado Especial (Ação Bactericida)
+## Carvão Ativado Especial (Ação Bactericida)
 - Carvão Ativo com Prata Coloidal
 - Carvão muito utilizado em sistemas de filtragem para água potável, pois a prata coloidal exerce função bactericida.
 
 ## Carvão ativo Pulverizado
+Disponível em pó
 
 ## Granulometria
 Medidas disponíveis: 5/16"x6 / 3,5x8 / 6x12 / 8x16 / 8x30 / 12x25 / 12x40 / 20x50
