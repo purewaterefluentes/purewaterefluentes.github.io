@@ -19,7 +19,7 @@ Usado como neutralizante de acidez em meio líquido e aumento do pH em meio aquo
 - Fácil aplicação
 - Gera até 65% menos massa residual (borra), no tratamento de efluentes.
 - Substitui o uso de substancias de alto risco operacional como o hidróxido de sódio.
-- Produto NÂO CONTROLADO pelos órgãos ambientais (Produtos perigosos)
+- Produto NÃO CONTROLADO pelos órgãos ambientais (Produtos perigosos)
 
 ### Fornecimento
 A linha de alcalinizantes Purewater Efluentes pode ser fornecida nas seguintes embalagens:
