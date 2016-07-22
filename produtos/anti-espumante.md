@@ -5,6 +5,7 @@ title: AQUA-FLUX
 subtitle: Antiespumante
 ---
 
+
 ## Apresentação
 A Linha de Antiespumante da Purewater Efluentes basea-se em compostos específicos atuando combinadamente entre o efeito dispersante e o antiespumante, agindo com eficácia na formação e no controle de espumas em tratamento de água. 
 
