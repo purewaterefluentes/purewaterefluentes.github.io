@@ -3,7 +3,7 @@ layout: default
 title: Carvao Ativado
 ---
 
-### Carvão Ativado
+# Carvão Ativado
 
 ## Apresentação
 
@@ -12,19 +12,21 @@ Este processo é realizado em fornos ativadores a uma temperatura de aproximadam
 
 Carvão Ativo ou Carvão Ativado é um produto quimicamente inerte e usado para a remoção de impurezas dissolvidas nos produtos a serem tratados, e pode ser empregado em pó ou granulado conforme a conveniência do seu uso.
 
+Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito.
+
 ## Classificação
 - Carvão Ativo Vegetal
-- Extraido da casca de coco
+- Extraído da casca de coco
 - Granulado ou pó
 
 ### Carvão Ativado Especial (Ação Bactericida)
 - Carvão Ativo com Prata Coloidal
 - Carvão muito utilizado em sistemas de filtragem para água potável, pois a prata coloidal exerce função bactericida.
 
-# Carvão ativo Pulverizado
+## Carvão ativo Pulverizado
 
 ## Granulometria
-Medidas disponiveis: 5/16"x6 – 3,5x8 - 6x12 - 8x16 - 8x30 - 12x25 - 12x40 – 20x50
+Medidas disponíveis: 5/16"x6 / 3,5x8 / 6x12 / 8x16 / 8x30 / 12x25 / 12x40 / 20x50
 
 ## Embalagem
 
