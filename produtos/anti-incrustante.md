@@ -17,6 +17,7 @@ title: Anti-Incrustante
 
 ### Aplicação
 Produto destinado ao controle de incrustações em linha hidráulica e proteção da tubulação e equipamentos coibindo a ação de deposição de sais de cálcio, magnésio e silício.
+
 Desenvolvemos Anti-incrustantes para aplicacão em sistemas de refrigeração, água gelada, torres de resfriamento de ciclo aberto ou ciclo fechado, Caldeiras, sistemas de reuso de água industrial, sistemas hidráulicos em geral.
 
 ### Características:
