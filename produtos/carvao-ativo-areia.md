@@ -7,7 +7,9 @@ title: Carvao Ativado
 
 ## Apresentação
 
-O Carvão Ativado é normalmente 100 vezes mais poroso que o carvão comum, esta porosidade esta diretamente ligada à "limpeza" que o material sofre na ativação que consiste em remover as substâncias contidas nos poros obstruídos do carvão comum. 
+O carvão ativado é um material de carbono com uma porosidade bastante desenvolvida, com capacidade de coletar seletivamente gases, líquidos ou impurezas no interior dos seus poros, apresentando portanto um excelente poder de clarificação, desodorização e purificação de líquidos ou gases.
+
+O Carvão Ativo é normalmente 100 vezes mais poroso que o carvão comum, esta porosidade esta diretamente ligada à "limpeza" que o material sofre na ativação que consiste em remover as substâncias contidas nos poros obstruídos do carvão comum. 
 Este processo é realizado em fornos ativadores a uma temperatura de aproximadamente 800 ºC, e atmosfera redutora; deixando pontes de ligação abertas no interior dos poros.
 
 Carvão Ativo ou Carvão Ativado é um produto quimicamente inerte e usado para a remoção de impurezas dissolvidas nos produtos a serem tratados, e pode ser empregado em pó ou granulado conforme a conveniência do seu uso.
