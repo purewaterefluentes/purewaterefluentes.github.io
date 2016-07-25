@@ -3,8 +3,6 @@ layout: default
 title: Carvao Ativado
 ---
 
-# Carvão Ativado
-
 ## Apresentação
 
 O carvão ativado é um material de carbono com uma porosidade bastante desenvolvida, com capacidade de coletar seletivamente gases, líquidos ou impurezas no interior dos seus poros, apresentando portanto um excelente poder de clarificação, desodorização e purificação de líquidos ou gases.
