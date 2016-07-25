@@ -3,7 +3,6 @@ layout: default
 title: Anti-Incrustante
 ---
 
-## Anti-Incrustante
 
 ### Funcionalidades
 
