@@ -13,19 +13,19 @@ O produto tem fácil aplicação e ação imediata, oque resulta em água de alt
 #### Consulte o Boletim:
 
 ### Composição
-O AQUA-150 é formulado a base de sais inorganicos presentes na Familia IIA e estabilizantes, sendo totalmente solúvel em água, podendo ser aplicado em sua forma concentrada ou diluido na proporção sugerida de 1:5 partes.
+O AQUA-150 é formulado a base de sais inorgânicos presentes na Família IIA e estabilizantes, sendo totalmente solúvel em água, podendo ser aplicado em sua forma concentrada ou diluído na proporção sugerida de 1:5 partes.
 
 
 ### Mecanismo de Ação
 
-Sua ação se deve a presença de componentes complexados que atuam no nucleo de formação dos sais de sulfato, gerando a qubra imedita desta estrutura e formando um novo complexo altamente estavel de precipitação.  
+Sua ação se deve a presença de componentes complexados que atuam no nucleo de formação dos sais de sulfato, gerando a quebra imediata desta estrutura e formando um novo complexo altamente estável de precipitação.  
 
 ### Principais Aplicações
-- Pode ser aplicado em todos os seguimentos da industria
+- Pode ser aplicado em todos os seguimentos da indústria
 - Em estações de tratamento de água
 - Em estação de tratamento de efluentes
 - Água de reuso industrial
-- Água de sistema estacionario
+- Água de sistema estacionário
 - Solúvel em água e de fácil aplicação.
 
 
