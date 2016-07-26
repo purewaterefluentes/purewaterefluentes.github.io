@@ -7,7 +7,7 @@ subtitle: Eliminador de Sulfato
 
 
 ## Apresentação
-O Redutor de sulfatos ou Elinador de Sulfatos da Purewater Efluentes foi desenvolvido com a função especifica de precipitação de sais de sulfatos em meio aquoso, muito aplicado na precipitação de sulfatos em tratamento de efluentes industriais.
+O Redutor de sulfatos ou Eliminador de Sulfatos da Purewater Efluentes foi desenvolvido com a função especifica de precipitação de sais de sulfatos em meio aquoso, muito aplicado na precipitação de sulfatos em tratamento de efluentes industriais.
 O produto tem fácil aplicação e ação imediata, oque resulta em água de alta qualidade.
 
 #### Consulte o Boletim:
