@@ -27,7 +27,7 @@ Sua ação se deve a presença de componentes complexados que atuam no nucleo de
 - Água de reuso industrial
 - Água de sistema estacionario
 - Solúvel em água e de fácil aplicação.
-- Não gera residual pós aplicação (Turvamento)
+
 
 
 ### Características
@@ -62,5 +62,6 @@ A dosagem a ser utilizada varia de acordo com a aplicação e o meio provocador 
 
 - Bombona plástica de 25 ou 50 Kg
 - Container (IBC) Plástico de 1000 litros
-- 
+
+
 
