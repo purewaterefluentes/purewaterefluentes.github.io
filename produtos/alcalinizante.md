@@ -7,10 +7,19 @@ title: Alcalinizante
 Fabricamos uma linha completa de produtos destinados ao controle de PH em tratamento de água ou sistemas de recirculação fechado (Torres de resfriamento) ou (Caldeiras), produto de fácil aplicação e pronto para uso.
 Os corretores de pH alcalino possuem a propriedade de elevar o pH da água ou efluentes, tendo como principal ação a neutralização de acidez em meio aquoso.
 
-### Aplicação
+## Aplicação
 Usado como neutralizante de acidez em meio líquido e aumento do pH em meio aquoso e tratamento de água e tratamento de efluentes.
 
-### Características:
+## Boletim Técnico
+
+[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Alcalinizante](Boletim-tecnico-alcalinizante.pdf)
+
+[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Alcalinizante - CA20](Boletim-tecnico-alcalinizante-ca20.pdf)
+
+[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Alcalinizante - CC25](Boletim-tecnico-alcalinizante-cc25.pdf)
+
+
+## Características:
 
 - Produto com alto poder de neutralização de pH
 - Possuem pH superior a 12,0
