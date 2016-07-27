@@ -1,7 +1,6 @@
 ---
 layout: default
-pageTitle: Acido Fosfino Carboxilico
-title: ACIDO FOSFINO CARBOXILICO
+title: Ácido Fosfino Carboxilico
 subtitle: Desincrustante e Dispersante
 ---
 
