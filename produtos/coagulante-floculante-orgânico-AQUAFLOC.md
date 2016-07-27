@@ -5,14 +5,14 @@ title: AQUAFLOC-LS
 subtitle: Coagulante Floculante Orgânico - Biodegradavel
 ---
 
-**AQUAFLOC-LS** é um agente multi-ação agindo como coagulante e floculante de forma unificada, sua composição basica deriva de um polímero orgânico-catiônico de baixo peso molecular, de origem essencialmente vegetal e que atua no tratamento de água e efluentes industrais como:
+Coagulante e floculante que age de forma unificada. Sua composição basica deriva de um polímero orgânico-catiônico de baixo peso molecular de origem essencialmente vegetal. Atua no tratamento de água e efluentes industrais como:
 
 - Coagulante
 - Precipitador
 - Floculante
 - Auxiliar de coagulação no tratamento de águas em geral
 
-AQUAFLOC-LS é capaz de atuar em um amplo espectro de aplicações, em conformidade com testes preliminares (jar-test) e orientações da equipe de assistência técnica e desenvolvimento de produto da Purewater Efluentes.
+Em conformidade com testes preliminares (jar-test) e orientações da equipe de assistência técnica e desenvolvimento de produto da Purewater Efluentes AQUAFLOC-LS é capaz de atuar em um amplo espectro de aplicações. 
 
 Produto extremamente versátil, pois substitui com grande eficiência a utilização de todos os demais produtos químicos usados no tratamento de água e efluentes industrial de forma simples e efetiva.
 
