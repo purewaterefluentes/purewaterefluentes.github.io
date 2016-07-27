@@ -24,6 +24,5 @@ Hipoclorito de cálcio é um composto químico de fórmula Ca(ClO)2 possui PH le
 - Reduz os ciclos de reposição de cloro na piscina
 
 ## Fornecimento
-O hipoclorito de cálcio granulado da Purewater Efluentes pode ser fornecida nas seguintes embalagens:
 
 - Barrica plástica de 45 Kg 

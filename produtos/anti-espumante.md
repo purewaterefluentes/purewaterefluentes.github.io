@@ -42,8 +42,9 @@ Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a parti
 ## Manuseio e Método de Aplicação
 Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do AQUA-FLUX com  na proporção de 1/10 partes de água aplicando no meio formador de espuma. A dosagem a ser utilizada varia de acordo com a aplicação e o meio provocador de espuma e equipamentos.
 
-## Embalagem
-Bombona plástica de 25 Kg ou 50 Kg
+## Embalagens
+
+- Bombona plástica de 25 Kg ou 50 Kg
 
 ## Boletim Técnico
 

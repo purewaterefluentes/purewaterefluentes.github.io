@@ -22,9 +22,9 @@ Fazendo comparações com os coagulantes inorgânicos tradicionais, podemos afir
 - Por conter ions hidroxilas em sua formula não há uma significativa redução de pH, além de reduzir o uso de alcalinizante. 
 - Fácil adaptação com qualquer tipo de polímero.
 
-## Dosagem / Aplicação
+## Dosagem e Aplicação
 
-As dosagens para obter uma performance melhor do produto devem ser sempre menores do que os demais  coagulantes  a  base  de  alumínio,  devido  a  maior  eficiência  e  concentração  de  alumina, diminuindo o consumo por menos da metade em comparação com os coagulantes que já existem no mercado.
+As dosagens para obter uma performance melhor do produto devem ser sempre menores do que os demais  coagulantes  a  base  de  alumínio,  devido a maior eficiência e concentração de alumina, diminuindo o consumo por menos da metade em comparação com os coagulantes que já existem no mercado.
 
 Sua aplicação é completamente miscível com água e pode ser dosado na forma não diluída como a forma diluída conforme critérios de operação.
 

@@ -50,5 +50,6 @@ Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do AQU
 Também podendo ser aplicado em sua forma original.
 A dosagem a ser utilizada varia de acordo com a aplicação e o meio provocador de espuma e equipamentos.
 
-## Embalagem
-Bombona plástica de 50 Kg
+## Fornecimento
+
+- Bombona plástica de 50 Kg

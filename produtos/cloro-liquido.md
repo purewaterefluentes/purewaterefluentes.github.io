@@ -46,7 +46,7 @@ Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a parti
 Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do HIPOCLORE em sua forma original (concentrado) ou se preferir diluído na proporção de 2/10 partes (solução a 20%) em água aplicando no meio aquoso a tratar.
 A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminates presente na água ou efluente.
 
-## Embalagem
+## Fornecimento
 
 - Bombona plástica de 25 e 50 Kg
 - Container (IBC) plastico 1000 litros 

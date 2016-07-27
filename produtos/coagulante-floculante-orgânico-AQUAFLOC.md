@@ -34,4 +34,6 @@ Produto liquido e acondicionado em bombonas de polietileno com 50 kg ou containe
 
 ## Boletim Técnico
 
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Coagulante Floculante Orgânico - AQUAFLOC-LS](Boletim-tecnico-coagulante-biodegradavel-aquafloc.pdf)
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Coagulante Floculante Orgânico - AQUAFLOC-LS" 
+   arquivo="Boletim-tecnico-coagulante-biodegradavel-aquafloc.pdf" %}

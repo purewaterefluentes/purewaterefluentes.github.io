@@ -30,6 +30,6 @@ Apresenta grande vantagem e diferencial no armazenamento, transporte e manipula�
 
 O custo razoável de Polyer G.L se torna mais econômico como um construtor de viscosidade de polímeros solúveis em água demais.
 
-## Embalagens
+## Fornecimento
 
 - Embalagens de 25 Kg
