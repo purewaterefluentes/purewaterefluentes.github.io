@@ -2,6 +2,7 @@
 layout: default
 title: Alcalinizante
 ---
+
 ## Corretor de pH Alcalino (Elevação de PH)
 
 Fabricamos uma linha completa de produtos destinados ao controle de PH em tratamento de água ou sistemas de recirculação fechado (Torres de resfriamento) ou (Caldeiras), produto de fácil aplicação e pronto para uso.
@@ -10,16 +11,7 @@ Os corretores de pH alcalino possuem a propriedade de elevar o pH da água ou ef
 ## Aplicação
 Usado como neutralizante de acidez em meio líquido e aumento do pH em meio aquoso e tratamento de água e tratamento de efluentes.
 
-## Boletim Técnico
-
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Alcalinizante](Boletim-tecnico-alcalinizante.pdf)
-
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Alcalinizante - CA20](Boletim-tecnico-alcalinizante-ca20.pdf)
-
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Alcalinizante - CC25](Boletim-tecnico-alcalinizante-cc25.pdf)
-
-
-## Características:
+## Características
 
 - Produto com alto poder de neutralização de pH
 - Possuem pH superior a 12,0
@@ -30,10 +22,16 @@ Usado como neutralizante de acidez em meio líquido e aumento do pH em meio aquo
 - Substitui o uso de substancias de alto risco operacional como o hidróxido de sódio.
 - Produto NÃO CONTROLADO pelos órgãos ambientais (Produtos perigosos)
 
-### Fornecimento
+## Fornecimento
 A linha de alcalinizantes Purewater Efluentes pode ser fornecida nas seguintes embalagens:
 
 - Bombonas plásticas de 30 ou 60 Kg
 - Container plástico IBC de 1000 litros
 
+## Boletim Técnico
 
+[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Alcalinizante](Boletim-tecnico-alcalinizante.pdf)
+
+[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Alcalinizante - CA20](Boletim-tecnico-alcalinizante-ca20.pdf)
+
+[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Alcalinizante - CC25](Boletim-tecnico-alcalinizante-cc25.pdf)

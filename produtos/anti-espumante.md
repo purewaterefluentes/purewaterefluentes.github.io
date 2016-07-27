@@ -8,10 +8,6 @@ subtitle: Antiespumante
 ## Apresentação
 A Linha de Antiespumante da Purewater Efluentes basea-se em compostos específicos atuando combinadamente entre o efeito dispersante e o antiespumante, agindo com eficácia na formação e no controle de espumas em tratamento de água. 
 
-## Boletim Técnico
-
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Antiespumante](Boletim-tecnico-antiespumante.pdf)
-
 ## Composição
 O AQUA-FLUX é formulado a base de alcoóis graxos com ou sem silicone e espessante estabilazante,  sendo totalmente solúvel em água, proporcionando a diminuição da tensão superficial e maior rapidez do processo de eliminação da espuma, apresentando duradouro efeito residual.
 
@@ -38,7 +34,6 @@ Pode ser aplicado em todos os seguimentos da industria, pode ser utilizado tamb�
 - Apresenta efeito duradouro residual.
 - Alta dispersão superficial.
 
-
 ## Transporte e Armazenagem
 O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 50 °C. 
 Pode vir a ocorrer o processo de separação de fases durante o período de armazenagem, o que se reverte sob agitação sem que suas propriedades sejam alteradas. 
@@ -49,3 +44,7 @@ Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do AQU
 
 ## Embalagem
 Bombona plástica de 25 Kg ou 50 Kg
+
+## Boletim Técnico
+
+[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Antiespumante](Boletim-tecnico-antiespumante.pdf)
