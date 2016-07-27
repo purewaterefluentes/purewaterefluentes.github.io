@@ -11,21 +11,23 @@ Para o tratamento de efluentes industriais que contenham metais pesados e outros
 
 Nosso departamento técnico irá orienta-lo sobre a melhor aplicação do sulfato de alumínio ou Precipitador de Metal em seu segmento industrial.
 
-## Tipos de Sulfato de Alumínio Disponiveis
+## Fornecimento
+Tipos de Sulfato de Alumínio Disponiveis
 
 - Sulfato de alumínio Ferroso (Liquido ou Granulado)
 - Sulfato de Alumínio Isento de Ferro (Liquido ou Granulado)
 
-
-## Fornecimento
+## Embalagens
 
 - Sacaria no tamanho de 25 kg
 - Bombona Plastica de 50 Kg
 
-
-
 ## Boletim Técnico
 
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Sulfato de Alumínio Granulado](Boletim-tecnico-sulfato-aluminio-isento-granulado.pdf)
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Sulfato de Alumínio Granulado" 
+   arquivo="Boletim-tecnico-sulfato-aluminio-isento-granulado.pdf" %}
 
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Sulfato de Alumínio Líquido](Boletim-tecnico-sulfato-aluminio-isento-liquido.pdf)
+{% include purewater/link-boletim.html 
+    label="Boletim Técnico Sulfato de Alumínio Líquido" 
+    arquivo="Boletim-tecnico-sulfato-aluminio-isento-liquido.pdf" %}

@@ -22,16 +22,21 @@ Usado como neutralizante de acidez em meio líquido e aumento do pH em meio aquo
 - Substitui o uso de substancias de alto risco operacional como o hidróxido de sódio.
 - Produto NÃO CONTROLADO pelos órgãos ambientais (Produtos perigosos)
 
-## Fornecimento
-A linha de alcalinizantes Purewater Efluentes pode ser fornecida nas seguintes embalagens:
+## Embalagens
 
 - Bombonas plásticas de 30 ou 60 Kg
 - Container plástico IBC de 1000 litros
 
 ## Boletim Técnico
 
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Alcalinizante](Boletim-tecnico-alcalinizante.pdf)
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Alcalinizante" 
+   arquivo="Boletim-tecnico-alcalinizante.pdf" %}
 
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Alcalinizante - CA20](Boletim-tecnico-alcalinizante-ca20.pdf)
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Alcalinizante - CA20" 
+   arquivo="Boletim-tecnico-alcalinizante-ca20.pdf" %}
 
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Alcalinizante - CC25](Boletim-tecnico-alcalinizante-cc25.pdf)
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Alcalinizante - CC25" 
+   arquivo="Boletim-tecnico-alcalinizante-cc25.pdf" %}

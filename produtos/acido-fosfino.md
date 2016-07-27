@@ -20,7 +20,7 @@ Acido Fosfino Carboxilico é uma solução aquosa altamente efetivo no controle 
 ## Propriedades Típicas 
 As propriedades típicas seguintes são para Aqua-Flocon e não deve ser considerado como limite de especificação para o produto. A especificação do produto é disponível na requisição. Aparência: líquido amarelo palha pH: 3.5 a 4.5 Gravidade específica a 20/20°C: 1,13 a 1,18 Limite do ponto de congelamento: 0 a -3°C
 
-##Reatividade Química
+## Reatividade Química
 Aqua-Flocon não é afetado pelo Cloro ou outros biocidas oxidantes em condições normais de uso. Pode ser usado em sistemas de membrana com cloro e metabisulfito de sódio.
 
 ## Aplicações e Níveis de Dosagem
@@ -40,11 +40,13 @@ Deve ser dosado continuamente e de forma proporcional ao fluxo de água de alime
 ## Armazenagem
 Não classificado como perigoso para o transporte terrestre. Não classificado como perigoso para o armazenamento. 
 
-## Fornecimento 
+## Embalagens 
 
 - Bombona de plásticos de 25 e 50 Kg 
 - IBC de 1000 litros
 
 ## Boletim Técnico
 
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Inibidor Incrustação Osmose Flocon](Boletim-tecnico-inibidor-incrustação-osmose-flocon.pdf)
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Inibidor Incrustação Osmose Flocon" 
+   arquivo="Boletim-tecnico-inibidor-incrustação-osmose-flocon.pdf" %}

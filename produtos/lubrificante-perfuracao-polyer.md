@@ -26,8 +26,10 @@ Produto fornecido em embalagens de 25 Kg.
 
 ## Caracteristicas
 Um quilo de POLYER GEL LUBRI produz viscosidade equivalente a 15 a 20 libras de bentonita.
-Apresenta grande vantagem e diferencial  no armazenamento, transporte e manipulação de um balde de Polyer G.L ao invés de 20 sacos de bentonita são óbvias.
+Apresenta grande vantagem e diferencial no armazenamento, transporte e manipulação de um balde de Polyer G.L ao invés de 20 sacos de bentonita são óbvias.
 
 O custo razoável de Polyer G.L se torna mais econômico como um construtor de viscosidade de polímeros solúveis em água demais.
 
-Produto fornecido em embalagens de 25 Kg
+## Embalagens
+
+- Embalagens de 25 Kg

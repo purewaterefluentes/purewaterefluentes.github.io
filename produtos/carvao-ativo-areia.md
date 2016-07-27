@@ -33,9 +33,8 @@ Medidas disponíveis: 5/16"x6 / 3,5x8 / 6x12 / 8x16 / 8x30 / 12x25 / 12x40 / 20x
 
 - Sacos de 25 ou 30 Kg
 
-
 ## Boletim Técnico
 
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Carvao Ativado](Boletim-tecnico-carvao-ativado.pdf)
-
-
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Carvao Ativado" 
+   arquivo="Boletim-tecnico-carvao-ativado.pdf" %}

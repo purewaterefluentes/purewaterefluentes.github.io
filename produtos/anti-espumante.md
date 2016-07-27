@@ -47,4 +47,6 @@ Bombona plástica de 25 Kg ou 50 Kg
 
 ## Boletim Técnico
 
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Antiespumante](Boletim-tecnico-antiespumante.pdf)
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Antiespumante" 
+   arquivo="Boletim-tecnico-antiespumante.pdf" %}

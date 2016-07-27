@@ -4,10 +4,10 @@ pageTitle: Policloreto de Aluminio - AQUA-PAC
 title: AQUA-PAC
 subtitle: Policloreto de Aluminio
 ---
-    
+
 ## Propriedades
 Coagulante Inorgânico Pré-polimerizado.
-O Poli Cloreto de Alumínio AQUA-PAC é um coagulante inorgânico catiônico pré polimerizado de alto peso molecular a base de policloreto de alumínio, utilizado em processos de tratamento de águas, esgoto, petróleo, Mineração e Açucar.
+O Poli Cloreto de Alumínio AQUA-PAC é um coagulante inorgânico catiônico pré polimerizado de alto peso molecular a base de policloreto de alumínio, utilizado em processos de tratamento de águas, esgoto, petróleo, mineração e Açucar.
 
 O PoliCloreto de Alumínio AQUA-PAC tem como caracteristica química agregar em sua molécula original cadeias polímericas hidroxiladas, fundamentais nos processos de coagulação e floculação. A posterior hidrólise irá proporcionar novas espécies insóluveis, que possibilitarão o processo de neutralização elétrica, que neste caso serão menos sensiveis que as espécies originárias a partir da hidrólise dos sais monoméricos, como meio pH, Alcalinidade, concentração coloidal e temperatura.
 
@@ -30,4 +30,8 @@ Sua aplicação é completamente miscível com água e pode ser dosado na forma 
 
 Aconselhamos que as diluições não sejam inferiores a 6,0  % em alumina, pois o produto tende a hidrolizar-se, formando soluções leitosas com elevada turbidez e reduzida eficácia. 
 
-Consulte o Boletim Técnico :  Boletim Policloreto de Alumínio.
+## Boletim Técnico
+
+{% include purewater/link-boletim.html 
+   label="Boletim Policloreto de Alumínio" 
+   arquivo="Boletim-tecnico-policloreto-aluminio.pdf" %}

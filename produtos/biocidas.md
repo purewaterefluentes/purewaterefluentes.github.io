@@ -20,18 +20,21 @@ Tais como: Torres de resfriamento, Chiller de refrigeração, centrais de refrig
 - Aumenta a vida útil do sistema hidráulico e equipamentos
 - Reduz os ciclos de manutenção
 
-## Fornecimento
-A linha de Biocidas da Purewater Efluentes pode ser fornecida nas seguintes embalagens:
+## Embalagens
 
 - Bombonas plásticas de 50 Kg
 - Container plástico IBC de 1000 litros
 
-
 ## Boletim Técnico
 
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Biocida](Boletim-tecnico-biocida.pdf)
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Biocida" 
+   arquivo="Boletim-tecnico-biocida.pdf" %}
 
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Bactericida Pool ISO](Boletim-tecnico-bactericida-Pool-ISO.pdf)
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Bactericida Pool ISO" 
+   arquivo="Boletim-tecnico-bactericida-Pool-ISO.pdf" %}
 
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Bactericida Pool CHC](Boletim-tecnico-bactericida-Pool-CHC.pdf)
-
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Bactericida Pool CHC" 
+   arquivo="Boletim-tecnico-bactericida-Pool-CHC.pdf" %}

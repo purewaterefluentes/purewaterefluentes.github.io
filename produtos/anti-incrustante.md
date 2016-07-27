@@ -18,7 +18,7 @@ Produto destinado ao controle de incrustações em linha hidráulica e proteçã
 
 Desenvolvemos Anti-incrustantes para aplicacão em sistemas de refrigeração, água gelada, torres de resfriamento de ciclo aberto ou ciclo fechado, Caldeiras, sistemas de reuso de água industrial, sistemas hidráulicos em geral.
 
-## Características:
+## Características
 
 - Alto poder de quebra emulsiva
 - Possuem pH próximo do neutro e não altera as características de pH da água
@@ -27,16 +27,17 @@ Desenvolvemos Anti-incrustantes para aplicacão em sistemas de refrigeração, �
 - Reduz a formação de massa residual (borra), no tratamento de efluentes.
 - Substitui o uso de substâncias de alto risco operacional como os ácido.
 
-## Fornecimento
-A linha de Anti-Incrustante é fornecida nas seguintes embalagens:
+## Embalagens
 
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
 
 ## Boletim Técnico
 
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Anti-Incrustante](Boletim-tecnico-hexametafosfato-sodio-anti-incrustante.pdf)
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Anti-Incrustante" 
+   arquivo="Boletim-tecnico-hexametafosfato-sodio-anti-incrustante.pdf" %}
 
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Inibidor Incrustação Água Gelada](Boletim-tecnico-inibidor-incrustação-água-gelada.pdf)
-
-[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Inibidor Incrustação Osmose Flocon](Boletim-tecnico-inibidor-incrustação-osmose-flocon.pdf)
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Inibidor Incrustação Água Gelada" 
+   arquivo="Boletim-tecnico-inibidor-incrustação-água-gelada.pdf" %}

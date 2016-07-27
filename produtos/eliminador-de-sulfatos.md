@@ -5,10 +5,9 @@ title: AQUA-150
 subtitle: Eliminador de Sulfato
 ---
 
-
 ## Apresentação
-O Redutor de sulfatos ou Eliminador de Sulfatos da Purewater Efluentes foi desenvolvido com a função especifica de precipitação de sais de sulfatos em meio aquoso, muito aplicado na precipitação de sulfatos em tratamento de efluentes industriais.
-O produto tem fácil aplicação e ação imediata, oque resulta em água de alta qualidade.
+O Redutor de sulfatos ou Eliminador de Sulfatos da Purewater Efluentes foi desenvolvido com a função especifica de precipitação de sais de sulfatos em meio aquoso. É muito aplicado na precipitação de sulfatos em tratamento de efluentes industriais.
+O produto tem fácil aplicação e ação imediata resultando em água de alta qualidade.
 
 ## Composição
 O AQUA-150 é formulado a base de sais inorgânicos presentes na Família IIA e estabilizantes, sendo totalmente solúvel em água, podendo ser aplicado em sua forma concentrada ou diluído na proporção sugerida de 1:5 partes.
@@ -42,7 +41,7 @@ Sua ação se deve a presença de componentes complexados que atuam no nucleo de
 - Não gera residual pós tratamento do sulfato
 
 
-##Transporte e Armazenagem
+## Transporte e Armazenagem
 O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado de fontes de calor, sendo a temperatura máxima de conservação 50 °C. 
 Pode vir a ocorrer o processo de separação de fases durante o período de armazenagem, o que se reverte sob agitação sem que suas propriedades sejam alteradas. 
 Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
@@ -56,6 +55,4 @@ A dosagem a ser utilizada varia de acordo com a aplicação e o meio provocador 
 
 - Bombona plástica de 25 ou 50 Kg
 - Container (IBC) Plástico de 1000 litros
-
-
 
