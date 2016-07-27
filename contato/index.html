@@ -50,8 +50,41 @@ title: Fale Conosco
                     <textarea class="form-control" id="mensagem" rows="3" placeholder="Como podemos te ajudar?"></textarea>
                 </div>  
               </div>
-              <button type="submit" class="btn btn-primary pull-right">Enviar</button>
+              <a class="btn btn-primary pull-right" onclick="sendEnquire()">Enviar</a>
             </form>
         </div>
         
       </div>
+
+
+<script>
+function sendEnquire(){
+    var message = "Requisicao do Site \n\n" +
+                "Tipo: " + $("#tipoSolicitacao").val() + "\n\n" +
+                "Nome Contato: " + $("#nomeContato").val() + "\n\n" +
+                "Empresa: " + $("#empresaContato").val() + "\n\n" +
+                "Telefone Contato: " + $("#telefoneContato").val() + "\n\n" +
+                "Email Contato: " + $("#emailContato").val() + "\n\n" +
+                "Mensagem: " + $("#mensagem").val();
+
+    var mail = {
+      _replyto: $("#emailContato").val(),
+      _subject: "Requisicao do Site " + $("#tipoSolicitacao").val(),
+      message: message
+    };
+
+    $.ajax({
+        url: "https://formspree.io/purewater@purewaterefluentes.com.br",
+        method: "POST",
+        data: mail,
+        dataType: "json",
+        success: function(data, textStatus, jqXHR){
+          alert("Mensagem enviada com sucesso!");
+        },
+        error: function(jqXHR, textStatus, errorThrown){
+          console.log(jqXHR, textStatus, errorThrown);
+          alert("ERRO");
+        }
+    });  
+}
+</script>
