@@ -13,7 +13,19 @@ Nosso departamento técnico irá orienta-lo sobre a melhor aplicação do sulfat
 
 ## Tipos de Sulfato de Alumínio Disponiveis
 
-- Sulfato de alumínio Ferroso. (Liquido ou Granulado)</li>
-- Sulfato de Alumínio Isento de Ferro (Liquido ou Granulado)</li>
+- Sulfato de alumínio Ferroso (Liquido ou Granulado)
+- Sulfato de Alumínio Isento de Ferro (Liquido ou Granulado)
 
-Os Produtos acima, são comercializados em embalagens tipo: Sacaria no tamanho de 25 kg, ou Bombona Plastica de 50 Kg.
+
+## Fornecimento
+
+- Sacaria no tamanho de 25 kg
+- Bombona Plastica de 50 Kg
+
+
+
+## Boletim Técnico
+
+[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Sulfato de Alumínio Granulado](Boletim-tecnico-sulfato-aluminio-isento-granulado.pdf)
+
+[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Sulfato de Alumínio Líquido](Boletim-tecnico-sulfato-aluminio-isento-liquido.pdf)

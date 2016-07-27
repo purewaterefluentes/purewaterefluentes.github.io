@@ -8,12 +8,12 @@ subtitle: HIPOCLORITO DE CALCIO
 
 Hipoclorito de cálcio é um composto químico de fórmula Ca(ClO)2 possui PH levemente alcalino. É largamente usado no tratamento de água e como agente alvejante (alvejante em pó). Este composto é considerado relativamente estável e possui mais cloro disponível do que o hipoclorito de sódio (alvejante líquido).
 
-### Aplicação
+## Aplicação
 
 - Como agente bactericida, clarificante, algicida em tratamento de água de piscina ou tratamento de águas residencial ou industrial
 - Tambem é usado como alvejante líquido.
 
-### Características:
+## Características:
 
 - Alto teor de cloro livre
 - Possuí ação bactericida, algicida e clarificante
@@ -23,8 +23,7 @@ Hipoclorito de cálcio é um composto químico de fórmula Ca(ClO)2 possui PH le
 - Maior estabilidade e presença de cloro livre
 - Reduz os ciclos de reposição de cloro na piscina
 
-
-### Fornecimento
+## Fornecimento
 O hipoclorito de cálcio granulado da Purewater Efluentes pode ser fornecida nas seguintes embalagens:
 
 - Barrica plástica de 45 Kg 

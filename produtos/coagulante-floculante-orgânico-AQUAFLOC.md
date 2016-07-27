@@ -32,4 +32,6 @@ Recomendado nas seguintes áreas de aplicação:
 
 Produto liquido e acondicionado em bombonas de polietileno com 50 kg ou containeres de 900 kg “retornável”.
 
-Consulte o Boletim Técnico :  Boletim AQUAFLOC-LS.
+## Boletim Técnico
+
+[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Coagulante Floculante Orgânico - AQUAFLOC-LS](Boletim-tecnico-coagulante-biodegradavel-aquafloc.pdf)

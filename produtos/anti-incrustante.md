@@ -3,8 +3,7 @@ layout: default
 title: Anti-Incrustante
 ---
 
-
-### Funcionalidades
+## Funcionalidades
 
 - Controla incrustações com eficiência, incluindo carbonato de cálcio, sulfato de cálcio, sulfato de bário, sulfato de estrôncio,fluoreto de cálcio, ferro, material coloidal, sílica e outros contaminantes orgânicos e inorgânicos.
 - Compatível com a maioria dos sistemas de Osmose Reversa
@@ -14,12 +13,12 @@ title: Anti-Incrustante
 - Minimiza as operações de manutenção 
 - Aumenta os ciclos de recuperação dos sistemas de Osmose Reversa
 
-### Aplicação
+## Aplicação
 Produto destinado ao controle de incrustações em linha hidráulica e proteção da tubulação e equipamentos coibindo a ação de deposição de sais de cálcio, magnésio e silício.
 
 Desenvolvemos Anti-incrustantes para aplicacão em sistemas de refrigeração, água gelada, torres de resfriamento de ciclo aberto ou ciclo fechado, Caldeiras, sistemas de reuso de água industrial, sistemas hidráulicos em geral.
 
-### Características:
+## Características:
 
 - Alto poder de quebra emulsiva
 - Possuem pH próximo do neutro e não altera as características de pH da água
@@ -28,10 +27,16 @@ Desenvolvemos Anti-incrustantes para aplicacão em sistemas de refrigeração, �
 - Reduz a formação de massa residual (borra), no tratamento de efluentes.
 - Substitui o uso de substâncias de alto risco operacional como os ácido.
 
-### Fornecimento
+## Fornecimento
 A linha de Anti-Incrustante é fornecida nas seguintes embalagens:
 
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
 
+## Boletim Técnico
 
+[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Anti-Incrustante](Boletim-tecnico-hexametafosfato-sodio-anti-incrustante.pdf)
+
+[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Inibidor Incrustação Água Gelada](Boletim-tecnico-inibidor-incrustação-água-gelada.pdf)
+
+[<span class="glyphicon glyphicon-file"></span> Boletim Técnico Inibidor Incrustação Osmose Flocon](Boletim-tecnico-inibidor-incrustação-osmose-flocon.pdf)

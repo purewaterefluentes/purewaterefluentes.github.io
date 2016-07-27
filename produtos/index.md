@@ -8,7 +8,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 
 ---
 
-- Ácido Fosfino Carboxilico 40%
+- [Ácido Fosfino Carboxilico 40%](acido-fosfino.html)
 - [Alcalinizante](alcalinizante.html)
 - [Anti-Emulsificante](anti-emulsificante.html)
 - [Anti-Espumante](anti-espumante.html)
