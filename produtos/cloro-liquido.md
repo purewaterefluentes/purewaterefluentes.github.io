@@ -42,7 +42,7 @@ O armazenamento deve ser na embalagem original, em local coberto, seco e ventila
 Pode ocorrer a volatilização do produto em caso de estocagem por longos períodos e em condições adversas.
 Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
 
-### Manuseio e Método de Aplicação
+## Manuseio e Método de Aplicação
 Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do HIPOCLORE em sua forma original (concentrado) ou se preferir diluído na proporção de 2/10 partes (solução a 20%) em água aplicando no meio aquoso a tratar.
 A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminates presente na água ou efluente.
 
