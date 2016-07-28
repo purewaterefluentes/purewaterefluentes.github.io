@@ -25,7 +25,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - Dimetil Carbamato de Sódio
 - [Eliminador de Odor](eliminador-de-odor.html)
 - [Eliminador de Sulfatos](eliminador-de-sulfatos.html)
-- [Hipoclorito de Sódio](hipoclorito-de-sodio.html.html)
+- [Hipoclorito de Sódio](hipoclorito-de-sodio.html)
 - [Inibidor de Sulfetos](inibidor-de-sulfetos.html)
 - [Inibidor de Corrosão](inibidor-de-corrosao.html)
 - [Lubrificantes para perfuração POLYER](lubrificante-perfuracao-polyer.html)
