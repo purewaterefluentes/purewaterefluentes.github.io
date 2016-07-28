@@ -1,12 +1,9 @@
-[Noita][demo]
+#Purewater Efluentes
 ==================
 
-[![Build Status][ci-badge]][ci]
+Static website.
 
-[Jekyll][jekyll] theme built with [Foundation][foundation]. Check out the [demo site][demo] with description and tests.
+Jekyll theme built with Bootstrap.
 
-[ci]: https://travis-ci.org/penibelst/jekyll-noita
-[ci-badge]: https://travis-ci.org/penibelst/jekyll-noita.svg?branch=gh-pages
-[demo]: http://noita.penibelst.de/
-[foundation]: http://foundation.zurb.com/
-[jekyll]: http://jekyllrb.com/
+Thanks [Noita](http://noita.penibelst.de/) for the template.
+
