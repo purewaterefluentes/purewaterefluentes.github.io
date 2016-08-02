@@ -54,7 +54,7 @@ Pode ocorrer a volatilização do produto em caso de estocagem por longos perío
 Mantido em sua embalagem original e fechada, a vida útil é de 06 meses a partir da data de  fabricação.
 
 ## Manuseio e Método de Aplicação
-Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do HIPOCLORE em sua forma original (concentrado) ou se preferir diluído na proporção de 2/10 partes (solução a 20%) em água aplicando no meio aquoso a tratar.
+Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do Hipoclorito de sódio sua forma original (concentrado) ou se preferir diluído na proporção de 1/10 partes (solução a 10%) em água aplicando no meio aquoso a tratar.
 A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminates presente na água ou efluente.
 
 ## Fornecimento
