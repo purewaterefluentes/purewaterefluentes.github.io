@@ -20,7 +20,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Cal Hidratada - Extra Purificada](cal-hidratada-extra-purificada.html)
 - Cloreto de Bário
 - [Cloro Liquido 10 a 12%](cloro-liquido.html)
-- [Cloro - 65%  (Tipos: HIPO e DICLORO)](cloro.html)
+- [Hipoclorito de calcio](hipoclorito-calcio.html)
 - [Coagulante Floculante Universal](coagulante-floculante-orgânico-AQUAFLOC.html)
 - Dimetil Carbamato de Sódio
 - [Eliminador de Odor](eliminador-de-odor.html)
