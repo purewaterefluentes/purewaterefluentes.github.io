@@ -5,7 +5,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 ---
 
 
-
+## LINHA INDUSTRIAL - MATERIA PRIMA
 ---
 
 - [Ácido Fosfino Carboxilico 40%](acido-fosfino.html)
@@ -38,8 +38,11 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Sulfato de Aluminio](sulfato-de-aluminio.html)
 - [Sulfato Ferroso](sulfato-ferroso.html)
 
+---
 
 ## LINHA INDUSTRIAL - MATERIA PRIMA
+
+---
 
 [Sulfato de Aluminio](sulfato-de-aluminio.html)
 
