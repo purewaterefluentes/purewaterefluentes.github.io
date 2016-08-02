@@ -4,7 +4,7 @@ title: Produtos Químicos
 subtitle: Produtos químicos para tratamento de água e efluentes industriais
 ---
 
-## Lista completa de produtos químicos
+
 
 ---
 
@@ -37,3 +37,9 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Sequestrante de Oxigênio](sequestrante-de-oxigenio.html)
 - [Sulfato de Aluminio](sulfato-de-aluminio.html)
 - [Sulfato Ferroso](sulfato-ferroso.html)
+
+
+## LINHA INDUSTRIAL - MATERIA PRIMA
+
+[Sulfato de Aluminio](sulfato-de-aluminio.html)
+
