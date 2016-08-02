@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Cloro tripla Ação
 subtitle: DICLOROISOCIANURATO DE SÓDIO
 ---
 
