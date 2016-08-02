@@ -50,7 +50,7 @@ Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a parti
 ## Manuseio e Método de Aplicação
 
 Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do AQUA-HIPO em sua forma original (granulado) ou se preferir diluído na proporção de 1/10 partes (solução a 10%) em água aplicando no meio aquoso a tratar.
-Também pode ser dosado em piscinas na seguinte proporção: 4 gramas de produto para 1,0 m3 de água a tratar, lembrando que o teor de cloro livre deve ser controlado através do uso de um KIT de analise para manter o cloro entre 2 a 4 ml/Litro
+Também pode ser dosado em piscinas na seguinte proporção: 4 gramas de produto para 1,0 m3 de água a tratar, lembrando que o teor de cloro livre deve ser controlado através do uso de um KIT de analise para manter o cloro entre 2 a 4 mg/Litro
 A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminates presente na água ou efluente.
 
 ## Fornecimento
