@@ -4,10 +4,9 @@ title: Produtos Químicos
 subtitle: Produtos químicos para tratamento de água e efluentes industriais
 ---
 
-
 ## LINHA ESPECIAL PARA TRATAMENTO DE ÁGUA E EFLUENTES
 ---
--
+
 - [Alcalinizante](alcalinizante.html)
 - [Anti-Emulsificante](anti-emulsificante.html)
 - [Anti-Espumante](anti-espumante.html)
@@ -28,7 +27,6 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Precipitador de Metais](precipitador-de-metais.html)
 - [Redutor de Fluoretos (Fluor)](redutor-de-fluoretos.html)
 - [Sequestrante de Oxigênio](sequestrante-de-oxigenio.html)
-
 
 ---
 
