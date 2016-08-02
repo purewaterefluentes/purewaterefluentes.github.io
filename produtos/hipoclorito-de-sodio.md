@@ -6,23 +6,31 @@ subtitle: Cloro liquido
 ---
 
 ## Apresentação
-HIPOCLORE é o Cloro liquido saneante que apresenta concentração entre 7 a 9% de cloro ativo, podendo também ser fabricado nas concentrações de cloro ativo 2,5% e cloro ativo 5%. Atua como agente bactericida, saneante, desinfectante e clarificante e pode ser aplicado em tratamento de águas em geral e tratamento de efluentes.
+O Hipoclorito de sodio 12% NaClO, também chamado de Cloro liquido que apresenta concentração entre 10 a 12 de cloro ativo, Atua como agente bactericida, saneante, desinfectante e clarificante e pode ser aplicado em tratamento de águas em geral e tratamento de efluentes.
 Possuí fácil aplicação e também pode ser aplicado em água de reuso nos seguimentos de: Lavanderia Industrial, Lavanderia Hospitalar, Galvanoplastia, Curtumes, Industria Alimentícia e Industria farmacêutica e outras.
 
 ## Composição
-O produto HIPOCLORE tem alto poder saneante e bactericida para tratamentos de águas e tratamento de efluentes agindo diretamente sobre o micro-orgânismos e agentes infecciosos bacteriológicos residual presente na água ou efluente industrial, com formula a base de sódio hipocloroso, totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água.
+O produto tem alto poder saneante e bactericida para tratamentos de águas e tratamento de efluentes agindo diretamente sobre o micro-orgânismos e agentes infecciosos bacteriológicos residual presente na água ou efluente industrial, sendo totalmente solúvel em água proporcionando uma ação direta e eficaz.
 
 ## Principais Aplicações
 Agente de cloração, cloro ativo, agente saneante em tratamento de águas residuais, bactericida clorado, cloro para água de poço, cloro para piscinas, cloro para efluentes cloro residual na indústria.
 
+O alvejante para uso doméstico que é vendido no mercado é uma solução de 2,0 a 2,5% de hipoclorito de sódio no momento da fabricação. A concentração varia de uma formulação a outra e diminui gradualmente com o tempo de prateleira.
+
+Soluções entre 10 à 12% de hipoclorito de sódio são bastante usadas em cisternas e em abastecimento de água para clorar a água.
+
+## Mecanismo de Ação
+
+Como todos os hipocloritos, o hipoclorito de sódio é um sal do ácido hipocloroso, HCLO. Na água, separa-se parcialmente nos íons Na+ e nos íons ClO-, sendo que o ânion hipoclorito hidrolisa-se, tornando o meio básico e formando ácido hipocloroso. Este último tem alto poder oxidante, assim como o ânion hipoclorito, e é o responsável pelo efeito alvejante. A carga negativa do ânion impede que o ânion se difunda através da parede celular das bactérias e micróbios, o que faz do ânion um desinfetante fraco. Porém, o ácido hipocloroso também presente, em equilíbrio com o ânion hipoclorito, devido à carga neutra e ao pequeno tamanho, difunde-se facilmente pela parede celular das bactérias. A mudança no potencial de oxidação-redução da célula causada pela presença do ácido hipocloroso desativa a enzima triosefosfato deidrogenase. Esta enzima (ou a gliceraldeído-3-fosfato deidrogenase/GAPDH) é essencial para a digestão da glicose e também é particularmente sensível à presença de agentes oxidantes. Sua inativação destrói com eficácia a habilidade do organismo de funcionar.
+
 ## Características
 
 - Estado: Liquido
-- Densidade: >1,05 g/cm3 (25 °C)
+- Densidade: >1,16 g/cm3 (25 °C)
 - pH: >8,0
-- Aparência: Líquido levemente esverdeado
+- Aparência: Líquido Amarelo à esverdeado
 - Odor: Característico de cloro
-- Produto Não Controlado pelos Órgãos reguladores
+
 
 
 ## Funcionalidades
@@ -48,5 +56,5 @@ A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminat
 
 ## Fornecimento
 
-- Bombona plástica de 25 e 50 Kg
+- Bombona plástica de 50 Kg
 - Container (IBC) plastico 1000 litros 
