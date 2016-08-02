@@ -6,11 +6,14 @@ subtitle: Cloro liquido
 ---
 
 ## Apresentação
+
 O Hipoclorito de sódio 12% NaClO, também chamado de Cloro liquido que apresenta concentração entre 10 a 12% de cloro ativo, Atua como agente bactericida, saneante, desinfectante e clarificante e pode ser aplicado em tratamento de águas em geral e tratamento de efluentes.
 Possuí fácil aplicação e também pode ser aplicado em água de reuso nos seguimentos de: Lavanderia Industrial, Lavanderia Hospitalar, Galvanoplastia, Curtumes, Industria Alimentícia e Industria farmacêutica e outras.
 
 ## Composição
-O produto tem alto poder saneante e bactericida para tratamentos de águas e tratamento de efluentes agindo diretamente sobre o micro-orgânismos e agentes infecciosos bacteriológicos residual presente na água ou efluente industrial, sendo totalmente solúvel em água proporcionando uma ação direta e eficaz.
+
+Hipoclorito de sódio 12%  (teor de cloro ativo 10 a 12%) - Densidade >1,16 g/cm3
+
 
 ## Principais Aplicações
 Agente de cloração, cloro ativo, agente saneante em tratamento de águas residuais, bactericida clorado, cloro para água de poço, cloro para piscinas, cloro para efluentes cloro residual na indústria.
@@ -48,7 +51,7 @@ Como todos os hipocloritos, o hipoclorito de sódio é um sal do ácido hipoclor
 ## Transporte e Armazenagem
 O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 45 °C. 
 Pode ocorrer a volatilização do produto em caso de estocagem por longos períodos e em condições adversas.
-Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
+Mantido em sua embalagem original e fechada, a vida útil é de 06 meses a partir da data de  fabricação.
 
 ## Manuseio e Método de Aplicação
 Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do HIPOCLORE em sua forma original (concentrado) ou se preferir diluído na proporção de 2/10 partes (solução a 20%) em água aplicando no meio aquoso a tratar.
