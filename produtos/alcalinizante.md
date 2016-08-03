@@ -1,8 +1,8 @@
 ---
 layout: default
-pageTitle: Alcalinizante
-title: AQUA-CA20
-subtitle: Alcalinizante
+pageTitle: Corretor de pH Alcalino
+title: ALCALINIZANTE
+subtitle: Elevar pH
 ---
 
 
