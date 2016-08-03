@@ -1,0 +1,21 @@
+{% capture sessao %} {{ page.url | replace:'/'," " | truncatewords: 1 | remove:'...' | remove:' '}}{% endcapture %}
+{% capture sessao1 %} {{ page.url | remove_first:'/' | split:'/' | first}}{% endcapture %}
+{% capture sessao2 %} {{ page.url | remove_first:'/' | split:'/' | last}}{% endcapture %}
+
+{% if page.showBreadcrumbs != false %}
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+        {% if sessao1 == sessao2  %}
+            <li class="breadcrumb-item active">{{ page.title }}</li>
+        {% elsif sessao1 == " produtos" %}
+            <li class="breadcrumb-item"><a href="/produtos">Produtos Químicos</a></li>
+            <li class="breadcrumb-item active">{{ page.title }}</li>
+        {% elsif sessao1 == " servicos" %}
+            <li class="breadcrumb-item"><a href="/servicos">Serviços</a></li>
+            <li class="breadcrumb-item active">{{ page.title }}</li>
+        {% elsif sessao1 == " equipamentos" %}
+            <li class="breadcrumb-item"><a href="/equipamentos">Equipamentos</a></li>
+            <li class="breadcrumb-item active">{{ page.title }}</li>
+        {% endif %}
+    </ol>
+{% endif %}

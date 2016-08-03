@@ -8,7 +8,7 @@ layout: compress
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>
-    {% if {page.pageTitle %}
+    {% if page.pageTitle %}
       {{page.pageTitle}}
     {% else %}
       {{ page.title }}
@@ -78,6 +78,7 @@ layout: compress
     </div>
 
     <div class="container">
+      {% include purewater/breadcrumbs.html %}
       {{ content }}
     </div>
 

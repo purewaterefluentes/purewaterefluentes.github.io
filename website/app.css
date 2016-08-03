@@ -39,3 +39,10 @@ footer {
     color: #3F7AB7;
     background-color: transparent;
   }
+
+.breadcrumb {
+  border: 0;
+  background: transparent;
+  padding: 8px 0;
+  font-size: 12px;
+}
