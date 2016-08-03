@@ -5,7 +5,6 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 ---
 
 ## Linha especial para tratamento de água e efluentes
----
 
 - [Alcalinizante](alcalinizante.html)
 - [Anti-Emulsificante](anti-emulsificante.html)
@@ -30,8 +29,6 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 
 
 ## Linha Industrial - Matéria-Prima
-
----
 
 - [Ácido Fosfino Carboxilico 40%](acido-fosfino.html)
 - [Cloreto de Bário](Cloreto-bario.html)
