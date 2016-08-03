@@ -1,8 +1,8 @@
 ---
 layout: default
 pageTitle: Inibidor de Sulfeto
-title: AQUA-SO2PH
-subtitle: Eliminação de sulfetos
+title: AQUA-S2PH
+subtitle: oxidação de sulfetos
 ---
 
 ## Apresentação
@@ -17,42 +17,30 @@ Agente de oxidação de sulfetos em tratamento de água, oxidante para tratament
 
 ## Características
 
-• Aparência: Liquido
-•	Ponto de Fusão: Não aplicável 
-•	Ponto de Ebulição: Não aplicável 
-•	Temperatura de Decomposição: Não aplicável 
-•	Gravidade específica: Não aplicável 
-•	Densidade: >0,95g/cm³
-•	pH @ 25 ºC (2% em água): >10 
-•	Pressão de vapor @ 25 ºC: Não aplicável 
-•	Solubilidade em água: Não aplicável 
-•	Voláteis, porcentagem em volume: Não aplicável 
-•	Taxa de evaporação: Não aplicável 
-•	Densidade do vapor (ar = 1.0): Não aplicável 
-•	Peso molecular: 143 (ingrediente ativo) 
-•	Odor: Característico do produto ou inodoro 
-
-
+- Aparência: Liquido transparente
+-	Densidade: >0,95g/cm³
+-	pH @ 25 ºC (2% em água): 1 a 3 
+-	Densidade do vapor (ar = 1.0): Não aplicável 
+-	Odor: Característico do produto ou inodoro 
 
 ## Funcionalidades
 
-- Eficiente na clarificação de água
-- Ótimo agente saneante e agente bactericida
-- Alta concentração de cloro ativo
+- Eficiente na oxidação de sulfetos em tratamento de águas
+- Ótimo agente oxidante
 - 100% solúvel em água
 - Fácil operacão e manuseio
 - Baixo custo
-- Não gera residual de cálcio e incrustação de tubulação
-- Ação prolongada de cloração.
+- Não gera residual pós tratamento da água
+- Ação prolongada de oxidação
 
 
 ## Transporte e Armazenagem
-O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 45 °C. 
+O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor. 
 Pode ocorrer a volatilização do produto em caso de estocagem por longos períodos e em condições adversas.
 Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
 
 ## Manuseio e Método de Aplicação
-Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do HIPOCLORE em sua forma original (concentrado) ou se preferir diluído na proporção de 2/10 partes (solução a 20%) em água aplicando no meio aquoso a tratar.
+Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do AQUA-S2PH em sua forma original (concentrado) ou se preferir diluído na proporção de 2/10 partes (solução a 20%) em água aplicando no meio aquoso a tratar.
 A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminates presente na água ou efluente.
 
 ## Fornecimento
