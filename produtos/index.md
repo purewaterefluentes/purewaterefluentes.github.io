@@ -19,7 +19,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Coagulantes Inorgânicos p/ água e efluentes](coagulante-inorganico-agua-efluentes.html)
 - [Coagulantes Orgânicos p/ água e efluentes](coagulante-organico-agua-efluentes.html)
 - [Coagulante Universal Biodegradável](coagulante-floculante-orgânico-AQUAFLOC.html)
-- [Desincrustunte](desincrustante.html)
+- [Desincrustante](desincrustante.html)
 - [Descomplexante para efluentes](descomplexante-efluente-industrial.html)
 - [Eliminador de Odor](eliminador-de-odor.html)
 - [Eliminador de Sulfatos](eliminador-de-sulfatos.html)
