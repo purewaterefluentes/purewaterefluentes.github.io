@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Alcalinizante
+title: Alcalinizante (Elevar pH)
+subtitle: Corretor de pH Alcalino
 ---
+
 
 ## Corretor de pH Alcalino (Elevação de PH)
 
