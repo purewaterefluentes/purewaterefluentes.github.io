@@ -6,10 +6,11 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 
 ## Linha - Químicos para tratamento de águas e efluentes
 
-- [Alcalinizante](alcalinizante.html)
+- [Alcalinizante](alcalinizante-corretor-ph.html)
+- [Acidificante](corretor-ph-acidificante.html)
 - [Anti-Emulsificante](anti-emulsificante-efluentes.html)
 - [Anti-Espumante](anti-espumante.html)
-- [Anti-Incrustrante](anti-incrustante-agua.html)
+- [Anti-Incrustante](anti-incrustante-agua.html)
 - [Biocidas](biocidas.html)
 - [Carvão Ativado](carvao-ativo.html)
 - [Clarificador](clarificador-agua-efluentes.html)
@@ -19,6 +20,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Coagulantes Orgânicos p/ água e efluentes](coagulante-organico-agua-efluentes.html)
 - [Coagulante Universal Biodegradável](coagulante-floculante-orgânico-AQUAFLOC.html)
 - [Desincrustunte](desincrustante.html)
+- [Descomplexante para efluentes](descomplexante-efluente-industrial.html)
 - [Eliminador de Odor](eliminador-de-odor.html)
 - [Eliminador de Sulfatos](eliminador-de-sulfatos.html)
 - [Inibidor de Sulfetos](inibidor-de-sulfetos.html)
