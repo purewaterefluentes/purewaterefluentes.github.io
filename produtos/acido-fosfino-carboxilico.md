@@ -6,7 +6,7 @@ subtitle: Desincrustante e Dispersante
 
 ## Apresentação
 
-Acido Fosfino Carboxilico é uma solução aquosa altamente efetivo no controle de deposição de crostas inorgânicas formadas por sais na superfície da membrana. 
+Acido Fosfino Carboxilico é uma solução aquosa usado na formulação de produtos com efetiva ação no controle de deposição de crostas inorgânicas formadas por sais na superfície da membrana. 
 
 - É excelente no controle de crostas de carbonato e sulfato
 - Custo de operação efetivo
