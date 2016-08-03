@@ -23,6 +23,7 @@ Agente de oxidação de sulfetos em tratamento de água, oxidante para tratament
 -	Densidade do vapor (ar = 1.0): Não aplicável 
 -	Odor: Característico do produto ou inodoro 
 
+
 ## Funcionalidades
 
 - Eficiente na oxidação de sulfetos em tratamento de águas
