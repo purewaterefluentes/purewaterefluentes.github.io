@@ -43,5 +43,6 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Policloreto de Alumínio](policloreto-de-aluminio.html)
 - [Sulfato de Aluminio](sulfato-de-aluminio-agua-efluentes.html)
 - [Sulfato Ferroso](sulfato-ferroso.html)
-- [Sulfato Ferroso](sulfato-ferroso.html)
 - [Tanino Extrato Vegetal](tanico-vegetal.html)
+
+
