@@ -6,11 +6,11 @@ subtitle: oxidação de sulfetos
 ---
 
 ## Apresentação
-AQUA-SO2PH é um poderoso agente de oxidação para componentes geradores de sulfetos em meio aquoso, 
+AQUA-S2PH é um poderoso agente de oxidação para componentes geradores de sulfetos em meio aquoso, 
 A oxidação é gerada através da ação direta sobre o enxofre total que está sob a forma de sulfeto 
 
  ## Composição
-AQUA-SO2PH possuí formula com base no Dioxido Diihidrogenio saturado e veiculo, sendo totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água e tratamento de efluentes
+AQUA-S2PH possuí formula com base no Dioxido Diihidrogenio saturado e veiculo, sendo totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água e tratamento de efluentes
 
 ## Principais Aplicações
 Agente de oxidação de sulfetos em tratamento de água, oxidante para tratamento de efluentes, redutor de sulfetos.
