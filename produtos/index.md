@@ -4,7 +4,7 @@ title: Produtos Químicos
 subtitle: Produtos químicos para tratamento de água e efluentes industriais
 ---
 
-## Linha - Quimicos para tratamento de águas e efluentes
+## Linha - Químicos para tratamento de águas e efluentes
 
 - [Alcalinizante](alcalinizante.html)
 - [Anti-Emulsificante](anti-emulsificante-efluentes.html)
@@ -17,7 +17,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Cloro Liquido 9%](cloro-liquido.html)
 - [Coagulantes Inorgânicos p/ água e efluentes](coagulante-inorganico-agua-efluentes.html)
 - [Coagulantes Orgânicos p/ água e efluentes](coagulante-organico-agua-efluentes.html)
-- [Coagulante Universal Biodegradavel](coagulante-floculante-orgânico-AQUAFLOC.html)
+- [Coagulante Universal Biodegradável](coagulante-floculante-orgânico-AQUAFLOC.html)
 - [Desincrustunte](desincrustante.html)
 - [Eliminador de Odor](eliminador-de-odor.html)
 - [Eliminador de Sulfatos](eliminador-de-sulfatos.html)
@@ -36,11 +36,12 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Cloreto de Bário](Cloreto-bario.html)
 - [Dicloroisocianurato de Sódio](dicloroisocianurato.html)
 - [Dimetil Carbamato de Sódio](dimetil-carbamato-sodio.html)
+- [Hidroxido de Sódio](soda-caustica.html)
 - [Hipoclorito de calcio](hipoclorito-calcio.html)
 - [Hipoclorito de Sódio](hipoclorito-de-sodio.html)
 - [Peroxido de Hidrogenio 200Volumes](peroxido-hidrogenio.html)
 - [Policloreto de Alumínio](policloreto-de-aluminio.html)
 - [Sulfato de Aluminio](sulfato-de-aluminio-agua-efluentes.html)
 - [Sulfato Ferroso](sulfato-ferroso.html)
-- [Hidroxido de Sódio](soda-caustica.html)
 - [Sulfato Ferroso](sulfato-ferroso.html)
+- [Tanino Extrato Vegetal](tanico-vegetal.html)
