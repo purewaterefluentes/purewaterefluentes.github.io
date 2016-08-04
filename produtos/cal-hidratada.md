@@ -41,7 +41,7 @@ A Cal Hidratada Extra Purificada pode ser encontrada nas seguintes formas:
 
 ## Embalagens
 
-- Sacos de 20 Kg (pó)
-- Bombonas plasticas de 50 Kg
-- Container (IBC) plastico de 1000 litros
+- Sacos de 20 Kg (produto solido em pó)
+- Bombonas plasticas de 50 Kg (Produto liquido)
+- Container (IBC) plastico de 1000 litros (Produto liquido)
 
