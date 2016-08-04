@@ -5,6 +5,12 @@ titlePage: Anti-Incrustante
 Subtitle: 
 ---
 
+## Apresentação
+
+Anti-incrustação são compostos químicos ou formulações que tem a propriedade de prevenir a deposição de sais contidos em água na forma de precipitado em tubos, tanques, ou qualquer superfície. Tipicamente, estes sais são os carbonatos, silicatos e sulfatos de cálcio de água com elevadas concentrações destes sais. Este tipo de água é noirmalemnte chamada de "água dura".
+
+Os compostos anti-incrustação frequentemente reagir com o cálcio, magnésio e silicas de modo que eles não possam formar precipitados depósitos na forma cristalizada na rede hidraulica e equipamentos.
+
 ## Funcionalidades
 
 - Controla incrustações com eficiência, incluindo carbonato de cálcio, sulfato de cálcio, sulfato de bário, sulfato de estrôncio,fluoreto de cálcio, ferro, material coloidal, sílica e outros contaminantes orgânicos e inorgânicos.
