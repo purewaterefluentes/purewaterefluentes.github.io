@@ -4,8 +4,8 @@ title: Biocidas
 ---
 
 ## Apresentação
-Os biocidas da linha Purewater Efluentes possuem função algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em sistema de águas de recirculação industrial.
-Produto não deve ser aplicado em água potável onde a contaminação desta possa ocorrer.
+Os biocidas ou bactericidas da linha Purewater Efluentes possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em sistema de águas de recirculação industrial.
+Produto não deve ser aplicado em água potável onde a contaminação desta possa ocorrer. 
 
 ## Aplicação
 Usado como agente bactericida, biocida, algicida e fungicida em tratamento de água de refrigeração em sistema de recirculação.
@@ -22,7 +22,7 @@ Tais como: Torres de resfriamento, Chiller de refrigeração, centrais de refrig
 
 ## Embalagens
 
-- Bombonas plásticas de 50 Kg
+- Bombonas plásticas de 25 e 50 Kg
 - Container plástico IBC de 1000 litros
 
 ## Boletim Técnico
