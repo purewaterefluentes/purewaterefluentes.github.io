@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Anti-Incrustante
+titlePage: Anti-Incrustante
+Subtitle: 
 ---
 
 ## Funcionalidades
