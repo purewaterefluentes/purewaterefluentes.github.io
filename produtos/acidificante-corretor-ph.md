@@ -27,4 +27,5 @@ Usado como neutralizante de alcalis (alcalinidade), em meio líquido e para baix
 
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
-- 
+
+
