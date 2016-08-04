@@ -1,8 +1,8 @@
 ---
 layout: default
 pageTitle: Antiespumante - AQUA-FLUX
-title: AQUA-FLUX
-subtitle: Antiespumante
+title: Antiespumante
+subtitle: AQUA-FLUX
 ---
 
 ## Apresentação
