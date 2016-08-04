@@ -6,7 +6,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 
 ## Linha - Químicos para tratamento de águas e efluentes
 
-- [Alcalinizante](alcalinizante.html)
+- [Alcalinizante](alcalinizante-corretor-ph.html)
 - [Acidificante](acidificante.html)
 - [Anti-Emulsificante](anti-emulsificante-efluentes.html)
 - [Anti-Espumante](anti-espumante.html)
