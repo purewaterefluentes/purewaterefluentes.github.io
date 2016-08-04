@@ -21,6 +21,7 @@ Os compostos anti-incrustação frequentemente reagir com o cálcio, magnésio e
 - Minimiza as operações de manutenção 
 - Aumenta os ciclos de recuperação dos sistemas de Osmose Reversa
 
+
 ## Aplicação
 Produto destinado ao controle de incrustações em linha hidráulica e proteção da tubulação e equipamentos coibindo a ação de deposição de sais de cálcio, magnésio e silício.
 
