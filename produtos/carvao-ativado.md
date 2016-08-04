@@ -31,10 +31,9 @@ Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Ca
 ## Carvão ativo Pulverizado
 Disponível em pó
 
-## Granulometria
-Medidas disponíveis: 
+## Granulometria (Mesh)
 
-- 5/16"x6 
+- 5/16x6 
 - 3,5x8 
 - 6x12 
 - 8x16
