@@ -8,8 +8,8 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 
 - [Alcalinizante](alcalinizante-corretor-ph.html)
 - [Acidificante](acidificante.html)
+- [Antiespumante](antiespumante.html)
 - [Anti-Emulsificante](anti-emulsificante-efluentes.html)
-- [Anti-Espumante](anti-espumante.html)
 - [Anti-Incrustante](anti-incrustante-agua.html)
 - [Biocidas](biocidas.html)
 - [Carvão Ativado](carvao-ativo.html)
