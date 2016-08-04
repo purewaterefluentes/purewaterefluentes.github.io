@@ -1,8 +1,8 @@
 ---
 layout: default
 pageTitle: Alcalinizante
-title: Corretor de pH alcalino
-subtitle: Elevar pH
+title: Alcalinizante
+subtitle: Corretor de pH Alcalino (Aumentar o pH)
 ---
 
 
