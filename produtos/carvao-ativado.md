@@ -1,9 +1,10 @@
 ---
 layout: default
-pageTitle: Carvão Ativado
-title: Carvao Ativado
-SubTitle: AQUA-CVT
+pageTitle: Carvao Ativado
+title: Carvão Ativado
+subtitle: AQUA-CVT
 ---
+
 
 
 ## Apresentação
