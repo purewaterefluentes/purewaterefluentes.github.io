@@ -1,8 +1,8 @@
 ---
 layout: default
 pageTitle: Anti-Emulsificante - AQUA-200
-title: AQUA-200
-subtitle: Anti-Emulsificante
+title: Anti-Emulsificante
+subtitle: AQUA-200
 ---
 
 ## Apresentação
