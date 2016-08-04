@@ -1,8 +1,8 @@
 ---
 layout: default
 pageTitle: Acidificante
-title: AQUA-F400
-subtitle: Corretor de pH (Baixar pH)
+title: Corretor de pH (Baixar pH)
+subtitle: Acidificante AQUA-F400
 ---
 
 
