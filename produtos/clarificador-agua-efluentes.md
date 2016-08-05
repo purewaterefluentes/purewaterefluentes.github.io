@@ -1,8 +1,8 @@
 ---
 layout: default
-pageTitle: Clarificador
-title: AQUA-600S
-subtitle: Clarificador
+pageTitle: Clarificador p/ água e efluentes
+title: Clarificador p/ água e efluentes
+subtitle: AQUA-600
 ---
 
 ## Apresentação
