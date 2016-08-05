@@ -11,7 +11,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Antiespumante](antiespumante.html)
 - [Anti-Emulsificante](anti-emulsificante-efluentes.html)
 - [Anti-Incrustante](anti-incrustante.html)
-- [Biocidas](biocida.html)
+- [Biocida](biocida.html)
 - [Carvão Ativado](carvao-ativado.html)
 - [Clarificador](clarificador-agua-efluentes.html)
 - [Cal Hidratada - Extra Purificada](cal-hidratada.html)
