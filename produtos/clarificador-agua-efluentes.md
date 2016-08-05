@@ -9,7 +9,7 @@ subtitle: AQUA-600
 Produto destinado a redução de pigmentação (Coloração) em tratamento de efluentes, e a eliminação de resíduos orgânicos passíveis de alteração física ou química no efluente.
 
 ## Composição
-O produto AQUA-600S tem ótimo poder de clarificação para tratamentos de água e tratamento de efluentes agindo diretamente sobre o contaminante residual presente na água ou efluente industrial, sendo formulada a base de sais inorgânicos (Familia 3A) estabilizados, e sendo totalmente solúvel em água proporcionando uma ação direta e eficaz na redução da cor e agentes de pigmentação.
+O produto AQUA-600 tem ótimo poder de clarificação para tratamentos de água e tratamento de efluentes agindo diretamente sobre o contaminante residual presente na água ou efluente industrial, sendo formulada a base de sais inorgânicos (Familia 3A) estabilizados, e sendo totalmente solúvel em água proporcionando uma ação direta e eficaz na redução da cor e agentes de pigmentação.
 
 ## Principais Aplicações
 No tratamento de águas residuais, água de poço, piscinas, efluentes industriais, esgoto domestico.
@@ -39,7 +39,7 @@ Pode vir a ocorrer o processo de separação de fases durante o período de arma
 Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
 
 ## Manuseio e Método de Aplicação
-Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do AQUA-600S em sua forma original (concentrado) ou se preferir diluído na proporção de 1/2 partes (solução a 50%) de água aplicando no meio aquoso a tratar.
+Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do AQUA-600 em sua forma original (concentrado) ou se preferir diluído na proporção de 1/2 partes (solução a 50%) de água aplicando no meio aquoso a tratar.
 A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminates presente na água ou efluente.
 
 ## Fornecimento
