@@ -14,7 +14,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Biocida](biocida.html)
 - [Carvão Ativado](carvao-ativado.html)
 - [Clarificador](clarificador-agua-efluentes.html)
-- [Cloro Liquido 9%](cloro-liquido.html)
+- [Cloro Liquido](cloro-liquido.html)
 - [Coagulantes p/ água e efluentes](coagulante-agua-efluentes.html)
 - [Coagulante Orgânico Biodegradável](coagulante-organico-biodegradavel.html)
 - [Desincrustante](desincrustante.html)
