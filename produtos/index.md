@@ -16,7 +16,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Clarificador](clarificador-agua-efluentes.html)
 - [Cloro Liquido 9%](cloro-liquido.html)
 - [Coagulantes p/ água e efluentes](coagulante-agua-efluentes.html)
-- [Coagulante Universal Biodegradável](coagulante-floculante-orgânico-AQUAFLOC.html)
+- [Coagulante Orgânico Biodegradável](coagulante-organico-biodegradavel.html)
 - [Desincrustante](desincrustante.html)
 - [Descomplexante para efluentes](descomplexante-efluente-industrial.html)
 - [Eliminador de Odor](eliminador-de-odor.html)
