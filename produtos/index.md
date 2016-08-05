@@ -14,7 +14,6 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Biocida](biocida.html)
 - [Carvão Ativado](carvao-ativado.html)
 - [Clarificador](clarificador-agua-efluentes.html)
-- [Cal Hidratada - Extra Purificada](cal-hidratada.html)
 - [Cloro Liquido 9%](cloro-liquido.html)
 - [Coagulantes Inorgânicos p/ água e efluentes](coagulante-inorganico-agua-efluentes.html)
 - [Coagulantes Orgânicos p/ água e efluentes](coagulante-organico-agua-efluentes.html)
@@ -35,7 +34,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 ## Matéria Prima -Linha Industrial 
 
 - [Ácido Fosfino Carboxilico 40%](acido-fosfino-carboxilico.html)
-- [Cloreto de Bário](Cloreto-bario.html)
+- [Cal Hidratada - Extra Purificada](cal-hidratada.html)- [Cloreto de Bário](Cloreto-bario.html)
 - [Dicloroisocianurato de Sódio](dicloroisocianurato.html)
 - [Dimetil Carbamato de Sódio](dimetil-carbamato-sodio.html)
 - [Hidroxido de Sódio](soda-caustica.html)
