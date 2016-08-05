@@ -27,7 +27,7 @@ Pode ser aplicado diretamente, quando na forma líquida, ou sob a forma de uma s
 Recomendado nas seguintes áreas de aplicação:
 
 - Efluentes de metalurgia, papel e papelão, curtumes, lavanderias, indústria têxtil, lavagem de automóveis, indústrias alimentícias e químicas, em tratamento primário e secundário.
-- Efluentes industriais com lata carga de oléos, graxas e compostos orgânicos e solventes.
+- Efluentes industriais com alta concentração de oléos, graxas e compostos orgânicos e solventes.
 - Efluentes petroquímicos, no tratamento secundário de sistemas integrados.
 - Indústria cerâmica, na recuperação de esmaltes e separação de argilas.
 - Efluentes de abatedouros de aves, no processo de flotação.
