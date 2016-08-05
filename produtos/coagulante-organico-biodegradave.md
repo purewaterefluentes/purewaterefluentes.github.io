@@ -1,11 +1,11 @@
 ---
 layout: default
-pageTitle: Coagulante Floculante Orgânico - AQUAFLOC-LS
-title: AQUAFLOC-LS
-subtitle: Coagulante Floculante Orgânico - Biodegradavel
+pageTitle: Coagulante Orgânico Biodegradavel
+title: Coagulante Orgânico Biodegradável 
+subtitle: AQUAFLOC-LS
 ---
-
-Coagulante e floculante que age de forma unificada. Sua composição basica deriva de um polímero orgânico-catiônico de baixo peso molecular de origem essencialmente vegetal. Atua no tratamento de água e efluentes industrais como:
+ 
+Coagulante e floculante que age de forma unificada. Sua composição basica deriva de um polímero orgânico-catiônico de baixo peso molecular de origem essencialmente vegetal eque atua no tratamento de água e efluentes industrais como:
 
 - Coagulante
 - Precipitador
