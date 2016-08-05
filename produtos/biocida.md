@@ -20,6 +20,7 @@ Tais como: Torres de resfriamento, Chiller de refrigeração, centrais de refrig
 - Aumenta a vida útil do sistema hidráulico e equipamentos
 - Reduz os ciclos de manutenção
 
+
 ## Embalagens
 
 - Bombonas plásticas de 25 e 50 Kg
