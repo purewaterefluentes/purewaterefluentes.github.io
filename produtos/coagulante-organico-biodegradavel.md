@@ -30,7 +30,11 @@ Recomendado nas seguintes áreas de aplicação:
 - Efluentes de abatedouros de aves, no processo de flotação.
 - Tratamento de água de abastecimento, em plantas convencionais e compactas.
 
-Produto liquido e acondicionado em bombonas de polietileno com 50 kg ou containeres de 900 kg “retornável”.
+## Embalagem
+
+- Bombona plastica de 50 kg 
+- Containeres (IBC) plastico de 1000 litros
+
 
 ## Boletim Técnico
 
