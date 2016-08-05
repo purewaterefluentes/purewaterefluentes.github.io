@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Biocidas
+title: Biocida
 ---
 
 ## Apresentação
