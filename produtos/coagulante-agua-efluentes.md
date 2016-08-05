@@ -36,6 +36,7 @@ A linha de coagulante da Purewater Efluentes é fornecida nas seguintes embalage
 ## Boletim Técnico
 
 {% include purewater/link-boletim.html 
-   label="Boletim Técnico Coagulante" 
-   arquivo="Boletim-tecnico-coagulante-p3000.pdf" %}
+   label="Boletim Técnico coagulante P-3000" 
+   arquivo="Boletim-tecnico-coagulante-P3000.pdf" %}
+   
 
