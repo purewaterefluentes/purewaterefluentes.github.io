@@ -1,8 +1,8 @@
 ---
 layout: default
 pageTitle: Cloro Liquido - Hipoclore
-title: HIPOCLORE
-subtitle: Cloro liquido
+title: Cloro Liquido
+subtitle: HIPOCLORE
 ---
 
 ## Apresentação
