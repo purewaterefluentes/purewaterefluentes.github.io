@@ -16,6 +16,8 @@ Em conformidade com testes preliminares (jar-test) e orientações da equipe de 
 
 Produto extremamente versátil, pois substitui com grande eficiência a utilização de todos os demais produtos químicos usados no tratamento de água e efluentes industrial de forma simples e efetiva.
 
+Devido a sua formula estabilizada, o produto AQUAFLOC-LS quando aplicado no tratamento de água não altera o pH do meio, fazendo que o processo se torne rápido e de menor custo operacional.
+
 100% natural e Biodegradável, não requer licença especial dos órgãos fiscalizadores ambientais para compra ou utilização.
 
 ## Aplicação
@@ -25,6 +27,7 @@ Pode ser aplicado diretamente, quando na forma líquida, ou sob a forma de uma s
 Recomendado nas seguintes áreas de aplicação:
 
 - Efluentes de metalurgia, papel e papelão, curtumes, lavanderias, indústria têxtil, lavagem de automóveis, indústrias alimentícias e químicas, em tratamento primário e secundário.
+- Efluentes industriais com lata carga de oléos, graxas e compostos orgânicos e solventes.
 - Efluentes petroquímicos, no tratamento secundário de sistemas integrados.
 - Indústria cerâmica, na recuperação de esmaltes e separação de argilas.
 - Efluentes de abatedouros de aves, no processo de flotação.
