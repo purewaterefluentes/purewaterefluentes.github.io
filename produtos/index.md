@@ -10,7 +10,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Acidificante](acidificante.html)
 - [Antiespumante](antiespumante.html)
 - [Anti-Emulsificante](anti-emulsificante-efluentes.html)
-- [Anti-Incrustante](anti-incrustante-agua.html)
+- [Anti-Incrustante](anti-incrustante.html)
 - [Biocidas](biocidas.html)
 - [Carvão Ativado](carvao-ativado.html)
 - [Clarificador](clarificador-agua-efluentes.html)
