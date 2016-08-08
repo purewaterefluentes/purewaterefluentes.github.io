@@ -1,13 +1,13 @@
 ---
 layout: default
 pageTitle: Inibidor de Odor
-title: Eliminador de Odor
+title: Inibidor de Odor
 subtitle: AQUA-CLEAN
 ---
 
 
 ## Apresentação
-Produto concentrado e de fácil aplicação destinado a redução de odor em águas estacionarias pós tratamento ou de reuso.
+Produto concentrado e de fácil aplicação destinado a redução e inibição de odor em águas estacionarias pós tratamento ou de reuso.
 Possuí efeito prolongado aumentado a eficiencia no controle de odores residuais em água de reuso.
 
 ## Composição
@@ -18,6 +18,8 @@ O AQUA-CLEAN é formulado a base de poliquaternarios de tetrakis amoniacal, esta
 Sua ação se deve a presença de componentes de alta ação bactericida oque diminuem a proliferação bacteriana e cosequente decomposição do meio formador de odor.  
 
 ## Principais Aplicações
+
+- Inibir a liberação de odores em tratamento de água ou efluentes industriais
 - Pode ser aplicado em todos os seguimentos da industria
 - Em estações de tratamento de água
 - Em estação de tratamento de efluentes
