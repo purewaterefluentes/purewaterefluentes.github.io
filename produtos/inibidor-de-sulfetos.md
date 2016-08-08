@@ -1,15 +1,15 @@
 ---
 layout: default
 pageTitle: Inibidor de Sulfeto
-title: AQUA-S2PH
-subtitle: oxidação de sulfetos
+title: Inibidor de Sulfetos
+subtitle: AQUA-S2PH
 ---
 
 ## Apresentação
 AQUA-S2PH é um poderoso agente de oxidação para componentes geradores de sulfetos em meio aquoso, 
 A oxidação é gerada através da ação direta sobre o enxofre total que está sob a forma de sulfeto 
 
- ## Composição
+## Composição
 AQUA-S2PH possuí formula com base no Dioxido Diihidrogenio saturado e veiculo, sendo totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água e tratamento de efluentes
 
 ## Principais Aplicações
@@ -38,7 +38,7 @@ Agente de oxidação de sulfetos em tratamento de água, oxidante para tratament
 ## Transporte e Armazenagem
 O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor. 
 Pode ocorrer a volatilização do produto em caso de estocagem por longos períodos e em condições adversas.
-Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
+Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação. O produto não deve ser armazenado junto a outras substancias tais como: Corrosivos (ácidos), agentes redutores e substancias voláteis.
 
 ## Manuseio e Método de Aplicação
 Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do AQUA-S2PH em sua forma original (concentrado) ou se preferir diluído na proporção de 2/10 partes (solução a 20%) em água aplicando no meio aquoso a tratar.
