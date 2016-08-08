@@ -1,8 +1,8 @@
 ---
 layout: default
-pageTitle: Inibidor de Odor  AQUA-CLEAN
-title: AQUA-CLEAN
-subtitle: Inibidor de Odor
+pageTitle: Inibidor de Odor
+title: Eliminador de Odor
+subtitle: AQUA-CLEAN
 ---
 
 
