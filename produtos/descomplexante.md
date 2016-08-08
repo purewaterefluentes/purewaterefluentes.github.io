@@ -7,7 +7,7 @@ subtitle: AQUA-DVT40 - Anti Quelante
 
 ## Apresentação
 
-AQUA-DVT40 é um poderoso descomplexante (antiquelante) para aplicação em tratamento de efluentes industrial, onde a presença de agentes complexantes interferem no desempenho dos produtos usados no tratamento de efluentes. sequestrante de metais em formulações com pH 4,0 à 9,0.
+AQUA-DVT40 é um poderoso descomplexante (antiquelante) para aplicação em tratamento de efluentes industrial, onde a presença de agentes complexados interferem no desempenho dos produtos usados no tratamento de efluentes. 
 
 Este produto tem excelente desempenho no tratamento de efluentes de galvanoplastia, fosfatização, anodização e efluentes decorrentes de tratamento de superfie, o produto possui excelente estabilidade térmica e atua em temperaturas de até 250°C.
 
