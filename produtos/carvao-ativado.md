@@ -44,7 +44,7 @@ Disponível em pó
 
 ## Fornecimento
 
-- Sacos de 25 ou 30 Kg
+- Sacos de 25 Kg
 
 ## Boletim Técnico
 
