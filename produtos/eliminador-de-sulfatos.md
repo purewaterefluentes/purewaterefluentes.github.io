@@ -1,8 +1,8 @@
 ---
 layout: default
-pageTitle: Eliminador de Sulfato  AQUA-150
-title: AQUA-150
-subtitle: Eliminador de Sulfato
+pageTitle: Eliminador de Sulfatos
+title: Eliminador de Sulfatos
+subtitle: AQUA-150
 ---
 
 ## Apresentação
