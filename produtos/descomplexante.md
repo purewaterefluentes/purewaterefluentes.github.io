@@ -23,6 +23,3 @@ Também demonstra boa estabilidade mesmo em altas faixas de pH.
 
 - Bombona plastica de 50 Kg
 - Container IBC plastico de 1000 litros
-
-
-
