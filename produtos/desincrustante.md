@@ -21,7 +21,7 @@ Para limpeza de caldeiras, trocadores de calor, cabeçotes de compressores, cond
 Remoção de oxidação de tanques de esterilização, construção civil e remove qualquer incrustação calcária ou oxidação.
 
 ## Funcionalidade
-O desincrustante possuí formula balanceada com ativos específicos para a total dissolução de sais depositados na rede hidraulica, reagindo diretamente sob a estruturas salinas depositadas de carbonato e bicarbonatos de cálcioe magnésio e eventualmente depositos de zinco, ferro e silica.
+O desincrustante possuí formula balanceada com ativos específicos para a total dissolução de sais depositados na rede hidráulica, reagindo diretamente sob as estruturas salinas depositadas de carbonato e bicarbonatos de cálcio e magnésio e eventualmente depósitos de zinco, ferro e sílica.
 
 O desincrustante é miscível em água em todas as proporções e pode ser aplicado puro (sem diluição) ou como solução. 
 É recomendada a dosagem mínima da solução com concentração de não inferior a 10%. 
@@ -30,7 +30,7 @@ O produto deve se manter em ação no circuito por no minimo 15 minutos para que
 
 
 ## Armazenagem
-O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado de fontes de calor. Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de fabricação.Não classificado como perigoso para o transporte terrestre. Não classificado como perigoso para o armazenamento. 
+O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado de fontes de calor. Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de fabricação.
 
 ## Embalagens 
 
