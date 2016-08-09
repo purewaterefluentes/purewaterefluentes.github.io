@@ -18,4 +18,5 @@ Com formula especial o AQUA-230 age diretamente na corrosão e inibe as duas pri
 Uma vez que o sistema tenha sido preparado usando um dos limpadores da gama de limpeza, ele deve ser protegido com o AQUA-230 inibidor de corrosão para prevenir a ocorrência de corrosão ou o acúmulo de sais de calcio, magnésio e silica.
 
 O AQUA-230 tem tecnologia Anticorrosão e uma mistura exclusiva de inibidores de corrosão.
+
 Já que sistemas de recirculação de águas são normalmente feitos de uma variedade de metais, cada um desses inibidores especializados oferece proteção para diferentes metais, para um desempenho incomparável na proteção de sistemas de aquecimento multimetais.
