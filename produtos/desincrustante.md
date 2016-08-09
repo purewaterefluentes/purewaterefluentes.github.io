@@ -5,11 +5,6 @@ title: Desincrustante
 subtitle: AQUA-DSF400
 ---
 
-
-<p style="justify">
-
-dsfhwehhh edhuewhdhue iASDIHE OIIDFEWIWE JIOEIDJIWEDJWJEJDIWEJWEJWEI IEDIJWEIIIIIIIJIJWE KEDJIWEJIJWEJ EDWEIDWEJ   CASA JJJDOQDQ JDJJDOEDWE OIEDODOIWQEDO NJIJIJIJJIJIN IIJDJWIDJIJWDJ KNIDJDIJDIQWDJIWQ IIDIJQWIJDJWEJNID KIJDJIJJIWEIJWEIJWEI KEDFJJIWJEEEEEEIWJDE KKJIIIIIIIIIIIIIII DCWHWUWWEHHWEI FFFS   JSJIHIADDQW OEDQWODHEO ODD  KDSDDDIE     RECADO RECADO 
-
 ## Apresentação
 
 Designam-se por incrustações os depósitos que se formam no interior de linhas hidráulicas, equipamentos e acessórios industriais, devido à fixação de substâncias em suspensão e da precipitação de sólidos dissolvidos que se transformam em sólidos insolúveis devido ao aumento da temperatura. 
