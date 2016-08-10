@@ -40,7 +40,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Hipoclorito de Sódio](hipoclorito-de-sodio.html)
 - [Peroxido de Hidrogenio 200Volumes](peroxido-hidrogenio.html)
 - [Policloreto de Alumínio](policloreto-de-aluminio.html)
-- [Sulfato de Aluminio](sulfato-de-aluminio-agua-efluentes.html)
+- [Sulfato de Aluminio](sulfato-de-aluminio.html)
 - [Sulfato Ferroso](sulfato-ferroso.html)
 - [Tanino Extrato Vegetal](tanico-vegetal.html)
 
