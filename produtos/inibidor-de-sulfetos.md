@@ -6,7 +6,8 @@ subtitle: AQUA-S2PH
 ---
 
 ## Apresentação
-AQUA-S2PH é um poderoso agente de oxidação para componentes geradores de sulfetos em meio aquoso, 
+AQUA-S2PH é um poderoso agente de oxidação para componentes geradores de sulfetos em meio aquoso.
+
 A oxidação é gerada através da ação direta sobre o enxofre total que está sob a forma de sulfeto 
 
 ## Composição
