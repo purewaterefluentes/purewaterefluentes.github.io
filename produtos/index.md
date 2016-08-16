@@ -23,7 +23,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Eliminador de Sulfatos](eliminador-de-sulfatos.html)
 - [Inibidor de Corrosão](inibidor-de-corrosao.html)
 - [Inibidor de Odor](inibidor-de-odor.html)
-- [Inibidor de Sulfetos](inibidor-de-sulfetos.html)
+- [Oxidante](oxidante-efluentes.html)
 - [Polieletrolito Floculante](polieletrolito-floculante.html)
 - [Precipitador de Metais](precipitador-de-metais.html)
 - [Redutor de Fluoretos (Fluor)](redutor-de-fluoretos.html)
