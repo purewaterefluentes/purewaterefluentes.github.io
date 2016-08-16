@@ -47,7 +47,7 @@ Pode ocorrer a volatilização do produto em caso de estocagem por longos perío
 Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação. O produto não deve ser armazenado junto a outras substancias tais como: Corrosivos (ácidos), agentes redutores e substancias voláteis.
 
 ## Manuseio e Método de Aplicação
-Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do AQUA-S2PH em sua forma original (concentrado) ou se preferir diluído na proporção de 2/10 partes (solução a 20%) em água aplicando no meio aquoso a tratar.
+Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do AQUA-PHO em sua forma original (concentrado) ou se preferir diluído na proporção de 2/10 partes (solução a 20%) em água aplicando no meio aquoso a tratar.
 A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminates presente na água ou efluente.
 
 ## Fornecimento
