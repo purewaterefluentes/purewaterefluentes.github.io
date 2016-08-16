@@ -15,8 +15,22 @@ A corrosão ocorre naturalmente em sistemas de aquecimento ou resfriamento de á
 
 Com formula especial o AQUA-230 age diretamente na corrosão e inibe as duas principais causas da ineficiência do aquecimento, ocasionando pontos frios no radiador, ineficiência da caldeira, um sistema barulhento e uma variedade de outros problemas.
 
-Uma vez que o sistema tenha sido preparado usando um dos limpadores da gama de limpeza, ele deve ser protegido com o AQUA-230 inibidor de corrosão para prevenir a ocorrência de corrosão ou o acúmulo de sais de calcio, magnésio e silica.
+Uma vez que o sistema já tenha sido limpo e preparado, ele deve ser protegido com o AQUA-230 inibidor de corrosão para prevenir a ocorrência de corrosão ou o acúmulo de sais de calcio, magnésio e silica.
 
 O AQUA-230 tem tecnologia Anticorrosão e uma mistura exclusiva de inibidores de corrosão.
 
-Já que sistemas de recirculação de águas são normalmente feitos de uma variedade de metais, cada um desses inibidores especializados oferece proteção para diferentes metais, para um desempenho incomparável na proteção de sistemas de aquecimento multimetais.
+## Características
+
+- Produto com alta efeciencia na proteção contra corrosão
+- 100% solúvel
+- Reduz os ciclos de manutenção do sistema de recirculação de águas
+- Aumenta a vida utíl de equipamentos e rede hidraulica
+- Fácil aplicação
+
+
+## Embalagens
+
+- Bombonas plásticas de 50 Kg
+- Container plástico IBC de 1000 litros
+
+## Boletim Técnico
