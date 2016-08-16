@@ -20,6 +20,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Coagulante Orgânico Biodegradável](coagulante-organico-biodegradavel.html)
 - [Descomplexante para efluentes](descomplexante.html)
 - [Desincrustante](desincrustante.html)
+- [Desingraxante](desingraxante.html)
 - [Eliminador de Sulfatos](eliminador-de-sulfatos.html)
 - [Inibidor de Corrosão](inibidor-de-corrosao.html)
 - [Inibidor de Odor](inibidor-de-odor.html)
