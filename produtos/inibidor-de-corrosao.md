@@ -21,10 +21,10 @@ O AQUA-230 tem tecnologia Anticorrosão e uma mistura exclusiva de inibidores de
 
 ## Características
 
-- Produto com alta efeciencia na proteção contra corrosão
+- Produto com alta efeciência na proteção contra corrosão
 - 100% solúvel
 - Reduz os ciclos de manutenção do sistema de recirculação de águas
-- Aumenta a vida utíl de equipamentos e rede hidraulica
+- Aumenta a vida útil de equipamentos e rede hidráulica
 - Fácil aplicação
 
 
