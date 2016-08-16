@@ -16,7 +16,7 @@ Podendo ser aplicado em inumeras atividades industrias e de uso geral, tais como
 - Como agente sanitizante ou bactericida em tratamento de água e efluentes
 
 ## Composição
-AQUA-PHO possuí formula de base Tetrakis Dis-oxido hidrogenado e veiculo estabilizados, sendo totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água e tratamento de efluentes
+AQUA-PHO possuí formula de balanceada contendo diioxido hidrogenado, agente coadjuvante e veiculo, sendo totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água e tratamento de efluentes
 
 ## Principais Aplicações
 Agente de oxidação para tratamento de água ou efluentes, redutor de DBO.
