@@ -7,11 +7,11 @@ subtitle: Coagulante para tratamento de efluentes
 
 ## Apresentação
 
-A Linha de Precipitador de Metais da Purewater Efluentes possuí ampla gama de formulações visando atender aos mais variados tipos de efluentes industriais, apresentando alto poder descomplexante e ação direta na pricipitação dos principais metais pesados presentes no efluente industrial.
+A Linha de Precipitador de Metais da Purewater Efluentes possuí ampla gama de formulações visando atender aos mais variados tipos de efluentes industriais, apresentando alto poder descomplexante e ação direta na precipitação dos principais metais pesados presentes no efluente industrial.
 
 ## Composição
 
-Cada precipitador de metais possuí formulação especifica e apropriada para cada tipo metal a ser precipitado, alguns precipitadores apresentam a propriedade de precipitação de varios metais de uma unica vez.
+Cada precipitador de metais possuí formulação especifica e apropriada para cada tipo metal a ser precipitado, alguns precipitadores apresentam a propriedade de precipitação de varios metais de uma única vez.
 consulte nosso atendimento técnico para determinar o produto indicado para seu tratamento de efluentes.
 
 ## Mecanismo de Ação
@@ -19,16 +19,16 @@ Sua ação se deve a presença de componentes de alto poder reativo e de remoç�
 
 ## Principais Aplicações
 
-- Precipitação de sais metalicos em tratamento de efluentes
-- Remoção de ions metalico em tratamento de água e efluentes
-- Remoção de ions cobre, zinco, níquel, chumbo, estanho e outros.
+- Precipitação de sais metálicos em tratamento de efluentes
+- Remoção de íons metalico em tratamento de água e efluentes
+- Remoção de íons cobre, zinco, níquel, chumbo, estanho e outros.
 - Coagulante para tratamento de efluentes industrial.
 - Descomplexante para tratamento de efluentes.
 
 
 ## Características
 
-- Tipos fabricados: Precipitador de metais inorgâico e Orgânico
+- Tipos fabricados: Precipitador de metais inorgânico e Orgânico
 - Densidade: 1,03 a 1,4 g/cm3 (25 °C)
 - pH: 2,5 a 11,00
 - Aparência: Variado
@@ -37,10 +37,10 @@ Sua ação se deve a presença de componentes de alto poder reativo e de remoç�
 ## Funcionalidades
 
 - Alta concentração
-- 100% soluvel em água
+- 100% solúvel em água
 - Apresenta efeito duradouro.
-- Não gera residual pós aplicação
-- Remoção de varios metais pesados em um unico processo.
+- Não gera residual pós-aplicação
+- Remoção de vários metais pesados em um único processo.
 - 
 
 
