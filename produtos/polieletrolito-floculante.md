@@ -1,6 +1,48 @@
 ---
 layout: default
-title: Polieletrolito Floculante
+pageTitle: Polieletrolito
+title: Polieletrolito - Polimero Floculante
+subtitle: Auxiliar de floculação para tratar água
 ---
 
-Produto de alta concentração, disponível nas formas de emulsão e pó. Fácil preparo e aplicação, carga ativa Aniônica, Catiônica ou Não Ionica.
+## Apresentação
+A Linha de Antiespumante da Purewater Efluentes basea-se em compostos específicos atuando combinadamente entre o efeito dispersante e o antiespumante, agindo com eficácia na formação e no controle de espumas em tratamento de água. 
+
+## Composição
+O AQUA-FLUX é formulado a base de alcoóis graxos com ou sem silicone e espessante estabilazante,  sendo totalmente solúvel em água, proporcionando a diminuição da tensão superficial e maior rapidez do processo de eliminação da espuma, apresentando duradouro efeito residual.
+
+## Mecanismo de Ação
+Sua ação se deve a presença de componentes tensoativos que diminuem a tensão superficial do meio formador de espuma, tornando-as mais instáveis até que ocorra a sua quebra e aproximando-as até que se colapsem entre si. 
+Nesse processo propriedades  físico-químicas do meio são alteradas, ressaltando-se que não há qualquer reação química envolvida, pois os componentes do AQUA-FLUX são inertes quimicamente a grande maioria dos meios formadores de espuma. 
+Desse modo, todas as características funcionais e sensoriais do produto de interesse do processo permanecem inalteradas.
+
+## Principais Aplicações
+Pode ser aplicado em todos os seguimentos da industria, pode ser utilizado também em    estações de tratamento de água e efluentes.
+
+## Características
+
+- Tipos fabricados: Com silicone / Sem silicone
+- Densidade: 0,97 a 1,2 g/cm3 (25 °C)
+- pH: 6-8
+- Aparência: Líquido Branco
+- Odor: Inodoro
+
+## Funcionalidades
+
+- Alta concentração
+- 100% soluvel em água
+- Apresenta efeito duradouro residual.
+- Alta dispersão superficial.
+
+## Transporte e Armazenagem
+O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 50 °C. 
+Pode vir a ocorrer o processo de separação de fases durante o período de armazenagem, o que se reverte sob agitação sem que suas propriedades sejam alteradas. 
+Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
+
+## Manuseio e Método de Aplicação
+Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do AQUA-FLUX com  na proporção de 1/10 partes de água aplicando no meio formador de espuma. A dosagem a ser utilizada varia de acordo com a aplicação e o meio provocador de espuma e equipamentos.
+
+## Embalagens
+
+- Bombona plástica de 25 Kg ou 50 Kg
+
