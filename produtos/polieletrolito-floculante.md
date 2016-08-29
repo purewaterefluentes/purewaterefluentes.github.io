@@ -13,6 +13,7 @@ A floculação no campo da química, é o processo onde colóides saem de suspen
 ## Funcionalidade
 
 Um polímero aniônico é aquele que devido à alta densidade de suas cargas negativas em sua cadeia, atrai e se liga à moléculas de predominantes cargas positivas. Polímeros aniônicos são usados como agentes clarificantes em decantação, como agentes auxiliares de filtração, como em tratamento de água de abastecimento ou no tratamento do caldo de cana, na produção de açúcar de cana (sacarose), e são capazes de sequestrar de líquidos cátions como ferro, cálcio, magnésio, bário e outros que formam incrustações nos equipamentos. 
+Esta regra vale de forma inversamente proporcional para polímero catiônico.
 
 As principais cargas de polímeros disponíveis são; Polímero aniônico, Polímero Catiônico e Polímero não-iônico
 
