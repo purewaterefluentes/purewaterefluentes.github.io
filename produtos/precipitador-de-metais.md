@@ -11,7 +11,7 @@ A Linha de Precipitador de Metais da Purewater Efluentes possuí ampla gama de f
 
 ## Composição
 
-Cada precipitador de metais possuí formulação especifica e apropriada para cada tipo metal a ser precipitado, alguns precipitadores apresentam a propriedade de precipitação de varios metais de uma única vez.
+Cada precipitador de metais possui formulação especifica e apropriada para cada tipo metal a ser precipitado, alguns precipitadores apresentam a propriedade de precipitação de varios metais de uma única vez.
 consulte nosso atendimento técnico para determinar o produto indicado para seu tratamento de efluentes.
 
 ## Mecanismo de Ação
