@@ -10,21 +10,21 @@ subtitle: remoção de aniôs
 AQUA-200 é um poderoso redutor de fluoretos para aplicação em tratamento de águas e tratamento de efluentes, apresenta fácil aplicação e ação direta na remoção de fluoreto e outros anios tais como: Bromo e Boro.
 
 ## Composição
-O AQUA-200 é formulado a base de sais inorgânicos não metalicos e totalmente solúvel em água.
+O AQUA-200 é formulado a base de sais inorgânicos não metálicos e totalmente solúvel em água.
 
 
 ## Mecanismo de Ação
 
-O redutor de fluoretos também atua na remoção de outros aniôs presentes na água ou efluente industrial, atuando de forma direta criando pontes entre estrutura do produto AQUA-200 e o contaminante fluoreto formando um precipitado binario e pouco solúvel em agua.
+O redutor de fluoretos também atua na remoção de outros aníons presentes na água ou efluente industrial, atuando de forma direta criando pontes entre estrutura do produto AQUA-200 e o contaminante fluoreto formando um precipitado binario e pouco solúvel em agua.
 
 ## Principais Aplicações
 
 - Remoção de fluoretos em tratamento de água
-- Remoção de de anios Boro, Bromo em tratamento de água.
+- Remoção de de aníons Boro, Bromo em tratamento de água.
 
 ## Características
 
-- Estado fisíco: Líquido
+- Estado físíco: Líquido
 - Densidade: >1,02 g/cm3 (25 °C)
 - pH: >6,0
 - Aparência: Translucido 
@@ -33,7 +33,7 @@ O redutor de fluoretos também atua na remoção de outros aniôs presentes na �
 ## Funcionalidades
 
 - Alta concentração
-- 100% soluvel em água
+- 100% solúvel em água
 - Apresenta efeito duradouro residual.
 - Alta dispersão superficial.
 
@@ -48,4 +48,4 @@ Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do AQU
 ## Embalagens
 
 - Bombona plástica de 50 Kg
-- Container plastico (IBC) de 1000 litros
+- Container plástico (IBC) de 1000 litros
