@@ -7,7 +7,7 @@ subtitle: Coagulante para tratamento de efluentes
 
 ## Apresentação
 
-A Linha de Precipitador de Metais da Purewater Efluentes possuí ampla gama de formulações visando atender aos mais variados tipos de efluentes industriais, apresentando alto poder descomplexante e ação direta na precipitação dos principais metais pesados presentes no efluente industrial.
+A Linha de Precipitador de Metais da Purewater Efluentes possui ampla gama de formulações visando atender aos mais variados tipos de efluentes industriais, apresentando alto poder descomplexante e ação direta na precipitação dos principais metais pesados presentes no efluente industrial.
 
 ## Composição
 
