@@ -51,6 +51,8 @@ A dosagem a ser utilizada varia de acordo com o tipo de água ou efluente, deven
 
 ## Embalagens
 
+
 - Bombona plástica de 25 Kg 
 - Saco de polietileno de 25 Kg
+- 
 -
