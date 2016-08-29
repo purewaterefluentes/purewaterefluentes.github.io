@@ -10,13 +10,13 @@ A Linha de Polímeros floculantes da Purewater Efluentes basea-se em compostos e
 
 A floculação no campo da química, é o processo onde colóides saem de suspensão na forma de agregados, formando partículas maiores, ditos "flocos" ou "flóculos". 
 
-As principais cargas de polímeros disponiveis são; Polímero aniônico, Polímero Catiônico e Polímero nao-iônico
+As principais cargas de polímeros disponíveis são; Polímero aniônico, Polímero Catiônico e Polímero não-iônico
 
 ## Composição
-O polieletrolito ou polímero floculante é formulado a base de políacrilamidas de carga variada. 
+O polieletrólito ou polímero floculante é formulado a base de políacrilamidas de carga variada. 
 
 ## Mecanismo de Ação
-O polímero floculante possui hidroscopica e de atração molecular, criando pontes entre as particulas já formadas no tratamento de efluentes e sua estrutura, fazendo com que este aumente sua densidade e potencialize o poder de separação fase solido e água.
+O polímero floculante possui ação hidroscópica e de atração molecular, criando pontes entre as particulas já formadas no tratamento de efluentes e sua estrutura, fazendo com que este aumente sua densidade e potencialize o poder de separação fase solido e água.
 
 
 ## Principais Aplicações
@@ -32,7 +32,7 @@ O polímero floculante possui hidroscopica e de atração molecular, criando pon
 ## Características
 
 - Tipos de carga: Aniônico, Catiônico e Não-Iônico
-- Estado fisico: Solido (granular) e Liquído em emulsão
+- Estado fisico: Solido (granular) e Líquido em emulsão
 - Densidade: 0,97 a 1,05 g/cm3 (25 °C)
 - pH: 6-9
 - Aparência: Variado
@@ -54,8 +54,3 @@ A dosagem a ser utilizada varia de acordo com o tipo de água ou efluente, deven
 - Bombona plástica de 25 Kg 
 - Saco de polietileno de 25 Kg
 -
-
-
-
-
-
