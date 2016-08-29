@@ -55,6 +55,7 @@ Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do AQU
 ## Embalagens
 
 - Bombona plástica de 25 Kg ou 50 Kg
-- Container (IBC) de 1000 litros.
+- Container (IBC) de 1000 litros
 - 
+
 
