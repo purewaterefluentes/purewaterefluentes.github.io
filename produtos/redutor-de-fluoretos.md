@@ -2,7 +2,7 @@
 layout: default
 pageTitle: Redutor de Fluoretos
 title: Redutor de Fluoretos
-subtitle: remoção de aniôs 
+subtitle: remoção de aníons 
 ---
 
 ## Apresentação
