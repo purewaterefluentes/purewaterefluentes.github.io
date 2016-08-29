@@ -16,7 +16,7 @@ As principais cargas de polímeros disponíveis são; Polímero aniônico, Polí
 O polieletrólito ou polímero floculante é formulado a base de políacrilamidas de carga variada. 
 
 ## Mecanismo de Ação
-O polímero floculante possui ação higroscópica e de atração molecular, criando pontes entre as particulas já formadas no tratamento de efluentes e sua estrutura, fazendo com que este aumente sua densidade e potencialize o poder de separação fase solido e água.
+O polímero floculante possui ação higroscópica e de atração molecular, criando pontes entre as partículas já formadas no tratamento de efluentes e sua estrutura, fazendo com que este aumente sua densidade e potencialize o poder de separação fase solido e água.
 
 
 ## Principais Aplicações
