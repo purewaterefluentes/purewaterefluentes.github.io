@@ -5,6 +5,8 @@ title: Bentônita Polimérica lubrificante
 subtitle: 
 ---
 
+## Apresentação
+
 **POLYER GEL LUBRI e AQUAFLOC GEL LUBRI** São polímeros sinteticos de alta concentração e de núcleo de perfuração que permite a perfuração de diâmetro maior, buracos mais profundos, água de poço de perfuração de petróleo, gás e perfuração e furação sísmica tiro. Fluidos de perfuração com base em viscosifiers polímero têm sido utilizados com sucesso por muitos anos, e sua eficácia nas taxas de perfuração crescente constantemente.
 
 Os lubrificantes de perfuração de poços se constituem em polímeros de custo efetivo adequado para uma ampla gama de perfuração e trabalho ao longo aplicações.
