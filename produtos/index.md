@@ -27,6 +27,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Oxidante](oxidante-efluentes.html)
 - [Polieletrolito Floculante](polieletrolito-floculante.html)
 - [Precipitador de Metais](precipitador-de-metais.html)
+- [Protetivo para Membrana de Osmose](protetivo-membrana-osmose.html)
 - [Redutor de Fluoretos (Fluor)](redutor-de-fluoretos.html)
 - [Sequestrante de Oxigênio](sequestrante-de-oxigenio.html)
 
