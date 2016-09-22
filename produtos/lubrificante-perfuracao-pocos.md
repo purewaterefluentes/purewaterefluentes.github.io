@@ -1,7 +1,7 @@
 ---
 layout: default
 pageTitle: Lubrificante para Perfuração - POLYER GEL LUBRI
-title: Lubrificante de perfuração para poços
+title: Bentônita Polimérica lubrificante
 subtitle: 
 ---
 
