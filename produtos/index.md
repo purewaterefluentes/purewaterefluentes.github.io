@@ -11,7 +11,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Antiespumante](antiespumante.html)
 - [Anti-Emulsificante](anti-emulsificante-efluentes.html)
 - [Anti-Incrustante](anti-incrustante.html)
-- [Bentonita Lubrificante de perfuração poços POLYER](lubrificante-perfuracao-polyer.html)
+- [Bentonita Lubrificante de perfuração de poços](lubrificante-perfuracao-pocos.html)
 - [Biocida](biocida.html)
 - [Carvão Ativado](carvao-ativado.html)
 - [Clarificador](clarificador-agua-efluentes.html)
