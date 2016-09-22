@@ -33,8 +33,8 @@ confeccionados em cobre, para prevenção da corrosão.
 
 - Alto poder de redução de oxigênio dissolvido na água
 - 100% solúvel
-- Apresenta efeito duradouro residual.
-- Alta dispersão superficial.
-- Não solidos dissolvidos no sistema
+- Apresenta efeito de ação duradoura
+- Alta dispersão superficial
+- Não gera solidos dissolvidos no sistema
 
 
