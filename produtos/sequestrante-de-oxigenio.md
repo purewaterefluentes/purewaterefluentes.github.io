@@ -3,7 +3,7 @@ layout: default
 title: Sequestrante de Oxigênio
 ---
 
-A linha de sequestrante Purewater Efluentes possui alto poder reativo, agindo diretamente sobre os íons oxigênio dissolvidos e contidos na água.
+Os sequestrante Purewater Efluentes possui alto poder reativo, agindo diretamente sobre os íons oxigênio dissolvidos contidos na água.
 
 ## Apresentação
 
@@ -36,5 +36,10 @@ confeccionados em cobre, para prevenção da corrosão.
 - Apresenta efeito de ação duradoura
 - Alta dispersão superficial
 - Não gera solidos dissolvidos no sistema
+
+## Embalagens
+
+- Bombona plástica de 50 Kg
+- Container Plastico (IBC) de 1000 litros
 
 
