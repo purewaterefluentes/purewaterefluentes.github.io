@@ -16,7 +16,7 @@ vapor é a hidrazina.
 Quimicamente, sua fórmula química é N2H4, sendo comercialmente encontrada na forma de hidrato de hidrazina (N2H4H2O).
 Sua reação com o oxigênio pode ser representada da seguinte forma:N2H4 + O2 N2 + 2H2O.
 
-Vantagens do uso de sequestrante de oxigenio a base de hidrazina:
+Vantagens do uso de sequestrante de oxigênio a base de hidrazina:
 A estequiometria de reação é 1mg/l de hidrazina reage com 1 mg/l de oxigênio;
 Os subprodutos da reação são nitrogênio e água, não gerando portanto sólidos dissolvidos na água da caldeira;
 A hidrazina é capaz de oxidar o óxido férrico (Fe2O3) a Fe3O4 (magnetita), que protege as superfícies ferrosas de ataques corrosivos.
