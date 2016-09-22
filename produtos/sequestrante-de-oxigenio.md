@@ -3,9 +3,9 @@ layout: default
 title: Sequestrante de Oxigênio
 ---
 
-Os sequestrante Purewater Efluentes possui alto poder reativo, agindo diretamente sobre os íons oxigênio dissolvidos contidos na água.
-
 ## Apresentação
+
+Os sequestrantes da Purewater Efluentes possuem alto poder reativo, agindo diretamente sobre os íons oxigênio dissolvidos contidos na água.
 
 Os sequestrantes de oxigênio são substâncias químicas que removem o oxigênio da água de
 alimentação e da água de caldeira, ou sistemas com ciclos abertos ou fechados de circulação de águas inibindo desta forma o processo de corrosão.
