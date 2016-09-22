@@ -1,8 +1,8 @@
 ---
 layout: default
 pageTitle: Lubrificante para Perfuração - POLYER GEL LUBRI
-title: POLYER GEL LUBRI / AQUAFLOC GEL LUBRI
-subtitle: Lubrificante para Perfuração - 
+title: Lubrificante de perfuração para poços
+subtitle: 
 ---
 
 **POLYER GEL LUBRI e AQUAFLOC GEL LUBRI** São polímeros sinteticos de alta concentração e de núcleo de perfuração que permite a perfuração de diâmetro maior, buracos mais profundos, água de poço de perfuração de petróleo, gás e perfuração e furação sísmica tiro. Fluidos de perfuração com base em viscosifiers polímero têm sido utilizados com sucesso por muitos anos, e sua eficácia nas taxas de perfuração crescente constantemente.
