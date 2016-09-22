@@ -17,7 +17,14 @@ AQUA-FLOCON é uma formulação de alto desempenho usada com efetiva ação no c
 
 
 ## Propriedades Típicas 
-As propriedades típicas seguintes são para Aqua-Flocon e não deve ser considerado como limite de especificação para o produto. A especificação do produto é disponível na requisição. Aparência: líquido amarelo palha pH: 3.5 a 4.5 Gravidade específica a 20/20°C: 1,13 a 1,18 Limite do ponto de congelamento: 0 a -3°C
+As propriedades típicas seguintes são para Aqua-Flocon e não deve ser considerado como limite de especificação para o produto.
+As principais especificações do produto são: 
+
+- Aparência: Liquido Translucido a amarelo palha 
+- pH: 3.5 a 4.5 
+- Gravidade específica a 20°C: 1,13 a 1,18 
+- Limite do ponto de congelamento: 0 a -3°C
+
 
 ## Reatividade Química
 Aqua-Flocon não é afetado pelo Cloro ou outros biocidas oxidantes em condições normais de uso. Pode ser usado em sistemas de membrana com cloro e metabisulfito de sódio.
@@ -41,7 +48,7 @@ Não classificado como perigoso para o transporte terrestre. Não classificado c
 
 ## Embalagens 
 
-- Bombona de plásticos de 25 e 50 Kg 
+- Bombona de plásticos de 50 Kg 
 - IBC de 1000 litros
 
 ## Boletim Técnico
