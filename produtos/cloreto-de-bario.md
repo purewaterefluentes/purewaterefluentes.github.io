@@ -23,19 +23,6 @@ O produto HIPOCLORE tem alto poder saneante e bactericida para tratamentos de á
 - pH (sol 10%):7,0 (25 °C)
 - Massa Especifica (24 °C): 3,86g/cm³
 
-
-## Funcionalidades
-
-- Eficiente na clarificação de água
-- Ótimo agente saneante e agente bactericida
-- Alta concentração de cloro ativo
-- 100% solúvel em água
-- Fácil operacão e manuseio
-- Baixo custo
-- Não gera residual de cálcio e incrustação de tubulação
-- Ação prolongada de cloração.
-
-
 ## Transporte e Armazenagem
 O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 45 °C. 
 Pode ocorrer a volatilização do produto em caso de estocagem por longos períodos e em condições adversas.
