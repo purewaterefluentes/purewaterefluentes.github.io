@@ -39,8 +39,6 @@ Causa irritação em contato com mucosas e olhos. Exposição demasiada pode cau
 
 ## Fornecimento
 
-Liquido: 
-
 - Bombona plástica de 30 e 60 Kg
 - Container (IBC) plastico 1000 litros 
 
