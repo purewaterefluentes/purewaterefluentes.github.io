@@ -1,27 +1,33 @@
 ---
 layout: default
-pageTitle: Cloreto de Bário
-title: Cloreto de Bário
-subtitle: 
+pageTitle: Cloreto Férrico
+title: Cloreto Férrico
+subtitle: Percloreto de ferro.
 ---
 
 ## Apresentação
-O cloreto de bário, de fórmula química BaCl2, é uma substância muito utilizada no setor de metalurgia em sais de têmpera, com a finalidade de aumentar a dureza de ferro-ligas e/ou aços (tratamento térmico de metais). É utilizado também em indústrias de sais de bário e em indústrias para eliminação de sulfato. 
+Cloreto de ferro (III), também chamado cloreto férrico, é um composto químico de escala industrial, de fórmula FeCl3. A cor dos cristais de cloreto de ferro (III) depende do ângulo de visão: por luz refletida os cristais parecem verde-escuro, mas por luz transmitida parecem vermelho-púrpura. Cloreto férrico anidro é deliquescente, formando névoas de ácido clorídrico no ar úmido. É raramente observado em sua forma natural, o mineral molysite, muito conhecido de algumas fumarolas.
 
-É um sólido branco em temperatura ambiente, conduz corrente elétrica em estado líquido, sendo, assim, uma substância iônica.
+Quando dissolvido em água, o cloreto férrico ou Percloreto de Ferro sofre hidrólise e libera calor (reação exotérmica). A solução castanha, ácida e corrosiva resultante é usada como floculante no tratamento de esgoto e na purificação de água, bem como fresador para metais cuprosos em circuitos impressos. 
 
-Possuí fácil aplicação e também pode ser aplicado em tratamento de água nos seguimentos de: Galvanoplastia, Lavanderia Industrial, Lavanderia Hospitalar, Cromeação, Curtumes, Industria Alimentícia e Industria farmacêutica e outras.
+## Aplicação
 
-## Composição
-O produto HIPOCLORE tem alto poder saneante e bactericida para tratamentos de águas e tratamento de efluentes agindo diretamente sobre o micro-orgânismos e agentes infecciosos bacteriológicos residual presente na água ou efluente industrial, com formula a base de sódio hipocloroso, totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água.
+- TRATAMENTO DE ÁGUAS E EFLUENTES:
+
+Atuando como coagulante, o Cloreto Férrico desestabiliza partículas de sólidos e impurezas denominadas colóides, suspensas nas águas que não se separam naturalmente. Sob a ação do Cloreto Férrico, esses colóides se aglutinam e aderem aos flocos do composto de ferro formado, purificando a água.
+
+- ÁGUAS POTÁVEIS:
+
+As águas de superfície, rios, lagos, represas, etc - estão cada vez mais poluídas. A demanda crescente de águas potáveis faz com que a depuração natural seja insuficiente ou demorada. A floculação com Cloreto Férrico é uma etapa-chave na potabilização, eliminando partículas em suspensão e diminuindo a demanda química de oxigênio (DQO), com a remoção de metais pesados e microorganismos indesejáveis,Precipitação de fósforo nas águas residuais
 
 ## Características
 
-- Estado Físico: pó branco e inodoro
-- Solubilidade(0 °C) 31g/100g de água
-- Peso molecular: 208,24 para anidro (BaCl2) e 244,27 para o dihidratado (BaCl2.2H2O)
-- pH (sol 10%):7,0 (25 °C)
-- Massa Especifica (24 °C): 3,86g/cm³
+- Estado Físico: Liquido 
+- Cor: Vermelho castanho
+- Solubilidade(0 °C): 100% em água
+- Densidade: >1,23 g/cm3
+- pH (sol 10%): < 2,00 (25 °C)
+
 
 ## Transporte e Armazenagem
 O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 45 °C. 
@@ -35,9 +41,6 @@ Causa irritação em contato com mucosas e olhos. Exposição demasiada pode cau
 
 Liquido: 
 
-- Bombona plástica de 25 e 50 Kg
+- Bombona plástica de 30 e 60 Kg
 - Container (IBC) plastico 1000 litros 
 
-Solido em pó:
-
-- Sacos de 25 Kg
