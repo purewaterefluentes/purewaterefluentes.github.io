@@ -34,7 +34,9 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 ## Matéria Prima -Linha Industrial 
 
 - [Ácido Fosfino Carboxilico 40%](acido-fosfino-carboxilico.html)
-- [Cal Hidratada - Extra Purificada](cal-hidratada.html)- [Cloreto de Bário](Cloreto-bario.html)
+- [Cal Hidratada - Extra Purificada](cal-hidratada.html)
+- [Cloreto de Bário](cloreto-de-bario.html)
+- [Cloreto férrico](cloreto-ferrico.html)
 - [Dicloroisocianurato de Sódio](dicloroisocianurato.html)
 - [Dimetil Carbamato de Sódio](dimetil-carbamato-sodio.html)
 - [Hidroxido de Sódio](soda-caustica.html)
