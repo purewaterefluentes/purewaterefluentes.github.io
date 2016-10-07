@@ -6,23 +6,22 @@ subtitle:
 ---
 
 ## Apresentação
-HIPOCLORE é o Cloro liquido saneante que apresenta concentração entre 7 a 9% de cloro ativo, podendo também ser fabricado nas concentrações 2,5% e 5% de cloro ativo. Atua como agente bactericida, saneante, desinfectante e clarificante e pode ser aplicado em tratamento de águas em geral e tratamento de efluentes.
-Possuí fácil aplicação e também pode ser aplicado em água de reuso nos seguimentos de: Lavanderia Industrial, Lavanderia Hospitalar, Galvanoplastia, Curtumes, Industria Alimentícia e Industria farmacêutica e outras.
+O cloreto de bário, de fórmula química BaCl2, é uma substância muito utilizada no setor de metalurgia em sais de têmpera, com a finalidade de aumentar a dureza de ferro-ligas e/ou aços (tratamento térmico de metais). É utilizado também em indústrias de sais de bário e em indústrias para eliminação de sulfato. 
+
+É um sólido branco em temperatura ambiente, conduz corrente elétrica em estado líquido, sendo, assim, uma substância iônica.
+
+Possuí fácil aplicação e também pode ser aplicado em tratamento de água nos seguimentos de: Galvanoplastia, Lavanderia Industrial, Lavanderia Hospitalar, Cromeação, Curtumes, Industria Alimentícia e Industria farmacêutica e outras.
 
 ## Composição
 O produto HIPOCLORE tem alto poder saneante e bactericida para tratamentos de águas e tratamento de efluentes agindo diretamente sobre o micro-orgânismos e agentes infecciosos bacteriológicos residual presente na água ou efluente industrial, com formula a base de sódio hipocloroso, totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água.
 
-## Principais Aplicações
-Agente de cloração, cloro ativo, agente saneante em tratamento de águas residuais, bactericida clorado, cloro para água de poço, cloro para piscinas, cloro para efluentes cloro residual na indústria.
-
 ## Características
 
-- Estado: Liquido
-- Densidade: >1,05 g/cm3 (25 °C)
-- pH: >8,0
-- Aparência: Líquido levemente esverdeado
-- Odor: Característico de cloro
-- Produto Não Controlado pelos Órgãos reguladores
+- Estado Físico: pó branco e inodoro
+- Solubilidade(0 °C) 31g/100g de água
+- Peso molecular: 208,24 para anidro (BaCl2) e 244,27 para o dihidratado (BaCl2.2H2O)
+- pH (sol 10%):7,0 (25 °C)
+- Massa Especifica (24 °C): 3,86g/cm³
 
 
 ## Funcionalidades
@@ -42,12 +41,17 @@ O armazenamento deve ser na embalagem original, em local coberto, seco e ventila
 Pode ocorrer a volatilização do produto em caso de estocagem por longos períodos e em condições adversas.
 Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
 
-## Manuseio e Método de Aplicação
-Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do HIPOCLORE em sua forma original (concentrado) ou se preferir diluído na proporção de 2/10 partes (solução a 20%) em água aplicando no meio aquoso a tratar.
-A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminates presente na água ou efluente.
+## Toxicologia
+Causa irritação em contato com mucosas e olhos. Exposição demasiada pode causar lesões no cérebro, desordem intestinal, gosto metálico, e o contato prolongado com a pele pode deixá-la acinzentada. Qualquer tipo de contato com a pele, deve ser lavada a área de contato com água por pelo menos 15 minutos e depois, procurar ajuda médica. No caso de ingestão, provocar o vômito imediatamente, de acordo com a orientação paramédica, e procure imediatamente ajuda médica
 
 ## Fornecimento
 
+Liquido: 
+
 - Bombona plástica de 25 e 50 Kg
 - Container (IBC) plastico 1000 litros 
+
+Solido em pó:
+
+- Sacos de 25 Kg
 
