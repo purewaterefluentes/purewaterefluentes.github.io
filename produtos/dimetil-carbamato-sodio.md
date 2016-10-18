@@ -25,7 +25,7 @@ O produto também é recomendado como biocida para aplicação na indústria de 
 
 ## Aplicação
 
-- TRATAMENTO DE ÁGUAS E EFLUENTES:Atuando como coagulante, o Ditiocarbamato de sódio desestabiliza partículas de sólidos e impurezas denominadas colóides, suspensas nas águas que não se separam naturalmente. 
+- Tratamento de águas e efluentes industrial: Atuando como coagulante, o Ditiocarbamato de sódio desestabiliza partículas de sólidos e impurezas denominadas colóides, suspensas nas águas que não se separam naturalmente. 
 
 ## Características
 
