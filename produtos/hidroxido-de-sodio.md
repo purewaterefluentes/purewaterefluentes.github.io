@@ -7,13 +7,16 @@ subtitle: Soda Caustica
 
 ## Apresentação
 
-O hidróxido de sódio (NaOH), também conhecido como soda cáustica ou solução cáustica alcalina de uso na indústria (principalmente como uma base química ) no fabrico de papel , têxteis e detergentes . Em adição, é utilizado na indústria do petróleo no desenvolvimento de água - as lamas de perfuração à base. Internamente, os lucros são reconhecidos para desbloquear tubos de drenagem em cozinhas e banheiros, entre outros.
+O hidróxido de sódio (NaOH), também conhecido como soda cáustica ou solução cáustica alcalina de uso na indústria (principalmente como uma base química ) no fabrico de papel , têxteis e detergentes . 
 
-À temperatura ambiente, o hidróxido de sódio é um sólido cristalino branco inodoro que absorve a humidade do ar ( higroscópico ). É uma substância fabricada. Quando dissolvido em água ou neutralizada com uma libertação de ácido de uma grande quantidade de calor pode ser suficiente para inflamar materiais combustíveis. O hidróxido de sódio é altamente corrosivo . Geralmente ele é utilizado na forma sólida ou como uma solução a 50%.
+É utilizado na indústria do petróleo no desenvolvimento de lamas de perfuração. também são reconhecidos para desentupir ou desbloquear tubos de drenagem em cozinhas e banheiros e redes hidraúlicas de indústria, entre outros.
+
+À temperatura ambiente, o hidróxido de sódio é um sólido cristalino branco inodoro que absorve a humidade do ar ( higroscópico ). 
+Quando dissolvido em água ou neutralizada com uma libertação de ácido de uma grande quantidade de calor pode ser suficiente para inflamar materiais combustíveis. O hidróxido de sódio é altamente corrosivo e geralmente ele é utilizado na forma sólida ou como uma solução a 50%.
 
 O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , explosivos, tintas e óleo. Ele também é usado no processamento de têxteis de algodão, lavandaria e branqueamento, revestimento de óxido, galvanoplastia e electrowinning. É comumente encontrado em drenagem e limpadores de forno. Ele também é usado como um removedor e marceneiros tinta para remover móveis de madeira tinta velha.
 
-Use também é importante na obtenção de alumínio a partir de bauxita , no processo Bayer .
+Seu uso também é importante na obtenção de alumínio a partir de bauxita , no processo Bayer.
 
 O hidróxido de sódio, na maior parte, é sintetizado pelo método de caustificação , isto é, juntando outro hidróxido com um composto de sódio :
 
