@@ -21,7 +21,7 @@ Dimetilditiocarbamato de Sódio 40% também conhecido como "Ditiocarbamato de s�
 
 Aplicado como Biocida para açúcar e álcool o mesmo é extremamente recomendado para uso em destilarias e usinas de açúcar, o mesmo combate a formação de micro-organismos, protegendo a moenda de possíveis contaminações biológicas.
 Utilizado no tratamento de efluentes, efetivo como sequestrante de íons metálicos pesados, tais como Chumbo, Cobre, Níquel, Cromo entre outros.
-O Poly DDS Na 40 também é recomendado como biocida para aplicação na indústria de couro, sendo esse o principal conservante utilizado como conservante do “couro-verde”.
+O produto também é recomendado como biocida para aplicação na indústria de couro, sendo esse o principal conservante utilizado como conservante do “couro-verde”.
 
 ## Aplicação
 
@@ -36,14 +36,17 @@ O Poly DDS Na 40 também é recomendado como biocida para aplicação na indúst
 - Solubilidade em água: Total
 
 ## Transporte e Armazenagem
-O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 45 °C. 
-Pode ocorrer a volatilização do produto em caso de estocagem por longos períodos e em condições adversas.
-Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
+O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 45 °C. Produto com aspecto potencial para contaminação do solo e água. Deve ser armazenado em local apropriado com sistema de contenção.
 
 ## Toxicologia
-Causa irritação em contato com mucosas e olhos. Exposição demasiada pode causar lesões no cérebro, desordem intestinal, gosto metálico, e o contato prolongado com a pele pode deixá-la acinzentada. Qualquer tipo de contato com a pele, deve ser lavada a área de contato com água por pelo menos 15 minutos e depois, procurar ajuda médica. No caso de ingestão, provocar o vômito imediatamente, de acordo com a orientação paramédica, e procure imediatamente ajuda médica
+
+- Efeitos Locais: Muito perigoso em contato com olhos (irritante, corrosivo). Os efeitos nos olhos são caracterizados por vermelhidão, lacrimejamento e coceira.
+
+- Sensibilização: Muito perigoso em contato com a pele (irritante, sensibilizante). Não é corrosivo para pele. O contato com a pele pode causar queimaduras. Os efeitos na pele são caracterizados por coceira, escamação, vermelhidão ou ocasionalmente, formação de bolhas.
+
+- Efeitos específicos: Pode causar danos aos seguintes órgãos: trato respiratório superior, pele e olhos.
 
 ## Fornecimento
 
-- Bombona plástica de 30 e 60 Kg
+- Bombona plástica de 50 Kg
 - Container (IBC) plastico 1000 litros 
