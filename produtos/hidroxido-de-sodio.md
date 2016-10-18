@@ -9,7 +9,7 @@ subtitle: Soda Caustica
 
 O hidróxido de sódio (NaOH), também conhecido como soda cáustica ou solução cáustica alcalina de uso na indústria (principalmente como uma base química ) no fabrico de papel , têxteis e detergentes . 
 
-É utilizado na indústria do petróleo no desenvolvimento de lamas de perfuração. também são reconhecidos para desentupir ou desbloquear tubos de drenagem em cozinhas e banheiros e redes hidraúlicas de indústria, entre outros.
+É utilizado na indústria do petróleo no desenvolvimento de lamas de perfuração, também são reconhecidos para desentupir ou desbloquear tubos de drenagem em cozinhas e banheiros e redes hidraúlicas de indústria, entre outros.
 
 À temperatura ambiente, o hidróxido de sódio é um sólido cristalino branco inodoro que absorve a humidade do ar ( higroscópico ). 
 Quando dissolvido em água ou neutralizada com uma libertação de ácido de uma grande quantidade de calor pode ser suficiente para inflamar materiais combustíveis. O hidróxido de sódio é altamente corrosivo e geralmente ele é utilizado na forma sólida ou como uma solução a 50%.
