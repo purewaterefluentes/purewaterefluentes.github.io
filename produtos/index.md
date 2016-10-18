@@ -39,7 +39,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Cloreto férrico](cloreto-ferrico.html)
 - [Dicloroisocianurato de Sódio](dicloroisocianurato.html)
 - [Dimetil Carbamato de Sódio](dimetil-carbamato-sodio.html)
-- [Hidroxido de Sódio](soda-caustica.html)
+- [Hidroxido de Sódio](hidroxido-de-sodio.html)
 - [Hipoclorito de calcio](hipoclorito-calcio.html)
 - [Hipoclorito de Sódio](hipoclorito-de-sodio.html)
 - [Peroxido de Hidrogenio 200Volumes](peroxido-hidrogenio.html)
