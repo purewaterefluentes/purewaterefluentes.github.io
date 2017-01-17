@@ -12,7 +12,9 @@ Trata-se de um líquido viscoso e poderoso oxidante. É incolor à temperatura a
 
 ## Propriedades
 
-O peróxido de hidrogénio é encontrado em concentrações baixas (3-9%) em muitos produtos domésticos para uso medicinal e como clareador da roupa e do cabelo. Na indústria, o peróxido de hidrogénio é usado em concentrações mais elevadas para clarear tecidos, pasta de papel, e ainda como combustível para ajuste e correcção nas trajectórias e órbitas de satélites artificiais no espaço. Na área médica é usado como desinfectante ou agente esterilizante em autoclave de plasma. Na área química é usado como componente da espuma de borracha orgânica e outras substâncias químicas. Noutras áreas como na investigação é usado para medir a actividade de algumas enzimas como a catalase.
+O peróxido de hidrogénio pode ser encontrado em concentrações que variam de 20 a 50%.
+
+Ja em produtos domésticos para uso medicinal e como clareador da roupa e do cabelo esta disponivel em teores de 3 a 6%. Na indústria, o peróxido de hidrogénio é usado em concentrações mais elevadas para clarear tecidos, pasta de papel, e ainda como combustível para ajuste e correcção nas trajectórias e órbitas de satélites artificiais no espaço. Na área médica é usado como desinfectante ou agente esterilizante em autoclave de plasma. Na área química é usado como componente da espuma de borracha orgânica e outras substâncias químicas. Noutras áreas como na investigação é usado para medir a actividade de algumas enzimas como a catalase.
 
 ## Embalagem
 
