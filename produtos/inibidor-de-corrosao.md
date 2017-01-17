@@ -19,6 +19,7 @@ Uma vez que o sistema já tenha sido limpo e preparado, ele deve ser protegido c
 
 Os produtos da linha Purewater Efluentes possuem tecnologia Anticorrosão e uma mistura exclusiva de inibidores de corrosão.
 
+
 #### Consulte o setor técnico para indicação do melhor produto.
 
 ## Características
