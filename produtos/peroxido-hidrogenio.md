@@ -1,7 +1,7 @@
 ---
 layout: default
-pageTitle: Peroxido de Hidrogenio
-title: Peroxido de Hidrogenio 
+pageTitle: Peróxido de Hidrogênio
+title: Peróxido de Hidrogênio 
 subtitle:
 ---
 ## Apresentação
