@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sulfato Ferroso Heptahidratado   
+Sub Title: Sulfato de Ferro II
 ---
 
 ## Apresentação
