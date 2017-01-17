@@ -2,7 +2,7 @@
 layout: default
 pageTitle: Inibidor de Corrosão
 title: Inibidor de Corrosão
-subtitle: AQUA-230
+subtitle:   
 ---
 
 ## Apresentação
@@ -13,11 +13,13 @@ Os variados tipos de metais são vulneráveis de formas diferentes, oque torna i
 
 A corrosão ocorre naturalmente em sistemas de aquecimento ou resfriamento de águas, e as consequências quando as caldeiras e radiadores falham é tanto perturbadora como custosa para os moradores e proprietários, e constitui grandes problemas para instaladores. 
 
-Com formula especial o AQUA-230 age diretamente na corrosão e inibe as duas principais causas da ineficiência do aquecimento, ocasionando pontos frios no radiador, ineficiência da caldeira, um sistema barulhento e uma variedade de outros problemas.
+Com formula especial o produto age diretamente na corrosão e inibe as duas principais causas da ineficiência do aquecimento, ocasionando pontos frios no radiador, ineficiência da caldeira, um sistema barulhento e uma variedade de outros problemas.
 
-Uma vez que o sistema já tenha sido limpo e preparado, ele deve ser protegido com o AQUA-230 inibidor de corrosão para prevenir a ocorrência de corrosão ou o acúmulo de sais de calcio, magnésio e silica.
+Uma vez que o sistema já tenha sido limpo e preparado, ele deve ser protegido com o inibidor de corrosão para prevenir a ocorrência de corrosão ou o acúmulo de sais de calcio, magnésio e silica.
 
-O AQUA-230 tem tecnologia Anticorrosão e uma mistura exclusiva de inibidores de corrosão.
+Os produtos da linha Purewater Efluentes possuem tecnologia Anticorrosão e uma mistura exclusiva de inibidores de corrosão.
+
+#### Consulte o setor técnico para indicação do melhor produto.
 
 ## Características
 
