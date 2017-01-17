@@ -13,7 +13,7 @@ Dependendo da fonte da água, uma grande variedade de técnicas poderá ser empr
 
 A Purewater Efluentes desenvolve formulações especificas na criação de coagulantes para o tratamento de água e efluentes industrial, desenvolvendo uma linha completa de coagulantes inorgânicos e coagulates orgânicos.
 
-#@# Consulte nosso departamento técnico para indicação do melhor COAGULANTE para seu tratamento de água.
+##% Consulte nosso departamento técnico para indicação do melhor COAGULANTE para seu tratamento de água.
 
 ## Aplicação
 
