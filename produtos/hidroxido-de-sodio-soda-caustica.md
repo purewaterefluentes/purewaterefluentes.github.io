@@ -2,7 +2,7 @@
 layout: default
 pageTitle: Hidróxido de Sódio
 title: Hidróxido de Sódio
-subtitle: Soda Caustica
+subtitle: Soda Cáustica
 ---
 
 ## Apresentação
@@ -57,6 +57,5 @@ O armazenamento deve ser na embalagem original, em local coberto, seco e ventila
 
 ## Fornecimento
 
-- Sacos plastico de 25 Kg
 - Bombona plástica de 30 e 60 Kg
 - Container (IBC) plastico 1000 litros 
