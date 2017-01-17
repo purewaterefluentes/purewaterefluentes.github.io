@@ -33,7 +33,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 
 ## Matéria Prima -Linha Industrial 
 
-- [Ácido Clorídrico - Muriatico](acido-cloridrico-muriatico.html)
+- [Ácido Clorídrico - Muriático](acido-cloridrico-muriatico.html)
 - [Ácido Fosfino Carboxilico 40%](acido-fosfino-carboxilico.html)
 - [Cal Hidratada - Extra Purificada](cal-hidratada.html)
 - [Cloreto de Bário](cloreto-de-bario.html)
