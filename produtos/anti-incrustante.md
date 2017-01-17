@@ -11,6 +11,9 @@ Os Anti-incrustates ou Dispersante são compostos químicos ou formulações que
 
 Os compostos anti-incrustação frequentemente reagir com o cálcio, magnésio e silicas de modo que eles não possam formar precipitados depósitos na forma cristalizada na rede hidraulica e equipamentos.
 
+#### Consulte o setor técnico p/ indicação do melhor Anti-incrustante para seu sistema.
+
+
 ## Funcionalidades
 
 - Controla incrustações com eficiência, incluindo carbonato de cálcio, sulfato de cálcio, sulfato de bário, sulfato de estrôncio,fluoreto de cálcio, ferro, material coloidal, sílica e outros contaminantes orgânicos e inorgânicos.
