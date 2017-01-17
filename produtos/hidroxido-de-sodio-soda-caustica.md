@@ -43,7 +43,6 @@ Ca (OH) 2 (aq) + Na 2 CO 3 (aq) → 2 NaOH (aq) + CaCO 3 (S)
 - Densidade: 1,40 a 1,55 g/cm³.
 - Teor de NaOH: 46 a 52 (%).
 
-
 ## Transporte e Armazenagem
 O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 45 °C. Produto com aspecto potencial para contaminação do solo e água. Deve ser armazenado em local apropriado com sistema de contenção.
 
@@ -57,5 +56,8 @@ O armazenamento deve ser na embalagem original, em local coberto, seco e ventila
 
 ## Fornecimento
 
+- Saco plastico de 25 Kg
 - Bombona plástica de 30 e 60 Kg
 - Container (IBC) plastico 1000 litros 
+
+
