@@ -1,38 +1,21 @@
 ---
 layout: default
-pageTitle: Policloreto de Aluminio - AQUA-PAC
-title: AQUA-PAC
-subtitle: Policloreto de Aluminio
+pageTitle: Peroxido de Hidrogenio
+title: Peroxido de Hidrogenio 
+subtitle:
 ---
+## Apresentação
+
+Peróxido de hidrogénio,também conhecido comercialmente como água oxigenada, é um líquido claro de fórmula química H2O2. 
+
+Trata-se de um líquido viscoso e poderoso oxidante. É incolor à temperatura ambiente e apresenta característico sabor amargo. Quantidades pequenas de peróxido de hidrogénio gasoso ocorrem naturalmente no ar. O peróxido de hidrogénio é instável e quando perturbado, rapidamente se decompõe (através da enzima Catalase, presente em nosso corpo), de H2O2, em água (H2O) e oxigênio (O2) com libertação de calor. Deste modo, quando ele é transformado em água e oxigénio pela catalase, acaba por matar bactérias e vírus anaeróbicos (que não sobrevivem à presença de oxigénio), pois libera oxigénio puro, tendo a função de "Desinfectante Oxidante". Embora não seja inflamável, é poderoso agente oxidante que pode sofrer combustão espontânea em contacto com matéria orgânica ou alguns metais como o cobre ou o bronze.
 
 ## Propriedades
-Coagulante Inorgânico Pré-polimerizado.
-O Poli Cloreto de Alumínio AQUA-PAC é um coagulante inorgânico catiônico pré polimerizado de alto peso molecular a base de policloreto de alumínio, utilizado em processos de tratamento de águas, esgoto, petróleo, mineração e Açucar.
 
-O PoliCloreto de Alumínio AQUA-PAC tem como caracteristica química agregar em sua molécula original cadeias polímericas hidroxiladas, fundamentais nos processos de coagulação e floculação. A posterior hidrólise irá proporcionar novas espécies insóluveis, que possibilitarão o processo de neutralização elétrica, que neste caso serão menos sensiveis que as espécies originárias a partir da hidrólise dos sais monoméricos, como meio pH, Alcalinidade, concentração coloidal e temperatura.
-
-O policloreto de alumínio; AQUA-PAC proporciona ao entrar em contato com o líquido, núcleos de geração de incremento de floculação e sua hidrólise se desenvolve muito mais lentamente, facilitando assim o processo de neutralização das cargas. Todas essas caracteristicas trazem ao AQUA-PAC uma eficiência nos tratamentos físico-químico.
-
-## Benefícios
-Fazendo comparações com os coagulantes inorgânicos tradicionais, podemos afirmar que:
-
-- A contribuição para aumento da salinidade é menor 
-- Em conseqüência, não altera significativamente a condutividade. 
-- É isento de impurezas prejudiciais aos processos industrias e a reciclagem. 
-- Por conter ions hidroxilas em sua formula não há uma significativa redução de pH, além de reduzir o uso de alcalinizante. 
-- Fácil adaptação com qualquer tipo de polímero.
-
-## Dosagem e Aplicação
-
-As dosagens para obter uma performance melhor do produto devem ser sempre menores do que os demais  coagulantes  a  base  de  alumínio,  devido a maior eficiência e concentração de alumina, diminuindo o consumo por menos da metade em comparação com os coagulantes que já existem no mercado.
-
-Sua aplicação é completamente miscível com água e pode ser dosado na forma não diluída como a forma diluída conforme critérios de operação.
-
-Aconselhamos que as diluições não sejam inferiores a 6,0  % em alumina, pois o produto tende a hidrolizar-se, formando soluções leitosas com elevada turbidez e reduzida eficácia. 
+O peróxido de hidrogénio é encontrado em concentrações baixas (3-9%) em muitos produtos domésticos para uso medicinal e como clareador da roupa e do cabelo. Na indústria, o peróxido de hidrogénio é usado em concentrações mais elevadas para clarear tecidos, pasta de papel, e ainda como combustível para ajuste e correcção nas trajectórias e órbitas de satélites artificiais no espaço. Na área médica é usado como desinfectante ou agente esterilizante em autoclave de plasma. Na área química é usado como componente da espuma de borracha orgânica e outras substâncias químicas. Noutras áreas como na investigação é usado para medir a actividade de algumas enzimas como a catalase.
 
 ## Embalagem
 
-- Bombona plastica de 30 e 60 Kg
+- Bombona plastica de 25 e 50 Kg
 - Container de 1000 litros 
-- Caminhão Tanque Truck 10.250 litros
 
