@@ -30,9 +30,10 @@ Sua aplicação é completamente miscível com água e pode ser dosado na forma 
 
 Aconselhamos que as diluições não sejam inferiores a 6,0  % em alumina, pois o produto tende a hidrolizar-se, formando soluções leitosas com elevada turbidez e reduzida eficácia. 
 
-## Emabalagem
+## Embalagem
 
-Bombona plastica de 30 e 60 Kg
-Container de 1000 litros (1350 kg)
+- Bombona plastica de 30 e 60 Kg
+- Container de 1000 litros (1350 kg)
+
 
 
