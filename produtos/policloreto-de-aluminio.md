@@ -34,6 +34,7 @@ Aconselhamos que as diluições não sejam inferiores a 6,0  % em alumina, pois 
 
 - Bombona plastica de 30 e 60 Kg
 - Container de 1000 litros (1350 kg)
+- Caminhão Tanque Truck (10.000 litros)
 
 
 
