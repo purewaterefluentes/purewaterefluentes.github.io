@@ -40,13 +40,3 @@ Desenvolvemos Anti-incrustantes para aplicacão em sistemas de refrigeração, �
 
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
-
-## Boletim Técnico
-
-{% include purewater/link-boletim.html 
-   label="Boletim Técnico Anti-Incrustante" 
-   arquivo="Boletim-tecnico-hexametafosfato-sodio-anti-incrustante.pdf" %}
-
-{% include purewater/link-boletim.html 
-   label="Boletim Técnico Inibidor Incrustação Água Gelada" 
-   arquivo="Boletim-tecnico-inibidor-incrustação-água-gelada.pdf" %}
