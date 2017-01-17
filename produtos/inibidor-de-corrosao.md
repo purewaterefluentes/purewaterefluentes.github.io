@@ -35,4 +35,3 @@ Os produtos da linha Purewater Efluentes possuem tecnologia Anticorrosão e uma 
 - Bombonas plásticas de 50 Kg
 - Container plástico IBC de 1000 litros
 
-## Boletim Técnico
