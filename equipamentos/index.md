@@ -4,7 +4,7 @@ title: Equipamentos
 subtitle: Fabricação de equipamentos para tratamento de água e efluentes
 ---
 
-## Filtros de Água
+## Filtros para Água
 
 - [Filtro Central em Inox](filtro-de-agua-inox.html)
 - [Filtro Central em Fiberglass - PRFV](filtro-de-agua-fiberglass-PRFV.html)
