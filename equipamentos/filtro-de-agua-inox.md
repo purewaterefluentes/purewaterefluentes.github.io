@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Filtro Central p água (Inox)
+title: Filtro Central p/ água (Inox)
 subtitle: Carvão Ativado e Areia Quartzo
 ---
 
