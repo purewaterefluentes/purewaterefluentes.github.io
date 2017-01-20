@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Filtro Misto
+title: Filtro Central p água (Inox)
 subtitle: Carvão Ativado e Areia Quartzo
 ---
 
