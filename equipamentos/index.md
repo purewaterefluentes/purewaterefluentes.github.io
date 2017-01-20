@@ -6,9 +6,9 @@ subtitle: Fabricação de equipamentos para tratamento de água e efluentes
 
 ## Filtros de Água
 
-- [Filtro Inox](filtro-de-agua-inox.html)
+- [Filtro Central em Inox](filtro-de-agua-inox.html)
+- [Filtro Central em Fiberglass - PRFV](filtro-de-agua-fiberglass-PRFV.html)
 - [Filtro Prensa](filtro-prensa.html)
-- [Filtro Fiberglass - PRFV](filtro-de-agua-fiberglass-PRFV.html)
 
 ## Bombas Dosadoras
 
@@ -18,16 +18,16 @@ subtitle: Fabricação de equipamentos para tratamento de água e efluentes
 - [Bomba Dosadora de Diafragma - Eletromagnética](bomba-dosadora-de-diafragma-eletromagnetica.html)
 - [Bomba Centrifuga Química](bomba-centrifuga-quimica.html)
 
-## Sensores de PH ORP
+## Sensores de PH e REDOX (ORP)
 
 - Eletrodos e Sensores de PH e ORP
 - Eletrodos de PH
 
-## Medidores de PH ORP
+## Medidores de PH e REDOX (ORP)
 
 - Medidor de Bancada de PH e ORP - Redox
 - Medidor de PH e ORP - Redox
 
-## Equipamentos em Polipropileno e PVC
+## Equipamentos em Polipropileno p/ Estação de Tratamento
 
-- [Equipamentos em Polipropileno e PVC](equipamentos-polipropileno.html)
+- [Equipamentos em Polipropileno](equipamentos-polipropileno.html)
