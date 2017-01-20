@@ -36,3 +36,19 @@ Retrolavagem manual deve ser realizada cada 7 ou 15 dias, para revolver o leito 
 Temperaturas de operação: mínima 4ºC / máxima 100 ºC.
 Pressão de operação: mínima 2kgf/cm² / máxima 5kgf/cm².
 Grau de filtração: 60 micron.
+
+### Galeria de Fotos
+
+---
+
+<div class="row">
+  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="filtro de agua inox" href="#">
+      <img class="thumbnail img-responsive" src="../../website/images/equipamento_polipropileno_01.jpg"></a>
+    </div>
+  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Equipamento em Polipropileno" href="#"><img class="thumbnail img-responsive" src="../../website/images/equipamento_polipropileno_02.jpg"></a></div>
+  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Equipamento em Polipropileno" href="#"><img class="thumbnail img-responsive" src="../../website/images/equipamento_polipropileno_03.jpg"></a></div>
+  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Equipamento em Polipropileno" href="#"><img class="thumbnail img-responsive" src="../../website/images/equipamento_polipropileno_04.jpg"></a></div>
+  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Equipamento em Polipropileno" href="#"><img class="thumbnail img-responsive" src="../../website/images/equipamento_polipropileno_05.jpg"></a></div>
+</div>
+
+
