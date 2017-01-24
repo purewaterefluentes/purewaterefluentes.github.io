@@ -1,11 +1,10 @@
 ---
 layout: default
 pageTitle: 
-title: Filtro Central p/ água
-subtitle: Filtro em Fiberglass - PRFV
+title: Filtro Central p/ água - PRFV
 ---
 
-## Especificações
+## Especificações do Filtro Fiberglass
 
 - Os tanques de pressão Filtros em PRFV são fabricados com alta tecnologia e material composto por fiberglass (PRFV), de enrolamento filamentar e resinado de alta resistência química e física.
 - Todos os tanques de pressão, residenciais e comerciais, são feito por uma tecnologia de moldagem por completo sem costura.
@@ -45,7 +44,8 @@ E preserva limpos os reservatórios de água.
 ## TABELA DE VAZÕES
 
 <div class="row">
-<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Filtro Central p/agua" href="#">
+<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Filtro Central p/agua - PRFV" href="#">
       <img class="thumbnail img-responsive" src="../../website/images/Filtro_prfv_cilindros (1).jpg"></a></div>
   </div>
+  
 
