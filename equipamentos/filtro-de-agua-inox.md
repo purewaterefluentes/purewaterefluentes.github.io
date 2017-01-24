@@ -6,6 +6,11 @@ subtitle: Carvão Ativado e Areia Quartzo
 
 ## Características
 
+<div class="row">
+<div class="col-lg-3 col-sm-4 col-xs-6"><a title="filtro Central p/agua (inox)" href="#">
+      <img class="thumbnail img-responsive" src="../../website/images/Filtros Inox_purewater1.png"></a></div>
+  </div>
+  
 Filtro com estrutura em aço inox 304.
 
 Sistema de filtragem formado por camadas de quartzo de diferentes granulometrias.
@@ -44,8 +49,6 @@ Grau de filtração: 60 micron.
 <div class="row">
   <div class="col-lg-3 col-sm-4 col-xs-6"><a title="filtro Central p/agua (inox)" href="#">
       <img class="thumbnail img-responsive" src="../../website/images/Filtro Misto Jpeg.jpg"></a></div>
-   <div class="col-lg-3 col-sm-4 col-xs-6"><a title="filtro Central p/agua (inox)" href="#">
-      <img class="thumbnail img-responsive" src="../../website/images/Filtros Inox_purewater1.png"></a></div>
-  </div>
+     </div>
 
 
