@@ -43,11 +43,9 @@ Grau de filtração: 60 micron.
 
 <div class="row">
   <div class="col-lg-3 col-sm-4 col-xs-6"><a title="filtro de agua inox" href="#">
-      <img class="thumbnail img-responsive" src="../../website/images/equipamento_polipropileno_01.jpg"></a>
-    </div>
+      <img class="thumbnail img-responsive" src="../../website/images/equipamento_polipropileno_01.jpg"></a></div>
   <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Equipamento em Polipropileno" href="#">
       <img class="thumbnail img-responsive" src="../../website/images/filtro misto jpeg.jpg"></a></div>
-  
-</div>
+  </div>
 
 
