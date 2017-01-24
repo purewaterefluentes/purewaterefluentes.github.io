@@ -41,8 +41,6 @@ Pode ser utilizado como leito de carvão ativado, atuando assim como declorador.
 Evita a incrustação de substância em suspensão nas paredes da tubulação galvanizada
 E preserva limpos os reservatórios de água.
 
-## TABELA DE VAZÕES
-
 ---
 
 <div class="row">
