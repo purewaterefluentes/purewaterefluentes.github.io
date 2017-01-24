@@ -1,8 +1,8 @@
 ---
 layout: default
-pageTitle: Filtro Industrial em Fiberglass - PRFV
-title: PRFV
-subtitle: Filtro Industrial em Fiberglass
+pageTitle: 
+title: Filtro Central p/ água
+subtitle: Filtro em Fiberglass - PRFV
 ---
 
 ## Especificações
@@ -44,5 +44,8 @@ E preserva limpos os reservatórios de água.
 
 ## TABELA DE VAZÕES
 
-
+<div class="row">
+<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Filtro Central p/agua" href="#">
+      <img class="thumbnail img-responsive" src="../../website/images/Filtro_prfv_cilindros (1).jpg"></a></div>
+  </div>
 
