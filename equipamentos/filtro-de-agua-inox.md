@@ -49,6 +49,8 @@ Grau de filtração: 60 micron.
 <div class="row">
   <div class="col-lg-3 col-sm-4 col-xs-6"><a title="filtro Central p/agua (inox)" href="#">
       <img class="thumbnail img-responsive" src="../../website/images/Filtro Misto Jpeg.jpg"></a></div>
-     </div>
+      
+      </div>
+
 
 
