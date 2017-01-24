@@ -4,7 +4,7 @@ title: Filtro Central p/ água (Inox)
 subtitle: Carvão Ativado e Areia Quartzo
 ---
 
-## Características
+## Características - Filtro Central em Aço Inox
 
 <div class="row">
 <div class="col-lg-3 col-sm-4 col-xs-6"><a title="filtro Central p/agua (inox)" href="#">
