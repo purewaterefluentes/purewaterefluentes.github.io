@@ -1,7 +1,7 @@
 ---
 layout: default
 pageTitle: 
-title: Filtro Central p/ água - PRFV
+title: Filtro Central p/ água (PRFV)
 ---
 
 ## Especificações do Filtro Fiberglass
@@ -44,7 +44,7 @@ E preserva limpos os reservatórios de água.
 ---
 
 <div class="row">
-<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Filtro Central p/agua - PRFV" href="#">
+<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Filtro Central p/agua (PRFV)" href="#">
       <img class="thumbnail img-responsive" src="../../website/images/Filtro_prfv_cilindros (1).jpg"></a></div>
       </div>
   
