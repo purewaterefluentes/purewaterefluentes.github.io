@@ -41,6 +41,7 @@ Retrolavagem manual deve ser realizada cada 7 ou 15 dias, para revolver o leito 
 Temperaturas de operação: mínima 4ºC / máxima 100 ºC.
 Pressão de operação: mínima 2kgf/cm² / máxima 5kgf/cm².
 Grau de filtração: 60 micron.
+
 ---
 
 <div class="row">
