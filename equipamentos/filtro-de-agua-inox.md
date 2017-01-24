@@ -13,7 +13,9 @@ subtitle: Carvão Ativado e Areia Quartzo
   
 Filtro com estrutura em aço inox 304.
 
-Sistema de filtragem formado por camadas de quartzo de diferentes granulometrias.
+Sistema de filtragem é formado por camadas de Areia Quartzo de alta pureza e de diferentes granulometrias, para garantir total efeciência no processo de rentenção de particulados.
+
+O Filtro também pode ser montado com carga filtrante mista de: Areia quartzo e Carvão ativado ou até Zeolita Natural.
 
 Sua filtragem é absolutamente natural, não utiliza gaseificação ou qualquer outro recurso eletro-eletrônico para realizar a filtragem.
 
@@ -31,8 +33,12 @@ Elimina o sedimentos que causam o “amarelamento” das roupas brancas.
 Pode ser utilizado apenas com leito de carvão ativado, atuando com isso como declorador.
 
 ## Outras vantagens
-Evita a incrustação de substância em suspensão nas paredes da tubulação galvanizada;
-Preserva limpo os reservatórios de água;
+- Evita a incrustação de substância em suspensão nas paredes da tubulação galvanizada
+- Preserva limpo os reservatórios de água
+- Aumenta a clarificação e qualidade final da água
+- Reduz os niveis de cor, sabor e odor.
+- Pode ser usado em sistemas: Poços artesiano, lagoa, piscinas, minas, rios, abastecimento municipal, água de chuva.
+
 
 ## Funcionamento
 A retenção de sólidos em suspensão por um leito filtrante de quartzo é realizada através dos mecanismos de interceptação, peneira e adsorção dos sedimentos.
