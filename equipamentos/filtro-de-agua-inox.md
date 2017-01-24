@@ -34,10 +34,10 @@ Pode ser utilizado apenas com leito de carvão ativado, atuando com isso como de
 
 ## Outras vantagens
 - Evita a incrustação de substância em suspensão nas paredes da tubulação galvanizada
-- Preserva limpo os reservatórios de água
+- Preserva limpos os reservatórios de água
 - Aumenta a clarificação e qualidade final da água
-- Reduz os niveis de cor, sabor e odor.
-- Pode ser usado em sistemas: Poços artesiano, lagoa, piscinas, minas, rios, abastecimento municipal, água de chuva.
+- Reduz os níveis de cor, sabor e odor.
+- Pode ser usado em sistemas: Poços artesianos, lagoa, piscinas, minas, rios, abastecimento municipal, água de chuva.
 
 
 ## Funcionamento
