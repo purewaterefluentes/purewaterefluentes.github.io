@@ -1,7 +1,7 @@
 ---
 layout: default
 pageTitle: 
-title: Filtro Central p/ água (PRFV)
+title: Filtro Central para Água (PRFV)
 ---
 
 ## Especificações do Filtro Fiberglass
