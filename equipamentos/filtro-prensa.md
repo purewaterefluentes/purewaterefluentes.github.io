@@ -28,4 +28,5 @@ Tabela dimensional filtro prensa
 
 ## Galeria de Fotos
 
-{% include purewater/equipamentos/galeria-filtro-prfv.html %}
+{% include purewater/equipamentos/galeria-filtro-prensa.html %}
+
