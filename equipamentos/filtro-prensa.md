@@ -27,7 +27,7 @@ Comercializamos todos os itens acessório de filtro prensa, tais como: Bomba Dia
 
 ### Tabela dimensional filtro prensa
 
-{% website/images/Filtro Prensa Purewater.JPG %}
+{% website/images/Tabela dimensional filtro prensa Purewater.JPG %}
 
 ---
 
