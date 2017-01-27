@@ -25,3 +25,7 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 Comercializamos todos os itens acessório de filtro prensa, tais como: Bomba Diafragma, Lonas de filtragem, Conjunto Hidráulico
 
 Tabela dimensional filtro prensa
+
+## Galeria de Fotos
+
+{% include purewater/equipamentos/galeria-filtro-prfv.html %}
