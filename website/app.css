@@ -63,3 +63,8 @@ footer {
 .navbar-inverse .navbar-toggle:hover .icon-bar {
     background-color: #3F7AB7;
 }
+
+.purewater-thumbnail {
+    max-height: 200px;
+    max-width: 200px;
+}

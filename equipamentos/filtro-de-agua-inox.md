@@ -6,10 +6,7 @@ subtitle: Carvão Ativado e Areia Quartzo
 
 ## Filtro Central em Aço Inox
 
-<div class="row">
-<div class="col-lg-3 col-sm-4 col-xs-6"><a title="filtro Central p/agua (inox)" href="#">
-      <img class="thumbnail img-responsive" src="../../website/images/Filtros Inox_purewater1.png"></a></div>
-  </div>
+<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Filtros Inox_purewater1.png" alt="Filtro Inox para Agua">
   
 Filtro com estrutura em aço inox 304.
 
@@ -49,13 +46,8 @@ Retrolavagem manual deve ser realizada cada 7 ou 15 dias, para revolver o leito 
 - Pressão de operação: mínima 2kgf/cm² / máxima 5kgf/cm².
 - Grau de filtração: 60 micron.
 
----
 
-<div class="row">
-  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="filtro Central p/agua (inox)" href="#">
-      <img class="thumbnail img-responsive" src="../../website/images/Filtro Misto Jpeg.jpg"></a></div>
-      
-      </div>
+## Galeria de Fotos
 
-
+{% include purewater/equipamentos/galeria-filtro-inox.html %}
 

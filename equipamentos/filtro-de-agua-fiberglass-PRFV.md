@@ -2,13 +2,12 @@
 layout: default
 pageTitle: 
 title: Filtro Central para Água (PRFV)
+subtitle: Fiberglass
 ---
 
+<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/cyber_tank.jpg" alt="Filtro de Agua em Fiberglass">
+
 ## Especificações do Filtro Fiberglass
-<div class="row">
-<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Filtro Central p/ água (PRFV)" href="#">
-      <img class="thumbnail img-responsive" src="../../website/images/Montagem filtros PRFV alta vazão.jpg"></a></div>
-      </div>
       
 - Os tanques de pressão Filtros em PRFV são fabricados com alta tecnologia e material composto por fiberglass (PRFV), de enrolamento filamentar e resinado de alta resistência química e física.
 - Todos os tanques de pressão, residenciais e comerciais, são feito por uma tecnologia de moldagem por completo sem costura.
@@ -45,21 +44,7 @@ Pode ser utilizado como leito de carvão ativado, atuando assim como declorador.
 Evita a incrustação de substância em suspensão nas paredes da tubulação galvanizada
 E preserva limpos os reservatórios de água.
 
----
+## Galeria de Fotos
 
-<div class="row">
-<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Filtro Central p/ água (PRFV)" href="#">
-      <img class="thumbnail img-responsive" src="../../website/images/filtro_prfv_cilindros (1).jpg"></a></div>
-<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Filtro Central p/ água (PRFV)" href="#">
-<img class="thumbnail img-responsive" src="../../website/images/cyber_tank.jpg"></a></div>
-<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Filtro Central p/ água (PRFV)" href="#">
-<img class="thumbnail img-responsive" src="../../website/images/cyber_tank.jpg"></a></div>
-<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Filtro Central p/ água (PRFV)" href="#">
-<img class="thumbnail img-responsive" src="../../website/images/Filtro_PRFV fiberglass.jpg"></a></div>
-<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Filtro Central p/ água (PRFV)" href="#">
-<img class="thumbnail img-responsive" src="../../website/images/Valvula Tres Vias F56E.png"></a></div>
-<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Filtro Central p/ água (PRFV)" href="#">
-      <img class="thumbnail img-responsive" src="../../website/images/Filtro para água Fiberglass_Purewater Efluentes.png"></a></div>
-</div>
+{% include purewater/equipamentos/galeria-filtro-prfv.html %}
 
-      
