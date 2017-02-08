@@ -35,9 +35,9 @@ podem ter seu efeito negativo na absorção do ferro remedidado pela administra�
 - São precipitados por sais de metais pesados.
 - São insolúveis no éter puro, clorofórmio e benzeno.
 
-Aspecto físico 
+## Aspecto físico 
 
-<LÍQUIDO>       <SOLIDO - PÓ FINO HIGROSCÓPICO>
+*LÍQUIDO*       *SOLIDO - PÓ FINO HIGROSCÓPICO*
 
 Umidade ao embalar (%) - 4,5 – 6,5
 Viscosidade (s, 25°C Copo Ford nº4) Máx. 50 Não Aplicável
