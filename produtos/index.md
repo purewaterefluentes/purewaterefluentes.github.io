@@ -4,7 +4,7 @@ title: Produtos Químicos
 subtitle: Produtos químicos para tratamento de água e efluentes industriais
 ---
 
-## Linha - Químicos para tratamento de águas e efluentes
+## Químicos para tratamento de águas e efluentes
 
 - [Alcalinizante](alcalinizante-corretor-ph.html)
 - [Acidificante](acidificante.html)
@@ -47,6 +47,6 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Policloreto de Alumínio](policloreto-de-aluminio.html)
 - [Sulfato de Aluminio](sulfato-de-aluminio.html)
 - [Sulfato Ferroso](sulfato-ferroso.html)
-- [Tanino Extrato Vegetal](tanico-vegetal.html)
+- [Tanino Extrato Vegetal](tanino-vegetal.html)
 
 
