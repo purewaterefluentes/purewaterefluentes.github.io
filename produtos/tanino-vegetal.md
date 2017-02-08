@@ -37,23 +37,26 @@ podem ter seu efeito negativo na absorção do ferro remedidado pela administra�
 
 ## Aspecto físico 
 
-*LÍQUIDO*       *SOLIDO - PÓ FINO HIGROSCÓPICO*
+*LÍQUIDO*      
 
+Umidade ao embalar ---
+Viscosidade (s, 25°C Copo Ford nº4: Máx. 50 
+Sólidos Totais (%): 30 a 34
+pH (xarope): 1,3- 2,3 
+pH (sol. aq. 10% p/v): ---
+
+*SOLIDO - PÓ FINO HIGROSCÓPICO*
 Umidade ao embalar (%) - 4,5 – 6,5
-Viscosidade (s, 25°C Copo Ford nº4) Máx. 50 Não Aplicável
-Sólidos Totais (%) 30 a 34 -
-pH (xarope) 1,3- 2,3 -
-pH (sol. aq. 10% p/v) - 1,8 – 2,7 
+Viscosidade (s, 25°C Copo Ford nº4: Não Aplicável
+Sólidos Totais: ---
+pH (xarope): ---
+pH (sol. aq. 10% p/v): 1,8 A 2,7
 
  
 ## Embalagens
 
-- Sacaria de 25 kg (Solido granulado)
+- Sacaria de 25 kg (Solido em pó)
 - Bobona Plástica de 50 Kg. (Líquido)
 - Container plastico de 1000 litros (Líquido)
 
-## Boletim Técnico
 
-{% include purewater/link-boletim.html 
-    label="Boletim Técnico Sulfato Ferroso" 
-    arquivo="Boletim-tecnico-sulfato-ferroso-liquido.pdf" %}
