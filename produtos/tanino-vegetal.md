@@ -39,19 +39,19 @@ podem ter seu efeito negativo na absorção do ferro remedidado pela administra�
 
 LÍQUIDO
 
-Umidade ao embalar ---
-Viscosidade (s, 25°C Copo Ford nº4: Máx. 50 
-Sólidos Totais (%): 30 a 34
-pH (xarope): 1,3- 2,3 
-pH (sol. aq. 10% p/v): ---
+- Umidade ao embalar ---
+- Viscosidade (s, 25°C Copo Ford nº4: Máx. 50 
+- Sólidos Totais (%): 30 a 34
+- pH (xarope): 1,3- 2,3 
+- pH (sol. aq. 10% p/v): ---
 
 SOLIDO - PÓ FINO HIGROSCÓPICO
 
-Umidade ao embalar (%) - 4,5 – 6,5
-Viscosidade (s, 25°C Copo Ford nº4: Não Aplicável
-Sólidos Totais: ---
-pH (xarope): ---
-pH (sol. aq. 10% p/v): 1,8 A 2,7
+- Umidade ao embalar (%) - 4,5 – 6,5
+- Viscosidade (s, 25°C Copo Ford nº4: Não Aplicável
+- Sólidos Totais: ---
+- pH (xarope): ---
+- pH (sol. aq. 10% p/v): 1,8 A 2,7
 
  
 ## Embalagens
