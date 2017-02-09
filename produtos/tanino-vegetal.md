@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Tanino Vegetal
-Subtitle: 
+pageTitle: Tanino Vegetal
+title: Tanino
+subtitle: 
 ---
 
 ## Apresentação
@@ -22,7 +23,7 @@ Taninos (do francês tanin) são polifenóis de origem vegetal, com pesos molecu
 
 Os polifenóis de leguminosas e cereais são, na maior parte dos casos, taninos de origem flavonóide. Uma de suas características é a capacidade de precipitar proteínas, pois têm alto peso molecular e suficientes grupos hidroxila fenólica para permitir a formação de ligações cruzadas estáveis com proteínas.
 
-#### Os Taninos:
+### Os Taninos:
 
 são capazes de se combinar com proteínas da pele animal inibindo o processo de putrefação, razão pela qual são utilizados no processo de curtimento do couro;
 parecem ser responsáveis pela adstringência de muitas plantas;podem ser a causa da baixa digestibilidade das proteínas de leguminosas que, quando não suficientemente cozidas, contém esse tipo substância em quantidade considerável;
