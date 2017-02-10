@@ -15,3 +15,4 @@ Diafragmas e válvulas constituídas em materias anti-corrosivos compativeis com
 Pressão de até 6.0 bar e vazão de 3 a 300 L/H por cabeçote com regulagem micrométrica de 0% a 100% na vazão com bomba parada ou em funcionamento.
 
 nosso departamento técnico deve ser consultado para outras vazões ou pressões.
+
