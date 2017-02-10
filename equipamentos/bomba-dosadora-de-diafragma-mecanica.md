@@ -4,6 +4,8 @@ title: Bomba Dosadora de Diafragma
 subtitle: Ação Mecânica
 ---
 
+<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/" alt="Dosadora Diafragma">
+
 A bomba dosadora de diafragma é utilizada em estações de tratamento de água e instalações industriais para dosagem de produtos químicos em solução, em sistemas de pressões de até 50 mca. Podendo ser de até quatro cabeçotes.
 
 Bomba dosadora de deslocamento positivo composto de motor redutor, base de fixação e sistema independente de 1 a 4 cabeçotes.
