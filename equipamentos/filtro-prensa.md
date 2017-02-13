@@ -28,8 +28,7 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 - Calha de coleta de líquidos
 - Cone de descarte de lodo em polipropileno
 - Equipamento fabricado em diversos tamanhos
-
-### Comercializamos todos os itens acessório de filtro prensa, tais como: Bomba Diafragma, Lonas de filtragem, Conjunto Hidráulico
+- Comercializamos acessório de filtro prensa, tais como: Bomba Diafragma, Lonas de filtragem
 
 <img src="../../website/images/Tabela dimensional filtro prensa Purewater.JPG" alt="Tabela de Medidas - Filtro Prensa">
 
