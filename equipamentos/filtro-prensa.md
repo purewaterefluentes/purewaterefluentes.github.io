@@ -9,7 +9,7 @@ title: Filtro Prensa
 
 
 
-A Purewater Efluentes fabrica Filtro Prensa (Desaguador), para os mais variados seguimentos do mercado, tais como: Galvanoplastia, Metalúrgicas, Siderúrgicas, Alimentícia e outras.
+A Purewater Efluentes fabrica Filtro Prensa (Desaguador), para os mais variados seguimentos do mercado, tais como: Tratamento de água, tratamento de efluentes industriais, Galvanoplastia, Metalúrgicas, Siderúrgicas, Alimentícia e outras.
 
 Este equipamento é especialmente aplicado em tratamento de água e efluentes industrias, tendo a função de desidratação do lodo gerado no tratamento de água.
 
@@ -35,8 +35,6 @@ Comercializamos todos os itens acessório de filtro prensa, tais como: Bomba Dia
 
 <img src="../../website/images/Tabela dimensional filtro prensa Purewater.JPG" alt="Tabela de Medidas - Filtro Prensa">
 
-
-## Galeria de Fotos
 
 {% include purewater/equipamentos/galeria-filtro-prensa.html %}
 
