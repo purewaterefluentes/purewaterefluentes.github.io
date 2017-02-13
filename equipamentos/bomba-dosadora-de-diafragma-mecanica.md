@@ -21,9 +21,9 @@ Pressão de até 6.0 bar e vazão de 3 a 300 L/H por cabeçote com regulagem mic
 ## APLICAÇÕES
 
 - Dosagem de produtos químicos
-- Dosagem em tratamento de água potavél
+- Dosagem em tratamento de água potável
 - Dosagem em tratamento de efluentes industriais
-- Dosagem em sistemas industrias diversos, tais como: Torres de resfriamento, Caldeiras, Galvanoplastia, industria alimenticia e outras.
+- Dosagem em sistemas indústrias diversos, tais como: Torres de resfriamento, Caldeiras, Galvanoplastia, industria alimentícia e outras.
 
 {% include purewater/equipamentos/dosadora-diafragma-mecanica.html %}
 
