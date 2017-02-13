@@ -20,4 +20,5 @@ Pressão de até 6.0 bar e vazão de 3 a 300 L/H por cabeçote com regulagem mic
 nosso departamento técnico deve ser consultado para outras vazões ou pressões.
 
 
-{% include purewater/equipamentos/dosadora diafragma duplo comando.bmp %}
+{% include purewater/equipamentos/dosadora-diafragma-mecanica.html %}
+
