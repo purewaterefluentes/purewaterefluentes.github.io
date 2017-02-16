@@ -8,7 +8,7 @@ subtitle: Pneumática
 
 ## Apresentação
 
-As bombas pneumáticas de diafragma são ideais para bombeamento de produtos abrasivos ou corrosivos e produtos contendo sólidos, especialmente devido seu projeto não possuir componentes giratórios e vedação por selos mecânicos, como as bombas centrífugas.
+As bombas pneumáticas de duplo diafragma são ideais para bombeamento de produtos abrasivos ou corrosivos e produtos contendo sólidos, especialmente devido seu projeto não possuir componentes giratórios e vedação por selos mecânicos, como as bombas centrífugas.
 
 ## Aplicações
 
