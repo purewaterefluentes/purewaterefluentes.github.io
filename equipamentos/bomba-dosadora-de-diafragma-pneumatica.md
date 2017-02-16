@@ -4,7 +4,7 @@ title: Bomba Dosadora de Diafragma
 subtitle: Pneumática
 ---
 
-<img class="img-responsive pull-right" style="max-width: 38%;" src="../../website/images/Dosadora Diafragma Pneumatica 2.jpg" alt="Dosadora Diafragma Pneumatica">
+<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/bomba-dosadora-pneumatica-duplo-diafragma.jpg" alt="Dosadora Duplo Diafragma Pneumatica">
 
 ## Apresentação
 
