@@ -4,7 +4,9 @@ title: Bomba Dosadora de Diafragma
 subtitle: Eletromagnetica
 ---
 
-<img class="img-responsive pull-right" style="max-width: 38%;" src="../../website/images/Dosadora Diafragma Pneumatica 2.jpg" alt="Dosadora Diafragma Pneumatica">
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Dosadora Eletromagnetica.jpg" alt="Dosadora Diafragma Eletromagnetica">
+
+## Apresentação
 
 As Bombas Dosadoras Eletromagnéticas podem ser aplicadas para a dosagem dos mais diversos produtos químicos, com elevado rendimento elétrico e alta reprodutibilidade nas dosagens.
 
@@ -16,19 +18,11 @@ A unidade de controle oferece variada opções de dosagem (vazões): de 0 a 30 l
 > 
 - Processos Industriais
 - E.T.E.
-<
-
-E.T.A. A partir de 30l/s (pré, inter e pós-cloração)
-Plataformas de Petróleo
-Torres de Resfriamento
-Efluentes Industriais
-Cloro
-Flúor
-Ácidos
-Produtos químicos em geral, líquidos ou viscosos.
-Outros químicos
-E.T.A.
-Poços
-Resort
-
-<img class="img-responsive pull-right" style="max-width: 38%;" src="../../website/images/Dosadora Diafragma Pneumatica 2.jpg" alt="Dosadora Diafragma Pneumatica">
+- E.T.A. A partir de 30 litros/Seg (pré, inter e pós-cloração)
+- Plataformas de Petróleo
+- Torres de Resfriamento
+- Efluentes Industriais
+- Cloragem (Cloro)
+- Dosagem de Ácidos
+- Produtos químicos em geral, líquidos ou viscosos.
+- Dosagem em Poços
