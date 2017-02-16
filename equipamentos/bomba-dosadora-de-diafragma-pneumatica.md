@@ -4,6 +4,8 @@ title: Bomba Dosadora de Diafragma
 subtitle: Pneumática
 ---
 
+<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Dosadora Diafragma Pneumatica 2.jpg" alt="Dosadora Diafragma Pneumatica">
+
 ## Apresentação
 
 As bombas pneumáticas de diafragma são ideais para bombeamento de produtos abrasivos ou corrosivos e produtos contendo sólidos, especialmente devido seu projeto não possuir componentes giratórios e vedação por selos mecânicos, como as bombas centrífugas.
