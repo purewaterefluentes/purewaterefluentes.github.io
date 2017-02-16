@@ -13,9 +13,11 @@ Equipada com circuito eletrônico antiexplosivo e de alta precisão, garante vaz
 A unidade de controle oferece variada opções de dosagem (vazões): de 0 a 30 litros/H, para trabalhar em linhas de contrapressão de até 20Kg, com fluxo regulável manualmente por meio de dois botões localizados no painel frontal, ajuste de 10% da vazão total e ajuste de 90% da vazão total.
 
 ## Aplicações
+> 
+- Processos Industriais
+- E.T.E.
+<
 
-> Processos Industriais
-> E.T.E.
 E.T.A. A partir de 30l/s (pré, inter e pós-cloração)
 Plataformas de Petróleo
 Torres de Resfriamento
