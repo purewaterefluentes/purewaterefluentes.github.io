@@ -20,13 +20,16 @@ subtitle: Fabricação de equipamentos para tratamento de água e efluentes
 
 ## Sensores de PH e REDOX (ORP)
 
-- Eletrodos e Sensores de PH e ORP
-- Eletrodos de PH
+- [Sensores de pH](eletrodo-de-ph.html)
+- [Sensor de Redox ORP](eletrodo-de-redox.html)
 
-## Medidores de PH e REDOX (ORP)
 
-- Medidor de Bancada de PH e ORP - Redox
-- Medidor de PH e ORP - Redox
+## Medidores e Controladores de PH e REDOX (ORP)
+
+- [Medidor de pH - Bancada](medidor-de-ph-modelo-bancada.html)
+- [Medidor de pH - Portátil](medidor-de-ph-modelo-portatil.html)
+- [Controlador de pH - Automático](controlador-de-ph-modelo-automatico.html)
+
 
 ## Equipamentos em Polipropileno p/ Estação de Tratamento
 
