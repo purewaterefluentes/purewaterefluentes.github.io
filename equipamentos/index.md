@@ -10,7 +10,7 @@ subtitle: Fabricação de equipamentos para tratamento de água e efluentes
 - [Filtro Central em Fiberglass - PRFV](filtro-de-agua-fiberglass-PRFV.html)
 - [Filtro Prensa](filtro-prensa.html)
 
-## Bombas Dosadoras
+## Bombas de transferência e Dosadoras
 
 
 - [Bomba Dosadora de Diafragma - Mecânica](bomba-dosadora-de-diafragma-mecanica.html)
