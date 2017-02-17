@@ -11,7 +11,7 @@ Além de equipamentos para ETE ou ETA, projetamos equipamentos para uso em: Galv
 
 Projetamos peças e equipamentos conforme sua necessidade. Consulte nosso departamento de vendas.
 
-### Galeria de Fotos
+* Galeria de Fotos
 
 ---
 
