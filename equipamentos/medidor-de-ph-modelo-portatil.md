@@ -37,5 +37,8 @@ Possui compensação manual ou automática de temperatura e também saída anal�
 - Sonda de temperatura
 - Suporte para eletrodos
 - Instruções de operação
-______________________________________________________________________________________________________________
+
+<
+
 {% include purewater/equipamentos/galeria-medidor-de-ph-modelo-portatil.html %}
+
