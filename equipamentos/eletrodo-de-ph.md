@@ -8,16 +8,16 @@ subtitle:
 
 ## APRESENTAÇÃO
 
-A Purewater Efluentes, comercializa todos os modelos de sensores de pH (Eletrodo de pH), dispoveis para os mais variados seguimentos e aplicações do mercado.
+A Purewater Efluentes, comercializa todos os modelos de sensores de pH (Eletrodo de pH), disponíveis para os mais variados seguimentos e aplicações do mercado.
 
 
 ## HISTORIA
 
-Em físico-química, o pH é por definição a concentração hidrogeniônica do meio (Fase liquida), que indica a acidez ou basicidade de uma solução aquosa. 
+O pH é por definição a concentração hidrogeniônica do meio (Fase liquida), que indica a acidez ou basicidade de uma solução aquosa. 
 
 Soluções com pH menor que 7 são ácidas, e com pH maior que 7, básicas ou alcalinas. A água pura é neutra (pH = 7).
 
-O termo "pH" foi introduzido, em 1909, pelo bioquímico dinamarquês Søren Peter Lauritz Sørensen com o objetivo de facilitar seus trabalhos no controle de qualidade de cervejas.
+O termo "pH" foi introduzido em 1909, pelo bioquímico dinamarquês <Soren> Peter Lauritz Sorensen com o objetivo de facilitar seus trabalhos no controle de qualidade de cervejas.
 
 >
 ## TABELA DE PH
