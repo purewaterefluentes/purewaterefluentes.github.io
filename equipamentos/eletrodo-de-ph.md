@@ -4,7 +4,7 @@ title: Sensor de pH
 subtitle: 
 ---
 
-<img class="img-responsive center" style="max-width: 100%;" src="../../website/images/Eletrodo de ph purewater.jpg" alt="Sensor de pH">
+<img class="img-responsive center" style="max-width: 70%;" src="../../website/images/Eletrodo de ph purewater.jpg" alt="Sensor de pH">
 
 ## APRESENTAÇÃO
 
