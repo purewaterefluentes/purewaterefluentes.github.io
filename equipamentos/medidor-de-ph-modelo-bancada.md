@@ -37,9 +37,3 @@ Possui compensação manual ou automática de temperatura e também saída anal�
 - Suporte para eletrodos
 - Instruções de operação
 
-## Galeria de Fotos
-
-{% include purewater/equipamentos/galeria-filtro-prfv.html %}
-
-
-
