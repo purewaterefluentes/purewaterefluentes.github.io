@@ -10,7 +10,7 @@ subtitle:
 
 A Purewater Efluentes, comercializa todos os modelos de sensores de pH (Eletrodo de pH), disponíveis para os mais variados seguimentos e aplicações do mercado, tais como:
 
-- Medição e controle em tratamento de água e efluentes
+- Medição e controle de pH em tratamento de água e efluentes
 - Processos indústriais químicos
 - Controle laboratorial
 - Medição de pH em sistemas de caldeira, galvanoplastia, farmacêutico e outros.
