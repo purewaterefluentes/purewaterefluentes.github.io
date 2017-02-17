@@ -17,8 +17,7 @@ A unidade de controle oferece variada opções de dosagem (vazões): de 0 a 30 l
 ## Aplicações
 > 
 - Processos Industriais
-- E.T.E.
-- E.T.A. A partir de 30 litros/Seg (pré, inter e pós-cloração)
+- ETE e ETA - Com vazão a partir de 30 litros/Seg (pré, inter e pós-cloração)
 - Plataformas de Petróleo
 - Torres de Resfriamento
 - Efluentes Industriais
