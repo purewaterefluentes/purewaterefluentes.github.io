@@ -9,40 +9,35 @@ subtitle:
 
 ## Especificações do Filtro Fiberglass
       
-- Os tanques de pressão Filtros em PRFV são fabricados com alta tecnologia e material composto por fiberglass (PRFV), de enrolamento filamentar e resinado de alta resistência química e física.
-- Todos os tanques de pressão, residenciais e comerciais, são feito por uma tecnologia de moldagem por completo sem costura.
-- Todas as entradas de rosca são feitas de 30% de fibra de vidro e cheio com PP (Polipropileno), oque fornece maior força e resistência a temperatura e pressão.
-- Espessura da parede do forro disponível a partir de 3.0 a 7.6 mm, proporcionalmente correspondente ao diâmetro do tanque.
-- São fornecidos em diâmetros de tanque de pressão de 6" a 48" de diâmetro e a partir de 10" a 72" de altura.
-- Com abertura do bocal superior disponível com medidas de 6 "a 36" de diâmetro.
-- Os filtros fabricados em PRFV reforçado possuem um terço do peso dos filtros em aço carbono ou inox.
-- Todos os tanques de pressão em PRFV apresentam resistência de 100% à corrosão.
+O medidor de pH modelo PHB-master foi desenvolvido para uso contínuo em bancadas de laboratório, medindo de forma simples e direta pH, milivoltagem e temperatura através de um display LCD de fácil leitura.
 
-## Operação
-- Pressão de operação: Máximo 150 psi (10.5 Bar)
-- Temperatura de operação: 49ºC
+Possui compensação manual ou automática de temperatura e também saída analógica para registrador externo 
 
-## Tipos de Carga Filtrante
+CARACTERÍSTICAS TÉCNICAS:
 
-### Os filtros PRFV podem ser montados com as seguintes configurações de cargas:
+- Display: LCD 3½ dígitos com 13mm de altura
+- Amostragem: 3 leituras/segundo
+- Entrada para eletrodos com conector BNC com impedância de entrada de 10¹²Ω
+- Sonda de temperatura com haste inox Ø3 x 120mm e rabicho isolação PVC/PVC comprimento 1m e conector tipo P2
+- Knobs de calibração: -pH X(ganho)
+- pH 7 (ponto zero)
+- Temperatura
+- Alimentação: bateria recarregável de 9Vcc (interna e com recarregador incorporado no instrumento)
+- Consumo: 25 mW
+- Caixa em plástico ABS com dimensões de 260 x 180 x 90 mm
+- Peso: 0,5 Kgf
 
-- Total de areia quartzo 98% de pureza
-- Total de carvão ativado granulado
-- Carga mista areia quartzo e carvão ativo
-- Zeólito natural (Clinoptilolita é classificada como óxido mineral cristalino de alumínio e sílica), alta eficiência em filtragem.
+# Faixas de medição:
 
-## Funções e benefícios
-Retém areia, argila, ferrugem e outros sedimentos em suspensão.
-Reduz os excessos de cálcio e alumínio utilizados no tratamento artificial da água.
-Retém também substâncias orgânicas em suspensão (algas mortas).
-Aumenta a vida útil do sistema de aquecimento solar e resistência dos chuveiros.
-Isenta sua água de sabor e odor desagradável, causados pelo tratamento químico.
-Elimina os sedimentos que causam o "amarelamento" das roupas brancas.
-Pode ser utilizado como leito de carvão ativado, atuando assim como declorador.
+* MODO FAIXA RESOLUÇÃO PRECISÃO
 
-## Outras vantagens
-Evita a incrustação de substância em suspensão nas paredes da tubulação galvanizada
-E preserva limpos os reservatórios de água.
+- pH 0 à 14,00 pH 0,01 pH +/- 0,01pH
+- temperatura 0 à 100°C 0,1°C +/-0,8°C
+- milivoltagem (ORP) +/-1999 1 mV +/-0,5%
+- Acessórios que acompanham:
+- Sonda de temperatura
+- Suporte para eletrodos
+- Instruções de operação
 
 ## Galeria de Fotos
 
