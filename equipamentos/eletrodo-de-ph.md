@@ -17,7 +17,7 @@ O pH é por definição a concentração hidrogeniônica do meio (Fase liquida),
 
 Soluções com pH menor que 7 são ácidas, e com pH maior que 7, básicas ou alcalinas. A água pura é neutra (pH = 7).
 
-O termo "pH" foi introduzido em 1909, pelo bioquímico dinamarquês <Soren> Peter Lauritz Sorensen com o objetivo de facilitar seus trabalhos no controle de qualidade de cervejas.
+O termo "pH" foi introduzido em 1909, pelo bioquímico dinamarquês <Soren Peter Lauritz Sorensen> com o objetivo de facilitar seus trabalhos no controle de qualidade de cervejas.
 
 >
 ## TABELA DE PH
