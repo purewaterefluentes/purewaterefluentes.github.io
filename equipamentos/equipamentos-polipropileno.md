@@ -3,8 +3,11 @@ layout: default
 title: Equipamentos em Polipropileno
 ---
 
-A Purewater Efluentes desenvolve equipamentos em Polipropileno e PVC, nos mais variados modelos e tamanhos, buscando atender as necessidades de processo de nossos clientes.
-Projetamos equipamentos para uso em: Galvanoplastia, Metalurgia, Siderurgia, farmacêutico, Alimentício, Tratameto de Efluentes e outros.
+## Equipamentos para Estação de Tratamento de água e efluentes
+
+A Purewater Efluentes desenvolve equipamentos em Polipropileno, nos mais variados modelos e tamanhos, buscando atender as necessidades de processo de nossos clientes.
+
+Além de equipamentos para ETE ou ETA, projetamos equipamentos para uso em: Galvanoplastia, Metalurgia, Siderurgia, farmacêutico, Alimentício dentre outros.
 
 Projetamos peças e equipamentos conforme sua necessidade. Consulte nosso departamento de vendas.
 
