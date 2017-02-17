@@ -7,13 +7,13 @@ subtitle:
 
 <img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/cyber_tank.jpg" alt="Filtro de Agua em Fiberglass">
 
-## Especificações do Filtro Fiberglass
+## MEDIDOR DE PH - MODELO BANCADA
       
 O medidor de pH modelo PHB-master foi desenvolvido para uso contínuo em bancadas de laboratório, medindo de forma simples e direta pH, milivoltagem e temperatura através de um display LCD de fácil leitura.
 
 Possui compensação manual ou automática de temperatura e também saída analógica para registrador externo 
 
-CARACTERÍSTICAS TÉCNICAS:
+# CARACTERÍSTICAS TÉCNICAS:
 
 - Display: LCD 3½ dígitos com 13mm de altura
 - Amostragem: 3 leituras/segundo
