@@ -15,8 +15,9 @@ O termo "pH" foi introduzido, em 1909, pelo bioquímico dinamarquês Søren Pete
 >
 ## TABELA DE PH
 
->Ácido de bateria	< 1,0
->Suco gástrico	1,0 - 3,0
+= Ácido de bateria	< 1,0
+= Suco gástrico	1,0 - 3,0
+
 Sumo de limão	2,2 - 2,4
 Refrigerante tipo cola	2,5
 Vinagre	2,4-3,4
