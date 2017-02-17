@@ -17,24 +17,18 @@ O termo "pH" foi introduzido, em 1909, pelo bioquímico dinamarquês Søren Pete
 
 * Ácido de bateria	< 1,0
 * Suco gástrico	1,0 - 3,0
-# Sumo de limão	2,2 - 2,4
+* Sumo de limão	2,2 - 2,4
+* Refrigerante tipo cola	2,5
+* Vinagre	2,4-3,4
+* Sumo de laranja ou maçã	3,5
+* Cervejas	4,0 - 5,0
+* Leite	6,3 - 6,6
+* Água pura	7,0
+* Água do mar	8,0
+* Sabonete de mão	9,0 - 10,0
+* Amoníaco	11,5
+* "Água sanitária"	12,5
+* Hidróxido de sódio (soda cáustica)	13,0 - 14,0
 
-Refrigerante tipo cola	2,5
-Vinagre	2,4-3,4
-Sumo de laranja ou maçã	3,5
-Cervejas	4,0 - 5,0
-Café	5,0
-Chá	5,5
-Chuva ácida	< 5,6
-Saliva pacientes com câncer (cancro)	4,5 - 5,7
-Leite	6,3 - 6,6
-Água pura	7,0
-Saliva humana	6,5 - 7,5
-Sangue humano	7,35 - 7,45
-Água do mar	8,0
-Sabonete de mão	9,0 - 10,0
-Amoníaco	11,5
-"Água sanitária"	12,5
-Hidróxido de sódio (soda cáustica)	13,5
 
 
