@@ -38,4 +38,4 @@ Possui compensação manual ou automática de temperatura e também saída anal�
 - Suporte para eletrodos
 - Instruções de operação
 
-
+{% include purewater/equipamentos/galeria-equipamento-polipropileno.html %}
