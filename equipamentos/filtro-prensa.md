@@ -5,7 +5,7 @@ title: Filtro Prensa
 
 
 
-<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Filtro Prensa Purewater.JPG" alt="Filtro Prensa">
+<img class="img-responsive pull-right" style="max-width: 37%;" src="../../website/images/Filtro Prensa Purewater.JPG" alt="Filtro Prensa">
 
 ## Apresentação
 
