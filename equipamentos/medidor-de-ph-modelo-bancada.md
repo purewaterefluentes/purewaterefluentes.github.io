@@ -13,7 +13,7 @@ O medidor de pH modelo PHB-master foi desenvolvido para uso contínuo em bancada
 
 Possui compensação manual ou automática de temperatura e também saída analógica para registrador externo 
 
-# CARACTERÍSTICAS TÉCNICAS:
+### CARACTERÍSTICAS TÉCNICAS:
 
 - Display: LCD 3½ dígitos com 13mm de altura
 - Amostragem: 3 leituras/segundo
