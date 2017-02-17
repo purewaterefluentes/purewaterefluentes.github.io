@@ -29,8 +29,6 @@ Possui compensação manual ou automática de temperatura e também saída anal�
 
 # Faixas de medição:
 
-* MODO FAIXA RESOLUÇÃO PRECISÃO
-
 - pH 0 à 14,00 pH 0,01 pH +/- 0,01pH
 - temperatura 0 à 100°C 0,1°C +/-0,8°C
 - milivoltagem (ORP) +/-1999 1 mV +/-0,5%
