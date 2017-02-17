@@ -9,6 +9,7 @@ subtitle:
 ## APRESENTAÇÃO
 
 O sensor redox (também conhecido como sensor ORP), pode medir potencial redox na faixa de -1500 mV a +1500 mV. (Conforme disposição de equipamento).
+
 As leituras positivas indicam um agente oxidante (adição de oxigénio), enquanto as leituras negativas indicam um agente redutor (redução de oxigénio).
 
 # Algumas aplicações na leitura de Redox-ORP
