@@ -5,7 +5,7 @@ title: Medidor de pH - Bancada
 subtitle: 
 ---
 
-<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/cyber_tank.jpg" alt="Filtro de Agua em Fiberglass">
+<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/medidor_bancada_ph._img.png" alt="Medidor de pH Bancada">
 
 ## MEDIDOR DE PH - MODELO BANCADA
       
