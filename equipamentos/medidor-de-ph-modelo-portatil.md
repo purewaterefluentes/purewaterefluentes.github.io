@@ -28,7 +28,7 @@ Possui compensação manual ou automática de temperatura e também saída anal�
 - Caixa em plástico ABS com dimensões de 260 x 180 x 90 mm
 - Peso: 0,5 Kgf
 
-# Faixas de medição:
+### Faixas de medição:
 
 - pH 0 à 14,00 pH 0,01 pH +/- 0,01pH
 - temperatura 0 à 100°C 0,1°C +/-0,8°C
@@ -37,5 +37,5 @@ Possui compensação manual ou automática de temperatura e também saída anal�
 - Sonda de temperatura
 - Suporte para eletrodos
 - Instruções de operação
-
+______________________________________________________________________________________________________________
 {% include purewater/equipamentos/galeria-medidor-de-ph-modelo-portatil.html %}
