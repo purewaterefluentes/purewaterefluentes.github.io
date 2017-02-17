@@ -13,9 +13,10 @@ Em físico-química, o pH é por definição a concentração hidrogeniônica do
 O termo "pH" foi introduzido, em 1909, pelo bioquímico dinamarquês Søren Peter Lauritz Sørensen com o objetivo de facilitar seus trabalhos no controle de qualidade de cervejas (à época trabalhava no Laboratório Carlsberg, da cervejaria homônima). A grafia original tinha o "H" como subscrito: pH.[4]
 
 >
-(TABELA DE PH)
-Ácido de bateria	< 1,0
-Suco gástrico	1,0 - 3,0
+## TABELA DE PH
+
+>Ácido de bateria	< 1,0
+>Suco gástrico	1,0 - 3,0
 Sumo de limão	2,2 - 2,4
 Refrigerante tipo cola	2,5
 Vinagre	2,4-3,4
