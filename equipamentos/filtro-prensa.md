@@ -30,7 +30,7 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 - Equipamento fabricado em diversos tamanhos
 - Comercializamos acessório de filtro prensa, tais como: Bomba Diafragma, Lonas de filtragem
 
-<img src="../../website/images/Tabela dimensional filtro prensa Purewater.JPG" alt="Tabela de Medidas - Filtro Prensa">
+<img src="../../website/images/Tabela dimensional filtro prensa.JPG" alt="Tabela de Medidas - Filtro Prensa">
 
 
 {% include purewater/equipamentos/galeria-filtro-prensa-equipamento.html %}
