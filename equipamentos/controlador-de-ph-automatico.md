@@ -12,7 +12,7 @@ O medidor e controlador de pH digital automático <strong>Modelo PH-1200</strong
 Este equipamento possuí fácil instalação e manuseio pois apresenta painel de comando e configuração em português.
 O controlador de pH é compatível com todos os modelos de sensores de pH disponíveis no mercado.
 
-### CARACTERÍSTICAS TÉCNICAS:
+<strong> Características Gerais</strong>
 
 - Analisador e Controlador microprocessado para leituras instantâneas de pH ou redox (ORP).
 - Display de cristal líquido com back-light permanente.
