@@ -1,16 +1,14 @@
 ---
 layout: default
-title: Filtro Central para Água em Inox
-subtitle: Carvão Ativado e Areia Quartzo
+title: Filtro Central para Água
+subtitle: Carvão Ativado - Areia Quartzo - Zeolita Natural
 ---
-
-## Filtro Central em Aço Inox
 
 <img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Filtros Inox_purewater1.png" alt="Filtro Inox para Agua">
   
-Filtro com estrutura em aço inox 304.
+Filtro central para água com estrutura em aço inox 304.
 
-Sistema de filtragem é formado por camadas de Areia Quartzo de alta pureza e de diferentes granulometrias, para garantir total efeciência no processo de rentenção de particulados.
+Onde o sistema de filtragem é formado por camadas de Areia Quartzo de alta pureza e de diferentes granulometrias, para garantir total efeciência no processo de rentenção de particulados.
 
 O Filtro também pode ser montado com carga filtrante mista de: Areia quartzo e Carvão ativado ou até Zeolita Natural.
 
