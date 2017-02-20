@@ -17,14 +17,14 @@ A Purewater Efluentes, realiza análises e monitoramento de despejos atuando nas
 
 ---
 
-Oferecemos todo acompanhamento técnico junto ao Sistema de Tratamento de Efluentes.
+Oferecemos todo acompanhamento técnico junto ao sistema de Tratamento de Efluentes.
 
-Orientação técnica junto ao cliente.
+Orientação técnica e treinamento junto ao cliente.
 
-Detecção de possiveis falhas operacionais.
+Detecção e correção falhas operacionais no tratamento de água.
 
-Adequação de processos Fisico-quimico na Estação de Tratamento de Efluentes.
+Adequação de processos físico-químico na Estação de Tratamento de Efluentes.
 
-Orientação aos operadores, visando a melhor e correta forma de aplicação e execução dos processos fisico-quimicos da ETE.
+Orientação aos operadores, visando a melhor e correta forma de aplicação e execução dos processos físico-químicos da ETE.
 
-Elabaração de projetos de adequação e restauração de Estações de Tratamento de Efluentes.
+Elaboração de projetos de adequação e restauração de Estações de Tratamento de Efluentes.
