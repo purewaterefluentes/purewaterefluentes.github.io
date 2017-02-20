@@ -16,7 +16,7 @@ title: Estação Automática para Tratamento de Água e Efluentes
 
 Com as Estações Automáticas da Purewater Efluentes, seu processo fisíco-quimíco de tratamento se torna mais agil e estavél, proporcionando-lhe grande redução de custos com produtos, e na disposição de mão de obra operacional.
 
-### Indicada para vazões de: acima de 20.000 litros/dia.**
+## Indicada para vazões acima de 20.000 litros/dia.
 
 ---
 
