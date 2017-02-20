@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Bomba Dosadora de Diafragma 
+title: Bomba Dosadora Duplo Diafragma 
 subtitle: Pneumática
 ---
 
-<img class="img-responsive pull-right" style="max-width: 10%;" src="../../website/images/bomba-dosadora-pneumatica-duplo-diafragma.jpg" alt="Dosadora Duplo Diafragma Pneumatica">
-
-## Apresentação
+<img class="img-responsive pull-right" style="max-width: 30%;" src="../../website/images/bomba-dosadora-pneumatica-duplo-diafragma.jpg" alt="Dosadora Duplo Diafragma Pneumatica">
 
 As bombas pneumáticas de duplo diafragma são ideais para bombeamento de produtos abrasivos ou corrosivos e produtos contendo sólidos, especialmente devido seu projeto não possuir componentes giratórios e vedação por selos mecânicos, como as bombas centrífugas.
 
