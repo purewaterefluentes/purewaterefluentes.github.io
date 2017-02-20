@@ -42,6 +42,8 @@ O controlador de pH é compatível com todos os modelos de sensores de pH dispon
 - Pode receber ‘buzzer’ para alarme remoto.
 - Dimensões em mm : A 110 x L 110 x P 68
 
+---
+
 {% include purewater/equipamentos/galeria-controlador-automatico-ph.html %}
 
 
