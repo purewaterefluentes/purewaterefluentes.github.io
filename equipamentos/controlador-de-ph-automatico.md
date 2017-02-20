@@ -1,11 +1,11 @@
 ---
 layout: default
 pageTitle: 
-title: Medidor e Controlador de pH 
+title: Controlador Automático de pH 
 subtitle: 
 ---
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/box_medidor-ph-portatil.png" alt="Medidor de pH Portátil">
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/controlador-automatico-ph-purewater.jpg" alt="Controlador automático de pH">
 
 
 O medidor e controlador de pH digital automático <strong>Modelo PH-1200</strong> foi desenvolvido para uso contínuo em sistemas onde haja a necessidade de controle constante e ininterruptos de pH.
