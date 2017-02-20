@@ -62,6 +62,8 @@ Possui compensação manual ou automática de temperatura e também saída anal�
 - Compensação manual de temperatura;
 - Compartimento da bateria;
 
+---
+
 
 {% include purewater/equipamentos/galeria-medidor-de-ph-modelo-portatil.html %}
 
