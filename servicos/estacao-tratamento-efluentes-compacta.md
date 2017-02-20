@@ -7,7 +7,7 @@ title: Estação Compacta para Tratamento de Água e Efluentes
 
 <p class="lead">As estações compactas de tratamento de efluentes apresentam grande praticidade tanto na sua implantação como em sua operação.</p> 
 
-<p class="lead">A <strong>Estação de tratamento de efluentes compacta</strong> da Purewater controle de efluentes são adaptáveis aos mais varios seguimentos da industria.</p>
+<p class="lead">A <strong>Estação de tratamento de efluentes compacta</strong> é adaptável aos mais varios seguimentos da industria.</p>
 
 <p class="lead">Alguns dos seguimentos, tais como: galvanoplatia, metalúrgia, zincagens, siderúrgicas, farmacêuticas, cosméticos, textil, lavanderia industrial, lavanderia hospitalar, pintura, laticinios e outras.</p>
 
