@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estação Automática para Tratamento de Água e Efluentes
+title: Estação Automática para Tratamento de Efluentes
 ---
 
 <strong>Apresentação</strong>
