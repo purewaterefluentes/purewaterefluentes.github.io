@@ -28,7 +28,7 @@ subtitle: Fabricação de equipamentos para tratamento de água e efluentes
 
 - [Medidor de pH - Bancada](medidor-de-ph-modelo-bancada.html)
 - [Medidor de pH - Portátil](medidor-de-ph-modelo-portatil.html)
-- [Controlador de pH - Automático](controlador-de-ph-modelo-automatico.html)
+- [Controlador de pH - Automático](controlador-de-ph-automatico.html)
 
 
 ## Equipamentos em Polipropileno p/ Estação de Tratamento
