@@ -8,7 +8,7 @@ subtitle:
 <img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/box_medidor-ph-portatil.png" alt="Medidor de pH Portátil">
 
 
-O medidor de pH digital portátil <strong>modelo PHB-master<strong> foi desenvolvido para uso contínuo em bancadas de laboratório, medindo de forma simples e direta pH, milivoltagem e temperatura através de um display LCD de fácil leitura.
+O medidor de pH digital portátil <strong>modelo PHB-master<s> foi desenvolvido para uso contínuo em bancadas de laboratório, medindo de forma simples e direta pH, milivoltagem e temperatura através de um display LCD de fácil leitura.
 
 Possui compensação manual ou automática de temperatura e também saída analógica para registrador externo 
 
