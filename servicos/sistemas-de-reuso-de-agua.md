@@ -7,4 +7,5 @@ A Purewater Efluentes pode assessorar seus clientes, projetando sistemas que per
 
 Avaliamos a qualidade de seu efluente final (tratado), e projetamos o melhor sistema a ser implantado para atingir qualidade necessária da água, para que se possa estabelecer o ciclo de reuso.Dispomos de diversos tipos e modelos de filtros, com os mais variados tipos de cargas filtrante, tais como, Carvão ativo mineral, areia quartzo 98%, resinas heolica (Catiônica / Aniônica) e outras.
 
-Conheça nossos filtros e abrandadores acessando nossa [sessão de equipamentos](/equipamentos).
+<strong>Conheça nossos filtros e abrandadores acessando nossa [sessão de equipamentos](/equipamentos)</strong> 
+
