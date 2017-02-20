@@ -3,37 +3,26 @@ layout: default
 title: Estação Compacta para Tratamento de Água e Efluentes
 ---
 
-<img class="img-responsive pull-right" src="../../website/images/estacao_compacta.jpg" alt="ETE Compacta">
+<img class="img-responsive pull-right" src="../../website/images/estacao_compacta.jpg" alt="Estação de tratamento de efluentes Compacta">
 
 ## Caracteristicas
 
-### Modelo Operacional
-Compacta
+- Modelo Operacional: Compacta
+- Operação: Manual
+- Tipode processo: Batelada
+- Area de Implantação: De 05 a 30m²
+- Estrutura: Chapa de Polipropileno, reforço em aço carbono e revestimento anticorrossivo.>
 
-### Operação
-Manual
-    
-### Tipo
-Batelada
+<p class="lead">As estações compactas de tratamento de efluentes apresentam grande praticidade tanto na sua impantação como em sua operação.</p> 
 
-### Area de Impantação
-De 05 a 35m²
+<p class="lead">As estações compactas de tratamento de efluentes da Purewater, apresentam grande praticidade tanto na sua impantação como em dua operação.</p>
 
-### Estrutura
-Chapa de Polipropileno
+<p class="lead">As Estações Compactas da Purewater controle de efluentes são adaptaveis aos varios seguimentos da industria.</p>
+
+<p class="lead">Tais como: Galvanoplatia, Metalúrgia, Zincagens, Siferúrgicas, Farmacêuticas, Cosméticos, Textil, Lavanderia Industrial e Hospitalar, Pintura, laticinios e outras.</p>
 
 
-<br>
-
-As estações compactas de tratamento de efluentes da Purewater, apresentam grande praticidade tanto na sua impantação como em dua operação.
-
-As Estações Compactas da Purewater controle de efluentes são adaptaveis aos varios seguimentos da industria.
-
-Tais como: Galvanoplatia, Metalúrgia, Zincagens, Siferúrgicas, Farmacêuticas, Cosméticos, Textil, Lavanderia Industrial e Hospitalar, Pintura, laticinios e outras.
-
-<br>
-
-**Indicada para vazões de: 500 a 20.000 litros/dia.**
+### Indicada para vazões de: 500 a 20.000 litros/dia.**
 
 ---
 
