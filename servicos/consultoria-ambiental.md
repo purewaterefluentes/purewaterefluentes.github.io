@@ -5,7 +5,7 @@ title: Consultoria Ambiental
 
 A constante busca pelo aprimoramento e adequação dos sistemas de tratamento de efluentes liquidos, priorizam a necessidade de se identificar e minimizar no efluente, o teor de agentes poluentes.
 
-Para tanto é necessario um monitoramento preciso, rápido e constante dos processos produtivos que geram liquídos poluidores.
+Para tanto é necessario um monitoramento preciso, rápido e constante dos processos produtivos que geram líquidos poluidores.
 
 A Purewater Efluentes, realiza análises e monitoramento de despejos atuando nas áreas de:
 
