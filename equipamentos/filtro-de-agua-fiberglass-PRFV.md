@@ -45,7 +45,6 @@ Evita a incrustação de substância em suspensão nas paredes da tubulação ga
 E preserva limpos os reservatórios de água.
 
 ## Galeria de Fotos
-
 ---
 
 {% include purewater/equipamentos/galeria-filtro-prfv.html %}
