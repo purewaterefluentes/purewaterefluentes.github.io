@@ -12,7 +12,7 @@ O medidor de pH digital portátil <strong>modelo PH-Master</strong> foi desenvol
 
 Possui compensação manual ou automática de temperatura e também saída analógica para registrador externo 
 
-### CARACTERÍSTICAS TÉCNICAS:
+<strong>Características Técnicas</strong>
 
 - Medição de várias funções pH, mV e temperatura;
 - Compensação manual ou automática de temperatura;
