@@ -12,7 +12,7 @@ title: Estação Compacta para Tratamento de Água e Efluentes
 <p class="lead">Alguns dos seguimentos, tais como: galvanoplatia, metalúrgia, zincagens, siderúrgicas, farmacêuticas, cosméticos, textil, lavanderia industrial, lavanderia hospitalar, pintura, laticinios e outras.</p>
 
 
-## Características
+<strong>Características</strong>
 
 - Modelo Operacional: Compacta
 - Operação: Manual
