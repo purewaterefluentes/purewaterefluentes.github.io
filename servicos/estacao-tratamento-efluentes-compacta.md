@@ -19,8 +19,7 @@ title: Estação Compacta para Tratamento de Água e Efluentes
 - Tipo de processo: Batelada
 - Area de Implantação: De 05 a 30m²
 - Estrutura: Chapa de Polipropileno, reforço em aço carbono e revestimento anticorrossivo.>
-
-### Indicada para vazões de: 500 a 20.000 litros/dia.**
+- Indicada para vazões de: 500 a 20.000 litros/dia.
 
 ---
 
