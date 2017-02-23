@@ -2,19 +2,22 @@
 layout: default
 title: Licenciamento Ambiental
 ---
-   
-## Servicos disponibilizados
 
-Obtenção de **Licença Provisoria e de Instalação** junto a **CETESB**.
+A Purewater possui profissionais especializados na obtenção de licenciamento ambiental, podendo auxiliar e executar todo trâmite para a legalização de sua empresa junto a CETESB.
 
-Obtenção de **Licença de Operação** junto a **CETESB**.
+<strong>ADEQUAÇÃO AMBIENTAL P/ SUA EMPRESA</strong>
 
-Executamos todo trâmite buracrático junto ao Órgão expedidor (CETESB)
+- Obtenção de **Licença Provisoria** e de instalação junto a **CETESB**.
 
-Desenvolvimento de projetos (Isométrico -Auto-Cad).
+- Obtenção de **Licença de Operação** junto a **CETESB**.
 
-Elaboração de Fluxogramas de operação.
+- Executamos todo trâmite buracrático junto ao Órgão expedidor (CETESB)
 
-Descritivos de execução e aplicação Físico-química.
+- Desenvolvimento de projetos - Planta Baixa local e estação de tratamento (Auto-Cad).
 
-Preenchimento de prontuários para Obtenção das Licença.
+- Elaboração de Fluxogramas de operação da empresa.
+
+- Memorial descritivos de execução e aplicação Físico-química.
+
+- Preenchimento de prontuários para Obtenção das Licença.
+
