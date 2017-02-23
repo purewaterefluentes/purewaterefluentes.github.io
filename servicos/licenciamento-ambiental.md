@@ -3,7 +3,9 @@ layout: default
 title: Licenciamento Ambiental
 ---
 
-A Purewater possui profissionais especializados na obtenção de licenciamento ambiental, podendo auxiliar e executar todo trâmite para a legalização de sua empresa junto a CETESB.
+A Purewater possui profissionais especializados na obtenção do licenciamento ambiental, podendo auxiliar e executar todo trâmite para a legalização de sua empresa junto a CETESB.
+
+---
 
 <strong>ADEQUAÇÃO AMBIENTAL P/ SUA EMPRESA</strong>
 
