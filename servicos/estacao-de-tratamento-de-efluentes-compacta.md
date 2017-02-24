@@ -25,6 +25,6 @@ title: Estação Compacta para Tratamento de Água e Efluentes
 
 ### Galeria de Fotos
 
-{% include purewater/servicos/galeria-ete-compacta.html %}
+{% include purewater/servicos/galeria-estacao-tratamento-efluentes-compacta.html %}
 
 estacao-de-tratamento-de-efluentes-compacta.md
