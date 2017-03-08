@@ -8,16 +8,16 @@ footer {
 }
 
 .jumbotron-purewater{
-  background-image: url('images/header-bg.jpg');
+  background-color: #25A2C9;
+  /*background-image: url('images/header-bg.jpg');*/
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   color: #FFF;        
 }
 
-.jumbotron-purewater.no-background{
-  background-image: none;
-  padding: 15px 0;
+.jumbotron-purewater.no-jumbotrom{
+  display: none;
 }
 
 .navbar-purewater {
@@ -38,6 +38,9 @@ footer {
     height: 45px;
 }
 
+.container.logo {
+  padding: 45px 0;
+}
 
 .navbar-purewater .navbar-nav>li>a {
  font-size: 16px;
