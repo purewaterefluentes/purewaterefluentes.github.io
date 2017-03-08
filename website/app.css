@@ -15,6 +15,11 @@ footer {
   color: #FFF;        
 }
 
+.jumbotron-purewater.no-background{
+  background-image: none;
+  padding: 15px 0;
+}
+
 .navbar-purewater {
   background-color: #FFF;
   border-bottom: 2px solid #3F7AB7;
