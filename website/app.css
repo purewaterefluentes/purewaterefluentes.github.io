@@ -8,8 +8,9 @@ footer {
 }
 
 .jumbotron-purewater{
-  background-color: #25A2C9;
-  /*background-image: url('images/header-bg.jpg');*/
+  background-color: #3A7AB9;
+  /*background-color: #25A2C9; */
+  /*background-image: url('border-image: ges/header-bg.jpg');*/
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -35,11 +36,16 @@ footer {
 }
 
 .navbar-purewater .navbar-brand .logo{
-    height: 45px;
+    height: 40px;
+    margin-left: 5px;
 }
 
 .container.logo {
-  padding: 45px 0;
+  padding: 40px 0;
+}
+
+.container.logo > img{
+  height: 280px;
 }
 
 .navbar-purewater .navbar-nav>li>a {
