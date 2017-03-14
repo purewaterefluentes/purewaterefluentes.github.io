@@ -21,6 +21,8 @@ compress_html:
   comments: ["<!--", "-->"]
   ignore:
     envs: [travis]
+# Google analytics
+google_analytics: 'UA-50083848-3'
 # theme
 purewater:
   name: Purewater Efluentes
