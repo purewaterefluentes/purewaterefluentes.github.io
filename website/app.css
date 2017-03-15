@@ -8,9 +8,8 @@ footer {
 }
 
 .jumbotron-purewater{
-  background-color: #3A7AB9;
-  /*background-color: #25A2C9; */
-  /*background-image: url('border-image: ges/header-bg.jpg');*/
+  background-color: #0A0BC8;
+  /*background-color: #3A7AB9;*/
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -24,10 +23,7 @@ footer {
 .navbar-purewater {
   background-color: #FFF;
   border-bottom: 2px solid #3F7AB7;
-}
-.navbar-purewater .navbar-brand,
-.navbar-purewater .navbar-nav>li>a {
-  color: #3F7AB7;
+  border-bottom: 2px solid #0A0BC8;
 }
 
 .navbar-purewater .navbar-brand{
@@ -36,9 +32,8 @@ footer {
 }
 
 .navbar-purewater .navbar-brand .logo{
-    height: 40px;
     margin-left: 5px;
-    margin-top: 2px;
+    margin-top: 13px;
 }
 
 .container.logo {
@@ -51,9 +46,11 @@ footer {
 
 .navbar-purewater .navbar-brand:hover,
 .navbar-purewater .navbar-brand:focus,
+.navbar-purewater .navbar-nav > li > a,
 .navbar-purewater .navbar-nav > li > a:hover,
 .navbar-purewater .navbar-nav > li > a:focus {
     color: #3F7AB7;
+    color: #0A0BC8;
     background-color: transparent;
   }
 
@@ -84,4 +81,8 @@ footer {
 .purewater-thumbnail {
     max-height: 200px;
     max-width: 200px;
+}
+
+a, a:hover {
+  color: #0A0BC8;
 }
