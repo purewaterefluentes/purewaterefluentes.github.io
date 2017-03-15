@@ -17,19 +17,6 @@ layout: compress
   {% include purewater/robots.html %}
   {% include purewater/meta-description.html %}
 
-  {% for favicon in site.purewater.favicons %}
-    {% assign size = favicon | split: '-' | last | split: '.' | first %}
-    <link rel="icon"
-      sizes="{{ size }}x{{ size }}"
-      href="{{ favicon }}">
-    <link rel="apple-touch-icon"
-      sizes="{{ size }}x{{ size }}"
-      href="{{ favicon }}">
-  {% endfor %}
-
-  <link rel="icon" href="/website/images/logo/favicon-32x32.png" />
-  <link rel="apple-touch-icon" href="/website/images/logo/favicon-32x32.png">
-
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <link rel="stylesheet" href="/website/theme.css">
   <link rel="stylesheet" href="/website/app.css">
