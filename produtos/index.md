@@ -4,7 +4,7 @@ title: Produtos Químicos
 subtitle: Produtos químicos para tratamento de água e efluentes industriais
 ---
 
-## Químicos para tratamento de águas e efluentes
+### Químicos para tratamento de águas e efluentes
 
 - [Alcalinizante](alcalinizante-corretor-ph.html)
 - [Acidificante](acidificante.html)
@@ -31,7 +31,7 @@ subtitle: Produtos químicos para tratamento de água e efluentes industriais
 - [Redutor de Fluoretos (Fluor)](redutor-de-fluoretos.html)
 - [Sequestrante de Oxigênio](sequestrante-de-oxigenio.html)
 
-## Matéria Prima -Linha Industrial 
+### Matéria Prima -Linha Industrial 
 
 - [Ácido Fosfino Carboxilico 40%](acido-fosfino-carboxilico.html)
 - [Cal Hidratada - Extra Purificada](cal-hidratada.html)
