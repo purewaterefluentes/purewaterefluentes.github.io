@@ -7,7 +7,7 @@ subtitle: Lubrificante para Perfuração
 
 **AQUA-FLOC** é um estabilizador do solo sintético em forma granular que é projetado para ser usado no lugar de bentonita como fluido de perfuração. Tem a capacidade de rapidamente dar uma viscosidade muito alta e cria as estruturas de olho de peixe dentro de seu corpo para ajudar a conectar as paredes do poço, o que reduz a perda de líquidos. AQUA-FLOC pode ser bombeado para um tanque de armazenamento para reutilização ou quebradas com lixívia (solução de hipoclorito de sódio 5%).
 
-## Vantagens
+### Vantagens
 
 - Alto poder de dissolução em água. Mistura-se facilmente em ambos água doce e salgada.
 - Permite a mais rápida de perfuração.
@@ -19,6 +19,6 @@ subtitle: Lubrificante para Perfuração
 - Podem ser adicionados a suspensões de bentonita para melhorar a capacidade de carga cortes
 - Não forma resíduo de carbono (uma exigência da ANP).
 
-## Fornecimento
+### Fornecimento
 
 - Embalagens de 25 Kg.

@@ -21,5 +21,5 @@ A Purewater Efluentes pode assessorar seus clientes, projetando sistemas que per
 
 Dispomos de diversos tipos e modelos de filtros, com os mais variados tipos de cargas filtrante, tais como, Carvão ativo mineral, areia quartzo 98%, resinas heolica (Catiônica / Aniônica) e outras.
 
-<strong>Conheça nossos filtros e abrandadores acessando nossa [sessão de equipamentos](/equipamentos)</strong> 
+**Conheça nossos filtros e abrandadores acessando nossa [sessão de equipamentos](/equipamentos)**
 

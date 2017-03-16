@@ -3,10 +3,7 @@ layout: default
 title: Bomba Centrifuga Química
 ---
 
-
 <img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/bomba centrifuga quimica monobloco.png" alt="Bomba Centrifuga Química">
-
-
 
 São bombas de montagem vertical (master-b/ bsd) e horizontal (master-bsm) desenvolvidas visando o bombeamento de produtos químicos, que não podem ser atendidas por bombas comuns por problemas de resistências químicas e as abrasões.
 Possuem selagem dupla, este modelo de bomba trabalha na posição vertical. Quando em funcionamento opera com as características da bomba hidrodinâmica e quando a bomba é desligada o "Selo Duplo" faz a vedação. 

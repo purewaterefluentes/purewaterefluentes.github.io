@@ -4,9 +4,9 @@ title: Bomba Dosadora de Diafragma
 subtitle: Eletromagnetica
 ---
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Dosadora Eletromagnetica.jpg" alt="Dosadora Diafragma Eletromagnetica">
+<img class="img-responsive pull-right" src="../../website/images/Dosadora Eletromagnetica.jpg" alt="Dosadora Diafragma Eletromagnetica">
 
-## Apresentação
+### Apresentação
 
 As Bombas Dosadoras Eletromagnéticas podem ser aplicadas para a dosagem dos mais diversos produtos químicos, com elevado rendimento elétrico e alta reprodutibilidade nas dosagens.
 
@@ -14,8 +14,8 @@ Equipada com circuito eletrônico antiexplosivo e de alta precisão, garante vaz
 
 A unidade de controle oferece variada opções de dosagem (vazões): de 0 a 30 litros/H, para trabalhar em linhas de contrapressão de até 20Kg, com fluxo regulável manualmente por meio de dois botões localizados no painel frontal, ajuste de 10% da vazão total e ajuste de 90% da vazão total.
 
-## Aplicações
-> 
+### Aplicações
+ 
 - Processos Industriais
 - ETE e ETA - Com vazão a partir de 30 litros/Seg (pré, inter e pós-cloração)
 - Plataformas de Petróleo

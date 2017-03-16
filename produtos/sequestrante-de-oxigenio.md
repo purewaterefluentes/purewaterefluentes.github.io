@@ -3,7 +3,7 @@ layout: default
 title: Sequestrante de Oxigênio
 ---
 
-## Apresentação
+### Apresentação
 
 Os sequestrantes da Purewater Efluentes possuem alto poder reativo, agindo diretamente sobre os íons oxigênio dissolvidos contidos na água.
 
@@ -29,7 +29,7 @@ Dado que há produção de amônia na decomposição da hidrazina, a sobre-dosag
 hidrazina deve ser evitada em sistemas de vapor onde há presença de equipamentos
 confeccionados em cobre, para prevenção da corrosão. 
 
-## Funcionalidades
+### Funcionalidades
 
 - Alto poder de redução de oxigênio dissolvido na água
 - 100% solúvel
@@ -37,7 +37,7 @@ confeccionados em cobre, para prevenção da corrosão.
 - Alta dispersão superficial
 - Não gera solidos dissolvidos no sistema
 
-## Embalagens
+### Embalagens
 
 - Bombona plástica de 50 Kg
 - Container Plastico (IBC) de 1000 litros

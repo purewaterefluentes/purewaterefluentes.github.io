@@ -8,11 +8,11 @@ subtitle:
 <img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/box_medidor-ph-portatil.png" alt="Medidor de pH Portátil">
 
 
-O medidor de pH digital portátil <strong>modelo PH-Master</strong> foi desenvolvido para uso contínuo na medição de pH, com grande praticidade atua de modo portátil e medindo de forma simples e direta o pH, milivoltagem e temperatura através de um display LCD de fácil leitura.
+O medidor de pH digital portátil **modelo PH-Master** foi desenvolvido para uso contínuo na medição de pH, com grande praticidade atua de modo portátil e medindo de forma simples e direta o pH, milivoltagem e temperatura através de um display LCD de fácil leitura.
 
 Possui compensação manual ou automática de temperatura e também saída analógica para registrador externo 
 
-<strong>Características Técnicas</strong>
+### Características Técnicas
 
 - Medição de várias funções pH, mV e temperatura;
 - Compensação manual ou automática de temperatura;
@@ -27,7 +27,7 @@ Possui compensação manual ou automática de temperatura e também saída anal�
 - Indicação de bateria fraca (Bat);
 - Construção compacta e leve para fácil operação;
  
-<strong>Especificações</strong>
+### Especificações
 
 - Display de LCD, 3½ dígitos, 13mm altura;
 - Medição de Temperatura;
@@ -43,13 +43,13 @@ Possui compensação manual ou automática de temperatura e também saída anal�
 - Dimensões: 120x70x30mm ;
 - Peso: 250g
  
-<strong>Especificações elétrica</strong>
+### Especificações elétricas
 
 - pH de 0 a 14 0,01 - pH +/- 0,01pH + 1d
 - temp ( ºC ) 0 a 100ºC 0,1ºC +/- 0,8ºC
 - mV +/- 2000  1 mV (+/- 0,5%)
  
-<strong>Descrição do painel frontal</strong>
+### Descrição do painel frontal
 
 - Entrada p/ adaptador / recarregador;
 - Saída analógica;
@@ -62,8 +62,7 @@ Possui compensação manual ou automática de temperatura e também saída anal�
 - Compensação manual de temperatura;
 - Compartimento da bateria;
 
----
-
+### Galeria de Fotos
 
 {% include purewater/equipamentos/galeria-medidor-de-ph-modelo-portatil.html %}
 

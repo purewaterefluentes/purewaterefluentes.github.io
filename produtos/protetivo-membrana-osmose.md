@@ -4,7 +4,7 @@ title: Protetivo para Osmose
 subtitle: Anti-Incrustante e protetivo para membrana de osmose
 ---
 
-## Apresentação
+### Apresentação
 
 AQUA-FLOCON é uma formulação de alto desempenho usada com efetiva ação no controle de deposição de crostas inorgânicas formadas por sais nas superfícies das membranas em geral e sistemas de osmose. 
 
@@ -16,7 +16,7 @@ AQUA-FLOCON é uma formulação de alto desempenho usada com efetiva ação no c
 - Tolerante ao ferro
 
 
-## Propriedades Típicas 
+### Propriedades Típicas 
 As propriedades típicas seguintes são para Aqua-Flocon e não deve ser considerado como limite de especificação para o produto.
 As principais especificações do produto são: 
 
@@ -26,10 +26,10 @@ As principais especificações do produto são:
 - Limite do ponto de congelamento: 0 a -3°C
 
 
-## Reatividade Química
+### Reatividade Química
 Aqua-Flocon não é afetado pelo Cloro ou outros biocidas oxidantes em condições normais de uso. Pode ser usado em sistemas de membrana com cloro e metabisulfito de sódio.
 
-## Aplicações e Níveis de Dosagem
+### Aplicações e Níveis de Dosagem
 Aqua-Flocon é uma solução aquosa de um ácido orgânico e corrosivo na forma concentrada. 
 Exemplos de materiais apropriados: 
 
@@ -40,18 +40,18 @@ Aqua-Flocon é miscível em água em todas as proporções. Pode ser aplicado pu
 É recomendada dosagem mínima da solução com concentração de 10% m/m. 
 Deve ser dosado continuamente e de forma proporcional ao fluxo de água de alimentação para manter o nível da dose recomendada. A dosagem exigida depende da qualidade da água de alimentação e o índice de saturação de várias formas de crostas presentes na salmoura concentrada.
 
-## Manipulação 
+### Manipulação 
 É indicado para uso em sistema de osmose reversa. 
 
-## Armazenagem
+### Armazenagem
 Não classificado como perigoso para o transporte terrestre. Não classificado como perigoso para o armazenamento. 
 
-## Embalagens 
+### Embalagens 
 
 - Bombona de plásticos de 50 Kg 
 - IBC de 1000 litros
 
-## Boletim Técnico
+### Boletim Técnico
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Inibidor Incrustação Osmose Flocon" 

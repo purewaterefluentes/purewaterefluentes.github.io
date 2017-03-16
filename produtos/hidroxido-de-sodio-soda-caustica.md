@@ -5,7 +5,7 @@ title: Hidróxido de Sódio
 subtitle: Soda Cáustica
 ---
 
-## Apresentação
+### Apresentação
 
 O hidróxido de sódio (NaOH), também conhecido como soda cáustica ou solução cáustica alcalina de uso na indústria (principalmente como uma base química ) no fabrico de papel , têxteis e detergentes . 
 
@@ -23,19 +23,19 @@ O hidróxido de sódio, na maior parte, é sintetizado pelo método de caustific
 Ca (OH) 2 (aq) + Na 2 CO 3 (aq) → 2 NaOH (aq) + CaCO 3 (S)
 
 
-## Propriedades Hidróxido de Sódio Sólido 
+### Propriedades Hidróxido de Sódio Sólido 
 
-- Fórmula molecular	NaOH
-- Massa molar	39.9971 g/mol
+- Fórmula molecular: NaOH
+- Massa molar: 39.9971 g/mol
 - Aparência	sólido branco
 - pH >12,5
 - higroscópico
 - Densidade	2,13 g·cm-3[1]
-- Ponto de fusão	322 °C [1]
-- Ponto de ebulição 1388 °C [1]
-- Solubilidade em água	1090 g·l-1 a 20 °C  [1]
+- Ponto de fusão: 322 °C [1]
+- Ponto de ebulição: 1388 °C [1]
+- Solubilidade em água: 1090 g·l-1 a 20 °C  [1]
 
-## Propriedades Hidróxido de Sódio 50% - Liquido
+### Propriedades Hidróxido de Sódio 50% - Liquido
 
 - Aspecto: líquido levemente turvo
 - Cor: incolor a levemente cinza.
@@ -43,10 +43,10 @@ Ca (OH) 2 (aq) + Na 2 CO 3 (aq) → 2 NaOH (aq) + CaCO 3 (S)
 - Densidade: 1,40 a 1,55 g/cm³.
 - Teor de NaOH: 46 a 52 (%).
 
-## Transporte e Armazenagem
+### Transporte e Armazenagem
 O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 45 °C. Produto com aspecto potencial para contaminação do solo e água. Deve ser armazenado em local apropriado com sistema de contenção.
 
-## Toxicologia
+### Toxicologia
 
 - Efeitos Locais: Muito perigoso em contato com olhos (irritante, corrosivo). Os efeitos nos olhos são caracterizados por vermelhidão, lacrimejamento e coceira.
 
@@ -54,7 +54,7 @@ O armazenamento deve ser na embalagem original, em local coberto, seco e ventila
 
 - Efeitos específicos: Pode causar danos aos seguintes órgãos: trato respiratório superior, pele e olhos.
 
-## Fornecimento
+### Fornecimento
 
 - Saco plastico de 25 Kg
 - Bombona plástica de 30 e 60 Kg

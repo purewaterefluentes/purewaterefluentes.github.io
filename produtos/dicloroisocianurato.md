@@ -5,14 +5,13 @@ title: DICLOROISOCIANURATO DE SÓDIO
 subtitle: Cloro Organico Estabilizado
 ---
 
-
-## Apresentação
+### Apresentação
 
 Dicloroisocianurato de sódio é um composto orgânico, sólido brancor, altamente solúvel em água. É largamente usado como agente de limpeza e desinfetante.
 Possui PH levemente ácido e é largamente usado no tratamento de água e como agente saneante. Este composto é considerado relativamente estável e possui mais cloro disponível do que o hipoclorito de sódio (alvejante líquido).
 Possui tripla ação no tratamento de água, como; Bactericida, Algicida e clarificante.
 
-## Aplicação
+### Aplicação
 
 - É principalmente usado como um desinfetante, biocida, desodorante e detergente industrial. 
 - É encontrado em alguns tabletes ou filtros para purificação de água. 
@@ -22,7 +21,7 @@ Possui tripla ação no tratamento de água, como; Bactericida, Algicida e clari
 - agente bactericida, clarificante, algicida em tratamento de água de piscina ou tratamento de águas residencial ou industrial
 
 
-## Características:
+### Características:
 
 - Alto teor de cloro livre (>65% de cloro)
 - Possuí Tripla ação bactericida, algicida e clarificante
@@ -31,6 +30,6 @@ Possui tripla ação no tratamento de água, como; Bactericida, Algicida e clari
 - Maior estabilidade e presença de cloro livre
 - Reduz os ciclos de reposição de cloro na piscina
 
-## Fornecimento
+### Fornecimento
 
 - Barrica plástica de 50 Kg 

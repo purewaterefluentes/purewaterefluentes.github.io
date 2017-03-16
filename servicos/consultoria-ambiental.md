@@ -15,7 +15,6 @@ A Purewater Efluentes, realiza análises e monitoramento de despejos atuando nas
 - Implantação e desenvolvimento para reuso de água
 - Projeto e Monitoramento de Estações e Tratamento de Efluentes (ETE)
 
----
 
 Oferecemos todo acompanhamento técnico junto ao sistema de Tratamento de Efluentes.
 

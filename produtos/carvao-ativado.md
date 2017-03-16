@@ -5,9 +5,7 @@ title: Carvão Ativado
 subtitle: AQUA-CVT
 ---
 
-
-
-## Apresentação
+### Apresentação
 
 O carvão ativado vegetal é um material de carbono extraído da casca do coco e com uma porosidade bastante desenvolvida, com capacidade de coletar seletivamente gases, líquidos ou impurezas no interior dos seus poros, apresentando portanto um excelente poder de clarificação, desodorização e purificação de líquidos ou gases.
 
@@ -18,20 +16,20 @@ Carvão Ativo ou Carvão Ativado é um produto quimicamente inerte e usado para 
 
 Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Carvão ativado vegetal
 
-## Classificação
+### Classificação
 - Carvão Ativo Vegetal
 - Extraído da casca de coco
 - Granulado ou pó
 
-## Carvão Ativado Especial (Ação Bactericida)
+### Carvão Ativado Especial (Ação Bactericida)
 - Carvão Ativo com Prata Coloidal
 - Carvão muito utilizado em sistemas de filtragem para água potável, pois a prata coloidal exerce função bactericida.
 
 
-## Carvão ativo Pulverizado
+### Carvão ativo Pulverizado
 Disponível em pó
 
-## Granulometria (Mesh)
+### Granulometria (Mesh)
 
 - 2 x 3    (7,5 a 8,5 mm)
 - 3 x 6    (4,10 a 5,0 mm)
@@ -42,11 +40,11 @@ Disponível em pó
 - 12x40  (0,85 a 1,10 mm)
 - 20x50  (0,55 a 0,70 mm)
 
-## Fornecimento
+### Fornecimento
 
 - Sacos de 25 Kg
 
-## Boletim Técnico
+### Boletim Técnico
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Carvao Ativado" 

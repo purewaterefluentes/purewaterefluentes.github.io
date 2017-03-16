@@ -5,7 +5,7 @@ title: Inibidor de Corrosão
 subtitle:   
 ---
 
-## Apresentação
+### Apresentação
 
 A corrosão de metais dentro de um sistema de recirculação de águas é o principal fator que estabelece o tempo de vida útil dos equipamentos e rede hidráulica.
 
@@ -20,10 +20,10 @@ Uma vez que o sistema já tenha sido limpo e preparado, ele deve ser protegido c
 Os produtos da linha Purewater Efluentes possuem tecnologia Anticorrosão e uma mistura exclusiva de inibidores de corrosão.
 
 
-- Consulte o setor técnico para indicação do melhor produto.
+** Consulte o setor técnico para indicação do melhor produto.**
 
 
-## Características
+### Características
 
 - Produto com alta efeciência na proteção contra corrosão
 - 100% solúvel
@@ -32,7 +32,7 @@ Os produtos da linha Purewater Efluentes possuem tecnologia Anticorrosão e uma 
 - Fácil aplicação
 
 
-## Embalagens
+### Embalagens
 
 - Bombonas plásticas de 50 Kg
 - Container plástico IBC de 1000 litros

@@ -5,14 +5,14 @@ title: Dimetil Carbamato de Sódio
 subtitle: DDS - Ditiocarbamato de sódio
 ---
 
-## Apresentação
+### Apresentação
 
 O Dimetilditiocarbamato de Sódio (Organo-sulfuroso), pode atuar como biocida,complexantes e coagulante de metais.
 
 
 Dimetilditiocarbamato de Sódio 40% também conhecido como "Ditiocarbamato de sódio" ou "Etileno Bis-ditiocarbamato de sódio" (Organo-sulfuroso), é indicado como biocida para processos de moagem do açúcar e na preservação do couro verde, como sequestrante de metais pesados em tratamento de efluentes, sendo extremamente efetivo para Chumbo, Cobre, Cádmio, Níquel, Alumínio e em processos de síntese de borracha.
 
-## Benefícios
+### Benefícios
 
 - Excelente complexante na extração de metais pesados.
 - Aditivo na indústria de borracha, finalizador da polimerização.
@@ -23,11 +23,11 @@ Aplicado como Biocida para açúcar e álcool o mesmo é extremamente recomendad
 Utilizado no tratamento de efluentes, efetivo como sequestrante de íons metálicos pesados, tais como Chumbo, Cobre, Níquel, Cromo entre outros.
 O produto também é recomendado como biocida para aplicação na indústria de couro, sendo esse o principal conservante utilizado como conservante do “couro-verde”.
 
-## Aplicação
+### Aplicação
 
 - Tratamento de águas e efluentes industrial: Atuando como coagulante, o Ditiocarbamato de sódio desestabiliza partículas de sólidos e impurezas denominadas colóides, suspensas nas águas que não se separam naturalmente. 
 
-## Características
+### Características
 
 - Aparência:Líquido límpido amarelado
 - Densidade à 20ºC: 1,05 - 1,20
@@ -35,10 +35,10 @@ O produto também é recomendado como biocida para aplicação na indústria de 
 - Matéria-Ativa %: Minimo 35
 - Solubilidade em água: Total
 
-## Transporte e Armazenagem
+### Transporte e Armazenagem
 O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 45 °C. Produto com aspecto potencial para contaminação do solo e água. Deve ser armazenado em local apropriado com sistema de contenção.
 
-## Toxicologia
+### Toxicologia
 
 - Efeitos Locais: Muito perigoso em contato com olhos (irritante, corrosivo). Os efeitos nos olhos são caracterizados por vermelhidão, lacrimejamento e coceira.
 
@@ -46,7 +46,7 @@ O armazenamento deve ser na embalagem original, em local coberto, seco e ventila
 
 - Efeitos específicos: Pode causar danos aos seguintes órgãos: trato respiratório superior, pele e olhos.
 
-## Fornecimento
+### Fornecimento
 
 - Bombona plástica de 50 Kg
 - Container (IBC) plastico 1000 litros 

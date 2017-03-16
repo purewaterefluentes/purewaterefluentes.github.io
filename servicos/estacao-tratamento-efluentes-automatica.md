@@ -3,7 +3,7 @@ layout: default
 title: Estação de tratamento de efluentes automática
 ---
 
-<strong>Apresentação</strong>
+### Apresentação
 
 - Alta Eficácia no tratamento de médias e grandes vazões.
 - Grande flexibilidade para implantação.

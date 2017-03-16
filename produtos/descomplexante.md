@@ -5,7 +5,7 @@ title: Descomplexante para efluentes
 subtitle: AQUA-DVT40 - Anti Quelante
 ---
 
-## Apresentação
+### Apresentação
 
 AQUA-DVT40 é um poderoso descomplexante (antiquelante) para aplicação em tratamento de efluentes industrial, onde as presenças de agentes complexados interferem no desempenho dos produtos usados no tratamento de efluentes. 
 
@@ -13,13 +13,13 @@ Este produto tem excelente desempenho no tratamento de efluentes de galvanoplast
 
 Também demonstra boa estabilidade mesmo em altas faixas de pH.
 
-## Benefícios
+### Benefícios
 
 - Aumenta o desempenho no tratamento de efluentes
 - Alto poder de precipitação de metais pesados tais como: Cobre, Zinco, Níquel, Estanho, Chumbo e outros.
 - Reduz o uso de produtos precipitantes adicionais no tratamento de efluentes
 
-## Embalagem
+### Embalagem
 
 - Bombona plastica de 50 Kg
 - Container IBC plastico de 1000 litros

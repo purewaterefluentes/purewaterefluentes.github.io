@@ -20,7 +20,7 @@ Devido a sua formula estabilizada, o produto AQUAFLOC-LS quando aplicado no trat
 
 100% natural e Biodegradável, não requer licença especial dos órgãos fiscalizadores ambientais para compra ou utilização.
 
-## Aplicação
+### Aplicação
 
 Pode ser aplicado diretamente, quando na forma líquida, ou sob a forma de uma solução diluída, sozinho ou em combinação com outros agentes como Sulfato de Alumínio, Cloreto Férrico, etc.
 
@@ -33,13 +33,13 @@ Recomendado nas seguintes áreas de aplicação:
 - Efluentes de abatedouros de aves, no processo de flotação.
 - Tratamento de água de abastecimento, em plantas convencionais e compactas.
 
-## Embalagem
+### Embalagem
 
 - Bombona plastica de 50 kg 
 - Containeres (IBC) plastico de 1000 litros
 
 
-## Boletim Técnico
+### Boletim Técnico
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Coagulante Floculante Orgânico - AQUAFLOC-LS" 
