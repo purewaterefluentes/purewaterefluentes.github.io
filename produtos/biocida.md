@@ -11,7 +11,7 @@ Produto não deve ser aplicado em água potável onde a contaminação desta pos
 Usado como agente bactericida, biocida, algicida e fungicida em tratamento de água de refrigeração em sistema de recirculação.
 Tais como: Torres de resfriamento, Chiller de refrigeração, centrais de refrigeração.
 
-### Características:
+### Características
 
 - Biocida com alto poder bactericida, algicida e fungicida
 - Não altera o pH do meio aquoso
