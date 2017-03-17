@@ -40,7 +40,7 @@ A retenção de sólidos em suspensão por um leito filtrante de quartzo é real
 A retenção de odor, sabor e de produtos químicos, se dá através do contato com o carvão ativado através da adsorção destes elementos.
 Retrolavagem manual deve ser realizada cada 7 ou 15 dias, para revolver o leito filtrante, eliminar a formação de caminhos preferenciais e eliminar os sedimentos retidos pelas camadas filtrantes.
 
-- Temperaturas de operação: mínima 4ºC / máxima 100 ºC.
+- Temperaturas de operação: mínima 4ºC / máxima 85 ºC.
 - Pressão de operação: mínima 2kgf/cm² / máxima 5kgf/cm².
 - Grau de filtração: 60 micron.
 
