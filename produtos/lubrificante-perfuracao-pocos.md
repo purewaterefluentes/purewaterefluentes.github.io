@@ -7,7 +7,7 @@ subtitle: Lubrificante de perfuração de poços profundos
 
 ### Apresentação
 
-**POLYER GEL LUBRI e AQUAFLOC GEL LUBRI** São polímeros sinteticos de alta concentração e de núcleo de perfuração que permite a perfuração de diâmetro maior, buracos mais profundos, água de poço de perfuração de petróleo, gás e perfuração e furação sísmica tiro. Fluidos de perfuração com base em viscosifiers polímero têm sido utilizados com sucesso por muitos anos, e sua eficácia nas taxas de perfuração crescente constantemente.
+**POLYER GEL LUBRI e AQUAFLOC GEL LUBRI** São polímeros sinteticos <Fluido de Perfuração>, de alta concentração e de núcleo de perfuração que permite a perfuração de diâmetro maior, buracos mais profundos, água de poço de perfuração de petróleo, gás e perfuração e furação sísmica tiro. Fluidos de perfuração com base em viscosifiers polímero têm sido utilizados com sucesso por muitos anos, e sua eficácia nas taxas de perfuração crescente constantemente.
 
 Os lubrificantes de perfuração de poços se constituem em polímeros de custo efetivo adequado para uma ampla gama de perfuração e trabalho ao longo aplicações.
 
@@ -26,7 +26,7 @@ As propriedades mais importantes e os benefícios são descritos abaixo.
 
 ### Características
 
-Um quilo de POLYER GEL LUBRI ou AQUAFLOC GEL LUBRI produz viscosidade equivalente a 15 a 20 libras de bentônita.
+Um quilo de **POLYER GEL LUBRI ou AQUAFLOC GEL LUBRI** produz viscosidade equivalente a 15 a 20 libras de bentônita.
 Apresenta grande vantagem e diferencial no armazenamento, transporte e manipulação como, por exemplo: Estocar um balde de Polyer G.L equivale a 20 sacos de bentônita argilosa mineral.
 
 ### Fornecimento
