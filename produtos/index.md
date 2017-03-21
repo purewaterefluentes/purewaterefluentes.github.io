@@ -2,7 +2,6 @@
 layout: default
 title: Produtos Químicos
 subtitle: Produtos químicos para tratamento de água e efluentes industriais
-redirect_from: /produtos.php
 ---
 
 ### Químicos para tratamento de águas e efluentes
