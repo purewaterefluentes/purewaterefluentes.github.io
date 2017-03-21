@@ -1,7 +1,2 @@
-source "https://rubygems.org"
-
-group :test do
-  gem "jekyll"
-  gem "html-proofer"
-  gem "rake"
-end
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
