@@ -1,8 +1,8 @@
 ---
 layout: default
 pageTitle: Alcalinizante
-title: Alcalinizante Corretor de pH
-subtitle: 
+title: AlCALINIZANTES
+subtitle: Corretor de pH
 ---
 
 ### Corretor de pH Alcalino (Elevação de PH)
@@ -11,9 +11,13 @@ Fabricamos uma linha completa de produtos destinados ao controle de PH em tratam
 
 Produto apresenta fácil aplicação estando pronto para uso o corretor de pH alcalino possueí a propriedade de elevar o pH da água ou efluentes, tendo como principal ação a neutralização de acidez em meio aquoso.
 
+**Nossos alcalinizantes podem substituir o uso de produtos de alto risco de manuseio tais como; Soda caústica com a vantagem de não necessitar de nenhuma Licença Ambiental especifica para compra.**
+
 ### Aplicação
 
-Usado como neutralizante de acidez em meio líquido e aumento do pH em meio aquoso e tratamento de água e tratamento de efluentes.
+- Usado como neutralizante de acidez em meio líquido e aumento do pH em meio aquoso e tratamento de água e tratamento de efluentes.
+- Correção de pH em tratamento de água de piscinas.
+- Correção de alcalinidade para águas de piscina de recisrculação de águas, torres de resfriamento e caldeiras.
 
 ### Características
 
@@ -24,7 +28,7 @@ Usado como neutralizante de acidez em meio líquido e aumento do pH em meio aquo
 - Fácil aplicação
 - Gera até 65% menos massa residual (borra), no tratamento de efluentes.
 - Substitui o uso de substancias de alto risco operacional como o hidróxido de sódio.
-- Produto NÃO CONTROLADO pelos órgãos ambientais (Produtos perigosos)
+- **Produto NÃO CONTROLADO** pelos órgãos ambientais (Produtos perigosos)
 
 ### Embalagens
 
