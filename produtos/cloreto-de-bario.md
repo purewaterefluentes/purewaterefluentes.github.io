@@ -12,9 +12,6 @@ O cloreto de bário, de fórmula química BaCl2, é uma substância muito utiliz
 
 Possuí fácil aplicação e também pode ser aplicado em tratamento de água nos seguimentos de: Galvanoplastia, Lavanderia Industrial, Lavanderia Hospitalar, Cromeação, Curtumes, Industria Alimentícia e Industria farmacêutica e outras.
 
-### Composição
-O produto HIPOCLORE tem alto poder saneante e bactericida para tratamentos de águas e tratamento de efluentes agindo diretamente sobre o micro-orgânismos e agentes infecciosos bacteriológicos residual presente na água ou efluente industrial, com formula a base de sódio hipocloroso, totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água.
-
 ### Características
 
 - Estado Físico: pó branco e inodoro
