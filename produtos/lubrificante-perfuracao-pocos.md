@@ -11,7 +11,7 @@ subtitle: Lubrificante de perfuração de poços profundos
 
 Os lubrificantes de perfuração de poços se constituem em polímeros de custo efetivo adequado para uma ampla gama de perfuração e trabalho ao longo aplicações.
 
-As propriedades mais importantes e os benefícios são descritos abaixo.
+**As propriedades mais importantes e os benefícios são descritos abaixo.**
 
 - Mistura-se facilmente em água doce e salgada.
 - Permite a mais rápida de perfuração.
