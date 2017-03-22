@@ -1,7 +1,7 @@
 ---
 layout: default
-pageTitle: Desincrustante
-title: Desincrustante
+pageTitle: DESINCRUSTANTE
+title: DESINCRUSTANTE
 subtitle: AQUA-DSF400
 ---
 
@@ -9,7 +9,7 @@ subtitle: AQUA-DSF400
 
 Designam-se por incrustações os depósitos que se formam no interior de linhas hidráulicas, equipamentos e acessórios industriais, devido à fixação de substâncias em suspensão e da precipitação de sólidos dissolvidos que se transformam em sólidos insolúveis devido ao aumento da temperatura. 
 
-Composto por agentes químicos limpadores balanceados, o produto dissolve e deixa em suspensão as crostas formadas internamente por carbonatos, silicatos e oxido de ferro.
+**AQUA-FSF400** é composto por agentes químicos limpadores balanceados, o produto dissolve e deixa em suspensão as crostas formadas internamente por carbonatos, silicatos e oxido de ferro.
 
 Possuí eficiente ação penetrante e de dissolução de sais, o desincrustante desprende rapidamente toda a incrustação formada nas paredes dos tubos e equipamentos.
 
