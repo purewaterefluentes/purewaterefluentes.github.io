@@ -1,7 +1,7 @@
 ---
 layout: default
-pageTitle: Desingraxante
-title: Desingraxante
+pageTitle: DESINGRANTE
+title: DESINGRAXANTE
 subtitle: GT-CLEAN
 ---
 
