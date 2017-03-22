@@ -7,9 +7,9 @@ subtitle: GT-CLEAN
 
 ### Apresentação
 
-Desingraxante alcalino para lavagem e limpeza de peças e utensilios gerais que apresentem sujidade por oléos, graxas, produtos gordurosos e outros.
+Desingraxante alcalino p/ limpeza de peças e utensilios gerais que apresentem sujidade de oléos, graxas, produtos gordurosos e outros.
 
-Composto por substancias de poder alcalino e detergentes de alto rendimento.
+Composto por substâncias de poder alcalino e detergentes de alto rendimento.
 
 ### Aplicação
 
