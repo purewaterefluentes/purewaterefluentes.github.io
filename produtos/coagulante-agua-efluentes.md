@@ -22,7 +22,7 @@ A Purewater Efluentes desenvolve formulações especificas na criação de coagu
 - Coagulante para tratamento de água de poço
 - Aplicação nos mais variodos tipos de efluentes como; Galvanoplastia, Lavanderia industrial, industria metalurgica, farmaceutico e outros
 
-### Classificação de Coagulante
+### Classificação de Coagulantes
 
 - Coagulantes Inorgânicos
 - Coagulantes Orgânicos
@@ -34,11 +34,4 @@ A linha de coagulante da Purewater Efluentes é fornecida nas seguintes embalage
 - Sacos de 25 Kg 
 - Bombona plastica de 25 e 50 Kg
 - Container plastico (IBC) de 1000 litros
-
-### Boletim Técnico
-
-{% include purewater/link-boletim.html 
-   label="Boletim Técnico coagulante P-3000" 
-   arquivo="Boletim-tecnico-coagulante-P3000.pdf" %}
-   
 
