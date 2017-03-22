@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anti-Incrustante
+title: ANTI-INCRUSTANTE
 titlePage: ANTI-INCRUSTANTE
 Subtitle: Dispersante
 ---
