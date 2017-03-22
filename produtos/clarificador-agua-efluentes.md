@@ -1,15 +1,15 @@
 ---
 layout: default
-pageTitle: Clarificador p/ água e efluentes
-title: Clarificador p/ água e efluentes
-subtitle: AQUA600-S
+pageTitle: ClARIFICADOR
+title: CLARIFICADOR
+subtitle: Clarificação em tratamento de efluentes
 ---
 
 ### Apresentação
-Produto destinado a redução de pigmentação (Coloração) em tratamento de efluentes, e a eliminação de resíduos orgânicos passíveis de alteração física ou química no efluente.
+Produto destinado a redução de pigmentação **Coloração** em tratamento de efluentes, e a eliminação de resíduos orgânicos passíveis de alteração física ou química no efluente.
 
 ### Composição
-O produto AQUA600-S tem ótimo poder de clarificação para tratamentos de água e tratamento de efluentes agindo diretamente sobre o contaminante residual presente na água ou efluente industrial, sendo formulada a base de sais inorgânicos (Familia 3A) estabilizados, e sendo totalmente solúvel em água proporcionando uma ação direta e eficaz na redução da cor e agentes de pigmentação.
+O produto **AQUA600-S** tem ótimo poder de clarificação para tratamentos de água e tratamento de efluentes agindo diretamente sobre o contaminante residual presente na água ou efluente industrial, sendo formulada a base de sais inorgânicos (Familia 3A) estabilizados, e sendo totalmente solúvel em água proporcionando uma ação direta e eficaz na redução da cor e agentes de pigmentação.
 
 ### Principais Aplicações
 No tratamento de águas residuais, água de poço, piscinas, efluentes industriais, esgoto domestico.
