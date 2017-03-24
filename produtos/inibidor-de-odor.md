@@ -1,8 +1,8 @@
 ---
 layout: default
-pageTitle: Inibidor de Odor
-title: Inibidor de Odor
-subtitle: AQUA-CLEAN
+pageTitle: INIBIDOR DE ODOR
+title: INIBIDOR DE ODOR
+subtitle: Atua na redução de odor em tratamento de água
 ---
 
 
@@ -11,7 +11,7 @@ Produto concentrado e de fácil aplicação destinado a redução e inibição d
 Possuí efeito prolongado aumentado a eficiencia no controle de odores residuais em água de reuso.
 
 ### Composição
-O AQUA-CLEAN é formulado a base de poliquaternarios de tetrakis amoniacal, estabilizante e aromatizante natural,  sendo totalmente solúvel em água, podendo ser aplicado em sua forma concentrada ou diluido na proporção sugerida de 1:10 partes.
+O **AQUA-CLEAN** é formulado a base de poliquaternarios de tetrakis amoniacal, estabilizante e aromatizante natural,  sendo totalmente solúvel em água, podendo ser aplicado em sua forma concentrada ou diluido na proporção sugerida de 1:10 partes.
 
 ### Mecanismo de Ação
 
@@ -34,7 +34,7 @@ Sua ação se deve a presença de componentes de alta ação bactericida oque di
 - Aparência: Líquido transparente a azul
 - Odor: Eucalipto ou inodoro
 
-### Funcionalidades
+### Vantagens
 
 - Bactericida de alta efeciencia para sistemas de água de reuso
 - Alta concentração
@@ -48,7 +48,7 @@ Pode vir a ocorrer o processo de separação de fases durante o período de arma
 Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
 
 ## Manuseio e Método de Aplicação
-Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do AQUA-CLEAN na proporção de 1/10 partes de água aplicando no meio formador de odor. 
+Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do **AQUA-CLEAN** na proporção de 1/10 partes de água aplicando no meio formador de odor. 
 Também podendo ser aplicado em sua forma original.
 A dosagem a ser utilizada varia de acordo com a aplicação e o meio provocador de espuma e equipamentos.
 
