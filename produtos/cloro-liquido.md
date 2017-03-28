@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Cloro Liquido - Hipoclore
 title: Cloro Liquido
 subtitle: HIPOCLORE

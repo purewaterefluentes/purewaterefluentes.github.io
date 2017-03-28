@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Coagulante Orgânico Biodegradavel
 title: Coagulante Orgânico Biodegradável 
 subtitle: AQUAFLOC-LS

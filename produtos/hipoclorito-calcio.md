@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Hipoclorito de Calcio Granulado
 title: AQUA-HIPO
 subtitle: Cloro Granulado

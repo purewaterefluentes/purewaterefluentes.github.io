@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 title: Produtos Químicos
 subtitle: Produtos químicos para tratamento de água e efluentes industriais
 ---

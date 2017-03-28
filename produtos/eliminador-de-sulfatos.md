@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Eliminador de Sulfatos
 title: Eliminador de Sulfatos
 subtitle: AQUA-150

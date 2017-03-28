@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Descomplexante
 title: DESCOMPLEXANTE
 subtitle: Anti-Quelante para tratamento de efluentes

@@ -1,7 +1,7 @@
 ---
-layout: default
-title: ANTI-INCRUSTANTE
-titlePage: ANTI-INCRUSTANTE
+layout: contato
+title: Anti-Incrustante
+titlePage: Anti-Incrustante
 Subtitle: Dispersante
 ---
 

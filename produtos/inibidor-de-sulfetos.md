@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Inibidor de Sulfeto
 title: Inibidor de Sulfetos
 subtitle: AQUA-S2PH

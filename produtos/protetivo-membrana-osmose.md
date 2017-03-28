@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 title: Protetivo para Osmose
 subtitle: Anti-Incrustante e protetivo para membrana de osmose
 ---

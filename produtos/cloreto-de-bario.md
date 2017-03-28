@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Cloreto de Bário
 title: Cloreto de Bário
 subtitle: 

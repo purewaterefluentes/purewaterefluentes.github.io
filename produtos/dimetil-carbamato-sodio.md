@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Dimetil Carbamato de Sódio
 title: Dimetil Carbamato de Sódio
 subtitle: DDS - Ditiocarbamato de sódio

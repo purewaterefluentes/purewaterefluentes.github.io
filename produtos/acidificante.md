@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Acidificante
 title: ACIDIFICANTE
 subtitle: Corretor de pH / AQUA-F400

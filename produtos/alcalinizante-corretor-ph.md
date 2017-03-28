@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Alcalinizante
 title: ALCALINIZANTE
 subtitle: Corretor de pH

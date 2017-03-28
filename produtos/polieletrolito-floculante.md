@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Polieletrolito
 title: Polieletrolito - Polímero Floculante
 subtitle: Auxiliar de floculação para tratar água

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Cal Hidratada - Extra Purificada
 title: Cal Hidratada
 subtitle: Extra Purificada

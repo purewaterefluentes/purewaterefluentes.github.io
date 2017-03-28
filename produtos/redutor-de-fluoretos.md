@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Redutor de Fluoretos
 title: Redutor de Fluoretos
 subtitle: remoção de aníons 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Inibidor de Corrosão
 title: Inibidor de Corrosão
 subtitle:   

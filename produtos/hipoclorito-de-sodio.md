@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Cloro Liquido
 title: HIPOCLORITO DE SÓDIO
 subtitle: Cloro liquido

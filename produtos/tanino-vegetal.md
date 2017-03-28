@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Tanino Vegetal
 title: Tanino
 subtitle: 

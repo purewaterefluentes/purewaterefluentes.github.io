@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Cloreto Férrico
 title: Cloreto Férrico
 subtitle: Percloreto de ferro.

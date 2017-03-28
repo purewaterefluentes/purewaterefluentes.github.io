@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Precipitador de Metais
 title: Precipitador de Metais
 subtitle: Coagulante para tratamento de efluentes

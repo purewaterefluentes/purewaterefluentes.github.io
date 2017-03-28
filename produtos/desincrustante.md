@@ -1,7 +1,7 @@
 ---
-layout: default
-pageTitle: DESINCRUSTANTE
-title: DESINCRUSTANTE
+layout: contato
+pageTitle: Desincrustante
+title: Desincrustante
 subtitle: AQUA-DSF400
 ---
 

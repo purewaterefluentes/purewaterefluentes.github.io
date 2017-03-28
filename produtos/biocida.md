@@ -1,6 +1,6 @@
 ---
-layout: default
-title: BIOCIDAS
+layout: contato
+title: Biocidas
 ---
 
 ### Apresentação

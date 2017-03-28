@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 title: Sulfato de Alumínio
 ---
 

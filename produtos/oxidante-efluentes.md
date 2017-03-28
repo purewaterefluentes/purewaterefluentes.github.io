@@ -1,8 +1,8 @@
 ---
-layout: default
-pageTitle: OXIDANTE
-title: OXIDANTE
-subtitle: Agente de oxidação e sanitizante p/ água de poço
+layout: contato
+pageTitle: Oxidante
+title: Oxidante
+subtitle: Agente de oxidação e sanitizante para água de poço
 ---
 
 ### Apresentação

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Policloreto de Aluminio - AQUA-PAC
 title: AQUA-PAC
 subtitle: Policloreto de Aluminio

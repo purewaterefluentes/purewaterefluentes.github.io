@@ -1,7 +1,7 @@
 ---
-layout: default
-pageTitle: CARVÃO ATIVADO
-title: CARVÃO ATIVADO
+layout: contato
+pageTitle: Carvão Ativado
+title: Carvão Ativado
 subtitle: AQUA-CVT
 ---
 

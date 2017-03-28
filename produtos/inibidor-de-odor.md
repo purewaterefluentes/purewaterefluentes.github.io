@@ -1,10 +1,9 @@
 ---
-layout: default
-pageTitle: INIBIDOR DE ODOR
-title: INIBIDOR DE ODOR
+layout: contato
+pageTitle: Inibidor de Odor
+title: Inibidor de Odor
 subtitle: Atua na redução de odor em tratamento de água
 ---
-
 
 ### Apresentação
 Produto concentrado e de fácil aplicação destinado a redução e inibição de odor em águas estacionarias pós tratamento ou de reuso.
@@ -48,7 +47,7 @@ Pode vir a ocorrer o processo de separação de fases durante o período de arma
 Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
 
 ## Manuseio e Método de Aplicação
-Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do **AQUA-CLEAN** na proporção de 1/10 partes de água aplicando no meio formador de odor. 
+Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do **AQUA-CLEAN** na proporção de 1/10 partes de água aplicando no meio formador de odor.
 Também podendo ser aplicado em sua forma original.
 A dosagem a ser utilizada varia de acordo com a aplicação e o meio provocador de espuma e equipamentos.
 

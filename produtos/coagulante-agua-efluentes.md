@@ -1,8 +1,8 @@
 ---
-layout: default
-pageTitle: COAGULANTES
-title: COAGULANTES
-subtitle: Para tratamento de água ou efluentes
+layout: contato
+pageTitle: Coagulantes
+title: Coagulantes
+subtitle: Para tratamento de água ou efluente
 ---
 
 ### Apresentação

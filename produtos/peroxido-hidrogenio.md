@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Peróxido de Hidrogênio
 title: Peróxido de Hidrogênio 
 subtitle:

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Hidróxido de Sódio
 title: Hidróxido de Sódio
 subtitle: Soda Cáustica

@@ -1,7 +1,7 @@
 ---
-layout: default
-pageTitle: ClARIFICADOR
-title: CLARIFICADOR
+layout: contato
+pageTitle: Clarificador
+title: Clarificador
 subtitle: Clarificação em tratamento de efluentes
 ---
 

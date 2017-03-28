@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Cloro Tripla Ação
 title: DICLOROISOCIANURATO DE SÓDIO
 subtitle: Cloro Organico Estabilizado

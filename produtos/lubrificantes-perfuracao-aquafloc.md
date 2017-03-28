@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: Lubrificante para Perfuração - AQUA-FLOC
 title: AQUA-FLOC
 subtitle: Lubrificante para Perfuração
