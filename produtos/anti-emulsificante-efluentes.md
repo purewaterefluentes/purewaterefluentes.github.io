@@ -1,7 +1,7 @@
 ---
 layout: contato
 pageTitle: Anti-Emulsificante - AQUA-200
-title: ANTI-EMULSIFICANTE
+title: Anti-Emulsificante
 subtitle: AQUA-200
 ---
 

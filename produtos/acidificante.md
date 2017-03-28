@@ -1,7 +1,7 @@
 ---
 layout: contato
 pageTitle: Acidificante
-title: ACIDIFICANTE
+title: Acidificante
 subtitle: Corretor de pH / AQUA-F400
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: contato
 pageTitle: Antiespumante - AQUA-FLUX
-title: ANTIESPUMANTE
+title: Antiespumante
 subtitle: AQUA-FLUX
 ---
 

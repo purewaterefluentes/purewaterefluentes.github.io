@@ -1,7 +1,7 @@
 ---
 layout: contato
 pageTitle: Alcalinizante
-title: ALCALINIZANTE
+title: Alcalinizante
 subtitle: Corretor de pH
 ---
 

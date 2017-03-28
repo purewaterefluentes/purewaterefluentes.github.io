@@ -2,7 +2,7 @@
 layout: contato
 pageTitle: Tanino Vegetal
 title: Tanino
-subtitle: 
+subtitle: Tanino Vegetal
 ---
 
 ### Apresentação
