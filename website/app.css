@@ -86,3 +86,7 @@ footer {
 a, a:hover {
   color: #0A0BC8;
 }
+
+.modal-header .close {
+    margin-top: 0;
+}

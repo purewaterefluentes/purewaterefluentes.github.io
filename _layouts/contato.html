@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<button type="button" class="btn btn-success pull-right" data-toggle="modal" data-target="#contatoModal" data-whatever="@mdo">
+Solicite já a sua cotação
+</button>
+
+<div class="modal fade" id="contatoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        Fale Conosco
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        {% include purewater/contato-form.html %}
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+        <button type="button" class="btn btn-primary" onclick="sendEnquire(true)">Enviar</button>
+      </div>
+    </div>
+  </div>
+</div>
