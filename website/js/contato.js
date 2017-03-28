@@ -14,7 +14,7 @@ function sendEnquire(fromModal){
     };
 
     $.ajax({
-        url: "https://formspree.io/purewater@purewaterefluentes.com.br",
+        url: "https://formspree.io/vendas@purewaterefluentes.com.br",
         method: "POST",
         data: mail,
         dataType: "json",
