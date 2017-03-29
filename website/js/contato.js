@@ -9,7 +9,7 @@ function sendEnquire(fromModal){
 
     var mail = {
       _replyto: $("#emailContato").val(),
-      _subject: "Requisicao do Site ",
+      _subject: "Requisicao do Site - " + $("#nomeContato").val(),
       message: message
     };
 
