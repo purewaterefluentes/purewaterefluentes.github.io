@@ -2,6 +2,7 @@
 layout: contato
 title: Produtos Químicos
 subtitle: Produtos químicos para tratamento de água e efluentes industriais
+robots: follow
 ---
 
 ### Químicos para tratamento de águas e efluentes

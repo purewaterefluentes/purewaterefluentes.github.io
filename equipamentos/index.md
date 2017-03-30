@@ -2,6 +2,7 @@
 layout: default
 title: Equipamentos
 subtitle: Fabricação de equipamentos para tratamento de água e efluentes
+robots: follow
 ---
 
 ### Filtros para Água
