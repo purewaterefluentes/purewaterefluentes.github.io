@@ -3,7 +3,7 @@ layout: default
 title: Estação Compacta para Tratamento de Água e Efluentes
 ---
 
-<img class="img-responsive pull-right" style="max-width: 75%;" src="../../website/images/Estação-tratamento-efluentes-compacta.jpg" alt="Estação de tratamento de efluentes Compacta">
+<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Estação-tratamento-efluentes-compacta.jpg" alt="Estação de tratamento de efluentes Compacta">
 
 As estações compactas de tratamento de efluentes apresentam grande praticidade tanto na sua implantação como em sua operação.
 
