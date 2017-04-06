@@ -23,7 +23,7 @@ O hidróxido de sódio, na maior parte, é sintetizado pelo método de caustific
 Ca (OH) 2 (aq) + Na 2 CO 3 (aq) → 2 NaOH (aq) + CaCO 3 (S)
 
 
-### Propriedades Hidróxido de Sódio Sólido 
+### Propriedades Hidróxido de Sódio Sólido - Escama
 
 - Fórmula molecular: NaOH
 - Massa molar: 39.9971 g/mol
