@@ -35,7 +35,7 @@ Ca (OH) 2 (aq) + Na 2 CO 3 (aq) → 2 NaOH (aq) + CaCO 3 (S)
 - Ponto de ebulição: 1388 °C [1]
 - Solubilidade em água: 1090 g·l-1 a 20 °C  [1]
 
-### Propriedades Hidróxido de Sódio 50% - Liquido
+### Propriedades Hidróxido de Sódio 50% - Líquido
 
 - Aspecto: líquido levemente turvo
 - Cor: incolor a levemente cinza.
