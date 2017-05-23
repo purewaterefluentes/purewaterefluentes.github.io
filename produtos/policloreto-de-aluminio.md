@@ -1,17 +1,22 @@
 ---
 layout: contato
-pageTitle: Policloreto de Aluminio - AQUA-PAC
+pageTitle: Policloreto de Aluminio
 title: AQUA-PAC
-subtitle: Policloreto de Aluminio
+subtitle: Policloreto de Aluminio - PAC18
 ---
 
 ### Propriedades
 Coagulante Inorgânico Pré-polimerizado.
-O Poli Cloreto de Alumínio AQUA-PAC é um coagulante inorgânico catiônico pré polimerizado de alto peso molecular a base de policloreto de alumínio, utilizado em processos de tratamento de águas, esgoto, petróleo, mineração e Açucar.
+O Policloreto de Alumínio ou PAC12% e PAC18% é um coagulante inorgânico catiônico pré polimerizado de alto peso molecular a base de policloreto de alumínio, utilizado em processos de tratamento de águas, esgoto, petróleo, mineração e Açucar.
 
 O PoliCloreto de Alumínio AQUA-PAC tem como caracteristica química agregar em sua molécula original cadeias polímericas hidroxiladas, fundamentais nos processos de coagulação e floculação. A posterior hidrólise irá proporcionar novas espécies insóluveis, que possibilitarão o processo de neutralização elétrica, que neste caso serão menos sensiveis que as espécies originárias a partir da hidrólise dos sais monoméricos, como meio pH, Alcalinidade, concentração coloidal e temperatura.
 
 O policloreto de alumínio; AQUA-PAC proporciona ao entrar em contato com o líquido, núcleos de geração de incremento de floculação e sua hidrólise se desenvolve muito mais lentamente, facilitando assim o processo de neutralização das cargas. Todas essas caracteristicas trazem ao AQUA-PAC uma eficiência nos tratamentos físico-químico.
+
+### Concentrações Disponiveis:
+
+- PAC18% (Policloreto de aluminio - PAC18) 
+- PAC12% (Policloreto de aluminio - PAC12)
 
 ### Benefícios
 Fazendo comparações com os coagulantes inorgânicos tradicionais, podemos afirmar que:
@@ -32,8 +37,8 @@ Aconselhamos que as diluições não sejam inferiores a 6,0  % em alumina, pois 
 
 ### Embalagem
 
-- Bombona plastica de 30 e 60 Kg
-- Container de 1000 litros 
-- Caminhão Tanque Truck 10.250 litros
+- Policloreto de aluminio em bombona plastica de 30Kg ou 60Kg.
+- Policloreto de aluminio em Container de 1000 litros. 
+- Policloreto de aluminio em Caminhão Tanque Truck 10.250 litros.
 
 
