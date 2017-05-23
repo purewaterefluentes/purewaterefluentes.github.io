@@ -51,3 +51,10 @@ A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminat
 - Cloro liquido em bombona plástica de 25Kg e 50 Kg.
 - Cloro liquido em Container (IBC) plastico 1000 litros .
 
+### Boletim Técnico
+
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Cloro Liquido" 
+   arquivo="Fispq Cloro Liquido.pdf" %}
+   
+
