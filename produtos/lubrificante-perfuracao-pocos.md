@@ -38,7 +38,7 @@ Apresenta grande vantagem e diferencial no armazenamento, transporte e manipula�
 ### Boletim Técnico
 
 {% include purewater/link-boletim.html 
-   label="Boletim Técnico Policloreto de Alumínio" 
+   label="Boletim Técnico Bentonita Sintética Emulsão" 
    arquivo="Boletim-tecnico-lubrificante-perfuração-emulsão.pdf" %}
    
 
