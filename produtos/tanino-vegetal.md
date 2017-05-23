@@ -1,19 +1,19 @@
 ---
 layout: contato
-pageTitle: Tanino Vegetal
+pageTitle: Tanino Vegetal, tanino coagulante, extrato taninico, aquafloc, extrato vegetal tanino
 title: Tanino
-subtitle: Tanino Vegetal
+subtitle: Extrato Vegetal Tanino 
 ---
 
 ### Apresentação
 
-Tanino da Purewater Efluentes possuí estrutura polimérica com característica orgânica e de carga catiônico de baixo peso molecular, possuí origem
-essencialmente vegetal e que atua como:
- - Agente de precipitação em tratamento de água
- - Clarificante
- - Coagulante
- - Floculante
- - Auxiliar de coagulação no tratamento de águas em geral
+Tanino da Purewater Efluentes possuí estrutura polimérica com característica orgânica e de carga catiônico de baixo peso molecular, possuí origem essencialmente vegetal e que atua como:
+
+ - Tanino como agente de precipitação em tratamento de água
+ - Tanino para Clarificante
+ - Coagulante a base de tanino
+ - Tanino com ação Floculante
+ - Tanino como auxiliar de coagulação no tratamento de águas em geral
 
 O tanino pode atuar em uma ampla gama de aplicações, em diversos tipos de tratamento de água ou efluentes industriais.
 
@@ -29,7 +29,7 @@ Os taninos são capazes de se combinar com proteínas da pele animal inibindo o 
 parecem ser responsáveis pela adstringência de muitas plantas;podem ser a causa da baixa digestibilidade das proteínas de leguminosas que, quando não suficientemente cozidas, contém esse tipo substância em quantidade considerável;
 podem ter seu efeito negativo na absorção do ferro remediado pela administração simultânea de ácido ascórbico. 
 
-### Propriedades
+### Propriedades do Tanino
 
 - Podem ser fornecidos no estado solido em pó ou em solução (Líquido).
 - São solúveis em água, álcool e acetona.
@@ -38,7 +38,7 @@ podem ter seu efeito negativo na absorção do ferro remediado pela administraç
 
 ### Aspecto físico 
 
-#### Líquido
+#### Tanino Líquido
 
 - Umidade ao embalar ---
 - Viscosidade (s, 25°C Copo Ford nº4: Máx. 50 
@@ -46,7 +46,7 @@ podem ter seu efeito negativo na absorção do ferro remediado pela administraç
 - pH (xarope): 1,3- 2,3 
 - pH (sol. aq. 10% p/v): ---
 
-#### Sólido - Pó fino higroscópico
+#### Tanino Sólido - Pó fino higroscópico
 
 - Umidade ao embalar (%) - 4,5 – 6,5
 - Viscosidade (s, 25°C Copo Ford nº4: Não Aplicável
@@ -57,8 +57,12 @@ podem ter seu efeito negativo na absorção do ferro remediado pela administraç
  
 ### Embalagens
 
-- Sacaria de 25 kg (Solido em pó)
-- Bobona Plástica de 50 Kg. (Líquido)
-- Container plastico de 1000 litros (Líquido)
+- Tanino em Saco de 25kg (Solido em pó)
+- Tanino em Bombona Plástica de 50Kg. (Líquido)
+- Tanino em Container plastico de 1000 litros (Líquido)
 
-
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Tanino vegetal" 
+   arquivo="Boletim Técnico Tanino Liquido.pdf" %}
+   
+   
