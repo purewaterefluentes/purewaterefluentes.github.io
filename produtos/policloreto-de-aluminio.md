@@ -11,7 +11,7 @@ O Policloreto de Alumínio ou PAC12% e PAC18% é um coagulante inorgânico cati�
 
 O PoliCloreto de Alumínio AQUA-PAC tem como caracteristica química agregar em sua molécula original cadeias polímericas hidroxiladas, fundamentais nos processos de coagulação e floculação. A posterior hidrólise irá proporcionar novas espécies insóluveis, que possibilitarão o processo de neutralização elétrica, que neste caso serão menos sensiveis que as espécies originárias a partir da hidrólise dos sais monoméricos, como meio pH, Alcalinidade, concentração coloidal e temperatura.
 
-O policloreto de alumínio também conhecido como: Policloreto ou cloreto de polialuminio proporciona ao entrar em contato com o líquido, núcleos de geração de incremento de floculação e sua hidrólise se desenvolve muito mais lentamente, facilitando assim o processo de neutralização das cargas. Todas essas caracteristicas trazem ao AQUA-PAC uma eficiência nos tratamentos físico-químico.
+O policloreto de alumínio também conhecido como: Policloreto ou cloreto de polialuminio proporciona ao entrar em contato com o líquido núcleos de geração de incremento de floculação e sua hidrólise se desenvolve muito mais lentamente, facilitando assim o processo de neutralização das cargas. Todas essas caracteristicas trazem ao AQUA-PAC uma eficiência nos tratamentos de água físico-químico.
 
 ### Concentrações Disponiveis:
 
