@@ -1,8 +1,9 @@
 ---
 layout: contato
+pageTitle: Sulfato de alumínio, sulfato de aluminio liquido, sulfato de alumínio granulado
 title: Sulfato de Alumínio
+subtitle: 
 ---
-
 ### Aplicação
 
 O Sulfato de Alumínio pode ser aplicado no: Tratamento de afluentes, como Rios, águas pluviais e fluviais agindo como ótimo coagulante. O sulfato de alumínio tambem utilizado como clarificador na fabricação de papel, como agente fixador e clarificador da água de processo na indústria têxtil, como agentes mordentes em usinas de açúcar, como purificadores do melaço de cana de açúcar; em indústrias químicas como matéria-prima para obtenção de sais de alumínio; na indústria do cimento isolante na indústria de óleo para clarificação.
@@ -14,13 +15,16 @@ Nosso departamento técnico irá orienta-lo sobre a melhor aplicação do sulfat
 ### Fornecimento
 Tipos de Sulfato de Alumínio Disponiveis
 
-- Sulfato de alumínio Ferroso (Liquido ou Granulado)
-- Sulfato de Alumínio Isento de Ferro (Liquido ou Granulado)
+- Sulfato de alumínio ferroso liquido 
+- Sulfato de alumínio ferroso pó
+- Sulfato de alumínio Isento de ferro liquido
+- Sulfato de alumínio isento de ferro pó
 
 ### Embalagens
 
-- Sacaria no tamanho de 25 kg
-- Bombona Plastica de 50 Kg
+- Sulfato de alumínio em Saco de 25kg
+- Sulfato de alumínio em bombona Plastica de 50Kg
+- Sulfato de alumínio em container plastico de 1000 litros.
 
 ### Boletim Técnico
 
