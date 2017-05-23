@@ -18,7 +18,7 @@ Nesse processo propriedades  físico-químicas do meio são alteradas, ressaltan
 Desse modo, todas as características funcionais e sensoriais do produto de interesse do processo permanecem inalteradas.
 
 ### Principais Aplicações do Antiespumante
--
+
 - Pode ser aplicado em todos os seguimentos da industria para inibir formação de espuma
 - Aplicado para inibir a formação de espuma em estações de tratamento de água
 - Eliminar espuma em tratamento de efluentes
@@ -40,7 +40,7 @@ Desse modo, todas as características funcionais e sensoriais do produto de inte
 - Apresenta efeito duradouro residual.
 - Alta dispersão superficial.
 
-### Transporte e Armazenagem
+### Transporte e Armazenagem de Antiespumante
 O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 50 °C. 
 Pode vir a ocorrer o processo de separação de fases durante o período de armazenagem, o que se reverte sob agitação sem que suas propriedades sejam alteradas. 
 Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
