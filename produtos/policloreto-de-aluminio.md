@@ -35,6 +35,12 @@ Sua aplicação é completamente miscível com água e pode ser dosado na forma 
 
 Aconselhamos que as diluições não sejam inferiores a 6,0  % em alumina, pois o produto tende a hidrolizar-se, formando soluções leitosas com elevada turbidez e reduzida eficácia. 
 
+### Boletim Técnico
+
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Policloreto de Alumínio" 
+   arquivo="Boletim-tecnico-Policloreto-de-aluminio.pdf" %}
+
 ### Embalagem
 
 - Policloreto de aluminio em bombona plastica de 30Kg ou 60Kg.
