@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Sulfato de alumínio, sulfato de aluminio liquido, sulfato de alumínio granulado
+pageTitle: Sulfato de alumínio, sulfato de aluminio liquido, sulfato de alumínio granulado, sulfato de aluminio ferroso
 title: Sulfato de Alumínio
 subtitle: 
 ---
