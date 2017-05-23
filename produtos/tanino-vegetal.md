@@ -38,7 +38,8 @@ podem ter seu efeito negativo na absorção do ferro remediado pela administraç
 
 ### Aspecto físico 
 
-# Tanino Líquido
+
+#### Tanino Líquido
 
 - Umidade ao embalar ---
 - Viscosidade (s, 25°C Copo Ford nº4: Máx. 50 
