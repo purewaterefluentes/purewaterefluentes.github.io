@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Policloreto de Aluminio, policloreto
+pageTitle: Policloreto de Aluminio, policloreto, pac18, pac12, policloreto alumínio
 title: AQUA-PAC
 subtitle: Policloreto de Aluminio - PAC18
 ---
