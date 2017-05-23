@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Cloro Liquido - Hipoclore
+pageTitle: Cloro, cloro liquido, hipoclorito, cloro para piscina, cloro para tratar água, cloro liquido hipoclorito
 title: Cloro Liquido
 subtitle: HIPOCLORE
 ---
@@ -12,10 +12,10 @@ Possuí fácil aplicação e também pode ser aplicado em água de reuso nos seg
 ### Composição
 O produto **HIPOCLORE** tem alto poder saneante e bactericida para tratamentos de águas e tratamento de efluentes agindo diretamente sobre o micro-orgânismos e agentes infecciosos bacteriológicos residual presente na água ou efluente industrial, com formula a base de sódio hipocloroso, totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água.
 
-### Principais Aplicações
+### Principais Aplicações do cloro liquido
 Agente de cloração, cloro ativo, agente saneante em tratamento de águas residuais, bactericida clorado, cloro para água de poço, cloro para piscinas, cloro para efluentes cloro residual na indústria.
 
-### Características
+### Características do cloro liquido
 
 - Estado: Liquido
 - Densidade: >1,05 g/cm3 (25 °C)
@@ -25,7 +25,7 @@ Agente de cloração, cloro ativo, agente saneante em tratamento de águas resid
 - Produto Não Controlado pelos Órgãos reguladores
 
 
-### Funcionalidades
+### Funcionalidades do cloro liquido
 
 - Eficiente na clarificação de água
 - Ótimo agente saneante e agente bactericida
@@ -48,6 +48,6 @@ A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminat
 
 ### Fornecimento
 
-- Bombona plástica de 25 e 50 Kg
-- Container (IBC) plastico 1000 litros 
+- Cloro liquido em bombona plástica de 25Kg e 50 Kg.
+- Cloro liquido em Container (IBC) plastico 1000 litros .
 
