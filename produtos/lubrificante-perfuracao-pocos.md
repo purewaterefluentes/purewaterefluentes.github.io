@@ -21,7 +21,8 @@ Os lubrificantes de perfuração de poços **Bentonita sintética** se constitue
 - Rapidamente se instala cortes no fundo do poço.
 - Reduz a perda de fluido.
 - Podem ser adicionados a suspensões de bentonita para melhorar a capacidade de carga cortes
-- Não forma resíduo de carbono (uma exigência da ANP).
+- **Não forma resíduo de carbono (uma exigência da ANP).**
+- Bentonita sintética Biodegradável.
 
 
 ### Características
