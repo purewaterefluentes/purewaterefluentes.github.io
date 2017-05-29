@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Cloro Liquido
+pageTitle: Cloro Liquido, Hipoclorito 12%, hipoclorito de sodio, cloro piscina, cloro para tratar água, cloro
 title: Hipoclorito de Sódio
 subtitle: Cloro liquido
 ---
@@ -59,3 +59,12 @@ A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminat
 
 - Bombona plástica de 50 Kg
 - Container (IBC) plastico 1000 litros 
+
+### Boletim Técnico
+
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Hipoclorito de Sódio" 
+   arquivo="BOLETIM TÉCNICO AQUA-HPS.pdf" %}
+   
+   
+
