@@ -26,7 +26,7 @@ Pode ocorrer a volatilização do produto em caso de estocagem por longos perío
 Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
 
 ### Toxicologia
-O cloreto de baário pode causar irritação em contato com mucosas e olhos. Exposição demasiada pode causar lesões no cérebro, desordem intestinal, gosto metálico, e o contato prolongado com a pele pode deixá-la acinzentada. Qualquer tipo de contato com a pele, deve ser lavada a área de contato com água por pelo menos 15 minutos e depois, procurar ajuda médica. No caso de ingestão, provocar o vômito imediatamente, de acordo com a orientação paramédica, e procure imediatamente ajuda médica
+O cloreto de bário pode causar irritação em contato com mucosas e olhos. Exposição demasiada pode causar lesões no cérebro, desordem intestinal, gosto metálico, e o contato prolongado com a pele pode deixá-la acinzentada. Qualquer tipo de contato com a pele, deve ser lavada a área de contato com água por pelo menos 15 minutos e depois, procurar ajuda médica. No caso de ingestão, provocar o vômito imediatamente, de acordo com a orientação paramédica, e procure imediatamente ajuda médica
 
 ### Fornecimento
 
