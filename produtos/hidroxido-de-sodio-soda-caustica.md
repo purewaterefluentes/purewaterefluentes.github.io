@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Hidróxido de Sódio
+pageTitle: Hidróxido de Sódio, soda cástica, soda escama, soda caustica 50%, hidroxido de soda, soda caustica para sabão, soda caustica carbocloro,
 title: Hidróxido de Sódio
 subtitle: Soda Cáustica
 ---
