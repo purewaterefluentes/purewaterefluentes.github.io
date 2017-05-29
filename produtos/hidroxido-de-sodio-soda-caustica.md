@@ -40,7 +40,7 @@ Ca (OH) 2 (aq) + Na 2 CO 3 (aq) → 2 NaOH (aq) + CaCO 3 (S)
 - Aspecto: líquido levemente turvo
 - Cor: incolor a levemente cinza.
 - Solubilidade: solúvel em água em qualquer proporção
-- Densidade: 1,40 a 1,55 g/cm³.
+- Densidade: >1,30 g/cm³.
 - Teor de NaOH: 46 a 52 (%).
 
 ### Transporte e Armazenagem
