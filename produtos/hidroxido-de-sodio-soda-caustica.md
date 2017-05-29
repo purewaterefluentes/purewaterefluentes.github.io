@@ -64,6 +64,7 @@ O armazenamento deve ser na embalagem original, em local coberto, seco e ventila
 
 {% include purewater/link-boletim.html label="Boletim Técnico Soda Cáustica Escama" arquivo="FISPQ SODA ESCAMA.pdf" %}
 
-{% include purewater/link-boletim.html label="Boletim Técnico Soda Cáustica 50% - Líquida" arquivo="FISPQ AQUA-SODA (Soda Líquida 50%).pdf" %}
+{% include purewater/link-boletim.html label="Boletim Técnico Soda Cáustica 50% Líquida" arquivo="FISPQ AQUA-SODA (Soda Líquida 50%).pdf" %}
+
 
 
