@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Cal Hidratada, Hidroxido de calcio, cal pó, cal para tratamento de água, cal para tratamento de efluentes
+pageTitle: Cal Hidratada, Cal solução, Leite de cal, Hidroxido de calcio, cal pó, cal para tratamento de água, cal para tratamento de efluentes
 title: Cal Hidratada
 subtitle: Extra Purificada
 ---
@@ -12,7 +12,7 @@ Sua solução aquosa é uma base relativamente forte e reage violentamente com �
 
 Reage também com o dióxido de carbono formando o carbonato de cálcio, podendo ser usado para detectar a presença do dióxido de carbono em uma mistura de gases devido a insolubilidade do carbonato, em uma solução que é comumente conhecida como "água de cal".
 
-### Aplicações
+### Aplicações da Cal - Hidróxido de cálcio Dihidratada.
 
 Devido a suas propriedades básicas fortes, a Cal hidratada Extra possui diversas e variadas aplicações:
 
