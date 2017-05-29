@@ -49,11 +49,11 @@ A Cal Hidratada Extra Purificada pode ser encontrada nas seguintes formas:
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Cal Solução" 
-   arquivo="Boletim-tecnico-Policloreto-de-aluminio.pdf" %}
+   arquivo="BOLETIM TÉCNICO CAL SOLUÇÃO AQUA-CALS.pdf" %}
    
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Cal solido pó" 
-   arquivo="BOLETIM TÉCNICO CAL SOLUÇÃO AQUA-CALS.pdf" %}
+   arquivo="BOLETIM TÉCNICO CAL PÓ AQUA-CA.pdf" %}
    
    
    
