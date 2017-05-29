@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Cal Hidratada - Extra Purificada
+pageTitle: Cal Hidratada, Hidroxido de calcio, cal pó, cal para tratamento de água, cal para tratamento de efluentes
 title: Cal Hidratada
 subtitle: Extra Purificada
 ---
@@ -45,3 +45,15 @@ A Cal Hidratada Extra Purificada pode ser encontrada nas seguintes formas:
 - Bombonas plasticas de 50 Kg (Produto liquido)
 - Container (IBC) plastico de 1000 litros (Produto liquido)
 
+### Boletim Técnico
+
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Cal Solução" 
+   arquivo="Boletim-tecnico-Policloreto-de-aluminio.pdf" %}
+   
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Cal solido pó" 
+   arquivo="BOLETIM TÉCNICO CAL SOLUÇÃO AQUA-CALS.pdf" %}
+   
+   
+   
