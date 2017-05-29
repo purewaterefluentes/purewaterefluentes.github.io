@@ -1,13 +1,13 @@
 ---
 layout: contato
-pageTitle: Hipoclorito de Calcio Granulado
-title: AQUA-HIPO
-subtitle: Cloro Granulado
+pageTitle: Hipoclorito de Calcio Granulado, hipoclorito calcio 65%, Cloro granulado multiação, agente alvejante,
+title: Hipoclorito de Cálcio
+subtitle: Cloro Granulado Multiação
 ---
 
 ### Apresentação
 
-Hipoclorito de cálcio é um composto químico de fórmula Ca(ClO)₂. É largamente usado no tratamento de água e como agente alvejante. Este composto é considerado relativamente estável e possui mais cloro disponível do que o hipoclorito de sódio
+**Hipoclorito de cálcio** é um composto químico de fórmula Ca(ClO)₂. É largamente usado no tratamento de água e como agente alvejante. Este composto é considerado relativamente estável e possui mais cloro disponível do que o hipoclorito de sódio
 
 ### Composição
 
@@ -17,7 +17,7 @@ Hipoclorito de Calcio 65% - Granulado
 
 Agente de cloração, cloro ativo, agente saneante em tratamento de águas residuais, bactericida clorado, cloro para água de poço, cloro para piscinas, cloro para efluentes cloro residual na indústria.
 
-### Características
+### Características do Hipoclorito de Cálcio
 
 - Fórmula molecular	Ca(OCl)2
 - Massa molar	142.98 g/mol
@@ -55,4 +55,8 @@ A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminat
 
 ### Fornecimento
 
-- Bombona plástica de 45 Kg
+- Hipoclorito de cálcio em barrica plástica de 45 Kg
+
+### Boletim Técnico
+
+{% include purewater/link-boletim.html label="Boletim Técnico Hipoclorito de Cálcio 65%" arquivo="BOLETIM TÉCNICO AQUA-HIPO.pdf" %}
