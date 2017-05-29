@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Cloreto de Bário
+pageTitle: Cloreto de Bário, cloreto de bario dihidratado, Clorato de bário MONOHIDRATADO, bario, BaCl2, cloreto bario para tratamento de efleuntes
 title: Cloreto de Bário
 subtitle: 
 ---
@@ -12,7 +12,7 @@ O cloreto de bário, de fórmula química BaCl2, é uma substância muito utiliz
 
 Possuí fácil aplicação e também pode ser aplicado em tratamento de água nos seguimentos de: Galvanoplastia, Lavanderia Industrial, Lavanderia Hospitalar, Cromeação, Curtumes, Industria Alimentícia e Industria farmacêutica e outras.
 
-### Características
+### Características do Cloreto de Bário
 
 - Estado Físico: pó branco e inodoro
 - Solubilidade(0 °C) 31g/100g de água
@@ -30,12 +30,12 @@ Causa irritação em contato com mucosas e olhos. Exposição demasiada pode cau
 
 ### Fornecimento
 
-Liquido: 
+- Cloreto de Bário em sacos de 25 Kg
+- Cloreto de Bário liquido em Bombona de 50 Kg
+- Cloreto de Bário líquido em container de 1000 litros
 
-- Bombona plástica de 25 e 50 Kg
-- Container (IBC) plastico 1000 litros 
+### Boletim Técnico
 
-Solido em pó:
+{% include purewater/link-boletim.html label="Boletim Técnico Cloreto de Bário" arquivo="FISPQ CLORETO DE BARIO.pdf" %}
 
-- Sacos de 25 Kg
 
