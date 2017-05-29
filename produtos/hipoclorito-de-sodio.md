@@ -12,7 +12,7 @@ Possuí fácil aplicação e também pode ser aplicado em água de reuso nos seg
 
 ### Composição
 
-Hipoclorito de sódio 12%  (teor de cloro ativo 10 a 12%) - Densidade >1,16 g/cm3
+Hipoclorito de sódio 12%  (teor de cloro ativo 10 a 12%)
 
 
 ### Principais Aplicações do Hipoclorito de sódio
