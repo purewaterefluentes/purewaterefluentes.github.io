@@ -36,6 +36,8 @@ Causa irritação em contato com mucosas e olhos. Exposição demasiada pode cau
 
 ### Boletim Técnico
 
-{% include purewater/link-boletim.html label="Boletim Técnico Cloreto de Bário" arquivo="FISPQ CLORETO DE BARIO.pdf" %}
+{% include purewater/link-boletim.html label="Boletim Técnico Cloreto de Bário Dihidratado pó" arquivo="FISPQ CLORETO DE BARIO.pdf" %}
+
+{% include purewater/link-boletim.html label="Boletim Técnico Cloreto de Bário solução" arquivo="FISPQ CLORETO DE BARIO SOLUÇÃO.pdf" %}
 
 
