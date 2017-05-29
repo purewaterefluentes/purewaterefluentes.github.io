@@ -56,8 +56,13 @@ O armazenamento deve ser na embalagem original, em local coberto, seco e ventila
 
 ### Fornecimento
 
-- Saco plastico de 25 Kg
-- Bombona plástica de 30 e 60 Kg
-- Container (IBC) plastico 1000 litros 
+- Soda Cáustica em saco plastico de 25 Kg
+- Soda Cáustica em bombona plástica de 30 e 60 Kg
+- Soda Cáustica em container (IBC) plastico 1000 litros 
+
+### Boletim Técnico
+
+{% include purewater/link-boletim.html label="Boletim Técnico Soda Cáustica Escama" arquivo="FISPQ SODA ESCAMA.pdf" %}
+{% include purewater/link-boletim.html label="Boletim Técnico Soda Cáustica 50% - Líquida" arquivo="FISPQ AQUA-SODA (Soda Líquida 50%).pdf" %}
 
 
