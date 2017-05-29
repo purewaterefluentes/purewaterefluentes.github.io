@@ -29,12 +29,12 @@ Agente de cloração, cloro ativo, agente saneante em tratamento de águas resid
 - Solubilidade: Reage em álcool
 
 
-### Funcionalidades
+### Funcionalidades do Hipoclorito de Cálcio
 
 - Eficiente na clarificação de água
 - Ótimo agente saneante e agente bactericida
-- Alta concentração de cloro (Teor de cloro >60%)
-- 100% solúvel em água
+- Alta concentração de cloro ativo / Teor de cloro >65%
+- Alta solubilidade em água
 - Fácil operacão e manuseio
 - Possuí cloro estabilizado
 - Ação algicida e clarificante
