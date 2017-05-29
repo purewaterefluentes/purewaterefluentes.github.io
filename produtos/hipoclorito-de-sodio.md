@@ -15,7 +15,8 @@ Possuí fácil aplicação e também pode ser aplicado em água de reuso nos seg
 Hipoclorito de sódio 12%  (teor de cloro ativo 10 a 12%) - Densidade >1,16 g/cm3
 
 
-### Principais Aplicações
+### Principais Aplicações do Hipoclorito de sódio
+
 Agente de cloração, cloro ativo, agente saneante em tratamento de águas residuais, bactericida clorado, cloro para água de poço, cloro para piscinas, cloro para efluentes cloro residual na indústria.
 
 O alvejante para uso doméstico que é vendido no mercado é uma solução de 2,0 a 2,5% de hipoclorito de sódio no momento da fabricação. A concentração varia de uma formulação a outra e diminui gradualmente com o tempo de prateleira.
@@ -26,10 +27,10 @@ Soluções entre 10 à 12% de hipoclorito de sódio são bastante usadas em cist
 
 Como todos os hipocloritos, o hipoclorito de sódio é um sal do ácido hipocloroso, HCLO. Na água, separa-se parcialmente nos íons Na+ e nos íons ClO-, sendo que o ânion hipoclorito hidrolisa-se, tornando o meio básico e formando ácido hipocloroso. Este último tem alto poder oxidante, assim como o ânion hipoclorito, e é o responsável pelo efeito alvejante. A carga negativa do ânion impede que o ânion se difunda através da parede celular das bactérias e micróbios, o que faz do ânion um desinfetante fraco. Porém, o ácido hipocloroso também presente, em equilíbrio com o ânion hipoclorito, devido à carga neutra e ao pequeno tamanho, difunde-se facilmente pela parede celular das bactérias. A mudança no potencial de oxidação-redução da célula causada pela presença do ácido hipocloroso desativa a enzima triosefosfato deidrogenase. Esta enzima (ou a gliceraldeído-3-fosfato deidrogenase/GAPDH) é essencial para a digestão da glicose e também é particularmente sensível à presença de agentes oxidantes. Sua inativação destrói com eficácia a habilidade do organismo de funcionar.
 
-### Características
+### Características do Hipoclorito de sódio
 
 - Estado: Liquido
-- Densidade: >1,16 g/cm3 (25 °C)
+- Densidade: 1,15 a 1,23 g/cm3 (25 °C)
 - pH: >8,0
 - Aparência: Líquido Amarelo à esverdeado
 - Odor: Característico de cloro
