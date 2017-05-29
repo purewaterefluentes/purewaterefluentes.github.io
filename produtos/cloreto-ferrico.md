@@ -39,8 +39,8 @@ Causa irritação em contato com mucosas e olhos. Exposição demasiada pode cau
 
 ### Fornecimento
 
-- Bombona plástica de 30 e 60 Kg
-- Container (IBC) plastico 1000 litros 
+- Cloreto Férrico em bombona plástica de 30Kg e 60Kg
+- Cloreto Férrico em Container (IBC) plastico 1000 litros 
 
 ### Boletim Técnico
 
