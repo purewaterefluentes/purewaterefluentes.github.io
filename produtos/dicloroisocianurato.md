@@ -32,4 +32,10 @@ Possui tripla ação no tratamento de água, como; Bactericida, Algicida e clari
 
 ### Fornecimento
 
-- Barrica plástica de 50 Kg 
+- Dicloroisocianurato em Barrica plástica de 50 Kg 
+
+### Boletim Técnico Dicloroisocinurato - Cloro Orgânico
+
+{% include purewater/link-boletim.html label="Boletim Técnico Dicloro Orgânico granulado" arquivo="BOLETIM TÉCNICO AQUA-POOLISO - DICLORO.pdf" %}
+
+
