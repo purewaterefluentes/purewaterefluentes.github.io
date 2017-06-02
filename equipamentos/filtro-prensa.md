@@ -15,7 +15,7 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 
 ### Principais Características
 
-<img class="img-responsive pull-right" style="max-width: 25%;" src="../../website/images/Filtro Prensa Purewater.JPG" alt="Filtro Prensa">
+<img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/Filtro Prensa Purewater.JPG" alt="Filtro Prensa">
 
 - Estrutura em aço carbono
 - Placas em polipropileno injetado
