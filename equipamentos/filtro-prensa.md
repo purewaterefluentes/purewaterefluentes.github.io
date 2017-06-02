@@ -2,6 +2,7 @@
 layout: default
 title: Filtro Prensa
 ---
+<img class="img-responsive pull-left" style="max-width: 40%;" src="../../website/images/Filtro Prensa Purewater.JPG" alt="Filtro Prensa">
 
 ### Apresentação
 
@@ -30,6 +31,6 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 
 {% include purewater/equipamentos/Tabela-Dimensional-Filtro-Prensa.html %}
 
-<img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/Filtro Prensa Purewater.JPG" alt="Filtro Prensa">
+
 
 
