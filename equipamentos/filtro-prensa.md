@@ -3,7 +3,7 @@ layout: default
 title: Filtro Prensa
 ---
 
-<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Filtro Prensa Purewater.JPG" alt="Filtro Prensa">
+<img class="img-responsive pull-right" style="max-width: 25%;" src="../../website/images/Filtro Prensa Purewater.JPG" alt="Filtro Prensa">
 
 ### Apresentação
 
