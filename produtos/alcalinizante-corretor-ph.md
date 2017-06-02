@@ -1,7 +1,7 @@
 ---
 layout: contato
 pageTitle: Alcalinizante
-title: Alcalinizante
+title: Alcalinizante, Corretor de pH, corretor de alcalinidade, aumentar pH, corrigir alcalinidade, alcalinidade de piscina
 subtitle: Corretor de pH
 ---
 
