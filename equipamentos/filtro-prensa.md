@@ -30,5 +30,4 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 
 <img src="../../website/images/Tabela dimensional filtro prensa.JPG" alt="Tabela de Medidas - Filtro Prensa">
 
-{% include purewater/equipamentos/galeria-filtro-prensa-equipamento.html %}
 
