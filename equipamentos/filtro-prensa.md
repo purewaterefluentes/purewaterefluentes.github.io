@@ -2,7 +2,9 @@
 layout: default
 title: Filtro Prensa
 ---
+
 <img class="img-responsive pull-left" style="max-width: 40%;" src="../../website/images/Filtro Prensa Purewater.JPG" alt="Filtro Prensa">
+
 
 ### Apresentação
 
@@ -15,8 +17,6 @@ Também pode ser usado na filtragem de banhos, tais como fosfato e banhos galvâ
 Com grande capacidade de filtragem e ótimos resultados na desidratação, podendo atingir até cerca de 92%.
 
 ### Principais Características
-
-
 
 - Estrutura em aço carbono
 - Placas em polipropileno injetado
