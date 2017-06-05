@@ -1,6 +1,6 @@
 ---
-layout: contato
-pageTitle: Antiespumante, anti espumante, antiespuma, inibidor de espumas, eliminador de espuma para tratamento de água, silicona antiespumante, antiespumante base água
+layout: 
+pageTitle: Antiespumante, anti espumante, inibidor de espumas, eliminador de espuma para tratamento de água, silicona antiespumante, antiespumante base água, antiespumante para tratamento de efluentes, antiespumante para tratamento de água, agente antiespumante
 title: Antiespumante
 subtitle: AQUA-FLUX
 ---
@@ -19,6 +19,8 @@ Desse modo, todas as características funcionais e sensoriais do produto de inte
 
 ### Principais Aplicações do Antiespumante
 
+- Antiespumante para tratamento de efluentes.
+- Antiespumante para tratamento de água.
 - Pode ser aplicado em todos os seguimentos da industria para inibir formação de espuma
 - Aplicado para inibir a formação de espuma em estações de tratamento de água
 - Eliminar espuma em tratamento de efluentes
@@ -27,14 +29,11 @@ Desse modo, todas as características funcionais e sensoriais do produto de inte
 
 ### Características do Antiespumante
 
-- Tipos fabricados: Com silicone / Sem silicone
+- Tipos fabricados: Antiespumante com silicone / Antiespumante isento de silicone
 - Densidade: 0,97 a 1,2 g/cm3 (25 °C)
 - pH: 6-8
 - Aparência: Líquido Branco
 - Odor: Inodoro
-
-### Funcionalidades do Antiespumante
-
 - Alta concentração
 - 100% soluvel em água
 - Apresenta efeito duradouro residual.
