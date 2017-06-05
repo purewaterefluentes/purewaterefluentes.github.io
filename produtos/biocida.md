@@ -1,6 +1,7 @@
 ---
 layout: contato
-title: Biocidas, Biocida, microbiocida, microbactericida, torre de resfriamento, tratamento de esgoto, 
+pageTitle:Biocidas, Biocida, microbiocida, microbactericida, torre de resfriamento, tratamento de esgoto, 
+title: Biocida
 ---
 
 ### Apresentação
