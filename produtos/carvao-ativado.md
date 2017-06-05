@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Carvão Ativado
+pageTitle: Carvão Ativado, carvão ativo, carbono ativado, carvão ativo vegetal, carvão ativado granulado, carvão com prata, carvão bactericida, carvão casca de coco, onde comprar carvão ativado, preço carvão ativado,
 title: Carvão Ativado
 subtitle: AQUA-CVT
 ---
@@ -26,10 +26,10 @@ Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Ca
 - Carvão muito utilizado em sistemas de filtragem para água potável, pois a prata coloidal exerce função bactericida.
 
 
-### Carvão ativo Pulverizado
-Disponível em pó
+### Carvão ativado Pulverizado
+- Disponível em pó
 
-### Granulometria (Mesh)
+### Granulometria do Carvão ativado (Mesh)
 
 - 2 x 3  (7,5 a 8,5 mm)
 - 3 x 6  (4,10 a 5,0 mm)
@@ -42,7 +42,7 @@ Disponível em pó
 
 ### Fornecimento
 
-- Sacos de 25 Kg
+- Carvão ativado em Sacos de 25Kg
 
 ### Boletim Técnico
 
