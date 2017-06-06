@@ -1,6 +1,6 @@
 ---
 layout: default
-pageTitle: 
+pageTitle: Filtro central de água, filtro de água, filtro para água, filtro de água central, filtro para água de poço, filtro para piscina, filtro para água de reuso, filtragem, filtragem de água, purificação de água, 
 title: Filtro Central para Água (PRFV)
 subtitle: Fiberglass
 ---
@@ -31,18 +31,24 @@ Os filtros PRFV podem ser montados com as seguintes configurações de cargas:
 - Carga mista areia quartzo e carvão ativo
 - Zeólito natural (Clinoptilolita é classificada como óxido mineral cristalino de alumínio e sílica), alta eficiência em filtragem.
 
-### Funções e benefícios
-Retém areia, argila, ferrugem e outros sedimentos em suspensão.
-Reduz os excessos de cálcio e alumínio utilizados no tratamento artificial da água.
-Retém também substâncias orgânicas em suspensão (algas mortas).
-Aumenta a vida útil do sistema de aquecimento solar e resistência dos chuveiros.
-Isenta sua água de sabor e odor desagradável, causados pelo tratamento químico.
-Elimina os sedimentos que causam o "amarelamento" das roupas brancas.
-Pode ser utilizado como leito de carvão ativado, atuando assim como declorador.
+### Funções e benefícios do Filtro Central de água
 
-### Outras vantagens
-Evita a incrustação de substância em suspensão nas paredes da tubulação galvanizada
-E preserva limpos os reservatórios de água.
+- Retém areia, argila, ferrugem e outros sedimentos em suspensão.
+- Reduz os excessos de cálcio e alumínio utilizados no tratamento artificial da água.
+- Retém também substâncias orgânicas em suspensão (algas mortas).
+- Aumenta a vida útil do sistema de aquecimento solar e resistência dos chuveiros.
+- Isenta sua água de sabor e odor desagradável, causados pelo tratamento químico.
+- Elimina os sedimentos que causam o "amarelamento" das roupas brancas.
+- Pode ser utilizado como leito de carvão ativado, atuando assim como declorador.
+- Evita a incrustação de substância em suspensão nas paredes da tubulação galvanizada
+- Preserva limpos os reservatórios de água.
+
+### Utilidades do Filtro central de água
+
+- Filtragem de água de poço
+- Filtragem de água residencial
+- Filtragem de água potável
+- Filtragem de efluentes indústriais
 
 ### Galeria de Fotos
 
