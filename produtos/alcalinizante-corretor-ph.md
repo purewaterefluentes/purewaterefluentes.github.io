@@ -1,8 +1,8 @@
 ---
 layout: contato
-pageTitle: Alcalinizante
-title: Alcalinizante, Corretor de pH, corretor de alcalinidade, aumentar pH, corrigir alcalinidade, alcalinidade de piscina
-subtitle: Corretor de pH
+pageTitle: Alcalinizante, Corretor de pH, corretor de alcalinidade, aumentar pH, corrigir alcalinidade, alcalinidade de piscina, alterar ph, corrigir ph, corrigir alcalinidade da água,
+title: Alcalinizante
+subtitle: Corretor de pH e Alcalinidade
 ---
 
 ### Corretor de pH Alcalino (Elevação de PH)
@@ -13,13 +13,14 @@ Produto apresenta fácil aplicação estando pronto para uso o corretor de pH al
 
 **Nossos alcalinizantes podem substituir o uso de produtos de alto risco de manuseio tais como; Soda caústica com a vantagem de não necessitar de nenhuma Licença Ambiental especifica para compra.**
 
-### Aplicação
+### Aplicação do Alcalinizante
 
-- Usado como neutralizante de acidez em meio líquido e aumento do pH em meio aquoso e tratamento de água e tratamento de efluentes.
+- O alcalinizante é usado como neutralizante de acidez em meio líquido.
+- Alcalinizante é usado para aumento do pH em meio aquoso em tratamento de água e tratamento de efluentes.
 - Correção de pH em tratamento de água de piscinas.
 - Correção de alcalinidade para águas de piscina de recisrculação de águas, torres de resfriamento e caldeiras.
 
-### Características
+### Características do Alcalinizante
 
 - Produto com alto poder de neutralização de pH
 - Possuem pH superior a 12,0
@@ -32,10 +33,10 @@ Produto apresenta fácil aplicação estando pronto para uso o corretor de pH al
 
 ### Embalagens
 
-- Bombonas plásticas de 30 ou 60 Kg
-- Container plástico IBC de 1000 litros
+- Alcalinizante em Bombonas plásticas de 30Kg ou 60 Kg
+- Alcalinizante em Container plástico IBC de 1000litros
 
-### Boletim Técnico
+### Boletim Técnico do Alcalinizante
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Alcalinizante" 
