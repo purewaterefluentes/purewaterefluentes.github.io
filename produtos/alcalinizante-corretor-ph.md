@@ -18,7 +18,7 @@ Produto apresenta fácil aplicação estando pronto para uso o corretor de pH al
 - O alcalinizante é usado como neutralizante de acidez em meio líquido.
 - Alcalinizante é usado para aumento do pH em meio aquoso em tratamento de água e tratamento de efluentes.
 - Correção de pH em tratamento de água de piscinas.
-- Correção de alcalinidade para águas de piscina de recisrculação de águas, torres de resfriamento e caldeiras.
+- Correção de alcalinidade para sistemas de recisrculação de águas, tais como: torres de resfriamento e caldeiras.
 
 ### Características do Alcalinizante
 
