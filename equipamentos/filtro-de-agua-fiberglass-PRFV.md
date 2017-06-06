@@ -43,7 +43,7 @@ Os filtros PRFV podem ser montados com as seguintes configurações de cargas:
 - Evita a incrustação de substância em suspensão nas paredes da tubulação galvanizada
 - Preserva limpos os reservatórios de água.
 
-### Utilidades do Filtro central de água
+### Utilidades do Filtro Central de água
 
 - Filtragem de água de poço
 - Filtragem de água residencial
