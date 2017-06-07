@@ -4,6 +4,7 @@ function sendEnquire(fromModal){
                 "Empresa: " + $("#empresaContato").val() + "\n\n" +
                 "Telefone Contato: " + $("#telefoneContato").val() + "\n\n" +
                 "Email Contato: " + $("#emailContato").val() + "\n\n" +
+                "Origem do contato: " + $.urlParam("s") + "\n\n" +
                 "Mensagem: " + $("#mensagem").val();
 
     var mail = {
@@ -33,4 +34,9 @@ function sendEnquire(fromModal){
           $(".alert-danger").show()
         }
     });  
+}
+
+$.urlParam = function(name){
+    var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+    return results && decodeURIComponent(results[1]) || null;
 }
