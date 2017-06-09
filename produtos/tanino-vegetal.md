@@ -36,10 +36,9 @@ podem ter seu efeito negativo na absorção do ferro remediado pela administraç
 - São precipitados por sais de metais pesados.
 - São insolúveis no éter puro, clorofórmio e benzeno.
 
-**Aspecto físico**
+### Aspecto físico
 
-
-#### Tanino Líquido
+***Tanino Líquido***
 
 - Umidade ao embalar ---
 - Viscosidade (s, 25°C Copo Ford nº4: Máx. 50 
@@ -47,7 +46,7 @@ podem ter seu efeito negativo na absorção do ferro remediado pela administraç
 - pH (xarope): 1,3- 2,3 
 - pH (sol. aq. 10% p/v): ---
 
-#### Tanino Sólido - Pó fino higroscópico
+***Tanino Sólido - Pó fino higroscópico***
 
 - Umidade ao embalar (%) - 4,5 – 6,5
 - Viscosidade (s, 25°C Copo Ford nº4: Não Aplicável
