@@ -6,11 +6,11 @@ subtitle: Percloreto de ferro.
 ---
 
 ### Apresentação
-Cloreto de ferro (III), também chamado cloreto férrico ou percloreto de ferro, é um composto químico de escala industrial, de fórmula FeCl3. A cor dos cristais de cloreto de ferro (III) depende do ângulo de visão: por luz refletida os cristais parecem verde-escuro, mas por luz transmitida parecem vermelho-púrpura. Cloreto férrico anidro é deliquescente, formando névoas de ácido clorídrico no ar úmido. É raramente observado em sua forma natural, o mineral molysite, muito conhecido de algumas fumarolas.
+Cloreto de ferro (III), também chamado **cloreto férrico** ou **percloreto de ferro**, é um composto químico de escala industrial, de fórmula FeCl3. A cor dos cristais de cloreto de ferro (III) depende do ângulo de visão: por luz refletida os cristais parecem verde-escuro, mas por luz transmitida parecem vermelho-púrpura. Cloreto férrico anidro é deliquescente, formando névoas de ácido clorídrico no ar úmido. É raramente observado em sua forma natural, o mineral molysite, muito conhecido de algumas fumarolas.
 
 Quando dissolvido em água, o cloreto férrico ou Percloreto de Ferro sofre hidrólise e libera calor (reação exotérmica). A solução castanha, ácida e corrosiva resultante é usada como floculante no tratamento de esgoto e na purificação de água, bem como fresador para metais cuprosos em circuitos impressos. 
 
-### Aplicação
+### Aplicação do Cloreto Férrico
 
 #### Tratamento de Águas e Efluentes com Cloreto Férrico (Percloreto)
 
