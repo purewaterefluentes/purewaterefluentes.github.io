@@ -62,7 +62,11 @@ podem ter seu efeito negativo na absorção do ferro remediado pela administraç
 - Tanino em Container plastico de 1000 litros (Líquido)
 
 {% include purewater/link-boletim.html 
-   label="Boletim Técnico Tanino vegetal" 
-   arquivo="Boletim Técnico Tanino Liquido.pdf" %}
+   label="Boletim Técnico Tanino vegetal Liquído" 
+   arquivo="FISPQ TANINO LIQUIDO.pdf" %}
+ 
+ {% include purewater/link-boletim.html 
+   label="Boletim Técnico Tanino vegetal Pó" 
+   arquivo="FISPQ TANINO LIQUIDO.pdf" %} 
    
    
