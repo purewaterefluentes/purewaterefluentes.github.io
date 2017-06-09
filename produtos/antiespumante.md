@@ -49,8 +49,8 @@ Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do **A
 
 ### Embalagens
 
-Antiespumante em Bombona plástica de 25Kg ou 50Kg
-Antiespumante em Container plástica de 1100Kg
+- Antiespumante em Bombona plástica de 25Kg ou 50Kg
+- Antiespumante em Container plástica de 1100Kg
 
 ### Boletim Técnico
 
