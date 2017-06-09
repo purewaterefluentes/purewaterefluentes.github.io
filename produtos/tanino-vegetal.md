@@ -1,7 +1,7 @@
 ---
 layout: contato
-pageTitle: Tanino Vegetal, tanino coagulante, extrato taninico, aquafloc, extrato vegetal tanino
-title: Tanino
+pageTitle: Tanino Vegetal, tanino coagulante, extrato taninico, aquafloc, extrato vegetal tanino, tanino para tratamento de água, tanino para tratamento de efluentes,
+title: Tanino Coagulante
 subtitle: Extrato Vegetal Tanino 
 ---
 
@@ -17,7 +17,7 @@ Tanino da Purewater Efluentes possuí estrutura polimérica com característica 
 
 O tanino pode atuar em uma ampla gama de aplicações, em diversos tipos de tratamento de água ou efluentes industriais.
 
-### Características
+### Características do Tanino vegetal
 
 Taninos (do francês tanin) são polifenóis de origem vegetal, com pesos moleculares geralmente entre 500 e 3000 unidades de massa atômica. Eles inibem o ataque às plantas por herbívoros vertebrados ou invertebrados (diminuição da palatabilidade, dificuldades na digestão, produção de compostos tóxicos a partir da hidrólise dos taninos) e também por microorganismos patogênicos. O termo é largamente utilizado para designar qualquer grande composto polifenólico contendo suficientes grupos hidroxila e outros (como carboxila) para poder formar complexos fortes com proteínas e outras macromoléculas. São geralmente divididos em dois tipos: hidrolisáveis e condensados (protoantocianidinas).
 
