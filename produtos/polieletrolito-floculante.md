@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Polieletrolito
+pageTitle: Polieletrolito, floculante, polimero floculante, adensamento de lodo, floculante para tratamento de efluentes, polimero para tratamento de efluentes, polieletrolito floculante
 title: Polieletrolito - Polímero Floculante
 subtitle: Auxiliar de floculação para tratar água
 ---
@@ -17,14 +17,14 @@ Esta regra vale de forma inversamente proporcional para polímero catiônico.
 
 As principais cargas de polímeros disponíveis são; Polímero aniônico, Polímero Catiônico e Polímero não-iônico
 
-### Composição
+### Composição do Floculante (Polímero)
 O polieletrólito ou polímero floculante é formulado a base de políacrilaminas ou políacrilatos de carga variada. 
 
 ### Mecanismo de Ação
 O polímero floculante possui ação higroscópica e de atração molecular, criando pontes entre as partículas já formadas no tratamento de efluentes e sua estrutura, fazendo com que este aumente sua densidade e potencialize o poder de separação fase solido e água.
 
 
-### Principais Aplicações
+### Principais Aplicações do Polieletrolito floculante
 
 - Auxiliar de floculação para uso em tratamento de água.
 - Auxiliar de floculação para uso em tratamento de efluentes industrial.
@@ -32,9 +32,9 @@ O polímero floculante possui ação higroscópica e de atração molecular, cri
 - Auxiliar de processos industriais como espessante.
 - 
 
-### Características
+### Características do Polimero Floculante
 
-- Tipos de carga: Aniônico, Catiônico e Não-Iônico
+- Tipos de carga: Polimero Aniônico, Poliemro Catiônico e Polimero Não-Iônico
 - Estado fisico: Solido (granular) e Líquido em emulsão
 - Densidade: 0,97 a 1,05 g/cm3 (25 °C)
 - pH: 6-9
@@ -53,5 +53,5 @@ A dosagem a ser utilizada varia de acordo com o tipo de água ou efluente, deven
 
 ### Embalagens
 
-- Bombona plastica de 25 Kg
-- Saco de polietileno de 25 Kg
+- Polimero floculante em bombona plastica de 25 Kg
+- Polimero floculante em saco de polietileno de 25 Kg
