@@ -61,6 +61,8 @@ podem ter seu efeito negativo na absorção do ferro remediado pela administraç
 - Tanino em Bombona Plástica de 50Kg. (Líquido)
 - Tanino em Container plastico de 1000 litros (Líquido)
 
+### Boletim Técnico
+
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Tanino vegetal Liquído" 
    arquivo="FISPQ TANINO LIQUIDO.pdf" %}
