@@ -67,6 +67,5 @@ podem ter seu efeito negativo na absorção do ferro remediado pela administraç
  
  {% include purewater/link-boletim.html 
    label="Boletim Técnico Tanino vegetal Pó" 
-   arquivo="FISPQ TANINO LIQUIDO.pdf" %} 
-   
-   
+   arquivo="FISPQ TANINO PÓ.pdf" %}
+     
