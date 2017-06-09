@@ -36,7 +36,7 @@ podem ter seu efeito negativo na absorção do ferro remediado pela administraç
 - São precipitados por sais de metais pesados.
 - São insolúveis no éter puro, clorofórmio e benzeno.
 
-### Aspecto físico 
+**Aspecto físico**
 
 
 #### Tanino Líquido
