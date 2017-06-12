@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Sulfato de cobra pentahidratado, sulfato de cobre, sulfato de cobre (II), sulfato cuprico, sulfato de cobre II, sulfato de cobre granulado, sulfato de cobre pó, sulfato de cobre liquido,
+pageTitle: Sulfato de cobre pentahidratado, sulfato de cobre, sulfato de cobre (II), sulfato cuprico, sulfato de cobre II, sulfato de cobre granulado, sulfato de cobre pó, sulfato de cobre liquido,
 title: Sulfato de Cobre 
 subtitle: PENTAHIDRATADO
 ---
