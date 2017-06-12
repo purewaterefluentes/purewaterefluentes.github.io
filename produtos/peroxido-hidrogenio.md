@@ -35,4 +35,5 @@ Na área médica é usado como desinfectante ou agente esterilizante em autoclav
 - Peróxido de Hidrogênio em bombona plastica de 50 Kg
 - Peróxido de Hidrogênio em Container de 1000 litros 
 
+# Boletim
 {% include purewater/link-boletim.html label="Boletim Técnico Peróxido de Hidrogênio 50%" arquivo="FISPQ AQUA-PHO Peroxido de Hidrogenio.pdf" %}
