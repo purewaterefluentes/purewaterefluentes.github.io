@@ -6,7 +6,10 @@ subtitle: PENTAHIDRATADO
 ---
 ### Apresentação
 
-Sulfato de Cobre (II) ou Sulfato Cúprico é um composto químico com fórmula molecular CuSO4. Este sal existe sob algumas formas, dentre elas a sua forma penta-hidratada (CuSO4.5H2O), a forma no qual é mais encontrado, apresentando cor azul brilhante. A forma do sulfato de cobre pentahidratada ocorre na natureza como calcantita (penta-hidratado), e já foi muito conhecido como vitríolo azul e pedra-azul.
+O **Sulfato de cobre pentahidratado** tem sua origem do sulfato de Cobre (II) ou Sulfato Cúprico que é um composto químico com fórmula molecular CuSO4. Este sal existe sob algumas formas, dentre elas a sua forma penta-hidratada **(CuSO4.5H2O)**, a forma no qual é mais encontrada e apresentando cor azul brilhante. 
+
+A forma do sulfato de cobre pentahidratada ocorre na natureza como calcantita (penta-hidratado), e já foi muito conhecido como vitríolo azul e pedra-azul.
+
 O sulfato de cobre (II) é um fungicida (mata fungos) muito usado na agricultura e jardinagem. É um dos principais componentes da Calda Bordalesa, empregada principalmente na cultura de frutos (uva, figo, goiaba, tomate, etc) contra uma doença fúngica chamada ferrugem.
 
 ### Propriedades químicas do Sulfato de Cobre
