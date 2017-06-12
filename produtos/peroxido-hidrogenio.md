@@ -27,7 +27,7 @@ Na área médica é usado como desinfectante ou agente esterilizante em autoclav
 
 ### Concentrações Comerciais
 
-- Peroxido de hidrogênio 200 volumes (50%)
+- Peroxido de Hidrogênio 200 volumes (50%)
 - Peroxido de Hidrogênio 130 volumes (35%)
 
 ### Embalagem
