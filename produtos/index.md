@@ -46,6 +46,7 @@ robots: follow
 - [Peroxido de Hidrogenio 200Volumes](peroxido-hidrogenio.html)
 - [Policloreto de Alumínio](policloreto-de-aluminio.html)
 - [Sulfato de Aluminio](sulfato-de-aluminio.html)
+- [Sulfato de Cobre Pentahidratado](sulfato-de-cobre-pentahidratado.html)
 - [Sulfato Ferroso](sulfato-ferroso.html)
 - [Tanino Vegetal](tanino-vegetal.html)
 
