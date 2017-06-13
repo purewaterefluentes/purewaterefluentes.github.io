@@ -1,13 +1,13 @@
 ---
 layout: contato
-pageTitle: Policloreto de Aluminio, policloreto, pac18, pac12, policloreto alumínio, policloreto de alumínio a 18%, PAC18%,
+pageTitle: Policloreto de Aluminio, policloreto, pac18, pac12, policloreto alumínio, policloreto de alumínio 18%, PAC18%,
 title: AQUA-PAC
 subtitle: Policloreto de Aluminio - PAC18
 ---
 
 ### Propriedades
 
-O Policloreto de Alumínio ou PAC12% e PAC18% é um coagulante inorgânico catiônico pré polimerizado de alto peso molecular a base de policloreto de alumínio, utilizado em processos de tratamento de águas, esgoto, petróleo, mineração e Açucar.
+O **Policloreto de Alumínio ou PAC12% e PAC18%** é um coagulante inorgânico catiônico pré polimerizado de alto peso molecular a base de policloreto de alumínio, utilizado em processos de tratamento de águas, esgoto, petróleo, mineração e Açucar.
 
 O PoliCloreto de Alumínio AQUA-PAC tem como caracteristica química agregar em sua molécula original cadeias polímericas hidroxiladas, fundamentais nos processos de coagulação e floculação. A posterior hidrólise irá proporcionar novas espécies insóluveis, que possibilitarão o processo de neutralização elétrica, que neste caso serão menos sensiveis que as espécies originárias a partir da hidrólise dos sais monoméricos, como meio pH, Alcalinidade, concentração coloidal e temperatura.
 
