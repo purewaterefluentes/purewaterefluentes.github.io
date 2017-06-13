@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Cloro Tripla Ação, cloro orgânico, cloro granulado, cloro para piscina, cloro multiação, cloro
+pageTitle: Cloro Tripla Ação, cloro orgânico, cloro granulado, Dicloro Estabilizado, cloro para piscina, cloro multiação, cloro
 title: Dicloroisocianurato de Sódio
 subtitle: Cloro Organico Estabilizado
 ---
@@ -26,6 +26,7 @@ Possui tripla ação no tratamento de água, como; Bactericida, Algicida e clari
 
 ### Características do Cloro Tripla Ação
 
+- O dicloro Isocianurato de sódio possui alto teor de cloro estabilizado
 - Alto teor de cloro livre (>65% de cloro)
 - Possuí Tripla ação bactericida, algicida e clarificante
 - Dicloro tem alta solubilidade em água
