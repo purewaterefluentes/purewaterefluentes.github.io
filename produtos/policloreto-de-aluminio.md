@@ -21,13 +21,13 @@ O policloreto de alumínio também conhecido como: Policloreto ou cloreto de pol
 ### Benefícios
 Fazendo comparações com os coagulantes inorgânicos tradicionais, podemos afirmar que:
 
-- A contribuição para aumento da salinidade é menor 
-- Em conseqüência, não altera significativamente a condutividade. 
-- É isento de impurezas prejudiciais aos processos industrias e a reciclagem. 
+- Com o uso do policloreto de aluminio a  contribuição para aumento da salinidade é menor 
+- O uso de policloreto de aluminio não altera significativamente a condutividade. 
+- O PAC 18% é isento de impurezas prejudiciais aos processos industrias e a reciclagem. 
 - Por conter ions hidroxilas em sua formula não há uma significativa redução de pH, além de reduzir o uso de alcalinizante. 
-- Fácil adaptação com qualquer tipo de polímero.
+- O policloreto é fácil adaptação com qualquer tipo de polímero.
 
-### Dosagem e Aplicação
+### Dosagem e Aplicação do Policloreto de Alumínio
 
 As dosagens para obter uma performance melhor do produto devem ser sempre menores do que os demais  coagulantes  a  base  de  alumínio,  devido a maior eficiência e concentração de alumina, diminuindo o consumo por menos da metade em comparação com os coagulantes que já existem no mercado.
 
@@ -35,7 +35,7 @@ Sua aplicação é completamente miscível com água e pode ser dosado na forma 
 
 Aconselhamos que as diluições não sejam inferiores a 6,0  % em alumina, pois o produto tende a hidrolizar-se, formando soluções leitosas com elevada turbidez e reduzida eficácia. 
 
-### Boletim Técnico
+### Informativo Técnico
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Policloreto de Alumínio" 
