@@ -15,6 +15,7 @@ Possui tripla ação no tratamento de água, como; Bactericida, Algicida e clari
 
 ### Aplicações do Cloro Tripla Ação (Dicloro)
 
+- O cloro tripla ação é muito usado para tratamento de água de piscina.
 - Dicloroisocianurato é principalmente usado como um desinfetante, biocida, desodorante e detergente industrial. 
 - É encontrado em alguns tabletes ou filtros para purificação de água. 
 - Cloro tripla ação possuí uma fonte de lenta liberação de cloro em baixas concentrações a uma taxa relativamente constante. 
@@ -27,10 +28,10 @@ Possui tripla ação no tratamento de água, como; Bactericida, Algicida e clari
 
 - Alto teor de cloro livre (>65% de cloro)
 - Possuí Tripla ação bactericida, algicida e clarificante
-- Alta solubilidade em água
-- Fácil aplicação
+- Dicloro tem alta solubilidade em água
+- Cloro tripla ação tem fácil aplicação
 - Maior estabilidade e presença de cloro livre
-- Reduz os ciclos de reposição de cloro na piscina
+- Dicloro reduz os ciclos de reposição de cloro na piscina
 
 ### Fornecimento
 
