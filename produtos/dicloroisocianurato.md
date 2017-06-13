@@ -37,7 +37,7 @@ Possui tripla ação no tratamento de água, como; Bactericida, Algicida e clari
 
 - Cloro Tripla Ação (Dicloroisocianurato) em Barrica plástica de 50 Kg 
 
-### Boletim Técnico Dicloroisocinurato - Cloro Orgânico
+### Boletim Técnico Dicloroisocianurato - Cloro Orgânico Tripla ação
 
 {% include purewater/link-boletim.html label="Boletim Técnico Dicloro Orgânico granulado" arquivo="BOLETIM TÉCNICO AQUA-POOLISO - DICLORO.pdf" %}
 
