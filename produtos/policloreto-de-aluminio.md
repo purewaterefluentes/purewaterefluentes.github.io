@@ -25,7 +25,7 @@ Fazendo comparações com os coagulantes inorgânicos tradicionais, podemos afir
 - O uso de policloreto de aluminio não altera significativamente a condutividade. 
 - O PAC 18% é isento de impurezas prejudiciais aos processos industrias e a reciclagem. 
 - Por conter ions hidroxilas em sua formula não há uma significativa redução de pH, além de reduzir o uso de alcalinizante. 
-- O policloreto é fácil adaptação com qualquer tipo de polímero.
+- O policloreto é de fácil adaptação com qualquer tipo de polímero.
 
 ### Dosagem e Aplicação do Policloreto de Alumínio
 
@@ -35,7 +35,7 @@ Sua aplicação é completamente miscível com água e pode ser dosado na forma 
 
 Aconselhamos que as diluições não sejam inferiores a 6,0  % em alumina, pois o produto tende a hidrolizar-se, formando soluções leitosas com elevada turbidez e reduzida eficácia. 
 
-### Informativo Técnico
+### Informativo
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Policloreto de Alumínio" 
