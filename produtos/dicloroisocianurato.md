@@ -7,7 +7,7 @@ subtitle: Cloro Organico Estabilizado
 
 ### Apresentação
 
-O cloro Tripla ação ou cloro Orgânico Biodegradável tem como principal composto o Dicloroisocianurato de sódio que é um composto orgânico, sólido brancor, altamente solúvel em água. 
+O **cloro Tripla ação ou cloro Orgânico Biodegradável** tem como principal composto o **Dicloroisocianurato de sódio** que é um composto orgânico, sólido brancor, altamente solúvel em água. 
 
 O cloro tripla ação é largamente usado como agente de limpeza, desinfetante, saneante e clarificante para inumeras aplicações.
 Possui PH levemente ácido e é largamente usado no tratamento de água e como agente saneante. Este composto é considerado relativamente estável e possui mais cloro disponível do que o hipoclorito de sódio (alvejante líquido).
