@@ -17,7 +17,7 @@ Esta regra vale de forma inversamente proporcional para polímero catiônico.
 
 As principais cargas de polímeros disponíveis são; Polímero aniônico, Polímero Catiônico e Polímero não-iônico
 
-### Composição do Floculante (Polímero)
+### Composição do Polímero Floculante
 O polieletrólito ou polímero floculante é formulado a base de políacrilaminas ou políacrilatos de carga variada. 
 
 ### Mecanismo de Ação do Polímero Floculante
