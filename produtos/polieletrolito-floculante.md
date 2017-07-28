@@ -24,13 +24,12 @@ O polieletrólito ou polímero floculante é formulado a base de políacrilamina
 O polímero floculante possui ação higroscópica e de atração molecular, criando pontes entre as partículas já formadas no tratamento de efluentes e sua estrutura, fazendo com que este aumente sua densidade e potencialize o poder de separação fase solido e água.
 
 
-### Principais Aplicações do Polieletrolito floculante
+### Principais Aplicações do Polieletrolito Floculante
 
 - Auxiliar de floculação para uso em tratamento de água.
 - Auxiliar de floculação para uso em tratamento de efluentes industrial.
 - Espessante para torta ou lodo de tratamento de efluentes.
 - Auxiliar de processos industriais como espessante.
-- 
 
 ### Características do Polimero Floculante
 
