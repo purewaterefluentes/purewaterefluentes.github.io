@@ -11,7 +11,7 @@ Fabricamos uma linha completa de produtos destinados ao controle de PH em tratam
 
 Produto apresenta fácil aplicação estando pronto para uso o corretor de pH alcalino possueí a propriedade de elevar o pH da água ou efluentes, tendo como principal ação a neutralização de acidez em meio aquoso.
 
-**Nossos alcalinizantes podem substituir o uso de produtos de alto risco de manuseio tais como; Soda caústica com a vantagem de não necessitar de nenhuma Licença Ambiental especifica para compra.**
+> Nossos alcalinizantes podem substituir o uso de produtos de alto risco de manuseio tais como; Soda caústica com a vantagem de não necessitar de nenhuma Licença Ambiental especifica para compra.
 
 ### Aplicação do Alcalinizante
 
