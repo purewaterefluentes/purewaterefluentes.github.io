@@ -17,7 +17,7 @@ Quando dissolvido em água, o cloreto férrico ou Percloreto de Ferro sofre hidr
 Atuando como coagulante, o Cloreto Férrico ou Percloreto Férrico desestabiliza partículas de sólidos e impurezas denominadas colóides, suspensas nas águas que não se separam naturalmente. Sob a ação do Cloreto Férrico, esses colóides se aglutinam e aderem aos flocos do composto de ferro formado, purificando a água.
 
 
-> Águas Potáveis
+> Água Potável
 
 As águas de superfície, rios, lagos, represas, etc - estão cada vez mais poluídas. A demanda crescente de águas potáveis faz com que a depuração natural seja insuficiente ou demorada. A floculação com Cloreto Férrico é uma etapa-chave na potabilização, eliminando partículas em suspensão e diminuindo a demanda química de oxigênio (DQO), com a remoção de metais pesados e microorganismos indesejáveis,Precipitação de fósforo nas águas residuais
 
