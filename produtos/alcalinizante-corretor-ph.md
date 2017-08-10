@@ -6,7 +6,7 @@ subtitle: Corretor de pH e Alcalinidade
 ---
 
 ### Corretor de pH Alcalino (Elevação de PH)
-
+----
 Fabricamos uma linha completa de produtos destinados ao controle de PH em tratamento de água, efluentes industriais ou sistemas de recirculação fechado como torres de resfriamento ou caldeiras.
 
 Produto apresenta fácil aplicação estando pronto para uso o corretor de pH alcalino possueí a propriedade de elevar o pH da água ou efluentes, tendo como principal ação a neutralização de acidez em meio aquoso.
