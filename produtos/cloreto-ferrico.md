@@ -12,9 +12,11 @@ Quando dissolvido em água, o cloreto férrico ou Percloreto de Ferro sofre hidr
 
 ### Aplicação do Cloreto Férrico
 
+
 #### Tratamento de Águas e Efluentes com Cloreto Férrico (Percloreto)
 
 Atuando como coagulante, o Cloreto Férrico ou Percloreto Férrico desestabiliza partículas de sólidos e impurezas denominadas colóides, suspensas nas águas que não se separam naturalmente. Sob a ação do Cloreto Férrico, esses colóides se aglutinam e aderem aos flocos do composto de ferro formado, purificando a água.
+
 
 #### Águas Potáveis
 
