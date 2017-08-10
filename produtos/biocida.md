@@ -6,7 +6,7 @@ subtitle:
 ---
 
 ### Apresentação
-Os **biocidas ou bactericidas** (também chamados de Microbactericidas), da linha Purewater Efluentes possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em sistema de águas de recirculação industrial.
+O **biocida ou bactericida** (também chamados de Microbactericida), da linha Purewater Efluentes possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em sistema de águas de recirculação industrial.
 Produto não deve ser aplicado em água potável onde a contaminação desta possa ocorrer. 
 
 ### Aplicação do Biocida
