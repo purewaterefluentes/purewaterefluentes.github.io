@@ -5,6 +5,14 @@ title: Cloreto Férrico
 subtitle: Percloreto de ferro.
 ---
 
+# TITULO
+## TITULO
+##### TITULO
+
+¨TITULO¨
+[TEXTO]
+{TEXTO}
+
 ### Apresentação
 Cloreto de ferro (III), também chamado **cloreto férrico** ou **percloreto de ferro**, é um composto químico de escala industrial, de fórmula FeCl3. A cor dos cristais de cloreto de ferro (III) depende do ângulo de visão: por luz refletida os cristais parecem verde-escuro, mas por luz transmitida parecem vermelho-púrpura. Cloreto férrico anidro é deliquescente, formando névoas de ácido clorídrico no ar úmido. É raramente observado em sua forma natural, o mineral molysite, muito conhecido de algumas fumarolas.
 
