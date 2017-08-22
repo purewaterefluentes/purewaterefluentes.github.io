@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Cloro Liquido, Hipoclorito 12%, hipoclorito de sodio, cloro piscina, cloro para tratar água, cloro, hipoclorito de cloro,
+pageTitle: Hipoclorito 12%, hipoclorito de sodio
 title: Hipoclorito de Sódio
 subtitle: Cloro liquido
 ---
