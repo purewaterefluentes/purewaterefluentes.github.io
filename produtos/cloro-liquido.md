@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Cloro, cloro liquido, hipoclorito, cloro para piscina, cloro para tratar água, cloro liquido hipoclorito, cloro para tratamento de efluentes, cloro para tratamento de água, cloro para limpeza,
+pageTitle: Cloro, cloro liquido, hipoclorito, cloro para piscina, cloro para tratar água
 title: Cloro Liquido
 subtitle: HIPOCLORE
 ---
@@ -10,7 +10,7 @@ subtitle: HIPOCLORE
 Possuí fácil aplicação e também pode ser aplicado em água de reuso nos seguimentos de: Lavanderia Industrial, Lavanderia Hospitalar, Galvanoplastia, Curtumes, Industria Alimentícia e Industria farmacêutica e outras.
 
 ### Composição
-O produto **HIPOCLORE** tem alto poder saneante e bactericida para tratamentos de águas e tratamento de efluentes agindo diretamente sobre o micro-orgânismos e agentes infecciosos bacteriológicos residual presente na água ou efluente industrial, com formula a base de sódio hipocloroso, totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água.
+O produto cloro liquído **HIPOCLORE** tem alto poder saneante e bactericida para tratamentos de águas e tratamento de efluentes agindo diretamente sobre o micro-orgânismos e agentes infecciosos bacteriológicos residual presente na água ou efluente industrial, com formula a base de sódio hipocloroso, totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água.
 
 ### Principais Aplicações do cloro liquido
 Agente de cloração, cloro ativo, agente saneante em tratamento de águas residuais, bactericida clorado, cloro para água de poço, cloro para piscinas, cloro para efluentes cloro residual na indústria.
