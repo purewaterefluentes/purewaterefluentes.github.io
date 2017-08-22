@@ -1,8 +1,8 @@
 ---
 layout: contato
-pageTitle: Policloreto de Aluminio, policloreto, pac18, pac12, policloreto alumínio, policloreto de alumínio 18%, PAC18%,
-title: AQUA-PAC
-subtitle: Policloreto de Aluminio - PAC18
+pageTitle: Policloreto de Aluminio, policloreto, PAC18%, policloreto de alumínio 18%, PAC18
+title: Policloreto de Alumínio
+subtitle: PAC18%
 ---
 
 ### Propriedades
