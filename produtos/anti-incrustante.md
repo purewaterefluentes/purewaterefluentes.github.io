@@ -7,9 +7,9 @@ Subtitle: Dispersante
 
 ### Apresentação
 
-Os Anti-incrustates ou Dispersante são compostos químicos ou formulações que tem a propriedade de prevenir a deposição de sais contidos em água na forma de precipitado em tubos, tanques, ou qualquer superfície. Tipicamente, estes sais são os carbonatos, silicatos e sulfatos de cálcio de água com elevadas concentrações destes sais. Este tipo de água é normalmente chamada de "água dura".
+Os produtos Anti-incrustante ou Dispersante são compostos químicos ou formulações que tem a propriedade de prevenir a deposição de sais contidos em água na forma de precipitado em tubos, tanques, ou qualquer superfície. Tipicamente, estes sais são os carbonatos, silicatos e sulfatos de cálcio de água com elevadas concentrações destes sais. Este tipo de água é normalmente chamada de "água dura".
 
-Os compostos anti-incrustação frequentemente reagir com o cálcio, magnésio e silicas de modo que eles não possam formar precipitados depósitos na forma cristalizada na rede hidraulica e equipamentos.
+Os compostos anti-incrustação frequentemente reagem com o cálcio, magnésio e silicas de modo que eles não possam formar precipitados depósitos na forma cristalizada na rede hidraulica e equipamentos.
 
 **Consulte o setor técnico para indicação do melhor Anti-incrustante para seu sistema.**
 
@@ -19,7 +19,7 @@ Os compostos anti-incrustação frequentemente reagir com o cálcio, magnésio e
 - Compatível com a maioria dos sistemas de Osmose Reversa
 - Compatível com 100% dos sistemas de recirculação de água industrial, tais como: Torres de resfriamento, Chiller de resfriamento, Sistemas de caldeiras.
 - Reduz o uso de ácidos 
-- Reduz o custos de limpeza e manutenção do sistema 
+- Reduz o custo de limpeza e manutenção do sistema 
 - Minimiza as operações de manutenção 
 - Aumenta os ciclos de recuperação dos sistemas de Osmose Reversa
 
