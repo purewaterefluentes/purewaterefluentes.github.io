@@ -4,9 +4,6 @@ pageTitle: Biocidas, Biocida, microbiocida, microbactericida, torre de resfriame
 title: Biocida
 subtitle:
 ---
-<div> align = “center”
-<p> teste rua mapas mapas casa para </p>
-
 ### Apresentação
 O **biocida ou bactericida** (também chamados de Microbactericida), da linha Purewater Efluentes possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em sistema de águas de recirculação industrial.
 Produto não deve ser aplicado em água potável onde a contaminação desta possa ocorrer. 
