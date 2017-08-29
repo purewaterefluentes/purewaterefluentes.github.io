@@ -4,7 +4,7 @@ pageTitle: Biocidas, Biocida, microbiocida, microbactericida, torre de resfriame
 title: Biocida
 subtitle:
 ---
-align = “center”
+<div> align = “center”
 <p> teste rua mapas mapas casa para </p>
 
 ### Apresentação
