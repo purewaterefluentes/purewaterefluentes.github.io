@@ -5,7 +5,7 @@ title: Policloreto de Alumínio
 subtitle: PAC18%
 ---
 
-### Propriedades
+### **Propriedades do Policloreto de Alumínio**
 
 O **Policloreto de Alumínio ou PAC18%** é um coagulante inorgânico catiônico pré polimerizado de alto peso molecular a base de policloreto de alumínio, utilizado em processos de tratamento de águas, esgoto, petróleo, mineração e Açucar.
 
@@ -18,7 +18,7 @@ O policloreto de alumínio também conhecido como: Policloreto ou cloreto de pol
 - PAC18% (Policloreto de aluminio - PAC18) 
 - PAC12% (Policloreto de aluminio - PAC12)
 
-### Benefícios
+### **Benefícios no uso de Policloreto de Alumínio**
 Fazendo comparações com os coagulantes inorgânicos tradicionais, podemos afirmar que:
 
 - Com o uso do policloreto de aluminio a  contribuição para aumento da salinidade é menor 
@@ -27,7 +27,7 @@ Fazendo comparações com os coagulantes inorgânicos tradicionais, podemos afir
 - Por conter ions hidroxilas em sua formula não há uma significativa redução de pH, além de reduzir o uso de alcalinizante. 
 - O policloreto é de fácil adaptação com qualquer tipo de polímero.
 
-### Dosagem e Aplicação do Policloreto de Alumínio
+### **Dosagem e Aplicação do Policloreto de Alumínio**
 
 As dosagens para obter uma performance melhor do produto devem ser sempre menores do que os demais  coagulantes  a  base  de  alumínio,  devido a maior eficiência e concentração de alumina, diminuindo o consumo por menos da metade em comparação com os coagulantes que já existem no mercado.
 
