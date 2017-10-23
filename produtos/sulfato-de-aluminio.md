@@ -4,7 +4,7 @@ pageTitle: Sulfato de alumínio, sulfato de aluminio liquido, sulfato de alumín
 title: Sulfato de Alumínio
 subtitle: 
 ---
-### Aplicações do Sulfato de Alumínio
+### **Aplicações do Sulfato de Alumínio**
 
 O Sulfato de Alumínio pode ser aplicado no: Tratamento de água de piscina, tratamento de afluentes, como rios, águas pluviais e fluviais agindo como ótimo coagulante. 
 
@@ -14,7 +14,7 @@ Para o tratamento de efluentes industriais que contenham metais pesados e outros
 
 Nosso departamento técnico irá orienta-lo sobre a melhor aplicação do sulfato de alumínio ou Precipitador de Metais em seu segmento industrial.
 
-### Sulfato de Alumínio para tratamento de piscina
+### **Sulfato de Alumínio para tratamento de piscina**
 
 É muito comum em água de piscina à proliferação de algas, bactérias, fungos, além da presença de carga orgânica liberada pelo suor . 
 O sulfato de alumínio é muito eficaz para uso na clarificação de águas de piscina, apresentando grande eficiência no processo de decantação.
