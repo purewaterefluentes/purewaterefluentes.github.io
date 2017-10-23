@@ -4,15 +4,28 @@ pageTitle: Sulfato de alumínio, sulfato de aluminio liquido, sulfato de alumín
 title: Sulfato de Alumínio
 subtitle: 
 ---
-### Aplicação
+### Aplicações do Sulfato de Alumínio
 
-O Sulfato de Alumínio pode ser aplicado no: Tratamento de afluentes, como Rios, águas pluviais e fluviais agindo como ótimo coagulante. 
+O Sulfato de Alumínio pode ser aplicado no: Tratamento de água de piscina, tratamento de afluentes, como rios, águas pluviais e fluviais agindo como ótimo coagulante. 
 
 O sulfato de alumínio tambem utilizado como clarificador na fabricação de papel, como agente fixador e clarificador da água de processo na indústria têxtil, como agentes mordentes em usinas de açúcar, como purificadores do melaço de cana de açúcar; em indústrias químicas como matéria-prima para obtenção de sais de alumínio; na indústria do cimento isolante na indústria de óleo para clarificação.
 
 Para o tratamento de efluentes industriais que contenham metais pesados e outros elementos contaminantes, sugerimos nossa Linha de Precipitadores de Metais. O precipitador de metal possui ação mais efetiva devido a sua formulação específica para tratamentos destes tipos de efluentes industriais.
 
 Nosso departamento técnico irá orienta-lo sobre a melhor aplicação do sulfato de alumínio ou Precipitador de Metais em seu segmento industrial.
+
+### Sulfato de Alumínio para tratamento de piscina
+
+É muito comum em água de piscina à proliferação de algas, bactérias, fungos, além da presença de carga orgânica liberada pelo suor . 
+O sulfato de alumínio é muito eficaz para uso na clarificação de águas de piscina, apresentando grande eficiência no processo de decantação.
+
+Instruções de Uso
+
+Antes de iniciar o tratamento com o produto Sulfato de Alumínio é importante medir a alcalinidade total da água e verificar se está entre 80 e 120 ppm e o pH para verificar se está entre 7,4 e 7,6, se necessário, faça o ajuste utilizando o produto Hidroazul específico.
+
+1. Dissolva em um balde com água 40g de Sulfato de Alumínio Hidroazul para cada 1.000 litros de água. Distribua uniformemente a solução sobre a água da piscina.
+2. Com a adição do Sulfato de Alumínio, o pH da água ficará baixo. Para correção, dissolva em um balde plástico com água, 16g de Barrilha Hidroazul para cada 1.000 litros de água. Distribua uniformemente a solução sobre a água da piscina imediatamente após a adição do Sulfato de Alumínio.
+3. Para obter uma decantação completa e uniforme, deixe a água em repouso por um período de 12 horas. Em seguida, aspire cuidadosamente o fundo da piscina. ATENÇÃO: use o filtro na posição 'DRENAR'.
 
 ### Fornecimento
 Tipos de Sulfato de Alumínio Disponiveis
