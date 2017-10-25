@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Sulfato de alumínio, sulfato de aluminio liquido, sulfato de alumínio granulado, sulfato de aluminio piscina
+pageTitle: Sulfato de alumínio, sulfato de aluminio liquido, sulfato de alumínio granulado, sulfato de aluminio para piscina
 title: Sulfato de Alumínio
 subtitle: 
 ---
@@ -28,7 +28,8 @@ Antes de iniciar o tratamento com o produto Sulfato de Alumínio é importante m
 3. Para obter uma decantação completa e uniforme, deixe a água em repouso por um período de 12 horas. Em seguida, aspire cuidadosamente o fundo da piscina. ATENÇÃO: use o filtro na posição 'DRENAR'.
 
 ### Fornecimento
-Tipos de Sulfato de Alumínio Disponiveis
+
+*Tipos de Sulfato de Alumínio Disponiveis*
 
 - Sulfato de alumínio ferroso liquido 
 - Sulfato de alumínio ferroso pó
