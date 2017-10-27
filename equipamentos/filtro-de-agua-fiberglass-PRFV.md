@@ -1,13 +1,15 @@
 ---
 layout: default
-pageTitle: Filtro central de água, filtro de água, filtro para água, filtro de água central, filtro para água de poço, filtro para piscina, filtro para água de reuso, filtragem, filtragem de água, purificação de água, 
+pageTitle: Filtro central de água, filtro de água, filtro para água, filtro para água de poço, filtro para piscina, filtragem de água
 title: Filtro Central para Água (PRFV)
 subtitle: Fiberglass
 ---
 
 <img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/cyber_tank.jpg" alt="Filtro de Agua em Fiberglass">
 
-### Especificações do Filtro Fiberglass
+### **Especificações**
+
+# Filtro Central de água
 
 - Os tanques de pressão Filtros em PRFV são fabricados com alta tecnologia e material composto por fiberglass (PRFV), de enrolamento filamentar e resinado de alta resistência química e física.
 - Todos os tanques de pressão, residenciais e comerciais, são feito por uma tecnologia de moldagem por completo sem costura.
@@ -18,13 +20,13 @@ subtitle: Fiberglass
 - Os filtros fabricados em PRFV reforçado possuem um terço do peso dos filtros em aço carbono ou inox.
 - Todos os tanques de pressão em PRFV apresentam resistência de 100% à corrosão.
 
-### Operação
+### Operação do Filtro Central de Água
 - Pressão de operação: Máximo 150 psi (10.5 Bar)
-- Temperatura de operação: 49ºC
+- Temperatura maxima de operação: 49ºC
 
 ### Tipos de Carga Filtrante
 
-Os filtros PRFV podem ser montados com as seguintes configurações de cargas:
+O **Filtro para água - PRFV** podem ser montado com as seguintes configurações de cargas:
 
 - Total de areia quartzo 98% de pureza
 - Total de carvão ativado granulado
@@ -43,12 +45,15 @@ Os filtros PRFV podem ser montados com as seguintes configurações de cargas:
 - Evita a incrustação de substância em suspensão nas paredes da tubulação galvanizada
 - Preserva limpos os reservatórios de água.
 
-### Utilidades do Filtro Central de água
+### Aplicações do Filtro Central de água
 
 - Filtragem de água de poço
 - Filtragem de água residencial
 - Filtragem de água potável
 - Filtragem de efluentes indústriais
+- Filtragem de água de reuso
+- Filtragem de água de chuva
+- Filtragem de água de piscina
 
 ### Galeria de Fotos
 
