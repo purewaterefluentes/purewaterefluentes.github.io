@@ -7,12 +7,12 @@ subtitle: Fiberglass
 
 <img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/cyber_tank.jpg" alt="Filtro de Agua em Fiberglass">
 
-### **Especificações**
+## **Filtro Central de água**
 
-# Filtro Central de água
+### Especificações
 
-- Os tanques de pressão Filtros em PRFV são fabricados com alta tecnologia e material composto por fiberglass (PRFV), de enrolamento filamentar e resinado de alta resistência química e física.
-- Todos os tanques de pressão, residenciais e comerciais, são feito por uma tecnologia de moldagem por completo sem costura.
+- O cilindro de pressão do filtro central de água **PRFV** é fabricado com alta tecnologia e material composto por fiberglass (PRFV), de enrolamento filamentar e resina polivinilica de alta resistência química e física.
+- Todos os tanques de pressão, residenciais e comerciais, são feitos por uma tecnologia de moldagem por completo sem costura.
 - Todas as entradas de rosca são feitas de 30% de fibra de vidro e cheio com PP (Polipropileno), oque fornece maior força e resistência a temperatura e pressão.
 - Espessura da parede do forro disponível a partir de 3.0 a 7.6 mm, proporcionalmente correspondente ao diâmetro do tanque.
 - São fornecidos em diâmetros de tanque de pressão de 6" a 48" de diâmetro e a partir de 10" a 72" de altura.
