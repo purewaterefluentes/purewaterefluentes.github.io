@@ -60,3 +60,4 @@ A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminat
 ### Boletim Técnico
 
 {% include purewater/link-boletim.html label="Boletim Técnico Hipoclorito de Cálcio 65%" arquivo="BOLETIM TÉCNICO AQUA-HIPO.pdf" %}
+
