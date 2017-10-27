@@ -1,11 +1,11 @@
 ---
 layout: contato
-pageTitle:hipoclorito de sodio
-title: Hipoclorito de Sódio
+pageTitle: Hipoclorito de Sódio
+title: Hipoclorito
 subtitle: Cloro liquido
 ---
 
-### Apresentação
+### **Hipoclorito de Sódio**
 
 O Hipoclorito de sódio 12% NaClO, também chamado de Cloro liquido que apresenta concentração entre 10 a 12% de cloro ativo, Atua como agente bactericida, saneante, desinfectante e clarificante e pode ser aplicado em tratamento de águas em geral e tratamento de efluentes.
 
@@ -49,7 +49,7 @@ O armazenamento deve ser na embalagem original, em local coberto, seco e ventila
 Pode ocorrer a volatilização do produto em caso de estocagem por longos períodos e em condições adversas.
 Mantido em sua embalagem original e fechada, a vida útil é de 06 meses a partir da data de  fabricação.
 
-### Manuseio e Método de Aplicação
+### Manuseio e Método de Aplicação do Hipoclorito de Sódio
 Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do Hipoclorito de sódio sua forma original (concentrado) ou se preferir diluído na proporção de 1/10 partes (solução a 10%) em água aplicando no meio aquoso a tratar.
 A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminates presente na água ou efluente.
 
