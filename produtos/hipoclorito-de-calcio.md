@@ -40,10 +40,10 @@ Agente de cloração, cloro ativo, agente saneante em tratamento de águas resid
 - Ação algicida e clarificante
 - Ação prolongada de cloração.
 
-## **Como tratar água da piscina com Hipoclorito de Cálcio 65%**
+### **Como tratar água da piscina com Hipoclorito de Cálcio 65%**
 
-1 – Ajuste a alcalinidade total da água entre 80 e 120 ppm, e adicione o produto **AQUA-BR100** para alcalinidade se ela estiver baixa;
-2 – Mantenha o pH da água sempre entre 7,2 a 7,6. Ajuste-o se necessário. O ideal é mantê-lo em 7,2;
+1. Ajuste a alcalinidade total da água entre 80 e 120 ppm, e adicione o produto **AQUA-BR100** para alcalinidade se ela estiver baixa;
+2. Mantenha o pH da água sempre entre 7,2 a 7,6. Ajuste-o se necessário. O ideal é mantê-lo em 7,2;
 3 – Com o sistema de filtração em funcionamento, na posição Filtrar, aplique 4 gramas de HIPOCLORO (Hipoclorito de Cálcio 65%), de preferência a noite, para cada 1000 litros (1m³) de água, dissolvendo o produto com água da própria piscina, em um balde plástico, previamente limpo;
 4 – A dosagem deverá ser ajustada de acordo com a frequência de uso da piscina, e a intensidade do sol e das chuvas;
 5 – Em caso de água turva, odores desagradáveis ou irritações nos olhos, verificar se a alcalinidade e o pH da água estão adequados para uso, em seguida faça uma super cloração com cerca de 10 gramas de Hipoclorito de Cálcio 65% para cada 1000 litros (1m³)
