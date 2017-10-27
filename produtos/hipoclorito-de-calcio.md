@@ -13,7 +13,7 @@ subtitle: Cloro Granulado Multiação
 
 Hipoclorito de Calcio 65% - Granulado
 
-### Principais Aplicações
+### Indicação
 
 Agente de cloração, cloro ativo, agente saneante em tratamento de águas residuais, bactericida clorado, cloro para água de poço, cloro para piscinas, cloro para efluentes cloro residual na indústria.
 
@@ -39,6 +39,16 @@ Agente de cloração, cloro ativo, agente saneante em tratamento de águas resid
 - Possuí cloro estabilizado
 - Ação algicida e clarificante
 - Ação prolongada de cloração.
+
+## **Como tratar água da piscina com Hipoclorito de Cálcio 65%**
+
+1 – Ajuste a alcalinidade total da água entre 80 e 120 ppm, e adicione o produto **AQUA-BR100** para alcalinidade se ela estiver baixa;
+2 – Mantenha o pH da água sempre entre 7,2 a 7,6. Ajuste-o se necessário. O ideal é mantê-lo em 7,2;
+3 – Com o sistema de filtração em funcionamento, na posição Filtrar, aplique 4 gramas de HIPOCLORO (Hipoclorito de Cálcio 65%), de preferência a noite, para cada 1000 litros (1m³) de água, dissolvendo o produto com água da própria piscina, em um balde plástico, previamente limpo;
+4 – A dosagem deverá ser ajustada de acordo com a frequência de uso da piscina, e a intensidade do sol e das chuvas;
+5 – Em caso de água turva, odores desagradáveis ou irritações nos olhos, verificar se a alcalinidade e o pH da água estão adequados para uso, em seguida faça uma super cloração com cerca de 10 gramas de Hipoclorito de Cálcio 65% para cada 1000 litros (1m³)
+6 – Medir o teor de cloro livre no dia seguinte.
+7 - Somente permita a entrada de pessoas na piscina quando o resíduo de cloro livre estiver na faixa de 1 a 3 ppm.
 
 
 ### Transporte e Armazenagem
