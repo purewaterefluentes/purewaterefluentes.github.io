@@ -26,7 +26,7 @@ subtitle: Fiberglass
 
 ### Tipos de Carga Filtrante
 
-O **Filtro para água - PRFV** podem ser montado com as seguintes configurações de cargas:
+O **Filtro para água - PRFV** poderá ser montado nas seguintes configurações de cargas:
 
 - Total de areia quartzo 98% de pureza
 - Total de carvão ativado granulado
