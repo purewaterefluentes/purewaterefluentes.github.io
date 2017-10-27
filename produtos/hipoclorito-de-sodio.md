@@ -32,12 +32,13 @@ Hipoclorito de sódio 12% é bastante usado em cisternas e em abastecimento de �
 - Aparência: Líquido Amarelo à esverdeado
 - Odor: Característico de cloro
 
-### Funcionalidades
+### Aplicações do Hipoclorito de Sódio
 
-- Eficiente na clarificação de água
-- Ótimo agente saneante e agente bactericida
-- Alta concentração de cloro ativo
-- 100% solúvel em água
+- Hipoclorito para tratamento de água de piscina
+- Hipoclorito para tratamento de água.
+- Cloro como agente saneante e agente bactericida
+- Agente de cloração (cloro ativo)
+- O hipoclorito de sódio é 100% solúvel em água
 - Fácil operacão e manuseio
 - Baixo custo
 - Não gera residual de cálcio e incrustação de tubulação
