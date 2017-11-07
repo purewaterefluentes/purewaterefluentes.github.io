@@ -6,13 +6,13 @@ subtitle: Auxiliar de floculação para tratar água
 ---
 
 ### Apresentação
-A Linha de **Polímero floculante** da Purewater Efluentes basea-se em compostos específicos de polímero de acrilaminas com variados tipos de carga e peso molecular, atuando como coagulante e floculante e agindo como ponte na formação flóculos "flocos" com alta densidade em tratamento de água ou tratamento de efluentes
+A Linha de **Polímero floculante** da Purewater Efluentes basea-se em compostos específicos de polímero de acrilamina com variados tipos de cargas e pesos molecular, atuando como floculante e agindo como ponte na formação flóculos "flocos" com alta densidade em tratamento de água ou tratamento de efluentes.
 
 A floculação no campo da química, é o processo onde colóides saem de suspensão na forma de agregados, formando partículas maiores, ditos "flocos" ou "flóculos". 
 
 ### Funcionalidade do Polieletrolito ou Polímero Floculante
 
-Um polímero aniônico é aquele que devido à alta densidade de suas cargas negativas em sua cadeia, atrai e se liga à moléculas de predominantes cargas positivas. Polímeros aniônicos são usados como agentes clarificantes em decantação, como agentes auxiliares de filtração, como em tratamento de água de abastecimento ou no tratamento do caldo de cana, na produção de açúcar de cana (sacarose), e são capazes de sequestrar de líquidos cátions como ferro, cálcio, magnésio, bário e outros que formam incrustações nos equipamentos. 
+Como exemplo; um polímero aniônico é aquele que devido à alta densidade de suas cargas negativas em sua cadeia, atrai e se liga à moléculas de predominantes cargas positivas. Polímeros aniônicos são usados como agentes clarificantes em decantação, como agentes auxiliares de filtração, como em tratamento de água de abastecimento ou no tratamento do caldo de cana, na produção de açúcar de cana (sacarose), e são capazes de sequestrar de líquidos cátions como ferro, cálcio, magnésio, bário e outros que formam incrustações nos equipamentos. 
 Esta regra vale de forma inversamente proporcional para polímero catiônico.
 
 As principais cargas de polímeros disponíveis são; Polímero aniônico, Polímero Catiônico e Polímero não-iônico
@@ -34,7 +34,7 @@ O polímero floculante possui ação higroscópica e de atração molecular, cri
 ### Características do Polimero Floculante
 
 - Tipos de carga: Polímero Aniônico, Polímero Catiônico e Polímero Não-Iônico
-- Estado fisico: Solido (granular) e Líquido em emulsão
+- Estado fisico: Solido (Polímero aniônico granulado) e (Polímero Catiônico Granulado) ou Polímero emulsão.
 - Densidade: 0,97 a 1,05 g/cm3 (25 °C)
 - pH: 6-9
 - Aparência: Variado
@@ -54,3 +54,4 @@ A dosagem a ser utilizada varia de acordo com o tipo de água ou efluente, deven
 
 - Polimero floculante em bombona plastica de 25 Kg
 - Polimero floculante em saco de polietileno de 25 Kg
+
