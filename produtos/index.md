@@ -1,7 +1,7 @@
 ---
 layout: contato
 title: Produtos Químicos
-subtitle: Produtos químicos para tratamento de água e efluentes industriais
+subtitle: Tratamento de água e efluentes - Piscina - Insumos industriais
 robots: follow
 ---
 
