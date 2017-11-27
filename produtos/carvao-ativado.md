@@ -7,15 +7,13 @@ subtitle: AQUA-CVT
 
 ### Apresentação
 
-O **Carvão ativado vegetal** ou **Carvão Ativado Granulado** é um material de carbono extraído da casca do coco e com uma porosidade bastante desenvolvida, com capacidade de coletar seletivamente gases, líquidos ou impurezas no interior dos seus poros, apresentando portanto um excelente poder de clarificação, desodorização e purificação de líquidos ou gases.
+O **Carvão ativado vegetal** é um material de carbono extraído da casca do coco e com uma porosidade bastante desenvolvida, com capacidade de coletar seletivamente gases, líquidos ou impurezas no interior dos seus poros, apresentando portanto um excelente poder de clarificação, desodorização e purificação de líquidos ou gases.
 
 O Carvão Ativo é normalmente 100 vezes mais poroso que o carvão comum, esta porosidade esta diretamente ligada à "limpeza" que o material sofre na ativação que consiste em remover as substâncias contidas nos poros obstruídos do carvão comum. 
-Este processo é realizado em fornos ativadores a uma temperatura de aproximadamente 800 ºC, e atmosfera redutora; deixando pontes de ligação abertas no interior dos poros.
 
-Carvão Ativo ou Carvão Ativado é um produto quimicamente inerte e usado para a remoção de impurezas dissolvidas nos produtos a serem tratados, e pode ser empregado em pó ou granulado conforme a conveniência do seu uso.
+Carvão Ativo ou Carvão Ativado é um produto quimicamente inerte e usado para a remoção de impurezas dissolvidas em diversos meios.
 
 Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Carvão ativado vegetal
-
 
 <img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/Carvão ativado granulado.jpg" alt="Carvão Ativado Granulado">
 
