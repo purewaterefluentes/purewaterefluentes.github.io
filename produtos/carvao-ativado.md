@@ -39,6 +39,10 @@ Disponivel na forma de pó (pulverizado)
 
 ### Granulometria do Carvão ativado (Mesh)
 
+{% include purewater/link-boletim.html 
+   label="Tabela Granulométrica - Carvão Ativado" 
+   arquivo="Tabela Granulométrica Carvão ativado.pdf" %}
+
 - 2 x 3  (7,5 a 8,5 mm)
 - 3 x 6  (4,10 a 5,0 mm)
 - 6x10   (2,40 a 2,9 mm)
