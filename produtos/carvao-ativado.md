@@ -26,6 +26,8 @@ Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Ca
 - Carvão muito utilizado em sistemas de filtragem para água potável, pois a prata coloidal exerce função bactericida.
 
 
+<img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/carvao ativado pulverizado.jpg" alt="Carvão Ativado Pulverizado">
+
 ### Carvão ativado Pulverizado
 - Disponível em pó
 
