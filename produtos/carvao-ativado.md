@@ -49,10 +49,7 @@ Disponivel na forma de pó (pulverizado)
 - 20x50  (0,55 a 0,70 mm)
 
 ### Fornecimento
-
 - Carvão ativado em Sacos de 25Kg
-
-### Boletim Técnico
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Carvao Ativado" 
