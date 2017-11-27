@@ -39,7 +39,7 @@ Disponivel na forma de pó (pulverizado)
 
 #### Fornecimento: Carvão ativado em Sacos de 25Kg
 
-//
+%%
 
 {% include purewater/link-boletim.html 
    label="Tabela Granulométrica - Carvão Ativado" 
