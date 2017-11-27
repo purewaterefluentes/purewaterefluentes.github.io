@@ -37,13 +37,15 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 Carvão muito utilizado em sistemas de filtragem para água potável, pois a prata coloidal exerce função bactericida.
 Disponivel na forma de pó (pulverizado)
 
-### Fornecimento
-- Carvão ativado em Sacos de 25Kg
+### Fornecimento: Carvão ativado em Sacos de 25Kg
+
 
 {% include purewater/link-boletim.html 
    label="Tabela Granulométrica - Carvão Ativado" 
    arquivo="Tabela Granulométrica Carvão Ativado.pdf" %}
 
+
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Carvao Ativado" 
    arquivo="Boletim-tecnico-carvao-ativado.pdf" %}
+
