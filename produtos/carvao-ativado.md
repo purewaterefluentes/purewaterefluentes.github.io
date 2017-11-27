@@ -37,11 +37,10 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 Carvão muito utilizado em sistemas de filtragem para água potável, pois a prata coloidal exerce função bactericida.
 Disponivel na forma de pó (pulverizado)
 
-### Granulometria do Carvão ativado (Mesh)
 
 {% include purewater/link-boletim.html 
    label="Tabela Granulométrica - Carvão Ativado" 
-   arquivo="Tabela Granulométrica Carvão ativado.pdf" %}
+   arquivo="Tabela Granulométrica Carvão Ativado.pdf" %}
 
 - 2 x 3  (7,5 a 8,5 mm)
 - 3 x 6  (4,10 a 5,0 mm)
