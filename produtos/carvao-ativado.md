@@ -16,10 +16,7 @@ Carvão Ativo ou Carvão Ativado é um produto quimicamente inerte e usado para 
 
 Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Carvão ativado vegetal
 
-### Classificação
-- **Tipo**: Carvão Ativo Vegetal
-- **Origem**: Extraído da casca de coco
-- **Forma disponível**: Granulado ou pó
+
 
 ### Carvão Ativado Especial (Ação Bactericida)
 - Carvão Ativo com Prata Coloidal
@@ -29,7 +26,9 @@ Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Ca
 <img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/carvao ativado pulverizado.jpg" alt="Carvão Ativado Pulverizado">
 
 ### Carvão ativado Pulverizado
-- Disponível em pó
+Muito utilizado para aplicação em fase líquida, em processo contínuo ou descontínuo. Esse produto é indicado para casos em que são requeridas dosagens variadas e/ou existem dificuldades operacionais para a utilização em colunas, assim como no caso de a regeneração do carvão ativado não ser indicada.
+Tais sistemas são providos de agitação para manter o pó em suspensão com o líquido a ser tratado, de forma a ocorrer um contato eficiente e o maior aproveitamento do carvão ativado. Desse modo, a granulometria de suas partículas promove um contato íntimo com o líquido a purificar, além de possuir as características necessárias e indispensáveis de umectabilidade e sedimentação.
+A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filtrabilidade e a posterior remoção do meio líquido. Após a adsorção, o pó é separado do líquido por centrifugação, filtração ou decantação, ou até mesmo pela combinação desses processos de separação.
 
 ### Granulometria do Carvão ativado (Mesh)
 
