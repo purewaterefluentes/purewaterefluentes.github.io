@@ -23,8 +23,6 @@ Fabricado através do processo de carboativação física com alta temperatura e
 
 Alto controle de qualidade produtivo para impedir a contaminação por microrganismos. Neste sentido, esse produto apresenta elevada eficiência para adsorção de substâncias químicas e remoção de sabor e odor do fluido a ser tratado e/ou purificado, podendo ser comercializado com pH ajustado conforme as necessidades de cada cliente.
 
-<img class="img-responsive pull-right" style="max-width: 5%;" src="../../website/images/Carvão ativado pulverizado.jpg" alt="Carvão Ativado Pulverizado">
-
 ### **Carvão ativado Pulverizado** 
 Muito utilizado para aplicação em fase líquida, em processo contínuo ou descontínuo. Esse produto é indicado para casos em que são requeridas dosagens variadas e/ou existem dificuldades operacionais para a utilização em colunas, assim como no caso de a regeneração do carvão ativado não ser indicada.
 
