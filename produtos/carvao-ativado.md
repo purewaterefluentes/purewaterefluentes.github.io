@@ -36,6 +36,7 @@ Carvão muito utilizado em sistemas de filtragem para água potável, pois a pra
 Disponivel na forma de pó (pulverizado)
 >
 #### Fornecimento: Carvão ativado em Sacos de 25Kg
+
 >
 {% include purewater/link-boletim.html 
    label="Tabela Granulométrica - Carvão Ativado" 
@@ -45,4 +46,4 @@ Disponivel na forma de pó (pulverizado)
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Carvao Ativado" 
    arquivo="Boletim-tecnico-carvao-ativado.pdf" %}
-
+>
