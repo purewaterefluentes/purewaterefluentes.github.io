@@ -34,11 +34,9 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 É um carvão ativado impregnado com **prata coloidal** em porcentagem adequada para adquirir função bacteriostática, impedindo a proliferação de bactérias no interior dos filtros e purificadores residenciais.
 Carvão muito utilizado em sistemas de filtragem para água potável, pois a prata coloidal exerce função bactericida.
 Disponivel na forma de pó (pulverizado)
-
 >
-
 #### Fornecimento: Carvão ativado em Sacos de 25Kg
-
+>
 {% include purewater/link-boletim.html 
    label="Tabela Granulométrica - Carvão Ativado" 
    arquivo="Tabela Granulométrica Carvão Ativado.pdf" %}
