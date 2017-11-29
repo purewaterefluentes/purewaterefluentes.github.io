@@ -9,7 +9,7 @@ O sequestrante de oxigênio é formulado por substâncias químicas que removem 
 
 Existem diversas formulações para sequestrante de oxigênio, os mais usuais possuem em sua formulação sais inorgânicos redutores.
 
-### **Vantagens do uso de sequestrante de oxigênio para Caldeira**
+#### **Vantagens do uso de sequestrante de oxigênio para Caldeira**
 
 A remoção do oxigenio na água de caldeira protege as superfícies ferrosas de ataques corrosivos.
 
@@ -25,7 +25,7 @@ No tratamento de caldeiras, adiciona-se um pequeno excesso de sequestrante de ox
 - Alta dispersão superficial
 - Não gera solidos dissolvidos no sistema
 
-### **Embalagem do Sequestrante de Oxigênio**
+#### **Embalagem do Sequestrante de Oxigênio**
 
 - Bombona plástica de 50 Kg
 - Container Plastico (IBC) de 1000 litros
