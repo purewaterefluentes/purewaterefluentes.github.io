@@ -15,7 +15,7 @@ Existem diversas formulações para sequestrante de oxigênio, os mais usuais po
 
 A remoção do oxigenio na água de caldeira protege as superfícies ferrosas de ataques corrosivos.
 
-No tratamento de caldeiras, adiciona-se um pequeno excesso de sequestrante de oxigênio no sistema de recirculação da água, de forma a se obter um residual do produto desta forma garantindo a redução nos índices de oxigênio dissolvido.
+No tratamento de caldeiras, adiciona-se um pequeno excesso de sequestrante de oxigênio no sistema de recirculação da água, de forma a se obter um residual do produto e assim garantir a redução nos índices de oxigênio dissolvido.
 
 
 ### **Funcionalidades do Sequestrante de Oxigênio**
