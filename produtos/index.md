@@ -15,6 +15,7 @@ robots: follow
 - [Bentonita Lubrificante de perfuração de poços](lubrificante-perfuracao-pocos.html)
 - [Biocida](biocida.html)
 - [Carvão Ativado](carvao-ativado.html)
+- [Carvão Antracito](carvao-atracito.html)
 - [Clarificador](clarificador-agua-efluentes.html)
 - [Cloro Liquido](cloro-liquido.html)
 - [Coagulantes p/ água e efluentes](coagulante-agua-efluentes.html)
