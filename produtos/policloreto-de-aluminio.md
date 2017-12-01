@@ -20,6 +20,14 @@ O policloreto de alumínio também conhecido como: PAC18 ou cloreto de polialum�
 
 - BASE-PAC (Policloreto de alumínio) -**Alta Basicidade** (não altera o pH da água)
 
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Policloreto de Alumínio 18%" 
+   arquivo="BOLETIM TÉCNICO - AQUA PAC18 - REVISADO.pdf" %}
+
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Policloreto de Alumínio - Alta Basicidade" 
+   arquivo="BOLETIM TÉCNICO - BASE-PAC - REVISADO.pdf" %}
+       
 ### **Benefícios no uso de Policloreto de Alumínio 18%**
 
 - Com o uso do policloreto de aluminio a  contribuição para aumento da salinidade é menor 
@@ -39,18 +47,7 @@ O policloreto de alumínio também conhecido como: PAC18 ou cloreto de polialum�
 - Remove eficientemente a cor orgânica;
 - Resistente ao cloro e pode ser usado em sistemas pré- clorados sem redução na atividade química .
 
-### Informativo
-
-{% include purewater/link-boletim.html 
-   label="Boletim Técnico Policloreto de Alumínio 18%" 
-   arquivo="BOLETIM TÉCNICO - AQUA PAC18 - REVISADO.pdf" %}
-
-{% include purewater/link-boletim.html 
-   label="Boletim Técnico Policloreto de Alumínio - Alta Basicidade" 
-   arquivo="BOLETIM TÉCNICO - BASE-PAC - REVISADO.pdf" %}
-       
-
-### Embalagem
+### **Embalagem**
 
 - Policloreto de aluminio em bombona plastica de 30Kg ou 60Kg.
 - Policloreto de aluminio em Container de 1000 litros. 
