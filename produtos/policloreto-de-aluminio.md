@@ -2,38 +2,45 @@
 layout: contato
 pageTitle: Policloreto de Aluminio, policloreto, PAC18%, policloreto de alumínio 18%, PAC18
 title: Policloreto de Alumínio
-subtitle: PAC18%
+subtitle: 
 ---
 
 ### **Propriedades do Policloreto de Alumínio**
 
-O **Policloreto de Alumínio ou PAC18%** é um coagulante inorgânico catiônico pré polimerizado de alto peso molecular a base de policloreto de alumínio, utilizado em processos de tratamento de águas, esgoto, petróleo, mineração e Açucar.
+O **Policloreto de Alumínio** é um coagulante inorgânico catiônico pré polimerizado de alto peso molecular a base de policloreto de alumínio, utilizado em processos de tratamento de águas, esgoto, petróleo, mineração e Açucar.
 
-O PoliCloreto de Alumínio AQUA-PAC tem como caracteristica química agregar em sua molécula original cadeias polímericas hidroxiladas, fundamentais nos processos de coagulação e floculação. A posterior hidrólise irá proporcionar novas espécies insóluveis, que possibilitarão o processo de neutralização elétrica, que neste caso serão menos sensiveis que as espécies originárias a partir da hidrólise dos sais monoméricos, como meio pH, Alcalinidade, concentração coloidal e temperatura.
+O PoliCloreto de Alumínio tem como caracteristica química agregar em sua molécula original cadeias polímericas hidroxiladas, fundamentais nos processos de coagulação e floculação. A posterior hidrólise irá proporcionar novas espécies insóluveis, que possibilitarão o processo de neutralização elétrica, que neste caso serão menos sensiveis que as espécies originárias a partir da hidrólise dos sais monoméricos.
 
-O policloreto de alumínio também conhecido como: Policloreto ou cloreto de polialuminio proporciona ao entrar em contato com o líquido núcleos de geração de incremento de floculação e sua hidrólise se desenvolve muito mais lentamente, facilitando assim o processo de neutralização das cargas. Todas essas caracteristicas trazem ao AQUA-PAC uma eficiência nos tratamentos de água físico-químico.
-
-### Concentrações Disponiveis:
-
-- PAC18% (Policloreto de aluminio - PAC18) 
-- PAC12% (Policloreto de aluminio - PAC12)
+O policloreto de alumínio também conhecido como: PAC18 ou cloreto de polialumínio proporciona ao entrar em contato com o líquido, núcleos de geração de incremento de floculação e sua hidrólise se desenvolve muito mais lentamente, facilitando assim o processo de neutralização das cargas. 
 
 ### **Benefícios no uso de Policloreto de Alumínio**
+
 Fazendo comparações com os coagulantes inorgânicos tradicionais, podemos afirmar que:
 
 - Com o uso do policloreto de aluminio a  contribuição para aumento da salinidade é menor 
 - O uso de policloreto de aluminio não altera significativamente a condutividade. 
-- O PAC 18% é isento de impurezas prejudiciais aos processos industrias e a reciclagem. 
+- O PAC é isento de impurezas prejudiciais aos processos industrias e a reciclagem. 
 - Por conter ions hidroxilas em sua formula não há uma significativa redução de pH, além de reduzir o uso de alcalinizante. 
 - O policloreto é de fácil adaptação com qualquer tipo de polímero.
 
-### **Dosagem e Aplicação do Policloreto de Alumínio**
+Elimina a utilização de Sulfato de alumínio;
+Tem pouco ou nenhum efeito no pH da água;
+É efetivo em uma larga faixa de pH;
+Elimina ou reduz a necessidade de ajuste do pH;
+Forma flocos grandes rígidos e pesados, elevando a velocidade de decantação;
+Remove eficientemente a cor orgânica;
+Forma liquida, permite fácil manuseio, estocagem e aplicação;
+Coagula mais eficientemente que o Sulfato de Alumínio;
+É um programa de tratamento de água e efluentes, simples e conveniente , com um único produto químico;
+Resistente ao cloro e pode ser usado em sistemas pré- clorados sem redução na atividade química .
 
-As dosagens para obter uma performance melhor do produto devem ser sempre menores do que os demais  coagulantes  a  base  de  alumínio,  devido a maior eficiência e concentração de alumina, diminuindo o consumo por menos da metade em comparação com os coagulantes que já existem no mercado.
+### **Tipos e concentrações de policloreto de alumínio**:
 
-Sua aplicação é completamente miscível com água e pode ser dosado na forma não diluída como a forma diluída conforme critérios de operação.
+- PAC12% (Policloreto de aluminio - PAC12) | Baixa Basicidade
+- PAC18% (Policloreto de aluminio - PAC18) | Baixa Basicidade
 
-Aconselhamos que as diluições não sejam inferiores a 6,0  % em alumina, pois o produto tende a hidrolizar-se, formando soluções leitosas com elevada turbidez e reduzida eficácia. 
+- BASE-PAC (Policloreto de alumínio)       | **Alta Basicidade** (não altera o pH da água)
+
 
 ### Informativo
 
@@ -44,15 +51,13 @@ Aconselhamos que as diluições não sejam inferiores a 6,0  % em alumina, pois 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Policloreto de Alumínio - Alta Basicidade" 
    arquivo="BOLETIM TÉCNICO - BASE-PAC - REVISADO.pdf" %}
-   
-   
-   
-   
+       
 
 ### Embalagem
 
 - Policloreto de aluminio em bombona plastica de 30Kg ou 60Kg.
 - Policloreto de aluminio em Container de 1000 litros. 
 - Policloreto de aluminio em Caminhão Tanque Truck 10.250 litros.
+
 
 
