@@ -38,8 +38,16 @@ Aconselhamos que as diluições não sejam inferiores a 6,0  % em alumina, pois 
 ### Informativo
 
 {% include purewater/link-boletim.html 
-   label="Boletim Técnico Policloreto de Alumínio" 
-   arquivo="Boletim-tecnico-Policloreto-de-aluminio.pdf" %}
+   label="Boletim Técnico Policloreto de Alumínio 18%" 
+   arquivo="BOLETIM TÉCNICO - AQUA PAC18 - REVISADO.pdf" %}
+
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Policloreto de Alumínio |Alta Basicidade" 
+   arquivo="BOLETIM TÉCNICO - BASE-PAC - REVISADO.pdf" %}
+   
+   
+   
+   
 
 ### Embalagem
 
