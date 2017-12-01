@@ -36,10 +36,10 @@ Resistente ao cloro e pode ser usado em sistemas pré- clorados sem redução na
 
 ### **Tipos e concentrações de policloreto de alumínio**:
 
-- PAC12% (Policloreto de aluminio - PAC12) | Baixa Basicidade
-- PAC18% (Policloreto de aluminio - PAC18) | Baixa Basicidade
+- PAC12% (Policloreto de aluminio - PAC12) -Baixa Basicidade
+- PAC18% (Policloreto de aluminio - PAC18) -Baixa Basicidade
 
-- BASE-PAC (Policloreto de alumínio)       | **Alta Basicidade** (não altera o pH da água)
+- BASE-PAC (Policloreto de alumínio) -**Alta Basicidade** (não altera o pH da água)
 
 
 ### Informativo
