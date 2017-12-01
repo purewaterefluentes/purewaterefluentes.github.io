@@ -13,27 +13,6 @@ O PoliCloreto de Alumínio tem como caracteristica química agregar em sua molé
 
 O policloreto de alumínio também conhecido como: PAC18 ou cloreto de polialumínio proporciona ao entrar em contato com o líquido, núcleos de geração de incremento de floculação e sua hidrólise se desenvolve muito mais lentamente, facilitando assim o processo de neutralização das cargas. 
 
-### **Benefícios no uso de Policloreto de Alumínio**
-
-Fazendo comparações com os coagulantes inorgânicos tradicionais, podemos afirmar que:
-
-- Com o uso do policloreto de aluminio a  contribuição para aumento da salinidade é menor 
-- O uso de policloreto de aluminio não altera significativamente a condutividade. 
-- O PAC é isento de impurezas prejudiciais aos processos industrias e a reciclagem. 
-- Por conter ions hidroxilas em sua formula não há uma significativa redução de pH, além de reduzir o uso de alcalinizante. 
-- O policloreto é de fácil adaptação com qualquer tipo de polímero.
-
-Elimina a utilização de Sulfato de alumínio;
-Tem pouco ou nenhum efeito no pH da água;
-É efetivo em uma larga faixa de pH;
-Elimina ou reduz a necessidade de ajuste do pH;
-Forma flocos grandes rígidos e pesados, elevando a velocidade de decantação;
-Remove eficientemente a cor orgânica;
-Forma liquida, permite fácil manuseio, estocagem e aplicação;
-Coagula mais eficientemente que o Sulfato de Alumínio;
-É um programa de tratamento de água e efluentes, simples e conveniente , com um único produto químico;
-Resistente ao cloro e pode ser usado em sistemas pré- clorados sem redução na atividade química .
-
 ### **Tipos e concentrações de policloreto de alumínio**:
 
 - PAC12% (Policloreto de aluminio - PAC12) -Baixa Basicidade
@@ -41,6 +20,24 @@ Resistente ao cloro e pode ser usado em sistemas pré- clorados sem redução na
 
 - BASE-PAC (Policloreto de alumínio) -**Alta Basicidade** (não altera o pH da água)
 
+### **Benefícios no uso de Policloreto de Alumínio 18%**
+
+- Com o uso do policloreto de aluminio a  contribuição para aumento da salinidade é menor 
+- O uso de policloreto de aluminio não altera significativamente a condutividade. 
+- O PAC18% é isento de impurezas prejudiciais aos processos industrias e a reciclagem. 
+- Por conter ions hidroxilas em sua formula não há uma significativa redução de pH, além de reduzir o uso de alcalinizante. 
+- O policloreto é de fácil adaptação com qualquer tipo de polímero.
+- Elimina a utilização de Sulfato de alumínio;
+
+### **Benefícios no uso de Policloreto de Alumínio - Alta Basicidade**
+
+- Tem pouco ou nenhum efeito no pH da água "Não altera o pH da água"
+- É efetivo em uma larga faixa de pH
+- Elimina a utilização de Sulfato de alumínio;
+- Elimina ou reduz a necessidade de ajuste do pH;
+- Forma flocos grandes rígidos e pesados, elevando a velocidade de decantação;
+- Remove eficientemente a cor orgânica;
+- Resistente ao cloro e pode ser usado em sistemas pré- clorados sem redução na atividade química .
 
 ### Informativo
 
