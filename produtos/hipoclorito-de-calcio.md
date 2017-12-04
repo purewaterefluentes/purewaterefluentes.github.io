@@ -5,19 +5,14 @@ title: Hipoclorito de Cálcio
 subtitle: Cloro Granulado Multiação
 ---
 
-### Apresentação
+**Hipoclorito de cálcio 65%** é um composto químico de fórmula Ca(ClO)₂. É largamente usado no tratamento de águas em geral e piscinas.
+Este produto é considerado relativamente estável e possui maior teor de cloro disponível do que o hipoclorito de sódio.
 
-**Hipoclorito de cálcio** é um composto químico de fórmula Ca(ClO)₂. É largamente usado no tratamento de água e como agente alvejante. Este composto é considerado relativamente estável e possui mais cloro disponível do que o hipoclorito de sódio
+### **Indicação**
 
-### Composição
+Tratamento de água de piscina, agente de cloração, cloro ativo, agente saneante em tratamento de águas residuais, bactericida clorado, cloro para água de poço, cloro para tratamento de efluentes e cloro residual no uso em processos indústriais.
 
-Hipoclorito de Calcio 65% - Granulado
-
-### Indicação
-
-Agente de cloração, cloro ativo, agente saneante em tratamento de águas residuais, bactericida clorado, cloro para água de poço, cloro para piscinas, cloro para efluentes cloro residual na indústria.
-
-### Características do Hipoclorito de Cálcio
+### **Características do Hipoclorito de Cálcio**
 
 - Fórmula molecular	Ca(OCl)2
 - Massa molar	142.98 g/mol
@@ -29,8 +24,9 @@ Agente de cloração, cloro ativo, agente saneante em tratamento de águas resid
 - Solubilidade: Reage em álcool
 
 
-### Funcionalidades do Hipoclorito de Cálcio
+### **Funcionalidades do Hipoclorito de Cálcio**
 
+- Ação prolongada no tratamento de água em piscina.
 - Eficiente na clarificação de água
 - Ótimo agente saneante e agente bactericida
 - Alta concentração de cloro ativo / Teor de cloro >65%
@@ -50,19 +46,6 @@ Agente de cloração, cloro ativo, agente saneante em tratamento de águas resid
 6. Medir o teor de cloro livre no dia seguinte.
 7. Somente permita a entrada de pessoas na piscina quando o resíduo de cloro livre estiver na faixa de 1 a 3 ppm.
 
-
-### Transporte e Armazenagem
-
-O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor. 
-Pode ocorrer a volatilização do produto em caso de estocagem por longos períodos e em condições adversas.
-Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
-
-### Manuseio e Método de Aplicação
-
-Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do AQUA-HIPO em sua forma original (granulado) ou se preferir diluído na proporção de 1/10 partes (solução a 10%) em água aplicando no meio aquoso a tratar.
-Também pode ser dosado em piscinas na seguinte proporção: 4 gramas de produto para 1,0 m3 de água a tratar, lembrando que o teor de cloro livre deve ser controlado através do uso de um KIT de analise para manter o cloro entre 2 a 4 mg/Litro
-A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminates presente na água ou efluente.
-
 ### Fornecimento
 
 - Hipoclorito de cálcio em barrica plástica de 45 Kg
@@ -70,4 +53,6 @@ A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminat
 ### Boletim Técnico
 
 {% include purewater/link-boletim.html label="Boletim Técnico Hipoclorito de Cálcio 65%" arquivo="BOLETIM TÉCNICO AQUA-HIPO.pdf" %}
+
+
 
