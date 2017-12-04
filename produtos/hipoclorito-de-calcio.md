@@ -47,13 +47,14 @@ Tratamento de água de piscina, agente de cloração, cloro ativo, agente sanean
 6. Medir o teor de cloro livre no dia seguinte.
 7. Somente permita a entrada de pessoas na piscina quando o resíduo de cloro livre estiver na faixa de 1 a 3 ppm.
 
-### Fornecimento
+### **Fornecimento**
 
 - Hipoclorito de cálcio em barrica plástica de 45 Kg
 
-### Boletim Técnico
-
+>
 {% include purewater/link-boletim.html label="Boletim Técnico Hipoclorito de Cálcio 65%" arquivo="BOLETIM TÉCNICO AQUA-HIPO.pdf" %}
+>
+
 
 
 
