@@ -18,7 +18,7 @@ Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Ca
 <img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/Carvão ativado granulado.jpg" alt="Carvão Ativado Granulado">
 
 >
-# TIPOS FORNECIDOS:
+## TIPOS FORNECIDOS:
 >
 
 
