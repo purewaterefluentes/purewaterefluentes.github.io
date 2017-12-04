@@ -51,10 +51,8 @@ Tratamento de água de piscina, agente de cloração, cloro ativo, agente sanean
 
 - Hipoclorito de cálcio em barrica plástica de 45 Kg
 
->
+### Informativo Técnico
 {% include purewater/link-boletim.html label="Boletim Técnico Hipoclorito de Cálcio 65%" arquivo="BOLETIM TÉCNICO AQUA-HIPO.pdf" %}
->
-
 
 
 
