@@ -5,7 +5,8 @@ title: Hipoclorito de Cálcio
 subtitle: Cloro Granulado Multiação
 ---
 
-**Hipoclorito de cálcio 65%** é um composto químico de fórmula Ca(ClO)₂. É largamente usado no tratamento de águas em geral e piscinas.
+### **Hipoclorito de cálcio 65%** 
+É um composto químico de fórmula Ca(ClO)₂. É largamente usado no tratamento de águas em geral e piscinas.
 Este produto é considerado relativamente estável e possui maior teor de cloro disponível do que o hipoclorito de sódio.
 
 ### **Indicação**
