@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Carvão Antracito, Carvão mineral, Carvão mineral antracito
+pageTitle: CARVÃO ANTRACITO | CARVÃO MINERAL ANTRACITO | PUREWATER EFLUENTES
 title: Carvão Antracito
 subtitle: AQUA-CMA
 ---
