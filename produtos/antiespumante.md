@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Antiespumante | Inibidor de espumas | Silicona antiespumante | Antiespumante base água | Antiespumante para tratamento de efluentes
+pageTitle: ANTIESPUMANTE | SILICONA ANTIESPUMANTE | ANTIESPUMANTE BASE ÁGUA | ANTIESPUMANTE PARA TRATAMENTO DE EFLUENTES
 title: Antiespumante
 subtitle: AQUA-FLUX
 ---
