@@ -1,11 +1,9 @@
 ---
 layout: contato
-pageTitle: Antiespumante, anti espumante, inibidor de espumas, silicona antiespumante, antiespumante base água, antiespumante para tratamento de efluentes
+pageTitle: Antiespumante|Inibidor de espumas|Silicona antiespumante|Antiespumante base água|Antiespumante para tratamento de efluentes
 title: Antiespumante
 subtitle: AQUA-FLUX
 ---
-
-### Apresentação
 
 A Linha de **Antiespumantes** da Purewater Efluentes basea-se em compostos específicos atuando combinadamente entre o efeito dispersante e o antiespumante, agindo com eficácia na formação e no controle de espumas em tratamento de água. 
 
