@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Antiespumante|Inibidor de espumas|Silicona antiespumante|Antiespumante base água|Antiespumante para tratamento de efluentes
+pageTitle: Antiespumante | Inibidor de espumas | Silicona antiespumante | Antiespumante base água | Antiespumante para tratamento de efluentes
 title: Antiespumante
 subtitle: AQUA-FLUX
 ---
@@ -36,11 +36,6 @@ Desse modo, todas as características funcionais e sensoriais do produto de inte
 - 100% soluvel em água
 - Apresenta efeito duradouro residual.
 - Alta dispersão superficial.
-
-### Transporte e Armazenagem de Antiespumante
-O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 50 °C. 
-Pode vir a ocorrer o processo de separação de fases durante o período de armazenagem, o que se reverte sob agitação sem que suas propriedades sejam alteradas. 
-Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
 
 ## Manuseio e Método de Aplicação
 Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do **AQUA-FLUX** com  na proporção de 1/10 partes de água aplicando no meio formador de espuma. A dosagem a ser utilizada varia de acordo com a aplicação e o meio provocador de espuma e equipamentos.
