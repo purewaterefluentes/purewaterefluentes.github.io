@@ -10,7 +10,7 @@ robots: follow
 - [Algicidas](algicida-para-piscina.html)
 
 
-### Químicos para tratamento de águas e efluentes
+### Produtos para tratamento de águas e efluentes
 
 - [Alcalinizante](alcalinizante-corretor-ph.html)
 - [Acidificante](acidificante.html)
