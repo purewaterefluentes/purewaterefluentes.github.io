@@ -17,7 +17,7 @@ Validade: 1 ano
 
 Disponível nas embalagens: 5 Kg e 25 Kg
 
-**Dosagem recomendada: **
+**Dosagem recomendada**
 
 - Auxiliar de filtração: 1,5 ml / m3 por semana
 - Clarificante: 3 a 6 ml / m3 
