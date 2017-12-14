@@ -22,7 +22,7 @@ Sendo recomendado para qualquer tipo de piscinas (fibra, vinil, azulejo e pintur
 
 - Validade: 12 meses
 - Dosagem recomendada: 7 ml / m3 (sempre que necessário)
-- Embalagem: 25Kg
+- Embalagem: 5kg | 25Kg
 
 
 ### **ALGINAT100 MANUTENÇÃO**
@@ -33,7 +33,9 @@ Não mancha revestimentos e não deixa o cabelo verde. Previne algas em águas d
 
 - Validade: 12 meses
 - Dosagem recomendada: 4 ml / m3 (01 vez por semana)
-- Disponivel em embalagem: 5 litros | 25 litros
+- Embalagem: 5Kg | 25Kg
+
+
 
 
 
