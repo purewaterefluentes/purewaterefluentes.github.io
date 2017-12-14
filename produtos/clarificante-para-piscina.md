@@ -26,6 +26,7 @@ Disponível nas embalagens: 5 Kg e 25 Kg
 <p/>
 
 **Dosagem recomendada**
+
 Auxiliar de filtração: 1,5 ml / m3 /por semana
 
 Clarificante: 3 a 6 ml /m3 (sempre que necessário)
