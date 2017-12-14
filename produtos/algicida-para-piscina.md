@@ -16,26 +16,24 @@ A cloração de manutenção com residuais de 2 a 4 ppm de cloro livre, presente
 
 ### **ALGINAT CHOQUE**
 
-De uso recomendado em caso de piscinas infestadas de algas e turvamento, sendo recomendado para qualquer tipo de piscinas (fibra, vinil, azulejo e pintura).
+Recomendado em caso de piscinas infestadas de algas e turvamento.
 
-Validade: 12 meses
+Sendo recomendado para qualquer tipo de piscinas (fibra, vinil, azulejo e pintura).
 
-Dosagem recomendada: 7 ml / m3 (sempre que necessário)
-
-Disponivel em embalagem: 5 litros | 25 litros
+- Validade: 12 meses
+- Dosagem recomendada: 7 ml / m3 (sempre que necessário)
+- Disponivel em embalagem: 5 litros | 25 litros
 
 
 ### **ALGINAT100 MANUTENÇÃO**
 
-Recomendado para prevenir o aparecimento de algas e pode ser usado no mesmo dia da aplicação do cloro. 
+Recomendado para prevenir o aparecimento de algas e pode ser usado no mesmo dia da aplicação do cloro.
+
 Não mancha revestimentos e não deixa o cabelo verde. Previne algas em águas de piscinas de azulejo, fibra e vinil.
 
-Validade: 12 meses
-
-Dosagem recomendada: 4 ml / m3 (01 vez por semana)
-
-Disponivel em embalagem: 5 litros | 25 litros
-
+- Validade: 12 meses
+- Dosagem recomendada: 4 ml / m3 (01 vez por semana)
+- Disponivel em embalagem: 5 litros | 25 litros
 
 
 
