@@ -7,7 +7,7 @@ subtitle:
 
 # **AQUA-P3000**
 
-É um eficiente clarificante a auxiliar de filtração para águas de piscinas. Sua ação floculante atrai eletrostaticamente as partículas de sujeira que normalmente passariam pelo meio filtrante e forma com elas flóculos grandes que o filtro passa a reter e desta forma aumenta o rendimento e vida util do filtro. 
+É um eficiente clarificante a auxiliar de filtração para águas de piscinas. Sua ação floculante atrai eletrostaticamente as partículas de sujeira que normalmente passariam pelo meio filtrante e forma com elas flóculos grandes que o filtro passa a reter e desta forma aumenta o rendimento e vida útil do filtro. 
 
 Os flocos maiores e mais pesados decantam para o fundo da piscina de onde podem ser aspirados normalmente. O resultado é a clarificação completa da água. 
 
@@ -19,6 +19,6 @@ Disponível nas embalagens: 5 Kg e 25 Kg
 
 **Dosagem recomendada**
 
-- Auxiliar de filtração: 1,5 ml / m3 por semana
-- Clarificante: 3 a 6 ml / m3 
+- Auxiliar de filtração: 1,5 ml / m3 /por semana
+- Clarificante: 3 a 6 ml /m3 (sempre que necessário)
 
