@@ -8,6 +8,11 @@ robots: follow
 ### Produtos para Piscina
 
 - [Algicidas](algicida-para-piscina.html)
+- [Clarificantes](clarificante-para-piscina.html)
+
+- [Cloro](    para-piscina.html)
+- [Corretivos](      algicida-para-piscina.html)
+- [Algicidas](algicida-para-piscina.html)
 
 
 ### Produtos para tratamento de águas e efluentes
