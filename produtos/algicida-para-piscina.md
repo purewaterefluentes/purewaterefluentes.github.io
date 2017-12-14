@@ -14,7 +14,7 @@ A infestação de algas geralmente acontece no verão, após chuvas intensas, qu
 
 A cloração de manutenção com residuais de 2 a 4 ppm de cloro livre, presentes na água o tempo todo, com pH entre 7,4 e 7,6 constituem a melhor prevenção contra o desenvolvimento de algas. Mas, depois que elas se desenvolvem somente um tratamento de choque consegue eliminá-las.
 
-### **ALGINAT CHOQUE
+### **ALGINAT CHOQUE**
 
 De uso recomendado em caso de piscinas infestadas de algas e turvamento, sendo recomendado para qualquer tipo de piscinas (fibra, vinil, azulejo e pintura).
 
@@ -25,7 +25,7 @@ Dosagem recomendada: 7 ml / m3 (sempre que necessário)
 Disponivel em embalagem: 5 litros | 25 litros
 
 
-### **ALGINAT100 MANUTENÇÃO
+### **ALGINAT100 MANUTENÇÃO**
 
 Recomendado para prevenir o aparecimento de algas e pode ser usado no mesmo dia da aplicação do cloro. 
 Não mancha revestimentos e não deixa o cabelo verde. Previne algas em águas de piscinas de azulejo, fibra e vinil.
