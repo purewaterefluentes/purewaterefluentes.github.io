@@ -18,7 +18,7 @@ A cloração de manutenção com residuais de 2 a 4 ppm de cloro livre, presente
 
 É o algicida de Choque: De uso recomendado em caso de piscinas infestadas de algas, sendo recomendado para qualquer tipo de piscinas (fibra, vinil, azulejo e pintura).
 
-Validade: 12 meses 
+Validade: 12 meses
 
 Disponível nas embalagens: 5 litros | 25 litros 
 
@@ -29,7 +29,7 @@ Dosagem recomendada: 7 ml / m3 (sempre que necessário)
 É o algicida de manutenção, indicado para prevenir o aparecimento de algas e pode ser usado no mesmo dia da aplicação do cloro. 
 Não mancha revestimentos e não deixa o cabelo verde. Previne algas em águas de piscinas de azulejo, fibra e vinil.
 
-Validade: 12 meses 
+Validade: 12 meses
 
 Disponível nas embalagens: 5 litros | 25 litros 
 
