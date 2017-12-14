@@ -7,6 +7,7 @@ subtitle:
 
 <img class="img-responsive pull-left" style="max-width: 50%;" src="../../website/images/piscina agua.jpg" alt="Clarificante para piscina">
 
+
 ## **AQUA-P3000**
 
 É um eficiente clarificante e auxiliar de filtração para águas de piscinas. 
