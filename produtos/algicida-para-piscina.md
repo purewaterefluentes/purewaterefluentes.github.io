@@ -6,7 +6,8 @@ subtitle:
 ---
 ## ALGICIDAS PARA PISCINA
 
-A Purewater fabrica toda de linha de produtos para piscinas, dentre elas o **ALGINAT® e ALGINAT100®** que são composto por íons de cobre quelados e estabilizados, altamente eficiente no combate a infestação de algas já formadas em piscinas.
+A Purewater fabrica toda de linha de produtos para piscinas, dentre elas o **ALGINAT® e ALGINAT100®** 
+Composto por íons de cobre quelados e estabilizados, altamente eficiente no combate a infestação de algas já formadas em piscinas.
 
 Algas são organismos microscópicos que se desenvolvem na presença de água e luz solar, e que podem, rapidamente, tornar a água da piscina verde e turva, com pisos e paredes escorregadias.
 
