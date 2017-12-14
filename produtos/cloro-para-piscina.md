@@ -1,11 +1,11 @@
 ---
 layout: contato
-pageTitle: CLORO | TRATAMENTO DE PISCINA
-title: CLORO 
-subtitle: TRATAMENTO DE PISCINAS
+title: CLORO | TRATAMENTO DE PISCINAS
+subtitle: 
+robots: follow
 ---
  
-### Linha de Cloro para tratamento de Piscina
+## Linha de Cloro para tratamento de Piscina
 
 - [Cloro Granulado Estabilizado](cloro-granulado-estabilizado.html)
 
