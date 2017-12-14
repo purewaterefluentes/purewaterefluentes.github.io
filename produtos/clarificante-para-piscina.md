@@ -4,7 +4,7 @@ pageTitle: CLARIFICANTE
 title: CLARIFICANTE
 subtitle: 
 ---
-## **AQUA-P3000**
+## **AQUA-P3000®**
 
 É um eficiente clarificante e auxiliar de filtração para águas de piscinas. 
 
