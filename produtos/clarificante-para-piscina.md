@@ -5,7 +5,7 @@ title: CLARIFICANTE
 subtitle: 
 ---
 
-# **AQUA-P3000**
+## **AQUA-P3000**
 
 É um eficiente clarificante a auxiliar de filtração para águas de piscinas. Sua ação floculante atrai eletrostaticamente as partículas de sujeira que normalmente passariam pelo meio filtrante e forma com elas flóculos grandes que o filtro passa a reter e desta forma aumenta o rendimento e vida útil do filtro. 
 
