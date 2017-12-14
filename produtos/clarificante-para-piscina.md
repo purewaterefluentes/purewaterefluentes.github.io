@@ -27,6 +27,7 @@ O **AQUA-P3000® Clarificante e Auxiliar de Filtração** pode ser utilizado tan
 Validade: 1 ano 
 
 Disponível nas embalagens: 5 Kg e 25 Kg
+< p/>
 
 **Dosagem recomendada**
 
