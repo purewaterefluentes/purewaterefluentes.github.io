@@ -4,7 +4,7 @@ pageTitle: CLORO GRANULADO ESTABILIZADO | CLORO PARA PISCINA
 title: CLORO ESTABILIZADO
 subtitle: TRATAMENTO DE PISCINAS
 ---
-## **AQUA-POOL/ISO**
+## **AQUA-POOL/ISO®**
 
 é o **Cloro Granulado Estabilizado** que possui alta concentração, e apresenta rendimento superior (Até 2 vezes mais), Atua como um poderoso agente desinfetante e oxidante com rápida dissolução e ação instantânea. 
 
