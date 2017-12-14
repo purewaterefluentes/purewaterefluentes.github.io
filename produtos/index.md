@@ -5,6 +5,11 @@ subtitle: Tratamento de água e efluentes - Piscina - Insumos industriais
 robots: follow
 ---
 
+### Produtos para Piscina
+
+- [Algicidas](algicida-para-piscina.html)
+
+
 ### Químicos para tratamento de águas e efluentes
 
 - [Alcalinizante](alcalinizante-corretor-ph.html)
