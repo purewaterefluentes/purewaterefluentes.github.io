@@ -1,6 +1,6 @@
 ---
 layout: contato
-title: CLORO | TRATAMENTO DE PISCINAS
+title: CLORO / TRATAMENTO DE PISCINAS
 subtitle: 
 robots: follow
 ---
