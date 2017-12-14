@@ -20,5 +20,5 @@ Alcalinidade total recomendada: 100 a 120 ppm
 
 Dosagem: 2 a 3 g/m³
 
-Validade: 2 anos após a data de fabricação
+Validade: 1 ano após a data de fabricação
 
