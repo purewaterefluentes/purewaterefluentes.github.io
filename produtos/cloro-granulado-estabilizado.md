@@ -1,20 +1,22 @@
 ---
 layout: contato
-pageTitle: CLORO
-title: CLORO GRANULADO ESTABILIZADO
+pageTitle: CLORO GRANULADO ESTABILIZADO | CLORO PARA PISCINA
+title: CLORO ESTABILIZADO
 subtitle: TRATAMENTO DE PISCINAS
 ---
+## **AQUA-POOL/ISO**
 
-Dicloro concentrado, rende duas vezes mais, além de ser um poderoso agente desinfetante e oxidante com rápida dissolução e ação instantânea. Possui estabilizante que inibe a degradação do cloro pelos raios UV. Indicado para piscinas residenciais e institucionais.
+é o **Cloro Granulado Estabilizado** e possui alta concentração, e apresenta rendimento superior (Até 2 vezes mais), Atua como um poderoso agente desinfetante e oxidante com rápida dissolução e ação instantânea. Possui estabilizante que inibe a degradação do cloro pelos raios UV. Indicado para todos os tipos de piscinas, e de uso residencial, clubes, hoteis e outros.
 
-Embalagens: 1 kg, 2,5 kg, 4,5 kg, 10 kg e 50 kg.
+Embalagens: 50 kg.
 
-Tipo de Cloro:  Dicloro
+Tipo de Cloro: Granulado Estabilizado
 
-Teor Cloro  Ativo: 56%  
+Teor Cloro  Ativo: >60%  
 
 Alcalinidade total recomendada: 100 a 120 ppm           
 
 Dosagem: 2 a 3 g/m³
 
 Validade: 2 anos após a data de fabricação
+
