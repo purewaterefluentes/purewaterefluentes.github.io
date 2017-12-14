@@ -4,7 +4,9 @@ pageTitle: CLORO | TRATAMENTO DE PISCINA
 title: CLORO 
 subtitle: TRATAMENTO DE PISCINAS
 ---
- </div>
+
+  
+    </div>
     
     <div class="container">
       <hr>
@@ -12,7 +14,7 @@ subtitle: TRATAMENTO DE PISCINAS
           <div class="col-md-4">
             <img src="/website/images/icon_produtos_quimicos.png" alt="Produtos Químicos" class="img-responsive" />
             <a href="/produtos"><h3>Produtos Químicos</h3></a>
-            <p>Para tratamento de águas e Efluentes Matéria prima para uso industrial.</p>
+            <p>Linha Piscina | Linha Água e Efluentes | Materia prima para uso industrial.</p>
           </div>
           <div class="col-md-4">
             <img src="/website/images/icon_ete_compacta.png" alt="Equipamentos" class="img-responsive" />
@@ -26,6 +28,5 @@ subtitle: TRATAMENTO DE PISCINAS
           </div>
         </div>
       </div>
-      
       
       
