@@ -5,9 +5,9 @@ subtitle:
 robots: follow
 ---
  
-## Linha de Cloro para tratamento de Piscina
-
 - [Cloro Granulado Estabilizado](cloro-granulado-estabilizado.html)
+- [Cloro Granulado Tradicional](filtro-de-agua-fiberglass-PRFV.html)
+- [Cloro Granulado - Multiação 3 em 1](filtro-prensa.html)
+- [Cloro Tablete Multiação 3 em 1](filtro-prensa.html)
+- [Cloro Tablete Estabilizado](filtro-prensa.html)
 
-- [Filtro Central em Fiberglass - PRFV](filtro-de-agua-fiberglass-PRFV.html)
-- [Filtro Prensa](filtro-prensa.html)
