@@ -8,13 +8,13 @@ O Sulfato Ferroso Heptahidratado ou Sulfato de ferro II pode ser aplicado no tra
 O produto esta disponível na forma líquida ou solido granulado.
 
 
-<img class="img-responsive pull-left" style="max-width: 65%;" src="../../website/images/pequeno/sulfato ferroso hepta liquido.jpg" alt="Sulfato Ferroso liquido">
+<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/pequeno/sulfato ferroso hepta liquido.jpg" alt="Sulfato Ferroso liquido">
 
 ### **Caracteristicas do Sulfato Ferroso**
 
 Sulfato de Ferro ou Sulfato Ferroso hepta-hidratado é um composto de ferro, que é formada pela acção de ácido sulfúrico em ferro. Também ocorre naturalmente como melanterite mineral bastante comum, que se acredita ser a partir da oxidação de sulfuretos de ferro tais como a pirite. 
 
-<img class="img-responsive pull-right" style="max-width: 65%;" src="../../website/images/pequeno/sulfato ferroso heptahidratado.jpg" alt="Sulfato Ferroso">
+<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/pequeno/sulfato ferroso heptahidratado.jpg" alt="Sulfato Ferroso">
 
 O composto é um cristalino verde pálido sulfato de ferro sólido e usado ou "verde ácido sulfúrico." Nos primeiros tempos foi utilizado no referido como a produção de ácido sulfúrico, mas este método é a de substituir o início do século 18. Hepta-hidrato de sulfato ferroso é agora usado como um suplemento mineral, que é uma fonte de ferro, e é aplicado ao solo, a fim de aliviar a deficiência de ferro.
 
