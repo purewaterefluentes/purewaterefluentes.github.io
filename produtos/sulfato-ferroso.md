@@ -18,11 +18,11 @@ O composto é um cristalino verde pálido sulfato de ferro sólido e usado ou "v
 
 ### **Tipos Disponíveis de Sulfato Ferroso**
 
-- Sulfato Ferroso Heptahidratado | Solido - granulado
-- Container plastico de 1000 litros (Líquido)
+- Sulfato Ferroso Heptahidratado - Solido Granulado
+- Sulfato Ferroso Heptahidratado - Liquído 
 
-- Sulfato Ferroso Heptahidratado | Solido - granulado
-- Sulfato Ferroso Heptahidratado | Liquído - Solução
+
+<img class="img-responsive pull-left" style="max-width: 45%;" src="../../website/images/piscina agua.jpg" alt="Clarificante para piscina">
 
 
 ### **Embalagens**
