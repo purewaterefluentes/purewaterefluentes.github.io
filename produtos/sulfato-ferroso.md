@@ -15,7 +15,7 @@ O composto é um cristalino verde pálido sulfato de ferro sólido e usado ou "v
 
 ### **Tipos Disponíveis de Sulfato Ferroso**
 
-<img class="img-responsive pull-left" style="max-width: 45%;" src="../../website/images/pequeno/sulfato ferroso heptahidratado.jpg" alt="Sulfato Ferroso">
+<img class="img-responsive pull-center" style="max-width: 50%;" src="../../website/images/pequeno/sulfato ferroso heptahidratado.jpg" alt="Sulfato Ferroso">
 
 - Sulfato Ferroso Heptahidratado - Solido Granulado
 - Sulfato Ferroso Heptahidratado - Liquído 
