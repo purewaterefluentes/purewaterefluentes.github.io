@@ -4,6 +4,9 @@ title: Sulfato Ferroso Heptahidratado
 Subtitle: Sulfato de Ferro II
 ---
 
+<img class="img-responsive pull-left" style="max-width: 45%;" src="../../website/images/sulfato ferroso heptahidratado.jpg" alt="sulfato ferroso heptahidratado">
+
+
 ### **Apresentação**
 O Sulfato Ferroso Heptahidratado ou Sulfato de ferro II pode ser aplicado no tratamento de afluentes ou efluentes, rios, águas pluviais e fluviais agindo como ótimo coagulante.
 O produto esta disponível na forma líquida ou solido granulado.
