@@ -20,8 +20,8 @@ O composto é um cristalino verde pálido sulfato de ferro sólido e usado ou "v
 
 <img class="img-responsive pull-left" style="max-width: 45%;" src="../../website/images/sulfato ferroso heptahidratado.jpg" alt="Sulfato Ferroso">
 
-- Sulfato Ferroso Heptahidratado - Solido Granulado
-- Sulfato Ferroso Heptahidratado - Liquído 
+Sulfato Ferroso Heptahidratado - Solido Granulado
+Sulfato Ferroso Heptahidratado - Liquído 
 
 
 
