@@ -5,6 +5,8 @@ Subtitle: Sulfato de Ferro II
 ---
 ### **Apresentação**
 O Sulfato Ferroso Heptahidratado ou Sulfato de ferro II pode ser aplicado no tratamento de afluentes ou efluentes, rios, águas pluviais e fluviais agindo como ótimo coagulante.
+<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/pequeno/sulfato ferroso hepta liquido.jpg" alt="Sulfato Ferroso liquido">
+
 O produto esta disponível na forma líquida ou solido granulado.
 
 ### **Caracteristicas do Sulfato Ferroso**
@@ -30,7 +32,6 @@ Nos primeiros tempos foi utilizado no referido como a produção de ácido sulf�
     arquivo="Boletim-tecnico-sulfato-ferroso-liquido.pdf" %}
 
 
-<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/pequeno/sulfato ferroso hepta liquido.jpg" alt="Sulfato Ferroso liquido">
 
 
 
