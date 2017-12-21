@@ -8,8 +8,6 @@ Subtitle: Sulfato de Ferro II
 O Sulfato Ferroso Heptahidratado ou Sulfato de ferro II pode ser aplicado no tratamento de afluentes ou efluentes, rios, águas pluviais e fluviais agindo como ótimo coagulante.
 O produto esta disponível na forma líquida ou solido granulado.
 
-<img class="img-responsive pull-left" style="max-width: 45%;" src="../../website/images/piscina agua.jpg" alt="Clarificante para piscina">
-
 ### **Caracteristicas do Sulfato Ferroso**
 
 Sulfato de Ferro ou Sulfato Ferroso hepta-hidratado é um composto de ferro, que é formada pela acção de ácido sulfúrico em ferro. Também ocorre naturalmente como melanterite mineral bastante comum, que se acredita ser a partir da oxidação de sulfuretos de ferro tais como a pirite. 
@@ -33,7 +31,7 @@ O composto é um cristalino verde pálido sulfato de ferro sólido e usado ou "v
 - Bobona Plástica de 50 Kg. (Líquido)
 - Container plastico de 1000 litros (Líquido)
 
-### Boletim Técnico
+### **Boletim Técnico**
 
 {% include purewater/link-boletim.html 
     label="Boletim Técnico Sulfato Ferroso" 
