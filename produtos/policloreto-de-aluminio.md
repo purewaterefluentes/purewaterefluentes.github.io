@@ -9,16 +9,16 @@ subtitle:
 
 O **Policloreto de Alumínio** é um coagulante inorgânico catiônico pré polimerizado de alto peso molecular a base de policloreto de alumínio, utilizado em processos de tratamento de águas, esgoto, petróleo, mineração e Açucar.
 
-O PoliCloreto de Alumínio tem como caracteristica química agregar em sua molécula original cadeias polímericas hidroxiladas, fundamentais nos processos de coagulação e floculação. A posterior hidrólise irá proporcionar novas espécies insóluveis, que possibilitarão o processo de neutralização elétrica, que neste caso serão menos sensiveis que as espécies originárias a partir da hidrólise dos sais monoméricos.
+O PoliCloreto de Alumínio tem como caracteristica química agregar em sua molécula original cadeias polímericas hidroxiladas, fundamentais nos processos de coagulação e floculação em tratamento de água. A posterior hidrólise irá proporcionar novas espécies insóluveis, que possibilitarão o processo de neutralização elétrica, que neste caso serão menos sensiveis que as espécies originárias a partir da hidrólise dos sais monoméricos.
 
 O policloreto de alumínio também conhecido como: PAC18 ou cloreto de polialumínio proporciona ao entrar em contato com o líquido, núcleos de geração de incremento de floculação e sua hidrólise se desenvolve muito mais lentamente, facilitando assim o processo de neutralização das cargas. 
 
 ### **Tipos e concentrações de policloreto de alumínio**:
 
-- PAC12% (Policloreto de aluminio - PAC12) -Baixa Basicidade
-- PAC18% (Policloreto de aluminio - PAC18) -Baixa Basicidade
+- Policloreto de aluminio |PAC12% -Baixa Basicidade
+- Policloreto de aluminio |PAC18% -Baixa Basicidade
 
-- BASE-PAC (Policloreto de alumínio) -**Alta Basicidade** (não altera o pH da água)
+- BASE-PAC |Policloreto de alumínio -**Alta Basicidade** (não altera o pH da água)
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Policloreto de Alumínio 18%" 
