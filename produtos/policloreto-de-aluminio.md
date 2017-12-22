@@ -20,6 +20,7 @@ O policloreto de alumínio também conhecido como: PAC18 ou cloreto de polialum�
 
 - BASE-PAC - Policloreto de alumínio -**Alta Basicidade** (não altera o pH da água)
 
+</p>
 #### **Informativo Técnico**
 
 {% include purewater/link-boletim.html 
