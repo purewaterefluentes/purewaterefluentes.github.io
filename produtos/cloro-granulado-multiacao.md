@@ -23,6 +23,8 @@ Por ser estabilizado (possui proteção contra os raios UV) dura muito mais temp
 **Algicida e algistático** - elimina e previne o surgimento de algas.
 
 
+
+
 Embalagens: **50kg.**
 
 Tipo de Cloro: **Granulado Tradicional**
@@ -34,4 +36,7 @@ Alcalinidade total recomendada: **100 a 120 ppm**
 Dosagem: **3 a 4 g/m³**
 
 Validade: **1 ano após a data de fabricação**
+
+
+
 
