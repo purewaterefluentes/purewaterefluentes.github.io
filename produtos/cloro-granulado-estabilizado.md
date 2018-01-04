@@ -6,7 +6,7 @@ subtitle: TRATAMENTO DE PISCINAS
 ---
 ## **AQUA-POOL/ISO®**
 
-é o **Cloro Granulado Estabilizado** que possui alta concentração, e apresenta rendimento superior (Até 2 vezes mais), Atua como um poderoso agente desinfetante e oxidante com rápida dissolução e ação instantânea. 
+É o **Cloro Granulado Estabilizado** que possui alta concentração, e apresenta rendimento superior (Até 2 vezes mais), Atua como um poderoso agente desinfetante e oxidante com rápida dissolução e ação instantânea. 
 
 Possui estabilizante que inibe a degradação do cloro pelos raios UV. 
 
