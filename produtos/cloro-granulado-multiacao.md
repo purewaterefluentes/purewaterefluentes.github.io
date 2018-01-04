@@ -16,14 +16,11 @@ Indicado para piscinas residenciais, Clubes, Hoteis.
 
 Por ser estabilizado (possui proteção contra os raios UV) dura muito mais tempo na água da piscina.
 
-
 **Clarificante** - mantém a água da piscina cristalina e aumenta o desempenho do filtro de areia.
-
 
 **Algicida e algistático** - elimina e previne o surgimento de algas.
 
-
-
+##
 
 Embalagens: **50kg.**
 
