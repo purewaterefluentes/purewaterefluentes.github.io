@@ -20,7 +20,7 @@ Por ser estabilizado (possui proteção contra os raios UV) dura muito mais temp
 
 **Algicida e algistático** - elimina e previne o surgimento de algas.
 
-#
+<p/>
 
 Embalagens: **50kg.**
 
