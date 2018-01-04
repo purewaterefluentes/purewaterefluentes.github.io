@@ -4,7 +4,7 @@ pageTitle: CLORO GRANULADO TRADICIONAL | CLORO PARA PISCINA
 title: CLORO TRADICIONAL
 subtitle: TRATAMENTO DE PISCINAS
 ---
-## **AQUA-HIPO - CLORO TRADICIONAL®**
+## **AQUA-HIPO® - CLORO TRADICIONAL**
 
 Com teor de 65% de cloro ativo é o cloro mais concentrado de mercado, assim possui maior quantidade de cloro livre ativo agindo na água. 
 
