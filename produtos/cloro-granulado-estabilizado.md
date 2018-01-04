@@ -8,17 +8,19 @@ subtitle: TRATAMENTO DE PISCINAS
 
 é o **Cloro Granulado Estabilizado** que possui alta concentração, e apresenta rendimento superior (Até 2 vezes mais), Atua como um poderoso agente desinfetante e oxidante com rápida dissolução e ação instantânea. 
 
-Possui estabilizante que inibe a degradação do cloro pelos raios UV. Indicado para todos os tipos de piscinas, e de uso residencial, clubes, hoteis e outros.
+Possui estabilizante que inibe a degradação do cloro pelos raios UV. 
 
-Embalagens: 50 kg.
+Indicado para todos os tipos de piscinas, e de uso residencial, clubes, hoteis e outros.
 
-Tipo de Cloro: Granulado Estabilizado
+Embalagens: **50 kg.**
 
-Teor Cloro  Ativo: >60%  
+Tipo de Cloro: **Granulado Estabilizado**
 
-Alcalinidade total recomendada: 100 a 120 ppm           
+Teor Cloro  Ativo: **>60%**
 
-Dosagem: 2 a 3 g/m³
+Alcalinidade total recomendada: **100 a 120 ppm**           
 
-Validade: 1 ano após a data de fabricação
+Dosagem: **2 a 3 g/m³**
+
+Validade: **1 ano após a data de fabricação**
 
