@@ -6,7 +6,7 @@ subtitle: TRATAMENTO DE PISCINAS
 ---
 ## **AQUA-HIPO® - CLORO TRADICIONAL**
 
-Com teor de 65% de cloro ativo é o cloro mais concentrado de mercado, assim possui maior quantidade de cloro livre ativo agindo na água. 
+Com teor de 65% de cloro ativo é o cloro mais concentrado de mercado, possui maior quantidade de cloro livre ativo agindo na água. 
 
 O Cloro Granulado Tradicional **AQUA-HIPO®** apresenta fórmula altamente eficaz na eliminação das bactérias da água da piscina, resultado em maior rendimento e alta qualidade e proteção na purificação da água da piscina. 
 
