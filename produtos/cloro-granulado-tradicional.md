@@ -16,7 +16,7 @@ Indicado para todos os tipos de piscinas, e de uso residencial, clubes, hoteis e
 
 Embalagens: **45kg.**
 
-Tipo de Cloro: **Granulado Estabilizado**
+Tipo de Cloro: **Granulado Tradicional**
 
 Teor Cloro  Ativo: **>65%**
 
