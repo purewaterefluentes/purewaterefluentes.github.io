@@ -13,9 +13,12 @@ Indicado para piscinas residenciais, Clubes, Hoteis.
 ## **Atuação**
 
 **Cloro Multiação 3 em 1** - Elimina os microorganismos causadores de doenças presentes na água.
+
 Por ser estabilizado (possui proteção contra os raios UV) dura muito mais tempo na água da piscina.
 
+
 **Clarificante** - mantém a água da piscina cristalina e aumenta o desempenho do filtro de areia.
+
 
 **Algicida e algistático** - elimina e previne o surgimento de algas.
 
