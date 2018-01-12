@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Cloro, cloro liquido, hipoclorito, cloro para piscina, cloro para tratar água
+pageTitle: CLORO LIQUIDO |CLORO PARA PISCINA | PUREWATER EFLUENTES
 title: Cloro Liquido
 subtitle: HIPOCLORE
 ---
