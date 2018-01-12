@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Sulfato de alumínio, sulfato de aluminio liquido, sulfato de alumínio granulado, sulfato de aluminio para piscina
+pageTitle: SULFATO DE ALUMÍNIO |PUREWATER EFLUENTES | FABRICANTE
 title: Sulfato de Alumínio
 subtitle: 
 ---
