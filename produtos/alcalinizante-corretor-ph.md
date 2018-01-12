@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Alcalinizante, Corretor de pH, corretor de alcalinidade, aumentar pH, corrigir alcalinidade, alcalinidade de piscina, alterar ph, corrigir ph, corrigir alcalinidade da água,
+pageTitle: ALCALINIZANTE | CORRETOR DE PH |CORRETOR DE ALCALINIZADADE |PUREWATER EFLUENTES
 title: Alcalinizante
 subtitle: Corretor de pH e Alcalinidade
 ---
