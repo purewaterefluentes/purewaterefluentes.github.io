@@ -29,8 +29,6 @@ Antes de iniciar o tratamento com o produto Sulfato de Alumínio é importante m
 
 ### Fornecimento
 
-*Tipos de Sulfato de Alumínio Disponiveis*
-
 - Sulfato de alumínio ferroso liquido 
 - Sulfato de alumínio ferroso granulado
 
