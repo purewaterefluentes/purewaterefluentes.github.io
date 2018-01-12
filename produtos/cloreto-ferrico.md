@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Cloreto Férrico, cloreto de ferro, percloreto, percloreto de ferro, percloreto férrico, cloreto ferrico, cloreto de ferro III, cloreto ferroso
+pageTitle: CLORETO FÉRRICO |PUREWATER EFLUENTES | FABRICANTE
 title: Cloreto Férrico
 subtitle: Percloreto de ferro.
 ---
