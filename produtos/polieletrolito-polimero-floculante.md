@@ -1,8 +1,8 @@
 ---
 layout: contato
-pageTitle: Polimero Floculante |Polimero Aniônico |Polimero Catiônico - PUREWATER EFLUENTES
-title: Polieletrolito - Polímero Floculante
-subtitle: Polimero Floculante para tratar água
+pageTitle: Polímero Floculante |Polímero Aniônico |Polímero Catiônico - PUREWATER EFLUENTES
+title: Polímero Floculante
+subtitle: Polimero Floculante para tratamento água
 ---
 
 ### Apresentação
