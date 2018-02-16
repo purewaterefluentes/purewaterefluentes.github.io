@@ -1,8 +1,8 @@
 ---
 layout: contato
-pageTitle: Polimero aniônico, Polimero Catiônico, Polieletrolito, floculante, polimero floculante, adensamento de lodo, floculante para tratamento de efluentes, polimero para tratamento de efluentes, polieletrolito floculante
+pageTitle: Polimero Floculante |Polimero Aniônico |Polimero Catiônico - PUREWATER EFLUENTES
 title: Polieletrolito - Polímero Floculante
-subtitle: Auxiliar de floculação para tratar água
+subtitle: Polimero Floculante para tratar água
 ---
 
 ### Apresentação
