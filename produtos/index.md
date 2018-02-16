@@ -35,7 +35,7 @@ robots: follow
 - [Inibidor de Corrosão](inibidor-de-corrosao.html)
 - [Inibidor de Odor](inibidor-de-odor.html)
 - [Oxidante](oxidante-efluentes.html)
-- [Polimero Floculante](polieletrolito-polimero-floculante.html)
+- [Polímero Floculante](polieletrolito-polimero-floculante.html)
 - [Precipitador de Metais](precipitador-de-metais.html)
 - [Protetivo para Membrana de Osmose](protetivo-membrana-osmose.html)
 - [Redutor de Fluoretos (Fluor)](redutor-de-fluoretos.html)
