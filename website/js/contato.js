@@ -27,7 +27,7 @@ function sendEnquire(fromModal){
         url: "http://purewaterefluentes.tempsite.ws/sendEmail.php",
         method: "POST",
         data: postData,
-        dataType: "json",
+        dataType: "text",
         success: function(){
             console.log('success');
              console.log(arguments);
