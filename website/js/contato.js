@@ -27,7 +27,7 @@ function sendEnquire(fromModal){
         url: "http://purewaterefluentes.tempsite.ws/sendEmail.php",
         method: "POST",
         data: postData,
-        dataType: "jsonp",
+        dataType: "json",
         success: function(){
             $("#confirmationModal").modal("show");
             $("#confirmationModal").on('hidden.bs.modal', cleanForm);
