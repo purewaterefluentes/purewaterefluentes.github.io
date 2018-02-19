@@ -29,11 +29,13 @@ function sendEnquire(fromModal){
         data: postData,
         dataType: "json",
         success: function(){
+            console.log('success' + arguments);
             $("#confirmationModal").modal("show");
             $("#confirmationModal").on('hidden.bs.modal', cleanForm);
         },
         error: function(){
-          $(".alert-danger").show()
+            console.log('fail' + arguments);
+          $(".alert-danger").show();
         }
     });  
 }
