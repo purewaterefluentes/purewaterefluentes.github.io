@@ -1,10 +1,10 @@
 function sendEnquire(fromModal){
     var message = "Requisicao do Site \n\n" +
-                "Nome Contato: " + $("#nomeContato").val() + "\n\n" +
-                "Empresa: " + $("#empresaContato").val() + "\n\n" +
-                "Telefone Contato: " + $("#telefoneContato").val() + "\n\n" +
-                "Email Contato: " + $("#emailContato").val() + "\n\n" +
-                "Origem do contato: " + $.urlParam("s") + "\n\n" +
+                "Nome Contato: " + $("#nomeContato").val() + "<br><br>" +
+                "Empresa: " + $("#empresaContato").val() + "<br><br>" +
+                "Telefone Contato: " + $("#telefoneContato").val() + "<br><br>" +
+                "Email Contato: " + $("#emailContato").val() + "<br><br>" +
+                "Origem do contato: " + $.urlParam("s") + "<br><br>" +
                 "Mensagem: " + $("#mensagem").val();
 
     var postData = {
