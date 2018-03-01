@@ -32,7 +32,7 @@ O polímero floculante possui ação higroscópica e de atração molecular, cri
 
 ### **Características do Polimero Floculante**
 
-- Tipos de carga: Polímero Aniônico, Polímero Catiônico e Polímero Não-Iônico
+- Tipos de carga: **Polímero Aniônico, Polímero Catiônico e Polímero Não-Iônico**
 - Estado fisico: Solido (Polímero aniônico granulado) e (Polímero Catiônico Granulado) ou Polímero emulsão.
 - Densidade: 0,97 a 1,05 g/cm3 (25 °C)
 - pH: 6-9
