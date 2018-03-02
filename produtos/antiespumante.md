@@ -31,6 +31,7 @@ Nesse processo propriedades  físico-químicas do meio são alteradas, ressaltan
   - **Antiespumante com silicone** 
   - **Antiespumante isento de silicone**
   
+<p\>
 - Densidade: 0,97 a 1,2 g/cm3 (25 °C)
 - pH: 6-8
 - Aparência: Líquido Branco
@@ -40,7 +41,7 @@ Nesse processo propriedades  físico-químicas do meio são alteradas, ressaltan
 - Apresenta efeito duradouro residual.
 - Alta dispersão superficial.
 
-## **Manuseio e Método de Aplicação**
+### **Manuseio e Método de Aplicação**
 Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do antiespumante na proporção de 1/10 partes de água aplicando no meio formador de espuma. A dosagem a ser utilizada varia de acordo com a aplicação e o meio provocador de espuma e equipamentos.
 
 ### **Embalagens do Antiespumante**
