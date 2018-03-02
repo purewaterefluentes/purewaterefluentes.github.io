@@ -31,8 +31,7 @@ Nesse processo propriedades  físico-químicas do meio são alteradas, ressaltan
   - **Antiespumante isento de silicone**
  
  ##
- 
-- Densidade: 0,97 a 1,2 g/cm3 (25 °C)
+ - Densidade: 0,97 a 1,2 g/cm3 (25 °C)
 - pH: 6-8
 - Aparência: Líquido Branco
 - Odor: Inodoro
