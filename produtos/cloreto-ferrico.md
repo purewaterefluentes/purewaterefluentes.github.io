@@ -29,11 +29,11 @@ As águas de superfície, rios, lagos, represas, etc - estão cada vez mais polu
 - pH (sol 10%): < 2,00 (25 °C)
 
 
-### Embalagens de Cloreto Férrico
+### **Embalagens de Cloreto Férrico**
 
 - Cloreto Férrico em bombona plástica de 30Kg e 60Kg
 - Cloreto Férrico em Container (IBC) plastico 1000 litros 
 
-### Boletim Técnico
+### **Boletim Técnico**
 
 {% include purewater/link-boletim.html label="Boletim Técnico Cloreto Férrico 38%" arquivo="FISPQ AQUA-CLE.pdf" %}
