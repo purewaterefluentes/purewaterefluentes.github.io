@@ -8,7 +8,8 @@ subtitle: HIPOCLORE
 **HIPOCLORE é o Cloro liquido saneante** que apresenta concentração entre 7 a 9% de cloro ativo, podendo também ser fabricado nas concentrações 2,5% e 5% de cloro ativo. Atua como agente bactericida, saneante, desinfectante e clarificante e pode ser aplicado em tratamento de águas em geral e tratamento de efluentes.
 Possuí fácil aplicação e também pode ser aplicado em água de reuso nos seguimentos de: Lavanderia Industrial, Lavanderia Hospitalar, Galvanoplastia, Curtumes, Industria Alimentícia e Industria farmacêutica e outras.
 
-<img class="img-responsive pull-left" style="max-width: 75%;" src="../../website/images/pequeno/Hipoclore - Cloro.jpg" alt="Cloro Liquido">
+<img class="img-responsive pull-left" style="max-width: 75%;" src="../../website/images/pequeno/Hipoclore - Cloro.jpg" alt="Cloro Liquido">>
+
 
 ### Composição
 O produto cloro liquído **HIPOCLORE** tem alto poder saneante e bactericida para tratamentos de águas e tratamento de efluentes agindo diretamente sobre o micro-orgânismos e agentes infecciosos bacteriológicos residual presente na água ou efluente industrial, com formula a base de sódio hipocloroso, totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água.
