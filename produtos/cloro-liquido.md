@@ -12,11 +12,13 @@ Possuí fácil aplicação e também pode ser aplicado em água de reuso nos seg
 
 <p/>
 ### **Composição do Cloro Liquido**
-O Cloro Lquído **HIPOCLORE** tem formula especial contendo hipoclorito de sódio, estabilzante e veiculo.
+O Cloro Lquído **HIPOCLORE** tem formula especial contendo hipoclorito de sódio, estabilizante e veiculo.
 Com alto poder saneante e bactericida para tratamentos de águas e tratamento de efluentes agindo diretamente sobre o micro-orgânismos e agentes infecciosos bacteriológicos residual presente na água ou efluente industrial, com formula a base de sódio hipocloroso, totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água.
 
+<p/>
 ### **Principais Aplicações do cloro liquido**
 Agente de cloração, cloro ativo, agente saneante em tratamento de águas residuais, bactericida clorado, cloro para água de poço, cloro para piscinas, cloro para efluentes, cloro residual na indústria.
+<p/>
 
 ### **Características do cloro liquido**
 
