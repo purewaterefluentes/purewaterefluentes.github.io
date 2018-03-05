@@ -13,7 +13,7 @@ Possuí fácil aplicação e também pode ser aplicado em água de reuso nos seg
 >
 ### **Composição do Cloro Liquido**
 O Cloro Lquído **HIPOCLORE** tem formula especial contendo hipoclorito de sódio, estabilizante e veiculo.
-Com alto poder saneante e bactericida para tratamentos de águas e tratamento de efluentes agindo diretamente sobre o micro-orgânismos e agentes infecciosos bacteriológicos residual presente na água ou efluente industrial, com formula a base de sódio hipocloroso, totalmente solúvel em água proporcionando uma ação direta e eficaz no tratamento de água.
+Com alto poder saneante e bacteriológico agindo com efeciência em tratamento de água, ou agente saneante.
 
 ### **Principais Aplicações do cloro liquido**
 Agente de cloração, cloro ativo, agente saneante em tratamento de águas residuais, bactericida clorado, cloro para água de poço, cloro para piscinas, cloro para efluentes, cloro residual na indústria.
@@ -41,13 +41,12 @@ Agente de cloração, cloro ativo, agente saneante em tratamento de águas resid
 
 
 ### **Transporte e Armazenagem**
-O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 45 °C. 
+O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado de fontes de calor, sendo a temperatura máxima de conservação 45 °C. 
 Pode ocorrer a volatilização do produto em caso de estocagem por longos períodos e em condições adversas.
 Mantido em sua embalagem original e fechada, a vida útil é de 12 meses a partir da data de  fabricação.
 
 ### **Manuseio e Método de Aplicação**
 Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do HIPOCLORE em sua forma original (concentrado) ou se preferir diluído na proporção de 2/10 partes (solução a 20%) em água aplicando no meio aquoso a tratar.
-A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminates presente na água ou efluente.
 
 ### **Fornecimento**
 
