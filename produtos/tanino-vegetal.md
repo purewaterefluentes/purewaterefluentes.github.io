@@ -27,7 +27,7 @@ Os taninos são capazes de se combinar com proteínas da pele animal inibindo o 
 parecem ser responsáveis pela adstringência de muitas plantas;podem ser a causa da baixa digestibilidade das proteínas de leguminosas que, quando não suficientemente cozidas, contém esse tipo substância em quantidade considerável;
 podem ter seu efeito negativo na absorção do ferro remediado pela administração simultânea de ácido ascórbico. 
 
-<img class="img-responsive pull-left" style="max-width: 40%;" src="../../website/images/pequeno/AQUAFLOC-SL TAN.JPG" alt="Tanino Vegetal Quaternário">
+<img class="img-responsive pull-left" style="max-width: 45%;" src="../../website/images/pequeno/AQUAFLOC-SL TAN.JPG" alt="Tanino Vegetal Quaternário">
 
 
 ### **Propriedades do Tanino**
