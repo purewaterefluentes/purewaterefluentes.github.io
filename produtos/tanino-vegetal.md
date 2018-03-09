@@ -1,11 +1,11 @@
 ---
 layout: contato
 pageTitle: TATINO VEGETAL |PUREWATER EFLUENTES
-title: Tanino Coagulante
-subtitle: Extrato Vegetal Tanino 
+title: Tanino Vegetal
+subtitle: Tanino Quaternário
 ---
 
-O **Tanino Quaternario** da Purewater Efluentes possuí estrutura polimérica com característica orgânica e de carga catiônico de baixo peso molecular, possuí origem essencialmente vegetal e que atua como:
+O **Tanino Vegetal Quaternário** da Purewater Efluentes possuí estrutura polimérica com característica orgânica e de carga catiônico de baixo peso molecular, possuí origem essencialmente vegetal e que atua como:
 
  - Tanino como agente de precipitação em tratamento de água
  - Tanino para Clarificante
@@ -21,6 +21,9 @@ Taninos (do francês tanin) são polifenóis de origem vegetal, com pesos molecu
 
 Os polifenóis de leguminosas e cereais são, na maior parte dos casos, taninos de origem flavonóide. Uma de suas características é a capacidade de precipitar proteínas, pois têm alto peso molecular e suficientes grupos hidroxila fenólica para permitir a formação de ligações cruzadas estáveis com proteínas.
 
+<img class="img-responsive pull-right" style="max-width: 70%;" src="../../website/images/AQUAFLOC-SL TAN.JPG" alt="Tanino Vegetal Quaternario">
+
+
 ### **Tanino Quaternario**
 
 Os taninos são capazes de se combinar com proteínas da pele animal inibindo o processo de putrefação, razão pela qual são utilizados no processo de curtimento do couro;
@@ -34,10 +37,11 @@ podem ter seu efeito negativo na absorção do ferro remediado pela administraç
 - São precipitados por sais de metais pesados.
 - São insolúveis no éter puro, clorofórmio e benzeno.
 
-### Aspecto físico do Tanino Quaternario**
+### **Aspecto físico do Tanino Quaternario**
 
 ***Tanino Líquido***
 
+- Concentração: >23%
 - Umidade ao embalar ---
 - Viscosidade (s, 25°C Copo Ford nº4: Máx. 50 
 - Sólidos Totais (%): 30 a 34
