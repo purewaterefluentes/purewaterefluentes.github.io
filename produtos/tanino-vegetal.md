@@ -27,15 +27,14 @@ Os taninos são capazes de se combinar com proteínas da pele animal inibindo o 
 parecem ser responsáveis pela adstringência de muitas plantas;podem ser a causa da baixa digestibilidade das proteínas de leguminosas que, quando não suficientemente cozidas, contém esse tipo substância em quantidade considerável;
 podem ter seu efeito negativo na absorção do ferro remediado pela administração simultânea de ácido ascórbico. 
 
-<img class="img-responsive pull-left" style="max-width: 45%;" src="../../website/images/pequeno/AQUAFLOC-SL TAN.JPG" alt="Tanino Vegetal Quaternário">
-
-
 ### **Propriedades do Tanino**
 
 - Podem ser fornecidos no estado solido em pó ou em solução (Líquido).
 - São solúveis em água, álcool e acetona.
 - São precipitados por sais de metais pesados.
 - São insolúveis no éter puro, clorofórmio e benzeno.
+
+<img class="img-responsive pull-left" style="max-width: 45%;" src="../../website/images/pequeno/AQUAFLOC-SL TAN.JPG" alt="Tanino Vegetal Quaternário">
 
 ### **Aspecto físico do Tanino Quaternario**
 
