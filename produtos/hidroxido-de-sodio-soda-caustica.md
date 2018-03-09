@@ -41,7 +41,7 @@ O hidróxido de sódio, na maior parte, é sintetizado pelo método de caustific
 - Densidade: >1,30 g/cm³.
 - Teor de NaOH: 46 a 52 (%).
 
-### Toxicologia
+### **Toxicologia**
 
 - Efeitos Locais: Muito perigoso em contato com olhos (irritante, corrosivo). Os efeitos nos olhos são caracterizados por vermelhidão, lacrimejamento e coceira.
 
