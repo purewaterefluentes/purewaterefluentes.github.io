@@ -29,4 +29,6 @@ Embalagem: 1Kg / 25Kg
 Dosagem: 10 a 20g /1m³ de água da piscina
 
 Validade: 1 anos após a data de fabricação
->
+
+
+
