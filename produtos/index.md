@@ -11,7 +11,7 @@ robots: follow
 - [Clarificantes](clarificante-para-piscina.html)
 - [Cloro](cloro-para-piscina.html)
 - [Corretivos](corretivo-para-piscina.html)
-
+- [Oxidante](oxidante-para-piscina.html)
 
 ### Produtos para tratamento de águas e efluentes
 
