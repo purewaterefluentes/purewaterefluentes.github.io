@@ -23,12 +23,11 @@ A piscina pode ser utilizada por banhistas 30 minutos após sua aplicação.
 
 - Gera melhor performance no desempenho do cloro e o brilho da água da piscina.
 
->
-Embalagem: 1Kg / 25Kg 
 
-Dosagem: 10 a 20g /1m³ de água da piscina
+>Embalagem: 1Kg / 25Kg 
 
-Validade: 1 anos após a data de fabricação
+>Dosagem: 10 a 20g /1m³ de água da piscina
 
+>Validade: 1 anos após a data de fabricação
 
 
