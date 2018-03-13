@@ -23,15 +23,9 @@ A piscina pode ser utilizada por banhistas 15 minutos após sua aplicação.
 >
 **Cloraminas** - composto formado pela reação do cloro livre da água com o nitrogênio amoniacal proveniente de suor, urina, óleos etc. 
 É o verdadeiro responsável pelo ‘‘cheiro  característico’’ de cloro da água, quando na verdade ele só se forma em águas com pouco cloro. Tem poder desinfetante reduzido. 
->
 
-
-Embalagem: 1Kg | 25Kg 
+Embalagem: 1Kg / 25Kg 
 
 Dosagem: 10 a 20g /1m³ de água da piscina
 
 Validade: 1 anos após a data de fabricação
-
-
-
-
