@@ -21,8 +21,7 @@ A piscina pode ser utilizada por banhistas 30 minutos após sua aplicação.
 - Gera melhor performance no desempenho do cloro e o brilho da água da piscina.
 
 
-#### **Cloraminas** - composto formado pela reação do cloro livre da água com o nitrogênio amoniacal proveniente de suor, urina, óleos etc. 
-É o verdadeiro responsável pelo ‘‘cheiro  característico’’ de cloro da água, quando na verdade ele só se forma em águas com pouco cloro. Tem poder desinfetante reduzido.
+##### **Cloraminas** - composto formado pela reação do cloro livre da água com o nitrogênio amoniacal proveniente de suor, urina, óleos etc.É o verdadeiro responsável pelo ‘‘cheiro  característico’’ de cloro da água, quando na verdade ele só se forma em águas com pouco cloro. Tem poder desinfetante reduzido.
 
 Embalagem: 1Kg / 25Kg 
 
