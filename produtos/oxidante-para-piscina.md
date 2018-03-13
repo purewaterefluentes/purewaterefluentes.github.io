@@ -14,7 +14,7 @@ A supercloração pode agravar o problema na qualidade da água gerando cloramin
 
 A piscina pode ser utilizada por banhistas 30 minutos após sua aplicação.
 
-
+<p>
 >OXIDANTE **AQUA-PHOS®**:
 
 - Atua na eliminação de gorduras, oleosidades e contaminantes orgânicos.
@@ -22,6 +22,7 @@ A piscina pode ser utilizada por banhistas 30 minutos após sua aplicação.
 - Inibe a formação de cloraminas.
 
 - Gera melhor performance no desempenho do cloro e o brilho da água da piscina.
+< /p>
 
 
 >Embalagem: 1Kg / 25Kg 
