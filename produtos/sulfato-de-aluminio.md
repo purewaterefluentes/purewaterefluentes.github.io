@@ -28,13 +28,13 @@ Antes de iniciar o tratamento com o produto Sulfato de Alumínio é importante m
 3. Para obter uma decantação completa e uniforme, deixe a água em repouso por um período de 12 horas. Em seguida, aspire cuidadosamente o fundo da piscina. ATENÇÃO: use o filtro na posição 'DRENAR'.
 <
 
-### **Fornecimento**
+### **Tipos Fabricados**
 
-- Sulfato de alumínio ferroso liquido 
-- Sulfato de alumínio ferroso granulado
+- Sulfato de Alumínio Ferroso Líquido 
+- Sulfato de Alumínio Ferroso Granulado
 
-- Sulfato de alumínio Isento de ferro liquido
-- Sulfato de alumínio isento de ferro granulado
+- Sulfato de Alumínio Isento de Ferro Líuido
+- Sulfato de Alumínio Isento de Ferro Granulado
 
 ### **Embalagens**
 
