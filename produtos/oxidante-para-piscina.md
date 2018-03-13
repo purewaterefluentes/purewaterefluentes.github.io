@@ -10,7 +10,7 @@ subtitle: TRATAMENTO DE PISCINAS
 
 A supercloração pode agravar o problema na qualidade da água gerando cloraminas na piscina, obrigando à interdição da piscina até que seu residual baixe. Realizando oxidação de choque semanalmente com **AQUA-PHOS®** a eliminação desses e outros contaminantes orgânicos é feita mais rapidamente, com maior eficácia e o residual de cloro fica livre para a tarefa de desinfecção com a maxima efeciência.  
 
-##### **Cloraminas** - composto formado pela reação do cloro livre da água com o nitrogênio amoniacal proveniente de suor, urina, óleos etc.É o verdadeiro responsável pelo ‘‘cheiro  característico’’ de cloro da água, quando na verdade ele só se forma em águas com pouco cloro. Tem poder desinfetante reduzido.
+##### **Cloraminas** - composto formado pela reação do cloro livre da água com o nitrogênio amoniacal proveniente de suor, urina, óleos etc. É o verdadeiro responsável pelo ‘‘cheiro  característico’’ de cloro da água, quando na verdade ele só se forma em águas com pouco cloro. Tem poder desinfetante reduzido.
 
 A piscina pode ser utilizada por banhistas 30 minutos após sua aplicação.
 
@@ -23,9 +23,10 @@ A piscina pode ser utilizada por banhistas 30 minutos após sua aplicação.
 
 - Gera melhor performance no desempenho do cloro e o brilho da água da piscina.
 
-
+>
 Embalagem: 1Kg / 25Kg 
 
 Dosagem: 10 a 20g /1m³ de água da piscina
 
 Validade: 1 anos após a data de fabricação
+>
