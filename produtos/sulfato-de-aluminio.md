@@ -22,12 +22,13 @@ O sulfato de alumínio é muito eficaz para uso na clarificação de águas de p
 **Instruções de Uso para tratamento de Piscina**
 
 Antes de iniciar o tratamento com o produto Sulfato de Alumínio é importante medir a alcalinidade total da água e verificar se está entre 80 e 120 ppm e verificar se a faixa de pH está entre 7,4 e 7,6, se necessário, faça o ajuste utilizando o produto alcalinizante específico.
-
+>
 1. Dissolva em um balde com água 40g de **Sulfato de Alumínio (AQUA-SAIF)** para cada 1.000 litros de água. Distribua uniformemente a solução sobre a água da piscina.
 2. Com a adição do **Sulfato de Alumínio**, o pH da água poderá ficar baixo. Para correção, dissolva em um balde plástico com água, 16g de Alcalinizante AQUA-BR100 (Purewater) para cada 1.000 litros de água. Distribua uniformemente a solução sobre a água da piscina imediatamente após a adição do Sulfato de Alumínio.
 3. Para obter uma decantação completa e uniforme, deixe a água em repouso por um período de 12 horas. Em seguida, aspire cuidadosamente o fundo da piscina. ATENÇÃO: use o filtro na posição 'DRENAR'.
+<
 
-### Fornecimento
+### **Fornecimento**
 
 - Sulfato de alumínio ferroso liquido 
 - Sulfato de alumínio ferroso granulado
@@ -35,13 +36,13 @@ Antes de iniciar o tratamento com o produto Sulfato de Alumínio é importante m
 - Sulfato de alumínio Isento de ferro liquido
 - Sulfato de alumínio isento de ferro granulado
 
-### Embalagens
+### **Embalagens**
 
 - Sulfato de alumínio em Saco de 25kg
 - Sulfato de alumínio em bombona Plastica de 50Kg
 - Sulfato de alumínio em container plastico de 1000 litros.
 
-### Boletim Técnico
+### **Boletim Técnico do Sulfato de Alumínio**
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Sulfato de Alumínio Granulado" 
