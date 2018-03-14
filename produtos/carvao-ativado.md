@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: CARVÃO ATIVADO | CARVÃO ATIVO | PUREWATER EFLUENTES
+pageTitle: CARVÃO ATIVADO | CARVÃO ATIVO GRANULADO | PUREWATER EFLUENTES
 title: Carvão Ativado
 subtitle: AQUA-CVT
 ---
