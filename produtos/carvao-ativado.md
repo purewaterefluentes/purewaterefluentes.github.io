@@ -40,7 +40,7 @@ Alto controle de qualidade produtivo para impedir a contaminação por microrgan
 Carvão muito utilizado em sistemas de filtragem para água potável, pois a prata coloidal exerce função bactericida.
 Disponivel na forma de pó (pulverizado)
 
-### **INFORMAÇÕES GERAIS**
+### **Informações Gerais**
 
 + Embalagens: Sacos de papelão
 + Proteção: Contem internamente um saco de polietileno hermeticamente fechado e ao abrigo da umidade
