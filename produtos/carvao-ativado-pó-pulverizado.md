@@ -49,10 +49,6 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 + Classe de embalagem: Insolúvel em água, queima lentamente sem  chamas.
 
 >
-{% include purewater/link-boletim.html 
-   label="Boletim Técnico Carvao Ativado" 
-   arquivo="Boletim-tecnico-carvao-ativado.pdf" %}
->
 >
 >
 {% include purewater/link-boletim.html 
