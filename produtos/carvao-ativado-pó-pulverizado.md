@@ -49,11 +49,11 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 
 ### **INFORMAÇÕES GERAIS**
 
->
 + Embalagens: Sacos de papelão
 + Proteção: Contem internamente um saco de polietileno hermeticamente fechado e ao abrigo da umidade
 + Capacidade: 25 Kg 
 + Classe de embalagem: Insolúvel em água, queima lentamente sem  chamas.
+
 >
 >
 {% include purewater/link-boletim.html 
