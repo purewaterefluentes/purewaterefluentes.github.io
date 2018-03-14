@@ -13,9 +13,9 @@ Os tamanhos de partículas promovem contato íntimo com o líquido a purificar, 
 
 A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filtrabilidade e posterior remoção do meio líquido.
 
-</div>
+<p>
 *Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Carvão ativado vegetal*
-</div>
+</p>
 
  
 
@@ -30,9 +30,11 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 
 ### **ESPECIFICAÇÕES**
 
-Aspecto........................................Solido / pó / Pulverizado
-Odor: .........................................Inodoro
-Cor............................................Preto
+1. Aspecto........................................Solido / pó / Pulverizado
+2. Odor: .........................................Inodoro
+3. Cor............................................Preto
+
+
 Classificação..................................Carvão Vegetal Ativado Pó – Umectado.
 Número de Iodo.................................min. 800 /g
 Densidade Aparente.............................0,30 a 0,45g/cm3 Número de Dureza(ASTM D 3802-79)...min. 90% 
