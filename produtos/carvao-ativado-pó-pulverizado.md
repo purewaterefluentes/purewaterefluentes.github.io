@@ -36,10 +36,10 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 
 ### **ESPECIFICAÇÕES**
 
-- Aspecto........................................Solido / pó / Pulverizado
-- Odor: .........................................Inodoro
-- Cor............................................Preto
-- Classificação..................................Carvão Vegetal Ativado Pó – Umectado.
+- Aspecto                                        Solido / pó / Pulverizado
+- Odor                                           Inodoro
+- Cor                                            Preto
+- Classificação                                  Carvão Vegetal Ativado Pó – Umectado.
 - Número de Iodo.................................min. 800 /g
 - Densidade Aparente.............................0,30 a 0,45g/cm3 Número de Dureza(ASTM D 3802-79)...min. 90% 
 - Número de Abrazão..............................min. 85%
