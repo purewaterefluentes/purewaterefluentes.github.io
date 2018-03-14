@@ -22,7 +22,7 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 
 *Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão ativado vegetal*
 
-
+ <img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/carvao ativado pulverizado.jpg" alt="Carvão Ativado Pó">
  
 
 ### **APLICAÇÕES DO CARVÃO ATIVADO EM PÓ**
@@ -33,8 +33,6 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 - Purificação de poluentes gasosos.
 - Redução de odor, sabor e cor em água e efluentes industriais.
 - O carvão ativado possuí mais de 900 aplicações.
-
-<img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/carvao ativado pulverizado.jpg" alt="Carvão Ativado Pó">
 
 ### **ESPECIFICAÇÕES**
 
@@ -52,15 +50,11 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 ### **INFORMAÇÕES GERAIS**
 
 >
-Embalagens: Sacos de papelão
-Proteção: Contem internamente um saco de polietileno hermeticamente fechado e ao abrigo da umidade
-Capacidade: 25 Kg 
-Classe de embalagem: Insolúvel em água, queima lentamente sem  chamas.
++ Embalagens: Sacos de papelão
++ Proteção: Contem internamente um saco de polietileno hermeticamente fechado e ao abrigo da umidade
++ Capacidade: 25 Kg 
++ Classe de embalagem: Insolúvel em água, queima lentamente sem  chamas.
 >
-
-
-#### Fornecimento: Carvão ativado em Sacos de 25Kg
-
 >
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Carvão Ativado em Pó" 
