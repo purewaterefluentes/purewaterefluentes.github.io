@@ -58,11 +58,13 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 >
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Carvão Ativado em Pó" 
-   arquivo="images/Boletim Técnico Carvão Ativado Pó Fino_Purewater.pdf" %}
+   arquivo="Boletim Técnico Carvão Ativado Pó Fino_Purewater.pdf" %}
 >
 >
 {% include purewater/link-boletim.html 
    label="Tabela de Conversão (Mesh x Milimetro)" 
-   arquivo="tabela_conversão_mesh_granulometria.pdf  " %}
+   arquivo="tabela_conversão_mesh_granulometria.pdf" %}
 >
+
+
 
