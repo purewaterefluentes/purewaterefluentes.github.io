@@ -5,8 +5,6 @@ title: Carvão Ativado em Pó
 subtitle: AQUA-CVP
 ---
 
-### ** CARVÃO ATIVADO EM PÓ
-
 O Carvão Ativado em Pó **(AQUA-CVP®)** é um tipo de Carvão Ativado produzido através do processo de ativação física com vapor de água em alta temperatura em sistema contínuo e controlado.
 
 O Carvão Ativado em Pó é agregado e misturado ao líquido a  ser  tratado,  depois é removido por filtração e ou sedimentação.
@@ -17,9 +15,9 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 
 </div>
 *Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Carvão ativado vegetal*
-    </div>
-   </div>
-  </div>
+</div>
+
+ 
 
 ### **APLICAÇÕES DO CARVÃO ATIVADO EM PÓ**
 
