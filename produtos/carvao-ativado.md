@@ -54,7 +54,7 @@ Disponivel na forma de pó (pulverizado)
 >
 >
 {% include purewater/link-boletim.html 
-   label="Boletim Técnico Carvao Ativado" 
+   label="Boletim Técnico Carvão Ativado" 
    arquivo="Boletim-tecnico-carvao-ativado.pdf" %}
 >
 >
