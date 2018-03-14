@@ -56,6 +56,8 @@ Embalagens: Sacos de papelão
 Proteção: Contem internamente um saco de polietileno hermeticamente fechado e ao abrigo da umidade
 Capacidade: 25 Kg 
 Classe de embalagem: Insolúvel em água, queima lentamente sem  chamas.
+>
+
 
 #### Fornecimento: Carvão ativado em Sacos de 25Kg
 
