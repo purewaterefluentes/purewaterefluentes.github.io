@@ -19,14 +19,4 @@ Carvão Antracito ou Carvão amorfo é um produto quimicamente inerte e usado pa
 #### Fornecimento: Carvão antracito mineral em Sacos de 25Kg
 >
 
->
-{% include purewater/link-boletim.html 
-   label="Boletim Técnico Carvão Ativado em Pó" 
-   arquivo="images/Boletim Técnico Carvão Ativado Pó Fino_Purewater.pdf" %}
->
->
-{% include purewater/link-boletim.html 
-   label="Tabela de Conversão Granulometria Mesh" 
-   arquivo="tabela_conversão_mesh_granulometria.pdf  " %}
->
 
