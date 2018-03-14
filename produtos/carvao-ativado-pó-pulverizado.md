@@ -34,6 +34,8 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 - Redução de odor, sabor e cor em água e efluentes industriais.
 - O carvão ativado possuí mais de 900 aplicações.
 
+<img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/carvao ativado pulverizado.jpg" alt="Carvão Ativado Pó">
+
 ### **ESPECIFICAÇÕES**
 
 - Aspecto........................................Solido / pó / Pulverizado
@@ -49,11 +51,11 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 
 ### **INFORMAÇÕES GERAIS**
 
-Embalagens - Sacos de papelão, contendo internamente um saco de polietileno hermeticamente fechado e ao abrigo da umidade com capacidade para 25 Kg Identidade – Insolúvel em água, queima lentamente sem  chamas.
-
-<img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/carvao ativado pulverizado.jpg" alt="Carvão Ativado Pó">
-
-
+>
+Embalagens: Sacos de papelão
+Proteção: Contem internamente um saco de polietileno hermeticamente fechado e ao abrigo da umidade
+Capacidade: 25 Kg 
+Classe de embalagem: Insolúvel em água, queima lentamente sem  chamas.
 
 #### Fornecimento: Carvão ativado em Sacos de 25Kg
 
