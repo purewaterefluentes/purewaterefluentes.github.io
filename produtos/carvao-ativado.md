@@ -60,12 +60,8 @@ Disponivel na forma de pó (pulverizado)
 >
 >
 {% include purewater/link-boletim.html 
-   label="Boletim Técnico Carvão Ativado em Pó" 
-   arquivo="images/Boletim Técnico Carvão Ativado Pó Fino_Purewater.pdf" %}
->
->
-{% include purewater/link-boletim.html 
-   label="Tabela de Conversão Granulometria Mesh" 
+   label="Tabela de Conversão (Mesh x milimetro)" 
    arquivo="tabela_conversão_mesh_granulometria.pdf  " %}
 >
+
 
