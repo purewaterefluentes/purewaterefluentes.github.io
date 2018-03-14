@@ -13,12 +13,6 @@ Tais sistemas são providos de agitação para manter o pó em suspensão com o 
 
 A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filtrabilidade e a posterior remoção do meio líquido. Após a adsorção, o pó é separado do líquido por centrifugação, filtração ou decantação, ou até mesmo pela combinação desses processos de separação.
 
-O Carvão Ativado em Pó é agregado e misturado ao líquido a  ser  tratado,  depois é removido por filtração e ou sedimentação.
-
-Os tamanhos de partículas promovem contato íntimo com o líquido a purificar, além de possuírem as características necessárias de umectabilidade e sedimentação. 
-
-A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filtrabilidade e posterior remoção do meio líquido.
-
 
 *Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão ativado vegetal*
 
