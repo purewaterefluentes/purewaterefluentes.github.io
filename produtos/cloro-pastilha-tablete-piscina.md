@@ -31,7 +31,7 @@ Teor Cloro  Ativo: **85,0%**
 
 Alcalinidade total recomendada: **100 a 120 ppm**           
 
-Dosagem: **1 tablete/30 m³ (duração: 7 a 10 dias)**
+Dosagem: **1 tablete para cada 30 m³ (duração: 7 a 10 dias)**
 
 Validade: **1 ano após a data de fabricação**
 
