@@ -22,17 +22,17 @@ Com ação **Clarificante** - mantém a água da piscina cristalina e aumenta o 
 
 Atua como **Algicida e algistático** - elimina e previne o surgimento de algas.
 
->
-Embalagens: **50kg.**
 
-Tipo de Cloro: **Tricloro - Tablete com 200gramas**
+>Embalagens: **50kg.**
 
-Teor Cloro  Ativo: **85,0%**
+>Tipo de Cloro: **Tricloro - Tablete com 200gramas**
 
-Alcalinidade total recomendada: **100 a 120 ppm**           
+>Teor Cloro  Ativo: **85,0%**
 
-Dosagem: **1 tablete para cada 30 m³ (duração: 7 a 10 dias)**
+>Alcalinidade total recomendada: **100 a 120 ppm**           
 
-Validade: **1 ano após a data de fabricação**
+>Dosagem: **1 tablete para cada 30 m³ (duração: 7 a 10 dias)**
+
+>Validade: **1 ano após a data de fabricação**
 
 
