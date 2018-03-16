@@ -14,8 +14,7 @@ Indicado para piscinas residenciais, Clubes, Hoteis.
 
 ### **Atuação**
 
-
-**Cloro em Pastilha |Tablete Multiação 3 em 1** - Elimina os microorganismos causadores de doenças presentes na água.
+**Cloro em Pastilha - Tablete Multiação 3 em 1** - Elimina os microorganismos causadores de doenças presentes na água.
 
 Por ser estabilizado (possui proteção contra os raios UV) dura muito mais tempo na água da piscina.
 
@@ -24,7 +23,6 @@ Com ação **Clarificante** - mantém a água da piscina cristalina e aumenta o 
 Atua como **Algicida e algistático** - elimina e previne o surgimento de algas.
 
 >
-
 Embalagens: **50kg.**
 
 Tipo de Cloro: **Tricloro Pastilha |Tablete com 200gramas**
@@ -36,10 +34,6 @@ Alcalinidade total recomendada: **100 a 120 ppm**
 Dosagem: **1 tablete/30 m³ (duração: 7 a 10 dias)**
 
 Validade: **1 ano após a data de fabricação**
->
->
-
-
 
 
 
