@@ -23,7 +23,7 @@ robots: follow
 - [Biocida](biocida.html)
 - [Carvão Antracito](carvao-antracito.html)
 - [Carvão Ativado Granulado](carvao-ativado.html)
-- [Carvão Ativado Pó](carvao-ativado-pó-pulverizado.html)
+- [Carvão Ativado Pó](carvao-ativado-po-pulverizado.html)
 - [Clarificador](clarificador-agua-efluentes.html)
 - [Cloro Liquido](cloro-liquido.html)
 - [Coagulantes p/ água e efluentes](coagulante-agua-efluentes.html)
