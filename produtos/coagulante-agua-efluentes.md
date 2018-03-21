@@ -23,8 +23,8 @@ A **Purewater Efluentes** desenvolve formulações especificas na criação de c
 
 ### Classificação de Coagulantes
 
-- Coagulantes Inorgânicos | Estado: Líquido ou Sólido (pó)
-- Coagulantes Orgânicos   | Estado: Líquido ou Sólido (pó)
+- Coagulantes Inorgânicos / Estado: Líquido ou Sólido (pó)
+- Coagulantes Orgânicos   / Estado: Líquido ou Sólido (pó)
 
 
 ### Embalagens de Coagulante para tratamento de água:
