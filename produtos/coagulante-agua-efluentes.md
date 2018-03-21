@@ -5,7 +5,6 @@ title: Coagulantes
 subtitle: Para tratamento de água ou efluente
 ---
 
->
 Uso de Coagulante para tratamento de água
 A purificação da água ou potabilização é um processo que consiste no tratamento da água ou efluentes indústriais, a fim de remover os contaminantes que eventualmente contenha, tornando-a potável, isto é, própria para o consumo humano ou para o reuso secundario nas industrias, clubes, residencias e outros, ou para descarte na rede coletora de águas do municipio.
 
@@ -22,14 +21,15 @@ A **Purewater Efluentes** desenvolve formulações especificas na criação de c
 - Coagulantes para tratamento de água potavél
 - Coagulante para tratamento de água de poço
 - Aplicações diversas; Galvanoplastia, Lavanderia industrial, industria metalurgica, farmaceutico e outros
+>
 
 ### Classificação de Coagulantes
 
 - Coagulantes Inorgânicos | Estado: Liquido ou Solido (pó)
 - Coagulantes Orgânicos   | Estado: liquido ou Solido (pó)
 
->
-### A linha de coagulantes da Purewater Efluentes é fornecida nas seguintes embalagens:
+
+### Embalagens de Coagulante para tratamento de água:
 
 - Sacos de 25Kg 
 - Bombona plastica de 25Kg e 50 Kg
