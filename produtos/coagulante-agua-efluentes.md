@@ -12,10 +12,8 @@ Dependendo da fonte da água, uma grande variedade de técnicas poderá ser empr
 
 A **Purewater Efluentes** desenvolve formulações especificas na criação de coagulantes para o tratamento de água e efluentes industrial, disponibilizando uma linha completa de coagulantes inorgânicos e coagulates orgânicos.
 
-**Consulte a area técnica para indicação do melhor COAGULANTE para tratamento de água.**
+**Consulte a area técnica para indicação do melhor COAGULANTE para tratamento de sua água ou efluente.**
 
-
-> ### Aplicação de Coagulante
 >
 - Coagulantes inorgânicos e orgânicos para tratamento de efluentes indústriais.
 - Coagulantes para tratamento de água potavél
@@ -25,8 +23,8 @@ A **Purewater Efluentes** desenvolve formulações especificas na criação de c
 
 ### Classificação de Coagulantes
 
-- Coagulantes Inorgânicos | Estado: Liquido ou Solido (pó)
-- Coagulantes Orgânicos   | Estado: liquido ou Solido (pó)
+- Coagulantes Inorgânicos | Estado: Líquido ou Sólido (pó)
+- Coagulantes Orgânicos   | Estado: Líquido ou Sólido (pó)
 
 
 ### Embalagens de Coagulante para tratamento de água:
