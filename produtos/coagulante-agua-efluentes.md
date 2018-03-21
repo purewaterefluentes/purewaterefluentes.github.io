@@ -5,7 +5,7 @@ title: Coagulantes
 subtitle: Para tratamento de água ou efluente
 ---
 
-### Aplicação de Coagulante para tratamento de água
+### **Aplicação de Coagulante para tratamento de água**
 A purificação da água ou potabilização é um processo que consiste no tratamento da água ou efluentes indústriais, a fim de remover os contaminantes que eventualmente contenha, tornando-a potável, isto é, própria para o consumo humano ou para o reuso secundario nas industrias, clubes, residencias e outros, ou para descarte na rede coletora de águas do municipio.
 
 Dependendo da fonte da água, uma grande variedade de técnicas poderá ser empregada para esse fim, dentre essas técnicas esta o método de Coagulação, Floculação ou Precipitação.
