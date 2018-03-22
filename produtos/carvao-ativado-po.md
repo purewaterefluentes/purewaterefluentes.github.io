@@ -27,7 +27,7 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 - Despejos industriais
 - Carvão Ativado para uso farmacêutico e produtos químico
 - Purificação de poluentes gasosos.
-- Carvão Ativado em pó para redução de odor, sabor e cor em água e efluentes industriais.
+- Carvão Ativado em pó para redução de odor, sabor e cor em água.
 - O carvão ativado possuí mais de 900 aplicações.
 
 ### **ESPECIFICAÇÕES**
