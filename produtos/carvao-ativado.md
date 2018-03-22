@@ -2,7 +2,7 @@
 layout: contato
 pageTitle: CARVÃO ATIVADO | CARVÃO ATIVO GRANULADO | PUREWATER EFLUENTES
 title: Carvão Ativado
-subtitle: AQUA-CVT
+subtitle: AQUA-CVT (GRANULADO)
 ---
 
 ### **Carvão Ativado Vegetal**
@@ -18,7 +18,7 @@ subtitle: AQUA-CVT
 - Redução de odor, sabor e cor em água e efluentes industriais.
 - O carvão ativado possuí mais de 900 aplicações.
 
-O Carvão Ativo é normalmente 100 vezes mais poroso que o carvão comum, esta porosidade esta diretamente ligada à "limpeza" que o material sofre na ativação que consiste em remover as substâncias contidas nos poros obstruídos do carvão comum. 
+O **Carvão Ativo Granulado** é normalmente 100 vezes mais poroso que o carvão comum, esta porosidade esta diretamente ligada à "limpeza" que o material sofre na ativação que consiste em remover as substâncias contidas nos poros obstruídos do carvão comum. 
 
 Carvão Ativo ou Carvão Ativado é um produto quimicamente inerte e usado para a remoção de impurezas dissolvidas em diversos meios.
 
