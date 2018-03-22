@@ -18,14 +18,16 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 
  <img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/carvao ativado pulverizado.jpg" alt="Carvão Ativado Pó">
  
-
+>
 ### **APLICAÇÕES DO CARVÃO ATIVADO EM PÓ**
 
+- Carvão Ativado para clareamento de dentes
+- Carvão Ativado para cosméticos
 - Tratamento de água para rede municipal
 - Despejos industriais
-- uso farmacêutico e produtos químico
+- Carvão Ativado para uso farmacêutico e produtos químico
 - Purificação de poluentes gasosos.
-- Redução de odor, sabor e cor em água e efluentes industriais.
+- Carvão Ativado em pó para redução de odor, sabor e cor em água e efluentes industriais.
 - O carvão ativado possuí mais de 900 aplicações.
 
 ### **ESPECIFICAÇÕES**
