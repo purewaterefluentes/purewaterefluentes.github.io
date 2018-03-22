@@ -10,8 +10,10 @@ subtitle: AQUA-CVT
 É um material com capacidade de coletar e purificar seletivamente gases, líquidos ou impurezas no interior dos seus poros, apresentando portanto um excelente poder de clarificação, desodorização e purificação de líquidos ou gases.
 
 > Principais Aplicações do Carvão Ativado:
+- Carvão Ativado para Filtro.
 - Filtragem de água potável.
 - Filtrar líquidos em geral.
+- Carvão Ativado para retirada de cloro na água.
 - Purificação de poluentes gasosos.
 - Redução de odor, sabor e cor em água e efluentes industriais.
 - O carvão ativado possuí mais de 900 aplicações.
