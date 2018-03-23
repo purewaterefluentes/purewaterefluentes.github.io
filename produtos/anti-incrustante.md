@@ -5,15 +5,20 @@ titlePage: Anti-Incrustante
 Subtitle: Dispersante
 ---
 
-### Apresentação
+### **Apresentação**
 
-Os produtos Anti-incrustante ou Dispersante são compostos químicos ou formulações que tem a propriedade de prevenir a deposição de sais contidos em água na forma de precipitado em tubos, tanques, ou qualquer superfície. Tipicamente, estes sais são os carbonatos, silicatos e sulfatos de cálcio de água com elevadas concentrações destes sais. Este tipo de água é normalmente chamada de "água dura".
+Os produtos **Anti-incrustante ou Dispersante** são compostos químicos ou formulações que possuem a propriedade de prevenir a deposição de sais contidos em água na forma de precipitado em tubos, tanques, ou qualquer superfície. Tipicamente, estes sais são os carbonatos, silicatos e sulfatos de cálcio de água com elevadas concentrações destes sais. Este tipo de água é normalmente chamada de "água dura".
 
 Os compostos anti-incrustação frequentemente reagem com o cálcio, magnésio e silicas de modo que eles não possam formar precipitados depósitos na forma cristalizada na rede hidraulica e equipamentos.
 
+O Anti-Incrustante pode ser aplicado em todos os sistemas de rescirculação de água, tais como; **Torres de resfriamento, Reuso de água, Caldeiras.**
+
+Na indústria é determinada uma faixa representativa de utilização das caldeiras em relação á pressão de trabalho. 
+>**Considerando como padrão para Caldeiras:** Pressão baixa de até 10 Kgf/cm2, pressão média de 11 a 40 Kgf/cm2 e pressão alta de 40 Kgf/cm2.
+
 **Consulte o setor técnico para indicação do melhor Anti-incrustante para seu sistema.**
 
-### Funcionalidades
+### **Funcionalidades**
 
 - Controla incrustações com eficiência, incluindo carbonato de cálcio, sulfato de cálcio, sulfato de bário, sulfato de estrôncio,fluoreto de cálcio, ferro, material coloidal, sílica e outros contaminantes orgânicos e inorgânicos.
 - Compatível com a maioria dos sistemas de Osmose Reversa
@@ -24,19 +29,20 @@ Os compostos anti-incrustação frequentemente reagem com o cálcio, magnésio e
 - Aumenta os ciclos de recuperação dos sistemas de Osmose Reversa
 
 
-### Aplicação
+### **Aplicação**
 Produto destinado ao controle de incrustações em linha hidráulica e proteção da tubulação e equipamentos coibindo a ação de deposição de sais de cálcio, magnésio e silício.
 
 Desenvolvemos Anti-incrustantes para aplicacão em sistemas de refrigeração, água gelada, torres de resfriamento de ciclo aberto ou ciclo fechado, Caldeiras, sistemas de reuso de água industrial, sistemas hidráulicos em geral.
 
-### Características
+### **Características**
 
-- Alto poder de quebra emulsiva
-- Possuem pH próximo do neutro e não altera as características de pH da água
-- 100% solúvel
+- Anti-incrustante para uso em Caldeira
+- Anti-incrustante para torre de resfriamento
+- Anti-incrustante de alto poder de quebra emulsiva
+- Anti-incrustante 100% solúvel
 - Fácil aplicação
-- Reduz a formação de massa residual (borra), no tratamento de efluentes.
-- Substitui o uso de substâncias de alto risco operacional como os ácido.
+- Anti-incrustante reduz a formação de massa residual (borra), no tratamento de efluentes.
+- Anti-incrustante substitui o uso de substâncias de alto risco operacional como os ácido.
 
 ### Embalagens
 
