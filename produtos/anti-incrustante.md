@@ -16,13 +16,13 @@ O Anti-Incrustante pode ser aplicado em todos os sistemas de rescirculação de 
 Na indústria é determinada uma faixa representativa de utilização das caldeiras em relação á pressão de trabalho. 
 
 >
-**Padrão de pressão para Caldeiras:** 
+**Padrões de pressão para Caldeira:** 
 
  - Pressão baixa de até 10 Kgf/cm2 
- - pressão média de 11 a 40 Kgf/cm2
- - pressão alta de 40 Kgf/cm2
-
-
+ - Pressão média de 11 a 40 Kgf/cm2
+ - Pressão alta de 40 Kgf/cm2
+ >
+ 
  
 **Consulte o setor técnico para indicação do melhor Anti-incrustante para seu sistema.**
 
