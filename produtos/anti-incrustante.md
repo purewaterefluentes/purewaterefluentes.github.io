@@ -14,11 +14,13 @@ Os compostos anti-incrustação frequentemente reagem com o cálcio, magnésio e
 O Anti-Incrustante pode ser aplicado em todos os sistemas de rescirculação de água, tais como; **Torres de resfriamento, Reuso de água, Caldeiras.**
 
 Na indústria é determinada uma faixa representativa de utilização das caldeiras em relação á pressão de trabalho. 
->**Padrão de pressão para Caldeiras:** 
+>
+**Padrão de pressão para Caldeiras:** 
 
  - Pressão baixa de até 10 Kgf/cm2 
  - pressão média de 11 a 40 Kgf/cm2
  - pressão alta de 40 Kgf/cm2
+ >
  
 **Consulte o setor técnico para indicação do melhor Anti-incrustante para seu sistema.**
 
