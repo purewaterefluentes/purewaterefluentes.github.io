@@ -43,7 +43,7 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
 - Anti-incrustante reduz a formação de massa residual (borra), no tratamento de efluentes.
 - Anti-incrustante substitui o uso de substâncias de alto risco operacional como os ácido.
 
-### Embalagens de Anti-Incrustante
+### **Embalagens de Anti-Incrustante**
 
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
