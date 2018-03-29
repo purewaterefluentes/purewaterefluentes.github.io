@@ -61,8 +61,15 @@ Disponivel na forma de pó (pulverizado)
 >
 >
 {% include purewater/link-boletim.html 
+   label="Boletim Técnico Carvão Ativado c/ Prata Coloidal" 
+   arquivo="Boletim Técnico Carvão Ativado Prata Coloidal.pdf" %}
+>
+>
+{% include purewater/link-boletim.html 
    label="Tabela de Conversão (Mesh x Milimetro)" 
    arquivo="tabela_conversão_mesh_granulometria.pdf  " %}
 >
+
+
 
 
