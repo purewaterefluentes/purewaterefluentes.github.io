@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Biocidas, Biocida, microbiocida, microbactericida, torre de resfriamento, tratamento de esgoto, 
+pageTitle: BIOCIDA | TRATAMENTO DE ÁGUA | PUREWATEREFLUENTES
 title: Biocida
 subtitle:
 ---
