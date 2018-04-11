@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Produtos Químicos
-subtitle: Tratamento de água - Efluentes - Piscina - Insumos industriais
+subtitle: Tratamento de água | Efluentes | Piscina | Insumos industriais
 robots: follow
 ---
 ### Produtos para Piscina
