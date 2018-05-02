@@ -9,6 +9,15 @@ A Linha de **Polímero floculante** da Purewater Efluentes basea-se em compostos
 
 A floculação no campo da química, é o processo onde colóides saem de suspensão na forma de agregados, formando partículas maiores, ditos "flocos" ou "flóculos". 
 
+## Classificação dos Polímeros
+
+>
++ ANIONICO
++ CATIÔNICO
++ NÃO-IÔNICO
+>
+
+
 ### **Funcionalidade do Polieletrolito ou Polímero Floculante**
 
 Como exemplo; um polímero aniônico é aquele que devido à alta densidade de suas cargas negativas em sua cadeia, atrai e se liga à moléculas de predominantes cargas positivas. Polímeros aniônicos são usados como agentes clarificantes em decantação, como agentes auxiliares de filtração, como em tratamento de água de abastecimento ou no tratamento do caldo de cana, na produção de açúcar de cana (sacarose), e são capazes de sequestrar de líquidos cátions como ferro, cálcio, magnésio, bário e outros que formam incrustações nos equipamentos. 
@@ -39,13 +48,11 @@ O polímero floculante possui ação higroscópica e de atração molecular, cri
 - Aparência: Variado
 - Odor: Inodoro
 
-### **Manuseio e Método de Aplicação**
-Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do polímero floculante em solução à 0,02% aplicando-se ao meio onde se deseja a formação de floco. 
-A dosagem a ser utilizada varia de acordo com o tipo de água ou efluente, devendo assim efetuar o Jar-test para determinar a melhor dosagem.
-
-
 ### **Embalagens**
 
-- Polimero floculante em bombona plastica de 25 Kg
-- Polimero floculante em saco de polietileno de 25 Kg
+- Polimero Floculante em bombona plastica de 25 Kg
+- Polimero Floculante em saco de polietileno de 25 Kg
+- Polimero Floculante em Container (IBC) de 1000Kg
+
+
 
