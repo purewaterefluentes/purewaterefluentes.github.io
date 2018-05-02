@@ -11,10 +11,9 @@ A floculação no campo da química, é o processo onde colóides saem de suspen
 
 > ### CLASSIFICAÇÃO
 
-+ POLÍMERO ANIÔNICO
-+ POLÍMERO CATIÔNICO
-+ POLÍMERO NÃO-IÔNICO
-
+- POLÍMERO ANIÔNICO
+- POLÍMERO CATIÔNICO
+- POLÍMERO NÃO-IÔNICO
 >
 
 
