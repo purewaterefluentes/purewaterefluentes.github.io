@@ -10,8 +10,6 @@ A Linha de **Polímero floculante** da Purewater Efluentes basea-se em compostos
 A floculação no campo da química, é o processo onde colóides saem de suspensão na forma de agregados, formando partículas maiores, ditos "flocos" ou "flóculos".
 
 > ### Classificação dos Polímeros
-
->
 + ANIONICO
 + CATIÔNICO
 + NÃO-IÔNICO
