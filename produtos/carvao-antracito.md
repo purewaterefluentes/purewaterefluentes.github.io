@@ -15,6 +15,22 @@ O carvão antracito possui uma grande quantidade de carbono e pouquíssimas impu
 
 Carvão Antracito ou Carvão amorfo é um produto quimicamente inerte e usado para a remoção de impurezas dissolvidas em diversos meios.
 
+> #### CARVÃO MINERAL ANTRACITO PARA O TRATAMENTO DE ÁGUA
+
+- Destinado à filtração em filtros de camada dupla (areia e antracito, uso em filtros residenciais, industriais e, em maior escala, nas estações de tratamento de água (ETA). Em comparação aos filtros compostos apenas de areia (filtros de camada simples) podemos destacar as seguintes vantagens:
+
+- A presença do antracito nos filtros permite que se trabalhe com uma taxa de filtração 100% maior que os filtros apenas de areia. Isto significa o dobro de vazão para um mesmo filtro.
+- O antracito aumenta a carreira de filtração, ou seja, o tempo entre as retrolavagens periódicas. Isto significa uma redução na quantidade de água gasta nas retrolavagens.
+- O antracito diminui o efeito gradativo de colmatação (entupimento) do leito filtrante.
+- O antracito proporciona melhores resultados na remoção de cor e turbidez além de remover sabor e odor da água.
+
+### Características
+
+Carvão antracito mineral: A vantagem deste de produto é poder trabalhar com taxas de filtração maiores, logo com menor área de filtração, menor volume de material filtrante e menor consumo de água de lavagem, devido ao carvão antracito mineral.
+
+**Densidade:** 0,85
+**Grãos variando de:** 0,8 até 1.1 mm
+
 >
 #### Fornecimento: Carvão antracito mineral em Sacos de 25Kg
 >
