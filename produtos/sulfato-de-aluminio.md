@@ -33,7 +33,7 @@ Antes de iniciar o tratamento com o produto Sulfato de Alumínio é importante m
 - Sulfato de Alumínio Ferroso Líquido 
 - Sulfato de Alumínio Ferroso Granulado
 
-- Sulfato de Alumínio Isento de Ferro Líuido
+- Sulfato de Alumínio Isento de Ferro Líquido
 - Sulfato de Alumínio Isento de Ferro Granulado
 
 ### **Embalagens**
