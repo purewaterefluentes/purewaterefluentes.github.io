@@ -34,7 +34,7 @@ Agente de cloração, cloro ativo, bactericida clorado, cloro para água de poç
 ### **Funcionalidades do cloro liquído**
 
 - Eficiente na clarificação de água
-- Ótimo agente saneante e agente bactericida
+- Ótimo agente de limpeza e agente bactericida
 - Alta concentração de cloro ativo
 - 100% solúvel em água
 - Fácil operacão e manuseio
