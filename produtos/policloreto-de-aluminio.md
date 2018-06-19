@@ -58,7 +58,7 @@ O policloreto de alumínio também conhecido como: PAC18 ou cloreto de polialum�
 >
 {% include purewater/link-boletim.html 
    label="Policloreto de Aluminio 18%" 
-   arquivo="Tabela Granulométrica Carvão Ativado.pdf" %}
+   arquivo="BOLETIM TÉCNICO - AQUA PAC18 - REVISADO.pdf" %}
 >
 >
 {% include purewater/link-boletim.html 
