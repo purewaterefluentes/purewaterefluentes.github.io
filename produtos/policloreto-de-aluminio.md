@@ -55,5 +55,17 @@ O policloreto de alumínio também conhecido como: PAC18 ou cloreto de polialum�
 - Policloreto de aluminio em Container de 1000 litros. 
 - Policloreto de aluminio em Caminhão Tanque Truck 10.250 litros.
 
+>
+{% include purewater/link-boletim.html 
+   label="Policloreto de Aluminio 18%" 
+   arquivo="Tabela Granulométrica Carvão Ativado.pdf" %}
+>
+>
+{% include purewater/link-boletim.html 
+   label="Policloreto de Aluminio - Alta Basicidade 12%" 
+   arquivo="Tabela Granulométrica Carvão Ativado.pdf" %}
+>
+
+
 
 
