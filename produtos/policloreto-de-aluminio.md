@@ -63,9 +63,7 @@ O policloreto de alumínio também conhecido como: PAC18 ou cloreto de polialum�
 >
 {% include purewater/link-boletim.html 
    label="Policloreto de Aluminio - Alta Basicidade 12%" 
-   arquivo="Tabela Granulométrica Carvão Ativado.pdf" %}
+   arquivo="BOLETIM TÉCNICO - BASE-PAC - REVISADO.pdf" %}
 >
-
-
 
 
