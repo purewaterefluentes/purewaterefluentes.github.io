@@ -25,7 +25,7 @@ Acido Fosfino Carboxilico é uma solução aquosa usado na formulação de produ
 
 ### Reatividade Química
 
-O acido Fosfino Carboxilico não é afetado pelo Cloro ou outros biocidas oxidantes em condições normais de uso. 
+O Copolimero do ácido Fosfino Carboxilico não é afetado pelo Cloro ou outros biocidas oxidantes em condições normais de uso. 
 Pode ser usado em sistemas de membrana com cloro e metabisulfito de sódio.
 
 ### Aplicações e Níveis de Dosagem
