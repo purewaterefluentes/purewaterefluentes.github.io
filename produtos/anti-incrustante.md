@@ -11,7 +11,7 @@ Os produtos **Anti-incrustante ou Dispersante** são compostos químicos ou form
 
 Os compostos anti-incrustação frequentemente reagem com o cálcio, magnésio e silicas de modo que eles não possam formar precipitados depósitos na forma cristalizada na rede hidraulica e equipamentos.
 
-O Anti-Incrustante pode ser aplicado em todos os sistemas de rescirculação de água, tais como; **Torres de resfriamento, Reuso de água, Caldeiras.**
+Podendo ser aplicado em todos os sistemas de rescirculação de água, tais como: **Torres de resfriamento, Reuso de água, Caldeiras.**
 
 Na indústria é determinada uma faixa representativa de utilização das caldeiras em relação á pressão de trabalho. 
 
@@ -47,3 +47,5 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
 
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
+
+
