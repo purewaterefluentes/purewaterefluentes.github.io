@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Cloreto de Bário, cloreto de bario dihidratado, Clorato de bário MONOHIDRATADO, bario, BaCl2, cloreto bario para tratamento de efleuntes
+pageTitle: CLORETO DE BÁRIO - PUREWATER EFLUENTES
 title: Cloreto de Bário
 subtitle: 
 ---
