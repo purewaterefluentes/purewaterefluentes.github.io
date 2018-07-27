@@ -13,7 +13,6 @@ Possui multipla ação como sequestrante e desincrustação das tubulações de 
 
 >
 ### Propriedades Típicas 
->
 
 - Anti-Incrustante para Torre de resfriamento com excelente controle de crostas de carbonato e oxido de ferro.
 
