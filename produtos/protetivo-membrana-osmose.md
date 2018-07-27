@@ -1,19 +1,18 @@
 ---
 layout: contato
-title: Protetivo para Osmose
-subtitle: Anti-Incrustante e protetivo para membrana de osmose
+title: PROTETIVO PARA OSMOSE
+subtitle: Anti-Incrustante e Protetivo para Membrana de Osmose
 ---
 
 ### Apresentação
 
-AQUA-FLOCON é uma formulação de alto desempenho usada com efetiva ação no controle de deposição de crostas inorgânicas formadas por sais nas superfícies das membranas em geral e sistemas de osmose. 
+O Anti-Incrustante e Protetivo para Osmose Reversa **AQUA-FLOCON** é uma formulação de alto desempenho usada com efetiva ação no controle de deposição de crostas inorgânicas formadas por sais nas superfícies das membranas em geral e sistemas de osmose. 
 
-- É excelente no controle de crostas de carbonato e sulfato
-- Custo de operação efetivo
-- Compatível com as principais membranas
-- Aprovado internacionalmente para água potável
-- Dispersante
-- Tolerante ao ferro
+- Anti-Incrustante para Osmose é excelente no controle de crostas de carbonato e sulfato
+- Protetivo para Osmose apresenta ótimo custo de operação efetivo
+- AQUA-FLOCON é compatível com as principais membranas de osmose reversa
+- O Anti-Incrustante para Osmose AQUA-FLOCON tem ação Dispersante e Desincrustante nas membranas.
+- Protetivo para osmose com alta tolerância ao ferro
 
 
 ### Propriedades Típicas 
@@ -27,16 +26,16 @@ As principais especificações do produto são:
 
 
 ### Reatividade Química
-Aqua-Flocon não é afetado pelo Cloro ou outros biocidas oxidantes em condições normais de uso. Pode ser usado em sistemas de membrana com cloro e metabisulfito de sódio.
+**AQUA-FLOCON**: Não é afetado pelo Cloro ou outros biocidas oxidantes em condições normais de uso. Pode ser usado em sistemas de membrana com cloro e metabisulfito de sódio.
 
 ### Aplicações e Níveis de Dosagem
-Aqua-Flocon é uma solução aquosa de um ácido orgânico e corrosivo na forma concentrada. 
+**AQUA-FLOCON**: É uma solução aquosa de um ácido orgânico e corrosivo na forma concentrada. 
 Exemplos de materiais apropriados: 
 
 - aço inoxidável 316L
 - plásticos como (GRP, PVC e PE)
 
-Aqua-Flocon é miscível em água em todas as proporções. Pode ser aplicado puro (sem diluição) ou como uma solução saturada. 
+**AQUA-FLOCON** é miscível em água em todas as proporções. Pode ser aplicado puro (sem diluição) ou como uma solução saturada. 
 É recomendada dosagem mínima da solução com concentração de 10% m/m. 
 Deve ser dosado continuamente e de forma proporcional ao fluxo de água de alimentação para manter o nível da dose recomendada. A dosagem exigida depende da qualidade da água de alimentação e o índice de saturação de várias formas de crostas presentes na salmoura concentrada.
 
