@@ -1,7 +1,8 @@
 ---
 layout: default
+pagetitle: Produtos Químicos para Tratamento de Água - Tratamento de Efluente
 title: Produtos Químicos
-subtitle: Tratamento de água | Efluentes | Piscina | Insumos industriais
+subtitle: Tratamento de água | Tratamento de Efluentes | Piscina | Insumos industriais
 robots: follow
 ---
 ### Produtos para Piscina
@@ -38,6 +39,7 @@ robots: follow
 - [Polímero Floculante](polieletrolito-polimero-floculante.html)
 - [Precipitador de Metais](precipitador-de-metais.html)
 - [Protetivo para Membrana de Osmose](protetivo-membrana-osmose.html)
+- [Protetivo para Torre de Resfriamento e Chiller](protetivo-para-torre-de-resfriamento-agua-gelada.html)
 - [Redutor de Fluoretos (Fluor)](redutor-de-fluoretos.html)
 - [Sequestrante de Oxigênio](sequestrante-de-oxigenio.html)
 
