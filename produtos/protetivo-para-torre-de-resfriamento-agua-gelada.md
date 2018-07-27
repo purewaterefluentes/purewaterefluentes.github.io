@@ -42,5 +42,12 @@ Não classificado como perigoso para o transporte terrestre. Não classificado c
 - Bombona de plásticos de 50 Kg 
 - IBC de 1000 litros
 
-  
+  ### **Boletim Técnico**
+
+{% include purewater/link-boletim.html 
+   label="Ficha Técnica Protetivo para água de refrigeração" 
+   arquivo="FISPQ - AQUA-PFO protetivo água refrigeração.pdf" %}
+   
+   
+   
    
