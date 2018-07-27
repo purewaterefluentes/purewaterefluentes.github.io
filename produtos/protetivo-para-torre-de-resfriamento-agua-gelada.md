@@ -14,7 +14,7 @@ Possui multipla ação como sequestrante e desincrustação das tubulações de 
 >
 ### Propriedades Típicas 
 >
->
+
 - Anti-Incrustante para Torre de resfriamento com excelente controle de crostas de carbonato e oxido de ferro.
 
 - Protetivo para Chiller (Água Gelada) que apresenta ótimo custo de operação efetivo.
@@ -24,6 +24,7 @@ Possui multipla ação como sequestrante e desincrustação das tubulações de 
 - O Anti-Incrustante AQUA-PFO tem ação Dispersante e Desincrustante em Torres de Resfriamento e Chiller.
 
 - Alto poder como sequestrante de ferro, manganês, magnésio e todos os demais metais bivalentes.
+>
 >
 
 **AQUA-PFO** é miscível em água em todas as proporções. Pode ser aplicado puro (sem diluição) ou como uma solução saturada. 
