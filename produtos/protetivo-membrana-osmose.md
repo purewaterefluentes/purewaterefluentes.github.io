@@ -16,13 +16,12 @@ O Anti-Incrustante e Protetivo para Osmose Reversa **AQUA-FLOCON** é uma formul
 - O Anti-Incrustante para Osmose AQUA-FLOCON tem ação Dispersante e Desincrustante nas membranas.
 - Protetivo para osmose com alta tolerância ao ferro
 
-As propriedades típicas seguintes são para Aqua-Flocon e não deve ser considerado como limite de especificação para o produto.
 As principais especificações do produto são: 
 
-- Aparência: Liquido Translucido a amarelo palha 
-- pH: 3.5 a 4.5 
-- Gravidade específica a 20°C: 1,13 a 1,18 
-- Limite do ponto de congelamento: 0 a -3°C
+- **Aparência:** Liquido Translucido a amarelo palha 
+- **pH:** 3.5 a 4.5 
+- **Gravidade específica a 20°C:** 1,13 a 1,18 
+- **Limite do ponto de congelamento:** 0 a -3°C
 
 
 ### Reatividade Química
