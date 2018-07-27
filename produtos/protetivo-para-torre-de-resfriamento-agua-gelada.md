@@ -11,7 +11,6 @@ O Anti-Incrustante e Protetivo **AQUA-PFO** usado para Torre de Resfriamento e S
 
 Possui multipla ação como sequestrante e desincrustação das tubulações de água, além de fosfatização das paredes dos tubos com a criação de uma película formada por uma só molécula de fosfato, isolando-a do contato com a água, proporcionando uma maior durabilidade, tanto em Sistemas de água gelada (Chiller) ou em torres de resfriamento.
 
->
 ### Propriedades Típicas 
 
 - Anti-Incrustante para Torre de resfriamento com excelente controle de crostas de carbonato e oxido de ferro.
@@ -32,13 +31,13 @@ Possui multipla ação como sequestrante e desincrustação das tubulações de 
 Deve ser dosado continuamente e de forma proporcional ao fluxo de água de alimentação para manter o nível da dose recomendada. 
 A dosagem exigida depende da qualidade da água de alimentação e o índice de saturação.
 
-### Manipulação 
+### **Manipulação**
 É indicado para uso em sistema de refrigeração de água (Torre de Resfriamento / Chiller - Água Gelada)
 
-### Armazenagem
+### **Armazenagem**
 Não classificado como perigoso para o transporte terrestre. Não classificado como perigoso para o armazenamento. 
 
-### Embalagens 
+### **Embalagens**
 
 - Bombona de plásticos de 50 Kg 
 - IBC de 1000 litros
