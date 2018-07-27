@@ -1,45 +1,37 @@
 ---
 layout: contato
-title: ORTHO-PFO 
+title: AQUA-PFO 
 subtitle: Anti-Incrustante Protetivo para Torre de Resfriamento / Chiller Água Gelada
 ---
 
 ### Apresentação
 
-O Anti-Incrustante e Protetivo para Osmose Reversa **AQUA-FLOCON** é uma formulação de alto desempenho usada com efetiva ação no controle de deposição de crostas inorgânicas formadas por sais nas superfícies das membranas em geral e sistemas de osmose. 
+O Anti-Incrustante e Protetivo **AQUA-PFO** usado para Torre de Resfriamento e Sistema de água gelada (CHILLER), é uma formulação de alto desempenho usada com efetiva ação para solucionar problemas de corrosão, incrustações, cor, odor de ferrugem na água e eliminação dos efeitos da dureza.
+
+Possui multipla ação como sequestrante e desincrustação das tubulações de água, além de fosfatização das paredes dos tubos com a criação de uma película formada por uma só molécula de fosfato, isolando-a do contato com a água, proporcionando uma maior durabilidade, tanto em Sistemas de água gelada (Chiller) ou em torres de resfriamento.
 
 ### Propriedades Típicas 
 
-- Anti-Incrustante para Osmose é excelente no controle de crostas de carbonato e sulfato
-- Protetivo para Osmose apresenta ótimo custo de operação efetivo
-- AQUA-FLOCON é compatível com as principais membranas de osmose reversa
-- O Anti-Incrustante para Osmose AQUA-FLOCON tem ação Dispersante e Desincrustante nas membranas.
-- Protetivo para osmose com alta tolerância ao ferro
+- Anti-Incrustante para Torre de resfriamento com excelente controle de crostas de carbonato e oxido de ferro.
 
-As principais especificações do produto são: 
+- Protetivo para Chiller (Água Gelada) que apresenta ótimo custo de operação efetivo.
 
-- **Aparência:** Liquido Translucido a amarelo palha 
-- **pH:** 3.5 a 4.5 
-- **Gravidade específica a 20°C:** 1,13 a 1,18 
-- **Limite do ponto de congelamento:** 0 a -3°C
+- AQUA-PFO é compatível com os principais sistemas de refrigeração de água.
+
+- O Anti-Incrustante AQUA-PFO tem ação Dispersante e Desincrustante em Torres de Resfriamento e Chiller.
+
+- Alto poder como sequestrante de ferro, manganês, magnésio e todos os demais metais bivalentes.
 
 
-### Reatividade Química
-**AQUA-FLOCON**: Não é afetado pelo Cloro ou outros biocidas oxidantes em condições normais de uso. Pode ser usado em sistemas de membrana com cloro e metabisulfito de sódio.
 
-### Aplicações e Níveis de Dosagem
-**AQUA-FLOCON**: É uma solução aquosa de um ácido orgânico e corrosivo na forma concentrada. 
-Exemplos de materiais apropriados: 
-
-- aço inoxidável 316L
-- plásticos como (GRP, PVC e PE)
-
-**AQUA-FLOCON** é miscível em água em todas as proporções. Pode ser aplicado puro (sem diluição) ou como uma solução saturada. 
+**AQUA-PFO** é miscível em água em todas as proporções. Pode ser aplicado puro (sem diluição) ou como uma solução saturada. 
 É recomendada dosagem mínima da solução com concentração de 10% m/m. 
-Deve ser dosado continuamente e de forma proporcional ao fluxo de água de alimentação para manter o nível da dose recomendada. A dosagem exigida depende da qualidade da água de alimentação e o índice de saturação de várias formas de crostas presentes na salmoura concentrada.
+
+Deve ser dosado continuamente e de forma proporcional ao fluxo de água de alimentação para manter o nível da dose recomendada. 
+A dosagem exigida depende da qualidade da água de alimentação e o índice de saturação.
 
 ### Manipulação 
-É indicado para uso em sistema de osmose reversa. 
+É indicado para uso em sistema de refrigeração de água (Torre de Resfriamento / Chiller - Água Gelada)
 
 ### Armazenagem
 Não classificado como perigoso para o transporte terrestre. Não classificado como perigoso para o armazenamento. 
@@ -49,10 +41,5 @@ Não classificado como perigoso para o transporte terrestre. Não classificado c
 - Bombona de plásticos de 50 Kg 
 - IBC de 1000 litros
 
-### Boletim Técnico
-
-{% include purewater/link-boletim.html 
-   label="Boletim Técnico Inibidor Incrustação Osmose Flocon" 
-   arquivo="Boletim-tecnico-inibidor-incrustação-osmose-flocon.pdf" %}
-   
+  
    
