@@ -28,7 +28,7 @@ Destinado à filtração em filtros de camada dupla (areia e antracito), com uso
 
 **Carvão antracito mineral:** A vantagem deste de produto é poder trabalhar com taxas de filtração maiores, logo com menor área de filtração, menor volume de material filtrante e menor consumo de água de lavagem, devido ao carvão antracito mineral.
 
-**Densidade:** 0,85
+**Densidade:** 1,3 a 1,8 g/cm3
 
 **Grãos variando de:** 0,8 até 1.1 mm
 
