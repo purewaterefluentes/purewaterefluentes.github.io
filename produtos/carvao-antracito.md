@@ -35,5 +35,9 @@ Destinado à filtração em filtros de camada dupla (areia e antracito), com uso
 >
 #### Fornecimento: Carvão antracito mineral em Sacos de 25Kg
 >
-
+>
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico Carvão Mineral Antracito" 
+   arquivo="BOLETIM TÉCNICO - AQUA CVAT - REVISADO.pdf" %}
+>
 
