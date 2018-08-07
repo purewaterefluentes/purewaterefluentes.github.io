@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Algicida | Algicida de Choque | Algicida de manutenção
+pageTitle: ALGICIDA | ALGICIDA DE CHOQUE | ALGICIDA DE MANUTENÇÃO PISCINA
 title: Algicida para Piscina
 subtitle: 
 ---
