@@ -38,6 +38,8 @@ Destinado à filtração em filtros de camada dupla (areia e antracito), com uso
 >
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Carvão Mineral Antracito" 
-   arquivo="BOLETIM TÉCNICO - AQUA CVAT - REVISADO.pdf" %}
+   arquivo="Boletim técnico - Carvão Antracito Mineral.pdf" %}
 >
+
+
 
