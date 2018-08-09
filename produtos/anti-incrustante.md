@@ -47,5 +47,18 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
 
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
+>
+>
+>
+{% include purewater/link-boletim.html 
+   label="Boletim Anti-Incrustante AQUA-235" 
+   arquivo="FISPQ AQUA-235 - REVISADO.pdf   " %}
+>
+>
+{% include purewater/link-boletim.html 
+   label="Boletim Anti-Incrustante AQUA-238" 
+   arquivo="FISPQ AQUA-238 revisada.pdf" %}
+>
+
 
 
