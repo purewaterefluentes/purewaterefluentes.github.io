@@ -40,7 +40,8 @@ Recomendado nas seguintes áreas de aplicação:
 - Containeres (IBC) plastico de 1000 litros
 
 
-### Boletim Técnico
+### Informativo Técnico
+/
 >
 >
 {% include purewater/link-boletim.html 
