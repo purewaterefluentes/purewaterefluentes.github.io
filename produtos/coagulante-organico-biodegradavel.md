@@ -41,7 +41,7 @@ Recomendado nas seguintes áreas de aplicação:
 
 
 ### Informativo Técnico
-/
+"
 >
 >
 {% include purewater/link-boletim.html 
