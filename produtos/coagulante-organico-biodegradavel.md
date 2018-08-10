@@ -1,24 +1,25 @@
 ---
 layout: contato
-pageTitle: Coagulante Orgânico Biodegradavel
+pageTitle: Coagulante Orgânico Biodegradavel |PUREWATER EFLUENTES
 title: Coagulante Orgânico Biodegradável 
 subtitle: AQUAFLOC-LS
 ---
  
-Coagulante e floculante que age de forma unificada, sua composição basica deriva de um polímero orgânico-catiônico de baixo peso molecular de origem essencialmente vegetal e que atua no tratamento de água e efluentes industrais como:
+O **Coagulante Orgânico Biodegradavel | AQUAFLOC-LS** da Purewater Efluentes age de forma unificada como coagulante e floculante, sua composição basica deriva de um polímero orgânico-catiônico de baixo peso molecular de origem essencialmente vegetal e que atua no tratamento de água e efluentes industrais como:
 
-- Coagulante
-- Precipitador
-- Floculante
-- Auxiliar de coagulação no tratamento de águas em geral
+- Coagulante orgânico para tratamento de água.
+- Coagulante orgânico para tratamento de efluentes.
+- Agente Precipitador em clarificação de água.
+- Floculante.
+- Auxiliar de coagulação no tratamento de águas em geral.
 
-Em conformidade com testes preliminares (jar-test) e orientações da equipe de assistência técnica e desenvolvimento de produto da Purewater Efluentes AQUAFLOC-LS é capaz de atuar em um amplo espectro de aplicações. 
+Em conformidade com testes preliminares (jar-test) e orientações da equipe de assistência técnica e desenvolvimento de produto da Purewater Efluentes **AQUAFLOC-LS** é capaz de atuar em um amplo espectro de aplicações. 
 
 Produto extremamente versátil, pois substitui com grande eficiência a utilização de todos os demais produtos químicos usados no tratamento de água e efluentes industrial de forma simples e efetiva.
 
 Devido a sua formula estabilizada, o produto AQUAFLOC-LS quando aplicado no tratamento de água não altera o pH do meio, fazendo que o processo se torne rápido e de menor custo operacional.
 
-100% natural e Biodegradável, não requer licença especial dos órgãos fiscalizadores ambientais para compra ou utilização.
+**100% natural e Biodegradável**, não requer licença especial dos órgãos fiscalizadores ambientais para compra ou utilização.
 
 ### Aplicação
 
@@ -40,7 +41,10 @@ Recomendado nas seguintes áreas de aplicação:
 
 
 ### Boletim Técnico
-
+>
+>
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Coagulante Floculante Orgânico - AQUAFLOC-LS" 
    arquivo="Boletim-tecnico-coagulante-biodegradavel-aquafloc.pdf" %}
+>
+
