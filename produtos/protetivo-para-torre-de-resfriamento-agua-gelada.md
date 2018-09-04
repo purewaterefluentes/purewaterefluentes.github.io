@@ -9,7 +9,7 @@ subtitle: Anti-Incrustante Protetivo para Torre de Resfriamento / Chiller Água 
 
 O Anti-Incrustante e Protetivo **AQUA-PFO** usado para Torre de Resfriamento e Sistema de água gelada (CHILLER), é uma formulação de alto desempenho usada com efetiva ação para solucionar problemas de corrosão, incrustações, cor, odor de ferrugem na água e eliminação dos efeitos da dureza.
 
-Possui multipla ação como sequestrante e desincrustação das tubulações de água, além de fosfatização das paredes dos tubos com a criação de uma película formada por uma só molécula de fosfato, isolando-a do contato com a água, proporcionando uma maior durabilidade, tanto em Sistemas de água gelada (Chiller) ou em torres de resfriamento.
+Possui multipla ação como sequestrante e na desincrustação das tubulações de água, além de fosfatização das paredes dos tubos com a criação de uma película formada por uma só molécula de fosfato, isolando-a do contato com a água, proporcionando uma maior durabilidade, tanto em Sistemas de água gelada (Chiller) ou em torres de resfriamento.
 
 ### **Propriedades Típicas**
 
