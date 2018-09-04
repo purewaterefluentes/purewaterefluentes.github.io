@@ -40,6 +40,8 @@ function sendEnquire(fromModal){
           $(".alert-danger").show();
         }
     });  
+    
+    ga('send', 'event', 'botao', 'clique');
 }
 
 function sendEnquireFormspree(fromModal){
