@@ -50,7 +50,7 @@ Para uma rápida dispersão e um mínimo consumo recomenda-se aplicação do ant
 - Antiespumante em Bombona plástica de 25Kg ou 50Kg
 - Antiespumante em Container plástica de 1100Kg
 
-### **Boletim Técnico do Antiespumante**
+### **Informativo Técnico do Antiespumante**
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Antiespumante" 
