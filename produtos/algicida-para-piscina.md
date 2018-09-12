@@ -6,13 +6,14 @@ subtitle:
 ---
 <p align="justify">
 A Purewater fabrica toda de linha de produtos para piscinas, dentre elas o **ALGINAT® e ALGINAT100®** 
-Composto por íons de cobre quelados e estabilizados, altamente eficiente no combate a infestação de algas já formadas em piscinas.
+Composto por íons de cobre quelados e estabilizados, altamente eficiente no combate a infestação de algas já formadas em piscinas.<p>
 
 Algas são organismos microscópicos que se desenvolvem na presença de água e luz solar, e que podem, rapidamente, tornar a água da piscina verde e turva, com pisos e paredes escorregadias.
 
 A infestação de algas geralmente acontece no verão, após chuvas intensas, quando residuais de cloro se encontram abaixo do nível recomendado.
 
-A cloração de manutenção com residuais de 2 a 4 ppm de cloro livre, presentes na água o tempo todo, com pH entre 7,4 e 7,6 constituem a melhor prevenção contra o desenvolvimento de algas. Mas, depois que elas se desenvolvem somente um tratamento de choque consegue eliminá-las.<p>
+A cloração de manutenção com residuais de 2 a 4 ppm de cloro livre, presentes na água o tempo todo, com pH entre 7,4 e 7,6 constituem a melhor prevenção contra o desenvolvimento de algas. Mas, depois que elas se desenvolvem somente um tratamento de choque consegue eliminá-las.
+<p>
 
 ### **ALGINAT100 - CHOQUE**
 
