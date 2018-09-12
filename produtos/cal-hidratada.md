@@ -6,11 +6,11 @@ subtitle: Extra Purificada
 ---
 
 ### Apresentação
-Nossa cal hidratada Extra purificada (Solida em pó ou liquída como Leite de Cal) é indicada em neutralizações acidas, estabilização de meio aquoso, condicionamento e adensamento de lodos na ETE, tratamento de água ou efluentes, produção de fertilizantes, aglomerante para mineração entre outros.
+<p align="justify">Nossa cal hidratada Extra purificada (Solida em pó ou liquída como Leite de Cal) é indicada em neutralizações acidas, estabilização de meio aquoso, condicionamento e adensamento de lodos na ETE, tratamento de água ou efluentes, produção de fertilizantes, aglomerante para mineração entre outros.
 
 Sua solução aquosa é uma base relativamente forte e reage violentamente com ácidos.
 
-Reage também com o dióxido de carbono formando o carbonato de cálcio, podendo ser usado para detectar a presença do dióxido de carbono em uma mistura de gases devido a insolubilidade do carbonato, em uma solução que é comumente conhecida como "água de cal".
+Reage também com o dióxido de carbono formando o carbonato de cálcio, podendo ser usado para detectar a presença do dióxido de carbono em uma mistura de gases devido a insolubilidade do carbonato, em uma solução que é comumente conhecida como "água de cal".<p>
 
 ### Aplicações da Cal - Hidróxido de cálcio Dihidratada.
 
