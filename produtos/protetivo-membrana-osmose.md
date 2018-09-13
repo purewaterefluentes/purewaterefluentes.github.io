@@ -6,7 +6,7 @@ subtitle: Anti-Incrustante e Protetivo para Membrana de Osmose
 
 ### Apresentação
 
-O Anti-Incrustante e Protetivo para Osmose Reversa **AQUA-FLOCON** é uma formulação de alto desempenho usada com efetiva ação no controle de deposição de crostas inorgânicas formadas por sais nas superfícies das membranas em geral e sistemas de osmose. 
+Produto Multiação que age como Desincrustante, Anti-Incrustante e Protetivo para Osmose Reversa **AQUA-FLOCON** é uma formulação de alto desempenho usada com efetiva ação no controle de deposição de crostas inorgânicas formadas por sais nas superfícies das membranas em geral e sistemas de osmose. 
 
 ### Propriedades Típicas 
 
@@ -20,7 +20,7 @@ As principais especificações do produto são:
 
 - **Aparência:** Liquido Translucido a amarelo palha 
 - **pH:** 3.5 a 4.5 
-- **Gravidade específica a 20°C:** 1,13 a 1,18 
+- **Gravidade específica a 20°C:** 1,01 a 1,05 
 - **Limite do ponto de congelamento:** 0 a -3°C
 
 
