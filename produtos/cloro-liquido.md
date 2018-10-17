@@ -5,9 +5,9 @@ title: Cloro Liquido
 subtitle: HIPOCLORE
 ---
 
-**HIPOCLORE é o Cloro liquido Concentrado** que apresenta de 7 a 9% em teor de cloro ativo, podendo também ser fabricado nas concentrações 2,5% e 5% de cloro ativo. 
+**HIPOCLORE é o Cloro Liquido Concentrado** que apresenta de 7 a 9% em teor de cloro ativo. 
 
-Atua como agente bactericida, desinfectante para limpeza e clarificante e pode ser aplicado em tratamento de águas em geral.
+Atua como agente bactericida, desinfectante,  clarificante e pode ser aplicado em tratamento de águas em geral.
 
 Possuí fácil aplicação e pode usado em: Clubes, Hotéis, Piscinas, Lavanderia Industrial, Lavanderia Hospitalar, Industria Alimentícia e Industria farmacêutica, dentre outras.
 
@@ -16,12 +16,17 @@ Possuí fácil aplicação e pode usado em: Clubes, Hotéis, Piscinas, Lavanderi
 >
 ### **Composição do Cloro Liquído**
 O Cloro Liquído **HIPOCLORE** tem formula especial contendo hipoclorito de sódio, estabilizante e veiculo.
-Com alto poder de limpeza e ação bacteriológico agindo com grande efeciência.
+Agindo com Alta Performance, garantindo otima eficiência.
 
-### **Principais Aplicações do cloro liquido**
-Agente de cloração, cloro ativo, bactericida clorado, cloro para água de poço, cloro para piscinas, cloro para efluentes, cloro residual na indústria.
+### **Principais Aplicações do Cloro Liquido**
+- Agente de cloração
+- Cloro Ativo
+- Aditivo bactericida clorado
+- Cloro para água de poço
+- Cloro para piscinas
+- Cloro para efluentes
 
-### **Características do cloro liquído**
+### **Características do Cloro Liquído**
 
 - Estado: Liquído
 - Densidade: >1,05 g/cm3 (25 °C)
@@ -31,7 +36,7 @@ Agente de cloração, cloro ativo, bactericida clorado, cloro para água de poç
 - Produto Não Controlado pelos Órgãos reguladores
 
 
-### **Funcionalidades do cloro liquído**
+### **Funcionalidades do Cloro Liquído**
 
 - Eficiente na clarificação de água
 - Ótimo agente de limpeza e agente bactericida
@@ -41,7 +46,6 @@ Agente de cloração, cloro ativo, bactericida clorado, cloro para água de poç
 - Baixo custo
 - Não gera residual de cálcio e incrustação de tubulação
 - Ação prolongada de cloração.
-
 
 ### **Transporte e Armazenagem**
 O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado de fontes de calor, sendo a temperatura máxima de conservação 45 °C. 
