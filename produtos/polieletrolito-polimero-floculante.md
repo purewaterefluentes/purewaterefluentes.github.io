@@ -39,8 +39,6 @@ O polímero floculante possui ação higroscópica e de atração molecular, cri
 
 - Composição Química:**a base de políacrilaminas ou políacrilatos de carga variada.**
 - Estado Físico: Solido (Polímero aniônico granulado) e (Polímero Catiônico Granulado) ou Polímero emulsão.
-- Densidade: 0,97 a 1,05 g/cm3 (25 °C)
-- pH: 6-9
 - Aparência: Variado
 - Odor: Inodoro
 
