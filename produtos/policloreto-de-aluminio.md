@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Policloreto de Alumínio (PAC18%) - Purewater Efluentes - Fabricante
+pageTitle: Policloreto de Alumínio (PAC18%) |Purewater Efluentes |Fabricante
 title: Policloreto de Alumínio
 subtitle: 
 ---
