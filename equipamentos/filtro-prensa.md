@@ -6,7 +6,7 @@ title: Filtro Prensa
 <img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/Filtro Prensa Purewater.JPG" alt="Filtro Prensa">
 
 
-### Apresentação
+### **Apresentação**
 
 A Purewater Efluentes fabrica Filtro Prensa (Desaguador), para os mais variados seguimentos do mercado, tais como: Tratamento de água, tratamento de efluentes industriais, Galvanoplastia, Metalúrgicas, Siderúrgicas, Alimentícia e outras.
 
@@ -16,7 +16,7 @@ Também pode ser usado na filtragem de banhos, tais como fosfato e banhos galvâ
 
 Com grande capacidade de filtragem e ótimos resultados na desidratação, podendo atingir até cerca de 92%.
 
-### Principais Características
+### **Características do Filtro-Prensa**
 
 - Estrutura em aço carbono
 - Placas em polipropileno injetado
