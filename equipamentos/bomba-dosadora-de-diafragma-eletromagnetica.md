@@ -4,7 +4,7 @@ title: Bomba Dosadora de Diafragma
 subtitle: Eletromagnetica
 ---
 
-<img class="img-responsive pull-right" src="../../website/images/Bomba Dosadora diaframa PW-M.png" alt="Dosadora Diafragma Eletromagnetica">
+<img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/Bomba Dosadora diaframa PW-M.png" alt="Dosadora Diafragma Eletromagnetica">
 
 ### Apresentação
 
