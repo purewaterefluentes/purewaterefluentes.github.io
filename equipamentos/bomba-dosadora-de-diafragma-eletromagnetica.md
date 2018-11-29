@@ -23,5 +23,10 @@ A unidade de controle oferece variada opções de dosagem (vazões): de 0 a 15 l
 - Dosadora para dosagem de Ácidos
 - Dosadora para dosagem de produtos químicos líquidos ou viscosos.
 
-{% include purewater/equipamentos/Folder Bomba Dosadora Diafragma Eletromagnetica.html %}
+>
+{% include purewater/link-boletim.html 
+   label="Catalogo Dosadora Eletromagnética" 
+   arquivo="Folder Bomba Dosadora Diafragma Eletromagnetica.pdf  " %}
+>
+
 
