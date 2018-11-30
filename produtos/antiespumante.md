@@ -5,7 +5,7 @@ title: Antiespumante
 subtitle: 
 ---
 
-A Linha de **Antiespumantes** da Purewater Efluentes basea-se em compostos específicos atuando combinadamente entre o efeito dispersante e o antiespumante, agindo com eficácia na formação e no controle de espumas em tratamento de água. 
+A Linha de **Antiespumantes** da <h2>"cor: #0001" Purewater Efluentes <h> basea-se em compostos específicos atuando combinadamente entre o efeito dispersante e o antiespumante, agindo com eficácia na formação e no controle de espumas em tratamento de água. 
 
 ### **Composição do Antiespumante**
 O antiespumante é formulado a base de alcoóis graxos com ou sem silicone e espessante estabilizante,  sendo totalmente solúvel em água, proporcionando a diminuição da tensão superficial e maior rapidez no processo de eliminação da espuma, apresentando duradouro efeito residual.
@@ -19,9 +19,9 @@ Nesse processo propriedades  físico-químicas do meio são alteradas, ressaltan
 - Antiespumante para tratamento de efluentes.
 - Antiespumante para tratamento de água.
 - Pode ser aplicado em todos os seguimentos da industria para inibir formação de espuma
-- Aplicado para inibir a formação de espuma em estações de tratamento de água
-- Eliminar espuma em tratamento de efluentes
-- Controle na formação de espuma em cabines de pintura
+- Anti-espumante para industrias textil, Lavnderias, Metalurgicas, industria alimenticia, farmaceutica, frigorifico, cortumes e outras.
+- Desenvolvemos anti-espumante especifico para uso em usinas e agro-industria.
+- Anti-espumante para controle na formação de espuma em cabines de pintura
 - Controle na formação de espumas em água.
 
 ### **Características do Antiespumante**
