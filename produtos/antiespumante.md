@@ -18,7 +18,7 @@ Nesse processo propriedades  físico-químicas do meio são alteradas, ressaltan
 - Antiespumante para tratamento de efluentes.
 - Antiespumante para tratamento de água.
 - Pode ser aplicado em todos os seguimentos da industria para inibir formação de espuma
-- Anti-espumante para industrias textil, Lavnderias, Metalurgicas, industria alimenticia, farmaceutica, frigorifico, cortumes e outras.
+- Anti-espumante para industrias textil, Lavanderia, Metalúrgicas, indústria alimentícia, farmacêutica, frigorifico, curtumes e outras.
 - Desenvolvemos anti-espumante especifico para uso em usinas e agro-industria.
 - Anti-espumante para controle na formação de espuma em cabines de pintura
 - Controle na formação de espumas em água.
