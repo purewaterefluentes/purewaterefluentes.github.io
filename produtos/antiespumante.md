@@ -4,13 +4,6 @@ pageTitle: ANTIESPUMANTE | TRATAMENTO DE ÁGUA e EFLUENTES | PUREWATER EFLUENTES
 title: Antiespumante
 subtitle: 
 ---
-
-<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2>Descubra tudo o que a Purewater pode fazer por você!</h2>
-			
-
-
 A Linha de **Antiespumantes** da Purewater Efluentes basea-se em compostos específicos atuando combinadamente entre o efeito dispersante e o antiespumante, agindo com eficácia na formação e no controle de espumas em tratamento de água. 
 
 ### **Composição do Antiespumante**
