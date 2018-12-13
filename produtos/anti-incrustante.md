@@ -15,6 +15,18 @@ Podendo ser aplicado em todos os sistemas de rescirculação de água, tais como
 
 Na indústria é determinada uma faixa representativa de utilização das caldeiras em relação á pressão de trabalho. 
 
+>
+{% include purewater/link-boletim.html 
+   label="Boletim Anti-Incrustante AQUA-235" 
+   arquivo="FISPQ AQUA-235 - REVISADO.pdf   " %}
+>
+>
+{% include purewater/link-boletim.html 
+   label="Boletim Anti-Incrustante AQUA-238" 
+   arquivo="FISPQ AQUA-238 revisada.pdf" %}
+>
+
+
 >**Padrões de pressão para Caldeira:** 
  - Pressão baixa de até 10 Kgf/cm2 
  - Pressão média de 11 a 40 Kgf/cm2
@@ -48,16 +60,6 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
 >
->
->
-{% include purewater/link-boletim.html 
-   label="Boletim Anti-Incrustante AQUA-235" 
-   arquivo="FISPQ AQUA-235 - REVISADO.pdf   " %}
->
->
-{% include purewater/link-boletim.html 
-   label="Boletim Anti-Incrustante AQUA-238" 
-   arquivo="FISPQ AQUA-238 revisada.pdf" %}
 >
 
 
