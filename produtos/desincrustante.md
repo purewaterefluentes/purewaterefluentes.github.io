@@ -41,4 +41,4 @@ O produto deve se manter em ação no circuito por no minimo 15 minutos para que
 - IBC de 1000 litros
 
 
-** IMPORTANTE: O produto não deve ser usado sobre alumínio, zinco, cobre, estanhos ou ligas com esses elementos. **
+**IMPORTANTE:** O produto não deve ser usado sobre alumínio, zinco, cobre, estanhos ou ligas com esses elementos. **
