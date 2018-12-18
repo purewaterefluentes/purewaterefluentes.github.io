@@ -35,7 +35,7 @@ A dosagem exigida depende da qualidade da água de alimentação e o índice de 
 
 O produto deve se manter em ação no circuito por no minimo 15 minutos para que haja tempo de contato, em alguns casos onde a incrustação seja de alta concentração este tempo poderá ser superior, devendo sempre aplicar o enxague com água limpa após sua aplicação.
 
-### **Embalagens do Desincrustante **
+### **Embalagens do Desincrustante**
 
 - Bombona de plásticos de 50 Kg 
 - IBC de 1000 litros
