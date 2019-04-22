@@ -5,7 +5,7 @@ title: Dispersante
 subtitle: Torre de resfriamento e Caldeiras 
 ---
 
-### **Dispersante de íons metálicos em caldeiras e torre de resfriamento**
+### **AQUA-HEDP - Dispersante de íons metálicos em caldeiras e torre de resfriamento**
 
 >
 A ***Purewater Efluentes*** desenvolve o melhor Dispersante para água de uso em: 
