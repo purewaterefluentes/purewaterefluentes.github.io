@@ -24,7 +24,6 @@ A ***Purewater Efluentes*** desenvolve o melhor Dispersante para água de uso em
 - Dispersante para torre de resfriamento
 - Dispersante para caldeira
 - Dispersante para sistema de rescirculação de água industrial
-- Inibidor de corrosão 100% solúvel em água
 - Atua como inibidor de corrosão e reduz os ciclos de manutenção do sistema de recirculação de águas
 - Aumenta a vida útil de equipamentos e rede hidráulica
 - Fácil aplicação
