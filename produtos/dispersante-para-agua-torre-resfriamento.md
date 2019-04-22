@@ -1,8 +1,8 @@
 ---
 layout: contato
 pageTitle: DISPERSANTE PARA ÁGUA - PUREWATER EFLUENTES  
-title: Inibidor de Corrosão
-subtitle:   
+title: Dispersante  
+subtitle: Torre de resfriamento e Caldeiras 
 ---
 
 ### **Dispersante de íons metálicos em caldeiras e torre de resfriamento**
