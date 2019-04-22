@@ -41,5 +41,6 @@ Os produtos da linha Purewater Efluentes possuem tecnologia Anticorrosão e uma 
 
 {% include purewater/link-boletim.html label="Boletim Técnico - Inibidor de Corrosão" arquivo="BOLETIM TÉCNICO - AQUA-HPMA inibidor Corrosão - REVISADO.pdf" %}
 
+{% include purewater/link-boletim.html label="Boletim Técnico - Inibidor de Corrosão" arquivo="BOLETIM TÉCNICO AQUA-HPAA.pdf" %}
 
 
