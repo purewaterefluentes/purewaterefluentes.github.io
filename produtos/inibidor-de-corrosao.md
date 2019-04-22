@@ -7,7 +7,9 @@ subtitle:
 
 ### **Linha de Inibidores de Corrosão**
 
-A Purewater Efluentes formula e desenvolve a melhor linha de inibidores de corrosão para uso em caldeiras, torres de resfriamento, chillers, sistemas de rescirculação de água industrial. 
+A ***Purewater Efluentes*** desenvolve o melhor inibidor de corrosão para uso em: **caldeiras, torres de resfriamento, chillers, sistemas de rescirculação de água industrial.** 
+
+### **Funcionamento do Inibidor de Corrosão**
 
 A corrosão de metais dentro de um sistema de recirculação de águas é o principal fator que estabelece o tempo de vida útil dos equipamentos e rede hidráulica.
 
@@ -21,25 +23,21 @@ Uma vez que o sistema já tenha sido limpo e preparado, ele deve ser protegido c
 
 Os produtos da linha Purewater Efluentes possuem tecnologia Anticorrosão e uma mistura exclusiva de inibidores de corrosão.
 
-
-** Consulte o setor técnico para indicação do melhor produto.**
-
-
-### Características do Inibidor de Corrosão
+### **Características do Inibidor de Corrosão**
 
 - Produto com alta efeciência na proteção contra corrosão
-- 100% solúvel
-- Reduz os ciclos de manutenção do sistema de recirculação de águas
+- Inibidor de corrosão 100% solúvel em água
+- O inibidor de corrosão reduz os ciclos de manutenção do sistema de recirculação de águas
 - Aumenta a vida útil de equipamentos e rede hidráulica
 - Fácil aplicação
 
 
-### Embalagens
+### **Embalagens**
 
 - Bombonas plásticas de 50 Kg
 - Container plástico IBC de 1000 litros
 
-### Informativo - Inibidor de Corrosão
+### **Informativo - Inibidor de Corrosão**
 
 {% include purewater/link-boletim.html label="Boletim Técnico - Inibidor de Corrosão" arquivo="BOLETIM TÉCNICO - AQUA-HPMA inibidor Corrosão - REVISADO.pdf" %}
 
