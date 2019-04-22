@@ -27,7 +27,7 @@ A ***Purewater Efluentes*** desenvolve o melhor Dispersante para água de uso em
 - Bombonas plásticas de 50 Kg
 - Container plástico IBC de 1000 litros
 
-### **Informativo - **Dispersante para Água**
+### **Informativo - Dispersante para Água**
 
 {% include purewater/link-boletim.html label="Inibidor de Corrosão - AQUA-HPMA" arquivo="BOLETIM TÉCNICO - AQUA-HPMA inibidor Corrosão - REVISADO.pdf" %}
 
