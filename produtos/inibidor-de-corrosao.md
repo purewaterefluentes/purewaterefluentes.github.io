@@ -39,7 +39,7 @@ Os produtos da linha Purewater Efluentes possuem tecnologia Anticorrosão e uma 
 - Bombonas plásticas de 50 Kg
 - Container plástico IBC de 1000 litros
 
-### Boletim Técnico do Inibidor de Corrosão
+### Informativo - Inibidor de Corrosão
 
 {% include purewater/link-boletim.html label="Boletim Técnico - Inibidor de Corrosão" arquivo="BOLETIM TÉCNICO - AQUA-HPMA inibidor Corrosão - REVISADO.pdf" %}
 
