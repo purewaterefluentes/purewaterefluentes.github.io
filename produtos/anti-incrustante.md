@@ -1,17 +1,17 @@
 ---
 layout: contato
-title: Anti-Incrustante
+title: Anti-Incrustante - Caldeira e Torres de Resfriamento 
 titlePage: Anti-Incrustante
 Subtitle: Dispersante
 ---
 
-### **Apresentação**
+### Linha de Pordutos para Caldeira - Torres de Resfriamento e Sistemas de rescirculação de água
 
 Os produtos **Anti-incrustante ou Dispersante** são compostos químicos ou formulações que possuem a propriedade de prevenir a deposição de sais contidos em água na forma de precipitado em tubos, tanques, ou qualquer superfície. Tipicamente, estes sais são os carbonatos, silicatos e sulfatos de cálcio de água com elevadas concentrações destes sais. Este tipo de água é normalmente chamada de "água dura".
 
 Os compostos anti-incrustação frequentemente reagem com o cálcio, magnésio e silicas de modo que eles não possam formar precipitados depósitos na forma cristalizada na rede hidraulica e equipamentos.
 
-Podendo ser aplicado em todos os sistemas de rescirculação de água, tais como: **Torres de resfriamento, Reuso de água e Caldeiras.**
+**Podendo ser aplicado:** Em todos os sistemas de rescirculação de água, tais como: **Torres de resfriamento, Reuso de água e Caldeiras.**
 
 Na indústria é determinada uma faixa representativa de utilização das caldeiras em relação á pressão de trabalho. 
 
@@ -34,7 +34,7 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
  
 **Consulte o setor técnico para indicação do melhor Anti-incrustante para seu sistema.**
 
-### **Funcionalidades**
+### **Funcionalidades do Anti-incrustante**
 
 - Controla incrustações com eficiência, incluindo carbonato de cálcio, sulfato de cálcio, sulfato de bário, sulfato de estrôncio, fluoreto de cálcio, ferro, material coloidal, sílica e outros contaminantes orgânicos e inorgânicos.
 - Compatível com a maioria dos sistemas de Osmose Reversa
@@ -45,7 +45,7 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
 - Aumenta os ciclos de recuperação dos sistemas de Osmose Reversa
 
 
-### **Características**
+### **Características dos Dispersantes "Anti-Incrustante"**
 
 - Anti-incrustante para uso em Caldeira
 - Anti-incrustante para torre de resfriamento
