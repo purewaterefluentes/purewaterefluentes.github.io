@@ -32,6 +32,7 @@ robots: follow
 - [Descomplexante para efluentes](descomplexante.html)
 - [Desincrustante](desincrustante.html)
 - [Desengraxante](desengraxante.html)
+- [Dispersante para água](dispersante-para-agua-torre-resfriamento.html)
 - [Eliminador de Sulfatos](eliminador-de-sulfatos.html)
 - [Inibidor de Corrosão](inibidor-de-corrosao.html)
 - [Inibidor de Odor](inibidor-de-odor.html)
