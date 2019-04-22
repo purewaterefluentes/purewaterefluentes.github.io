@@ -32,7 +32,5 @@ A ***Purewater Efluentes*** desenvolve o melhor Dispersante para água de uso em
 
 ### **Informativo - Dispersante para Água**
 
-{% include purewater/link-boletim.html label="Inibidor de Corrosão - AQUA-HPMA" arquivo="BOLETIM TÉCNICO - AQUA-HPMA inibidor Corrosão - REVISADO.pdf" %}
-
-{% include purewater/link-boletim.html label="Inibidor de Corrosão - AQUA-HPAA" arquivo="BOLETIM TÉCNICO AQUA-HPAA.pdf" %}
+{% include purewater/link-boletim.html label="Dispersante - AQUA-HEDP" arquivo="BOLETIM TÉCNICO - AQUA-HEDP dispersante.pdf" %}
 
