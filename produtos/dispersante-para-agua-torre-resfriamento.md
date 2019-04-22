@@ -11,7 +11,7 @@ subtitle: Torre de resfriamento e Caldeiras
 A ***Purewater Efluentes*** desenvolve o melhor Dispersante para água de uso em: 
 - Caldeiras
 - Torres de resfriamento e chillers
-- Sistemas de rescirculação de água industrial.** 
+- Sistemas de rescirculação de água industrial.
 >
 
 ### **Funcionamento dos Dispersantes para Água**
