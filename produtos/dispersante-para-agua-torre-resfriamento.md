@@ -14,11 +14,14 @@ A ***Purewater Efluentes*** desenvolve o melhor Dispersante para água de uso em
 
 ### **Funcionamento dos Dispersantes para Água**
 
-**AQUA-HEDP**- Dispersante com formula especial onde o produto age como excelente dispersante e inibidor de corrosão.
+**AQUA-HEDP**: Dispersante com formula especial onde o produto age como excelente dispersante e inibidor de corrosão.
 
 ### **Características do Dispersante**
 
 - Produto com alta efeciência na proteção contra íons metálicos em torres de resfriamento e caldeiras
+- Dispersante para torre de resfriamento
+- Dispersante para caldeira
+- Dispersante para sistema de rescirculação de água industrial
 - Inibidor de corrosão 100% solúvel em água
 - Atua como inibidor de corrosão e reduz os ciclos de manutenção do sistema de recirculação de águas
 - Aumenta a vida útil de equipamentos e rede hidráulica
