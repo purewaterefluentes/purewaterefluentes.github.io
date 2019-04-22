@@ -4,9 +4,11 @@ pageTitle: SULFATO DE ALUMÍNIO |PUREWATER EFLUENTES | FABRICANTE
 title: Sulfato de Alumínio
 subtitle: 
 ---
-### **Aplicações do Sulfato de Alumínio**
+### **Sulfato de Alumínio**
 
-O Sulfato de Alumínio pode ser aplicado no: Tratamento de água de piscina, tratamento de afluentes, como rios, águas pluviais e fluviais agindo como ótimo coagulante. 
+A Purewater Efluentes oferece o melhor e mais puro Sulfato de Alumínio para tratamento de água.
+
+**O Sulfato de Alumínio pode ser aplicado no:** Tratamento de água de piscina, tratamento de afluentes, como rios, águas pluviais e fluviais agindo como ótimo coagulante. 
 
 O sulfato de alumínio tambem utilizado como clarificador na fabricação de papel, como agente fixador e clarificador da água de processo na indústria têxtil, como agentes mordentes em usinas de açúcar, como purificadores do melaço de cana de açúcar; em indústrias químicas como matéria-prima para obtenção de sais de alumínio; na indústria do cimento isolante na indústria de óleo para clarificação.
 
