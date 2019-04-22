@@ -7,11 +7,14 @@ subtitle: Torre de resfriamento e Caldeiras
 
 ### **Dispersante de íons metálicos em caldeiras e torre de resfriamento**
 
-A ***Purewater Efluentes*** desenvolve o melhor Dispersante para água de uso em: **caldeiras, torres de resfriamento, chillers, sistemas de rescirculação de água industrial.** 
+>
+A ***Purewater Efluentes*** desenvolve o melhor Dispersante para água de uso em: 
+**caldeiras, torres de resfriamento, chillers, sistemas de rescirculação de água industrial.** 
+>
 
 ### **Funcionamento dos Dispersantes para Água**
 
-**AQUA-HEDP** Com formula especial o produto age como excelente dispersante e inibidor de corrosão.
+**AQUA-HEDP**- Dispersante com formula especial onde o produto age como excelente dispersante e inibidor de corrosão.
 
 ### **Características do Dispersante**
 
