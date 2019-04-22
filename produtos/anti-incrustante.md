@@ -1,11 +1,11 @@
 ---
 layout: contato
-title: Anti-Incrustante - Caldeira e Torres de Resfriamento 
-titlePage: Anti-Incrustante
+title: Anti-Incrustante    
+titlePage: Anti-Incrustante - Torre de Resfriamento e Caldeiras - Purewater Efluentes  
 Subtitle: Dispersante
 ---
 
-### Linha de Produtos para Caldeira - Torres de Resfriamento e Sistemas de rescirculação de água
+### **Linha de Produtos para Caldeira - Torres de Resfriamento e Sistemas de rescirculação de água**  
 
 Os produtos **Anti-incrustante ou Dispersante** são compostos químicos ou formulações que possuem a propriedade de prevenir a deposição de sais contidos em água na forma de precipitado em tubos, tanques, ou qualquer superfície. Tipicamente, estes sais são os carbonatos, silicatos e sulfatos de cálcio de água com elevadas concentrações destes sais. Este tipo de água é normalmente chamada de "água dura".
 
