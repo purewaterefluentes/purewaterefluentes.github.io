@@ -1,11 +1,11 @@
 ---
 layout: contato
-pageTitle: Inibidor de Corrosão
-title: Inibidor de Corrosão - Purewater Efluentes - Fabricante  
+pageTitle: INIBIDOR DE CORROSÃO - PUREWATER EFLUENTES - FABRICA 
+title: Inibidor de Corrosão
 subtitle:   
 ---
 
-### **Linha de Inibidores de Corrosão**
+### **Inibidor de Corrosão**
 
 A ***Purewater Efluentes*** desenvolve o melhor inibidor de corrosão para uso em: **caldeiras, torres de resfriamento, chillers, sistemas de rescirculação de água industrial.** 
 
