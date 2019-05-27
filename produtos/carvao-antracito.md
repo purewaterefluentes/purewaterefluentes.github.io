@@ -30,7 +30,7 @@ Destinado à filtração em filtros de camada dupla (areia e antracito), com uso
 
 **Densidade:** 1,3 a 1,8 g/cm3
 
-**Grãos variando de:** 0,8 até 2,5 mm (#0,5)
+**Grãos variando de:** 0,8 até 1,1mm (Abertura max. 0,5 a 3,2mm)
 
 >
 #### Fornecimento: Carvão antracito mineral em Sacos de 25Kg
