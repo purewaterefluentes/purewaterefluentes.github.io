@@ -59,6 +59,8 @@ O hidróxido de sódio, na maior parte, é sintetizado pelo método de caustific
 - Soda Cáustica em saco plastico de 25 Kg
 - Soda Cáustica em bombona plástica de 30 e 60 Kg
 - Soda Cáustica em container (IBC) plastico 1000 litros 
+>
+
 
 ### **Boletim Técnico | Soda Caustica**
 
