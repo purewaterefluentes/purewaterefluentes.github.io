@@ -51,7 +51,10 @@ O hidróxido de sódio, na maior parte, é sintetizado pelo método de caustific
 
 ### **Fornecimento da Soda Caustica**
 
-- Soda Cáustica 1Kg >Soda-Limp (Uso Doméstico)
+
+>Soda-Limp (Uso Doméstico)
+- Soda Cáustica 1Kg 
+
 - Soda Cáustica em saco plastico de 25 Kg
 - Soda Cáustica em bombona plástica de 30 e 60 Kg
 - Soda Cáustica em container (IBC) plastico 1000 litros 
