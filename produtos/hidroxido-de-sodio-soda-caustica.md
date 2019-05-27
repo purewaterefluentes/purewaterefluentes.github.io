@@ -48,6 +48,7 @@ O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , exp
 
 
 >**Soda-Limp Escama (Uso Doméstico)** - Soda Cáustica 1Kg 
+
 >**Soda-Limp50 - Liquída (Uso Doméstico)** - Soda Cáustica 1Kg  
 
 >**Uso Industrial**
