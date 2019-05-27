@@ -5,7 +5,7 @@ title: Hidróxido de Sódio
 subtitle: Soda Cáustica
 ---
 
-O **hidróxido de sódio (NaOH)**, também conhecido como **Soda Cáustica** ou solução cáustica alcalina de uso na indústria (principalmente como uma base química ) no fabrico de papel , têxteis e detergentes . 
+O **Hidróxido de Sódio (NaOH)**, também conhecido como **Soda Cáustica** é comercializado na forma sólida "Escamas" ou em solução cáustica alcalina de uso na indústria (principalmente como uma base química ) no fabrico de papel , têxteis e detergentes . 
 
 É utilizado na indústria do petróleo no desenvolvimento de lamas de perfuração, também são reconhecidos para desentupir ou desbloquear tubos de drenagem em cozinhas e banheiros e redes hidraúlicas de indústria, entre outros.
 
@@ -14,14 +14,7 @@ Quando dissolvido em água ou neutralizada com uma libertação de ácido de uma
 
 O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , explosivos, tintas e óleo. Ele também é usado no processamento de têxteis de algodão, lavandaria e branqueamento, revestimento de óxido, galvanoplastia e electrowinning. É comumente encontrado em drenagem e limpadores de forno. Ele também é usado como um removedor e marceneiros tinta para remover móveis de madeira tinta velha.
 
-Seu uso também é importante na obtenção de alumínio a partir de bauxita , no processo Bayer.
-
-O hidróxido de sódio, na maior parte, é sintetizado pelo método de caustificação , isto é, juntando outro hidróxido com um composto de sódio :
-
->Ca (OH) 2 (aq) + Na 2 CO 3 (aq) → 2 NaOH (aq) + CaCO 3 (S)
-
-
-### **Propriedades Hidróxido de Sódio Sólido - Escama**
+### **Propriedades Hidróxido de Sódio Sólido - Soda Escama**
 
 - Fórmula molecular: NaOH
 - Massa molar: 39.9971 g/mol
