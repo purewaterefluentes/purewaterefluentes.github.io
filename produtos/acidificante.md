@@ -25,7 +25,7 @@ O produto é usado como neutralizante de alcalis (neutrazação de alcalinidade)
 - Reduz a geração massa residual (borra), no tratamento de efluentes.
 - Substitui o uso de substancias de alto risco operacional como o acido sulfurico.
 
-### Embalagens
+### **Embalagens**
 
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
