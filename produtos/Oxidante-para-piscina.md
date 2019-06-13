@@ -30,7 +30,7 @@ A piscina pode ser utilizada por banhistas 30 minutos após sua aplicação.
 
 >Embalagem: 1Kg / 25Kg 
 
->Dosagem: 10 a 20g /1m³ de água da piscina
+>Dosagem: 20 a 50g /1m³ de água da piscina
 
 >Validade: 1 anos após a data de fabricação
 
