@@ -36,4 +36,4 @@ As águas de superfície, rios, lagos, represas, etc - estão cada vez mais polu
 
 ### **Boletim Técnico**
 
-{% include purewater/link-boletim.html label="Boletim Técnico Cloreto Férrico 38%" arquivo="FISPQ AQUA-CLE.pdf" %}
+{% include purewater/link-boletim.html label="Boletim Técnico Cloreto Férrico 38%" arquivo="FISPQ MP-CLE - coagulante.pdf" %}
