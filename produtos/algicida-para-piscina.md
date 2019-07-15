@@ -15,7 +15,7 @@ A infestação de algas geralmente acontece no verão, após chuvas intensas, qu
 A cloração de manutenção com residuais de 2 a 4 ppm de cloro livre, presentes na água o tempo todo, com pH entre 7,4 e 7,6 constituem a melhor prevenção contra o desenvolvimento de algas. Mas, depois que elas se desenvolvem somente um tratamento de choque consegue eliminá-las.
 
 
-<img class="img-responsive pull-left" style="max-width: 45%;" src="../../website/images/Algicida_Purewater_anuncio.jpg" alt="Algicida para piscinas">
+<img class="img-responsive pull-left" style="width: 25%;" src="../../website/images/Algicida_Purewater_anuncio.jpg" alt="Algicida para piscinas">
 
 ### **ALGINAT100 - CHOQUE**
 
