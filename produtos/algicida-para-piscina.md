@@ -5,9 +5,6 @@ title: Algicida para Piscina
 subtitle: 
 ---
 
-
-<img class="img-responsive pull-left " style="max-width: 15%;" src="../../website/images/Algicida_Purewater_anuncio.jpg" alt="Algicida para piscinas">
-
 A Purewater fabrica toda de linha de produtos para piscinas, dentre elas os Algicidas: **ALGINAT® e ALGINAT100®**  
 Composto por íons de cobre quelados e estabilizados, altamente eficiente no combate a infestação de algas já formadas em piscinas.
 
