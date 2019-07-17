@@ -6,13 +6,11 @@ subtitle: Extra Purificada
 ---
 
 ### Apresentação 
-Nossa cal hidratada Extra purificada (Solida em pó ou liquída como Leite de Cal) é indicada em neutralizações acidas, estabilização de meio aquoso, condicionamento e adensamento de lodos na ETE, tratamento de água ou efluentes, produção de fertilizantes, aglomerante para mineração entre outros.
+Nossa **cal hidratada Extra purificada** (Solida em pó ou liquída como Leite de Cal) é indicada em neutralizações acidas, estabilização de meio aquoso, condicionamento e adensamento de lodos na ETE, tratamento de água ou efluentes, produção de fertilizantes, aglomerante para mineração entre outros.
 
-Sua solução aquosa é uma base relativamente forte e reage violentamente com ácidos.
+Reage com o dióxido de carbono formando o carbonato de cálcio, podendo ser usado para detectar a presença do dióxido de carbono em uma mistura de gases devido a insolubilidade do carbonato, em uma solução que é comumente conhecida como "água de cal".
 
-Reage também com o dióxido de carbono formando o carbonato de cálcio, podendo ser usado para detectar a presença do dióxido de carbono em uma mistura de gases devido a insolubilidade do carbonato, em uma solução que é comumente conhecida como "água de cal".
-
-### Aplicações da Cal - Hidróxido de cálcio Dihidratada.
+### **Aplicações da Cal - Hidróxido de cálcio Dihidratada.**
 
 Devido a suas propriedades básicas fortes, a Cal hidratada Extra possui diversas e variadas aplicações:
 
@@ -32,20 +30,21 @@ Devido a suas propriedades básicas fortes, a Cal hidratada Extra possui diversa
 - Na indústria de alimentos, participando do processamento da água (para bebidas alcoólicas e refrigerantes)
 - No refinamento do açúcar, para separá-lo do açúcar da cana
 
-### Fornecimento
+### **Fornecimento da Cal Hidratada**
 
+>
 A Cal Hidratada Extra Purificada pode ser encontrada nas seguintes formas:  
 
-- Liquida (Leite de Cal) 
+- Liquida (Leite de Cal - solução) 
 - Solido em pó
+>
 
-### Embalagens
+### **Embalagens Cal Hidradata**
 
 - Cal Hidratada em Sacos de 20 Kg (produto solido em pó)
-- Cal solução em bombonas plasticas de 50 Kg (Produto liquido)
 - Cal solução em (IBC) plastico de 1000 litros (Produto liquido)
 
-### Boletim Técnico
+### Boletim Técnico Cal Hidratada**
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Cal Solução" 
