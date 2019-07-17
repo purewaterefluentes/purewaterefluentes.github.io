@@ -32,9 +32,10 @@ Devido a suas propriedades básicas fortes, a Cal hidratada Extra possui diversa
 
 ### **Fornecimento da Cal Hidratada**
 
->
+
 A Cal Hidratada Extra Purificada pode ser encontrada nas seguintes formas:  
 
+>
 - Liquida (Leite de Cal - solução) 
 - Solido em pó
 >
