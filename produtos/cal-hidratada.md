@@ -45,7 +45,7 @@ A Cal Hidratada Extra Purificada pode ser encontrada nas seguintes formas:
 - Cal Hidratada em Sacos de 20 Kg (produto solido em pó)
 - Cal solução em (IBC) plastico de 1000 litros (Produto liquido)
 
-### Boletim Técnico Cal Hidratada**
+### **Boletim Técnico Cal Hidratada**
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Cal Solução" 
