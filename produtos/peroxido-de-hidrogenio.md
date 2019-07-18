@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Peróxido de Hidrogênio, peroxido 200 volumes, peroxido 130 volumes, água oxigenada, peroxido de hidrogenio solução, peroxido de hidrogenio 50%,peroxido de hidrogenio 30%, peroxidos,
+pageTitle: Peróxido de Hidrogênio | Água Oxigenada |  Direto na Fabrica
 title: Peróxido de Hidrogênio 
 subtitle:
 ---
