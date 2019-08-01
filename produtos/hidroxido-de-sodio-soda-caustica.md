@@ -1,8 +1,8 @@
 ---
 layout: contato
 pageTitle: SODA CAUSTICA | HIDROXIDO DE SÓDIO |PUREWATER EFLUENTES
-title: Hidróxido de Sódio
-subtitle: Soda Cáustica
+title:Soda Cáustica
+subtitle:Hidróxido de Sódio 
 ---
 
 O **Hidróxido de Sódio (NaOH)**, também conhecido como **Soda Cáustica** é comercializado na forma sólida "Escamas" ou em solução cáustica alcalina de uso na indústria (principalmente como uma base química ) no fabrico de papel , têxteis e detergentes . 
