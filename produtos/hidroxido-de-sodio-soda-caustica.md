@@ -8,10 +8,10 @@ subtitle: Soda Cáustica
 O **Hidróxido de Sódio (NaOH)**, também conhecido como **Soda Cáustica** é comercializado na forma sólida "Escamas" ou em solução cáustica alcalina de uso na indústria (principalmente como uma base química ) no fabrico de papel , têxteis e detergentes . 
 
 **Soda Cáustica de uso Doméstico SODA-LIMP Escama®:** 
-Desincrustante Alcalino, Desentupir pias, Desentumpir ralos, limpeza de utensilios, desengraxante e limpeza geral.
+>Desincrustante Alcalino, Desentupir pias, Desentumpir ralos, limpeza de utensilios, desengraxante e limpeza geral.
 
 **Soda Cáustica de uso Doméstico SODA-LIMP50 Liquída®:** 
-Fabricação de Sabão, Desincrustante Alcalino, Desentupir pias, Desentumpir ralos, limpeza de utensilios, desengraxante e limpeza geral.
+>Fabricação de Sabão, Desincrustante Alcalino, Desentupir pias, Desentumpir ralos, limpeza de utensilios, desengraxante e limpeza geral.
 
 É utilizado na indústria do petróleo no desenvolvimento de lamas de perfuração, também são reconhecidos para desentupir ou desbloquear tubos de drenagem em cozinhas e banheiros e redes hidraúlicas de indústria, entre outros.
 
