@@ -30,6 +30,9 @@ Tipos Fabricados:
 
   - **Antiespumante com silicone** 
   - **Antiespumante isento de silicone**
+  
+  >
+  
 <br />
 
 - Densidade: 0,97 a 1,2 g/cm3 (25 °C)
