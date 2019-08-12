@@ -25,10 +25,13 @@ Nesse processo propriedades  físico-químicas do meio são alteradas, ressaltan
 
 ### **Características do Antiespumante**
 
-- Tipos Fabricados: 
+>
+Tipos Fabricados: 
 
   - **Antiespumante com silicone** 
   - **Antiespumante isento de silicone**
+  >
+  
 
 <br />
 
