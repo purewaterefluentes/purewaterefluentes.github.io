@@ -25,15 +25,13 @@ Nesse processo propriedades  físico-químicas do meio são alteradas, ressaltan
 
 ### **Características do Antiespumante**
 
->
+
 - Tipos Fabricados: 
 
   - **Antiespumante com silicone** 
   - **Antiespumante isento de silicone**
-    >
-  
-<br />
 
+  <br />
 - Densidade: 0,97 a 1,2 g/cm3 (25 °C)
 - pH: 6-8
 - Aparência: Líquido Branco
