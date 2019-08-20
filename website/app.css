@@ -83,8 +83,13 @@ footer {
     max-width: 200px;
 }
 
-a, a:hover {
+a, a:hover, .btn-link, .btn-link:hover, .btn-link:focus {
   color: #0A0BC8;
+}
+
+.btn-link {
+  white-space: normal !important; 
+  text-align: left;
 }
 
 .modal-header .close {
