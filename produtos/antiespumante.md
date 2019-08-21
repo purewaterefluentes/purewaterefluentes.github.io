@@ -9,6 +9,9 @@ A Linha de **Antiespumantes** da **Purewater Efluentes** basea-se em compostos e
 ### **Composição do Antiespumante**
 O antiespumante é formulado a base de alcoóis graxos com ou sem silicone e espessante estabilizante,  sendo totalmente solúvel em água, proporcionando a diminuição da tensão superficial e maior rapidez no processo de eliminação da espuma, apresentando duradouro efeito residual.
 
+
+<img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/Carvão ativado granulado.jpg" alt="Antiespumante">
+
 ### **Mecanismo de Ação do Antiespumante**
 Sua ação se deve a presença de componentes especiais que diminuem a tensão superficial do meio formador de espuma, tornando-as mais instáveis até que ocorra a sua quebra e aproximando-as até que se colapsem entre si. 
 Nesse processo propriedades  físico-químicas do meio são alteradas, ressaltando-se que não há qualquer reação química envolvida, pois os componentes do produto são inertes quimicamente a grande maioria dos meios formadores de espuma. Desse modo, todas as características funcionais e sensoriais do produto de interesse do processo permanecem inalteradas.
