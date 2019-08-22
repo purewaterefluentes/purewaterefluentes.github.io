@@ -3,6 +3,7 @@ layout: contato
 pageTitle:Cloro para Piscina | Produtos para Piscina | Purewater
 title: Cloro para Piscina
 subtitle: 
+---
  
 - [Cloro Granulado Estabilizado](cloro-granulado-estabilizado.html){:.btn .btn-link}
 - [Cloro Granulado Tradicional](cloro-granulado-tradicional.html){:.btn .btn-link}
