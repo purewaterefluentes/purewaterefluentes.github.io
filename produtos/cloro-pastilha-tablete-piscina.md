@@ -1,10 +1,13 @@
 ---
 layout: contato
 pageTitle: CLORO PASTILHA MULTIAÇÃO |CLORO TABLETE MULTIAÇÃO 3em1 | PUREWATER EFLUENTES
-title: CLORO PASTILHA 
-subtitle: TRATAMENTO DE PISCINAS
+title: Cloro Pastilha Tablete
+subtitle: 
 ---
-### **SUPER-POOL-PASTILHA®** - CLORO MULTIAÇÃO 3em1
+### **SUPER-POOL-PASTILHA|TABLETE®** 
+>
+Cloro Tablete Multiação 3em1
+>
 
 Produto que apresenta alta praticidade aliada à qualidade, atuando como poderoso agente desinfetante para águas de piscinas (cloro com estabilizante), clarificante, algicida e algistático. 
 
