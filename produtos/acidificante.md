@@ -30,5 +30,3 @@ O produto **Acidificante AQUA-F400**é usado como neutralizante de alcalis (neut
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
 
-<header class="entry-header"><h1 class="entry-title" itemprop="headline">Antiespumantes no tratamento de efluentes</h1></header>
-
