@@ -1,7 +1,7 @@
 ---
 layout: contato
-pageTitle: CLARIFICANTE
-title: CLARIFICANTE
+pageTitle: Clarificante para Piscina | Purewater Efluentes
+title: Clarificante para Piscina
 subtitle: 
 ---
 ## **AQUA-P2000®**
