@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: ALGICIDA | ALGICIDA DE CHOQUE | ALGICIDA DE MANUTENÇÃO PISCINA
+pageTitle: Algicida para Piscina | Algicida de Choque | Purewater Efluentes 
 title: Algicida para Piscina
 subtitle: 
 ---
