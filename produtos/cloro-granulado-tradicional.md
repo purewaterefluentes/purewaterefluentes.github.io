@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: CLORO GRANULADO TRADICIONAL | CLORO PARA PISCINA
+pageTitle: Cloro Granulado Tradicional | Cloro Para Piscina
 title: Cloro Granulado Tradicional
 subtitle: Cloro para piscinas
 ---
