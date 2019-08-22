@@ -1,6 +1,6 @@
 ---
 layout: contato
-title: CLORO / TRATAMENTO DE PISCINAS
+title: Cloro para Piscina | Produtos para Piscina | Purewater
 subtitle: 
 robots: follow
 ---
