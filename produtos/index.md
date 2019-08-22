@@ -7,11 +7,11 @@ robots: follow
 ---
 ### Produtos para Piscina
 
-- [Algicidas](algicida-para-piscina.html){:.btn .btn-link}
-- [Clarificantes](clarificante-para-piscina.html){:.btn .btn-link}
-- [Cloro](cloro-para-piscina.html){:.btn .btn-link}
-- [Corretivos](corretivo-para-piscina.html){:.btn .btn-link}
-- [Oxidante](Oxidante-para-piscina.html){:.btn .btn-link}
+- [Algicida para piscina](algicida-para-piscina.html){:.btn .btn-link}
+- [Clarificante para piscina](clarificante-para-piscina.html){:.btn .btn-link}
+- [Cloro para piscina](cloro-para-piscina.html){:.btn .btn-link}
+- [Corretivo para piscina](corretivo-para-piscina.html){:.btn .btn-link}
+- [Oxidante para piscina](Oxidante-para-piscina.html){:.btn .btn-link}
 
 ### Produtos para tratamento de águas e efluentes
 
