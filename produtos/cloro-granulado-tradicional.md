@@ -1,8 +1,8 @@
 ---
 layout: contato
 pageTitle: CLORO GRANULADO TRADICIONAL | CLORO PARA PISCINA
-title: CLORO TRADICIONAL
-subtitle: TRATAMENTO DE PISCINAS
+title: Cloro Granulado Tradicional
+subtitle: Cloro para piscinas
 ---
 ## **AQUA-HIPO® - CLORO TRADICIONAL**
 
