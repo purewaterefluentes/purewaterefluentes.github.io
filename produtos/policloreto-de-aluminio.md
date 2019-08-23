@@ -19,7 +19,9 @@ O policloreto de alumínio também conhecido como: PAC18 ou cloreto de polialum�
 - Policloreto de aluminio (PAC18%) -Baixa Basicidade
 
 - BASE-PAC - Policloreto de alumínio -**Alta Basicidade** (não altera o pH da água)
-  
+    
+ <img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/carvao ativado pulverizado.jpg" alt="Policloreto de alumínio">
+   
 ### **Informativo Técnico**
 
 >
