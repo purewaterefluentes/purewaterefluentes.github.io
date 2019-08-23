@@ -16,7 +16,7 @@ O sulfato de cobre (II) é um fungicida (mata fungos) muito usado na agricultura
 
 ### Propriedades químicas do Sulfato de Cobre
 
- <img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/carvao ativado pulverizado.jpg" alt="sulfato de cobre pentahidratado">
+ <img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/sulfato de cobre pentahidratado.png" alt="sulfato de cobre pentahidratado">
  
 - Sulfato de cobre como fungicida na agropecuaria
 - Sulfato de cobre no tratamento de água
