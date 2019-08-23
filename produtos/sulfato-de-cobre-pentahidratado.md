@@ -1,10 +1,12 @@
 ---
 layout: contato
-pageTitle: Sulfato de cobre pentahidratado, sulfato de cobre, sulfato de cobre (II), sulfato cuprico, sulfato de cobre II, sulfato de cobre granulado, sulfato de cobre pó, sulfato de cobre liquido,
+pageTitle: Sulfato de Cobre Pentahidratado | Sulfato de Cobre | Purewater Efluentes
 title: Sulfato de Cobre 
 subtitle: PENTAHIDRATADO
 ---
-### Apresentação
+### Apresentação do Sulfato de Cobre
+
+>A Purewater distribui o melhor sulfato de cobre do mercado, com melhor preço e qualidade.
 
 O **Sulfato de cobre pentahidratado** tem sua origem do sulfato de Cobre (II) ou Sulfato Cúprico que é um composto químico com fórmula molecular CuSO4. Este sal existe sob algumas formas, dentre elas a sua forma penta-hidratada **(CuSO4.5H2O)**, a forma no qual é mais encontrada e apresentando cor azul brilhante. 
 
@@ -23,18 +25,18 @@ O sulfato de cobre (II) é um fungicida (mata fungos) muito usado na agricultura
 
 > Nosso departamento técnico irá orienta-lo sobre a melhor aplicação do sulfato de cobre pentahidratado.
 
-### Fornecimento
+### Fornecimento do Sulfato de Cobre
 
 - Sulfato de cobre pentahidratado granulado
 - Sulfato de cobre liquído
 
-### Embalagens
+### Embalagens do Sulfato de Cobre
 
 - Sulfato de cobre em Saco de 25kg
 - Sulfato de cobre em bombona Plastica de 50Kg
 - Sulfato de cobre em container plastico de 1100 Kg.
 
-### Informativo Técnico
+### Informativo Técnico 
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Sulfato de Cobre Pentahidratado granulado" 
