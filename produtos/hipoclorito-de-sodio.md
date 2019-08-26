@@ -24,9 +24,9 @@ O alvejante para uso doméstico que é vendido no mercado é uma solução de 2,
 
 Hipoclorito de sódio 12% é bastante usado em cisternas e em abastecimento de água para clorar a água.
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/pequeno/Hipoclore - Cloro.jpg" alt="Cloro Liquido">
-
 ### **Características do Hipoclorito de sódio 12%**
+
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/pequeno/Hipoclore - Cloro.jpg" alt="Cloro Liquido">
 
 - Estado: Liquido
 - Densidade: 1,15 a 1,23 g/cm3 (25 °C)
