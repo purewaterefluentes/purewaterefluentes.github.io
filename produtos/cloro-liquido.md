@@ -13,13 +13,9 @@ Possuí fácil aplicação e pode usado em: Clubes, Hotéis, Piscinas, Lavanderi
 
 <img class="img-responsive pull-left" style="max-width: 100%;" src="../../website/images/pequeno/Hipoclore - Cloro.jpg" alt="Cloro Liquido">
 
->
 ### **Composição do Cloro Liquído**
 O Cloro Liquído **HIPOCLORE** tem formula especial contendo hipoclorito de sódio, estabilizante e veiculo.
 Agindo com Alta Performance, garantindo otima eficiência.
->
->
-
 
 ### **Principais Aplicações do Cloro Liquido**
 - Agente de cloração
