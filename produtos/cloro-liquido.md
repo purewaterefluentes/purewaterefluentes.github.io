@@ -18,7 +18,6 @@ O Cloro Liquído **HIPOCLORE** tem formula especial contendo hipoclorito de sód
 Agindo com Alta Performance, garantindo otima eficiência.
 
 <div>
-
 ### **Principais Aplicações do Cloro Liquido**
 - Agente de cloração
 - Cloro Ativo
