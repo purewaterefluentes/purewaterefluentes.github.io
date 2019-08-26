@@ -11,7 +11,7 @@ Atua como agente bactericida, desinfectante,  clarificante e pode ser aplicado e
 
 Possuí fácil aplicação e pode usado em: Clubes, Hotéis, Piscinas, Lavanderia Industrial, Lavanderia Hospitalar, Industria Alimentícia e Industria farmacêutica, dentre outras.
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/pequeno/Hipoclore - Cloro.jpg" alt="Cloro Liquido">
+<img class="img-responsive pull-left" style="max-width: 100%;" src="../../website/images/pequeno/Hipoclore - Cloro.jpg" alt="Cloro Liquido">
 
 >
 ### **Composição do Cloro Liquído**
