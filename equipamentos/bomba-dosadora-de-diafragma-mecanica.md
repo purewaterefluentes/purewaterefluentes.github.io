@@ -17,7 +17,7 @@ Diafragmas e válvulas constituídas em materias anti-corrosivos compativeis com
 Pressão de até 6.0 bar e vazão de 3 a 300 L/H por cabeçote com regulagem micrométrica de 0% a 100% na vazão com bomba parada ou em funcionamento.
 >
 
-### **Aplicações da Dosadora Diafragma Mecânica*
+### **Aplicações da Dosadora Diafragma Mecânica**
 
 - Dosagem de produtos químicos
 - Dosagem em tratamento de água potável
