@@ -5,7 +5,8 @@ titlePage: Anti-Incrustante | Torre de Resfriamento e Caldeiras | Purewater Eflu
 Subtitle: Dispersante
 ---
 >
-### **Produtos para:**
+### **Anti-Incrustante destinados à:**
+
 - Caldeira
 - Torres de Resfriamento
 - Sistemas de Rescirculação de Água  
@@ -29,7 +30,6 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
    label="Boletim Anti-Incrustante AQUA-238" 
    arquivo="FISPQ AQUA-238 revisada.pdf" %}
 >
-
 
 >**Padrões de pressão para Caldeira:** 
  - Pressão baixa de até 10 Kgf/cm2 
@@ -55,7 +55,6 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
 - Anti-incrustante para torre de resfriamento
 - Anti-incrustante de alto poder de quebra emulsiva
 - Anti-incrustante 100% solúvel
-- Fácil aplicação
 - Anti-incrustante reduz a formação de massa residual (borra), no tratamento de efluentes.
 - Anti-incrustante substitui o uso de substâncias de alto risco operacional como os ácido.
 
@@ -64,7 +63,5 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
 >
->
-
 
 
