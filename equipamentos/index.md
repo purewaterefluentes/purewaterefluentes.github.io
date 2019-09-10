@@ -8,8 +8,8 @@ robots: follow
 ### Filtros para Água
 
 
-- [Filtro Central em Inox](filtro-de-agua-inox.html){:.btn .btn-link}
-- [Filtro Central em Fiberglass - PRFV](filtro-de-agua-central-industrial-fiberglass.html){:.btn .btn-link}
+- [Filtro de Água Central em Inox](filtro-de-agua-inox.html){:.btn .btn-link}
+- [Filtro de Água Central em Fiberglass - PRFV](filtro-de-agua-central-industrial-fiberglass.html){:.btn .btn-link}
 - [Filtro Prensa](filtro-prensa.html){:.btn .btn-link}
 
 ### Bombas de transferência e Dosadoras
