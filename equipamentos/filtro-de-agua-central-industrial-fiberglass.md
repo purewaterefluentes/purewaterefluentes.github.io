@@ -10,28 +10,36 @@ subtitle: Fiberglass (PRFV)
 ## **Filtro de Água Central**
 
 - O cilindro de pressão do filtro central de água **PRFV** é fabricado com alta tecnologia e material composto por fiberglass (PRFV), de enrolamento filamentar e resina polivinilica de alta resistência química e física.
+
 - Todos os tanques de pressão, residenciais e comerciais, são feitos por uma tecnologia de moldagem por completo sem costura.
+
 - Todas as entradas de rosca são feitas de 30% de fibra de vidro e cheio com PP (Polipropileno), oque fornece maior força e resistência a temperatura e pressão.
+
 - Espessura da parede do forro disponível a partir de 3.0 a 7.6 mm, proporcionalmente correspondente ao diâmetro do tanque.
+
 - São fornecidos em diâmetros de tanque de pressão de 6" a 48" de diâmetro e a partir de 10" a 72" de altura.
+
 - Com abertura do bocal superior disponível com medidas de 6 "a 36" de diâmetro.
+
 - Os filtros fabricados em PRFV reforçado possuem um terço do peso dos filtros em aço carbono ou inox.
+
 - Todos os tanques de pressão em PRFV apresentam resistência de 100% à corrosão.
 
-### Operação do Filtro Central de Água
+### **Dados de Operação do Filtro Central de Água**
+
 - Pressão de operação: Máximo 150 psi (10.5 Bar)
 - Temperatura maxima de operação: 49ºC
 
-### Tipos de Carga Filtrante
+### **Elementos de Filtragem disponíveis**
 
-O **Filtro para água - PRFV** poderá ser montado nas seguintes configurações de cargas:
+O **Filtro de Água Central - Industrial** poderá ser montado nas seguintes configurações de cargas:
 
 - Total de areia quartzo 98% de pureza
 - Total de carvão ativado granulado
 - Carga mista areia quartzo e carvão ativo
 - Zeólito natural (Clinoptilolita é classificada como óxido mineral cristalino de alumínio e sílica), alta eficiência em filtragem.
 
-### Funções e benefícios do Filtro Central de água
+### **Funções e benefícios do Filtro Central de água**
 
 - Retém areia, argila, ferrugem e outros sedimentos em suspensão.
 - Reduz os excessos de cálcio e alumínio utilizados no tratamento artificial da água.
@@ -43,7 +51,7 @@ O **Filtro para água - PRFV** poderá ser montado nas seguintes configurações
 - Evita a incrustação de substância em suspensão nas paredes da tubulação galvanizada
 - Preserva limpos os reservatórios de água.
 
-### Aplicações do Filtro Central de água
+### **Aplicações do Filtro Central de água**
 
 - Filtragem de água de poço
 - Filtragem de água residencial
@@ -53,7 +61,7 @@ O **Filtro para água - PRFV** poderá ser montado nas seguintes configurações
 - Filtragem de água de chuva
 - Filtragem de água de piscina
 
-### Galeria de Fotos
+### Galeria de Fotos Filtro de Água Central
 
 {% include purewater/equipamentos/galeria-filtro-prfv.html %}
 
