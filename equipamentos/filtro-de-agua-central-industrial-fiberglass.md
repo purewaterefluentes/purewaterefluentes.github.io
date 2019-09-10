@@ -61,7 +61,7 @@ O **Filtro de Água Central - Industrial** poderá ser montado nas seguintes con
 - Filtragem de água de chuva
 - Filtragem de água de piscina
 
-### Galeria de Fotos Filtro de Água Central
+### **Galeria de Fotos Filtro de Água Central**
 
 {% include purewater/equipamentos/galeria-filtro-prfv.html %}
 
