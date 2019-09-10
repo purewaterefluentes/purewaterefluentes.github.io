@@ -1,15 +1,13 @@
 ---
 layout: default
 pageTitle: Filtro central de água, filtro de água, filtro para água, filtro para água de poço, filtro para piscina, filtragem de água
-title: Filtro Central para Água (PRFV)
-subtitle: Fiberglass
+title: Filtro de Água Central Industrial
+subtitle: Fiberglass (PRFV)
 ---
 
 <img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/cyber_tank.jpg" alt="Filtro de Agua em Fiberglass">
 
-## **Filtro Central de água**
-
-### Especificações
+## **Filtro de Água Central**
 
 - O cilindro de pressão do filtro central de água **PRFV** é fabricado com alta tecnologia e material composto por fiberglass (PRFV), de enrolamento filamentar e resina polivinilica de alta resistência química e física.
 - Todos os tanques de pressão, residenciais e comerciais, são feitos por uma tecnologia de moldagem por completo sem costura.
