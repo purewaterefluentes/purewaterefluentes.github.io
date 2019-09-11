@@ -9,15 +9,16 @@ subtitle:
   
 **Filtro central de água com estrutura em aço inox 304.**
 
->Onde o sistema de filtragem é formado por camadas de Areia Quartzo de alta pureza e de diferentes granulometrias, para garantir total efeciência no processo de rentenção de particulados.
+>
+Onde o sistema de filtragem é formado por camadas de Areia Quartzo de alta pureza e de diferentes granulometrias, para garantir total efeciência no processo de rentenção de particulados.
 
->O Filtro também pode ser montado com carga filtrante mista de: **Areia quartzo e Carvão ativado ou até Zeolita Natural.**
+O Filtro também pode ser montado com carga filtrante mista de: **Areia quartzo e Carvão ativado ou até Zeolita Natural.**
 
->Sua filtragem é absolutamente natural, não utiliza gaseificação ou qualquer outro recurso eletro-eletrônico para realizar a filtragem.
+Sua filtragem é absolutamente natural, não utiliza gaseificação ou qualquer outro recurso eletro-eletrônico para realizar a filtragem.
 
->Sistema de retrolavagem, recurso técnico que permite eliminar os sedimentos retidos pelas camadas filtrantes, além de concepção técnica que sustenta o fluxo da água, não diminuindo a pressão da rede.
+Sistema de retrolavagem, recurso técnico que permite eliminar os sedimentos retidos pelas camadas filtrantes, além de concepção técnica que sustenta o fluxo da água, não diminuindo a pressão da rede.
 
->Vazão de filtragem de: 500 a 30.000 Litros/Hora.
+Vazão de filtragem de: 500 a 30.000 Litros/Hora.
 
 ### **Funções e benefícios do Filtro Central de Água**
 
