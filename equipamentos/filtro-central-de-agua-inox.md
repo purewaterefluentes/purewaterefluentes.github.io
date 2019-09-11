@@ -41,13 +41,12 @@ Vazão de filtragem de: 500 a 30.000 Litros/Hora.
 
 >
 A retenção de sólidos em suspensão por um leito filtrante de quartzo é realizada através dos mecanismos de interceptação, peneira e adsorção dos sedimentos.
-
+>
 A retenção de odor, sabor e de produtos químicos, se dá através do contato com o carvão ativado através da adsorção destes elementos.
-
+>
 A retrolavagem manual deve ser realizada a cada 7 ou 15 dias no máximo, para revolver o leito filtrante, eliminar a formação de caminhos preferenciais e eliminar os sedimentos retidos pelas camadas filtrantes.
 >
- >
- 
+
 - Temperaturas de operação: mínima 4ºC / máxima 85 ºC.
 - Pressão de operação: mínima 2kgf/cm² / máxima 5kgf/cm².
 - Grau de filtração: 60 micron.
