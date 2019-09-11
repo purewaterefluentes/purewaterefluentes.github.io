@@ -9,7 +9,6 @@ subtitle:
   
 **Filtro central de água com estrutura em aço inox 304.**
 
->
 Onde o sistema de filtragem é formado por camadas de Areia Quartzo de alta pureza e de diferentes granulometrias, para garantir total efeciência no processo de rentenção de particulados.
 
 O Filtro também pode ser montado com carga filtrante mista de: **Areia quartzo e Carvão ativado ou até Zeolita Natural.**
@@ -47,7 +46,8 @@ A retenção de odor, sabor e de produtos químicos, se dá através do contato 
 
 A retrolavagem manual deve ser realizada a cada 7 ou 15 dias no máximo, para revolver o leito filtrante, eliminar a formação de caminhos preferenciais e eliminar os sedimentos retidos pelas camadas filtrantes.
 >
-
+ >
+ 
 - Temperaturas de operação: mínima 4ºC / máxima 85 ºC.
 - Pressão de operação: mínima 2kgf/cm² / máxima 5kgf/cm².
 - Grau de filtração: 60 micron.
