@@ -11,14 +11,13 @@ subtitle:
 >
 Onde o sistema de filtragem é formado por camadas de Areia Quartzo de alta pureza e de diferentes granulometrias, para garantir total efeciência no processo de rentenção de particulados.
 
-O Filtro também pode ser montado com carga filtrante mista de: Areia quartzo e Carvão ativado ou até Zeolita Natural.
+O Filtro também pode ser montado com carga filtrante mista de: **Areia quartzo e Carvão ativado ou até Zeolita Natural.**
 
 Sua filtragem é absolutamente natural, não utiliza gaseificação ou qualquer outro recurso eletro-eletrônico para realizar a filtragem.
 
 Sistema de retrolavagem, recurso técnico que permite eliminar os sedimentos retidos pelas camadas filtrantes, além de concepção técnica que sustenta o fluxo da água, não diminuindo a pressão da rede.
 
-Vazão de filtragem de: 500 a 30.000 Litros/Hora.
->
+>Vazão de filtragem de: 500 a 30.000 Litros/Hora.
 
 ### **Funções e benefícios do Filtro Central de Água**
 
@@ -42,8 +41,10 @@ Vazão de filtragem de: 500 a 30.000 Litros/Hora.
 
 >
 A retenção de sólidos em suspensão por um leito filtrante de quartzo é realizada através dos mecanismos de interceptação, peneira e adsorção dos sedimentos.
+
 A retenção de odor, sabor e de produtos químicos, se dá através do contato com o carvão ativado através da adsorção destes elementos.
-Retrolavagem manual deve ser realizada cada 7 ou 15 dias, para revolver o leito filtrante, eliminar a formação de caminhos preferenciais e eliminar os sedimentos retidos pelas camadas filtrantes.
+
+A retrolavagem manual deve ser realizada a cada 7 ou 15 dias no máximo, para revolver o leito filtrante, eliminar a formação de caminhos preferenciais e eliminar os sedimentos retidos pelas camadas filtrantes.
 >
 
 - Temperaturas de operação: mínima 4ºC / máxima 85 ºC.
