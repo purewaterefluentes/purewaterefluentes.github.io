@@ -13,6 +13,9 @@ Podendo ser utilizada para compor leitos de filtragem com objetivo de realizar a
 
 Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizontais, com operação em série ou paralelo, com fluxo ascendente ou descendente.
 
+
+<img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/areia quartzo anuncio 3.png" alt="Areia para Filtro de Água">
+
 ### **Principais Aplicações da Areia Filtrante:**
 
 - Areia para Filtração de Água Potável ou industrial
@@ -20,12 +23,7 @@ Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizonta
 - Areia para Estação de Tratamento de Água
 - Areia para Polimento em Filtragem de efluentes
 
-
-<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/areia quartzo anuncio 3.png" alt="Areia para Filtro de Água">
-
-### **Embalagem:**
-
-> Areia Filtrante - Sacos de 50kg
+### **Embalagem:** Areia Filtrante - Sacos de 50kg
 
 >
 {% include purewater/link-boletim.html 
