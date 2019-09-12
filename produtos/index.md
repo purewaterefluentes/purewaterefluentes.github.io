@@ -5,21 +5,13 @@ title: Produtos Químicos
 subtitle: Tratamento de água | Tratamento de Efluentes | Piscina | Insumos industriais
 robots: follow
 ---
-### Elemento Filtrante para Filtro de Água
+### Elemento Filtrante
 
 - [Areia para Filtros](areia-para-filtro-de-agua.html){:.btn .btn-link}
 - [Carvão Antracito](carvao-antracito.html){:.btn .btn-link}
 - [Carvão Ativado Granulado](carvao-ativado.html){:.btn .btn-link}
 - [Carvão Ativado Pó](carvao-ativado-po.html){:.btn .btn-link}
-- [Zeolita Natural para Filtros](carvao-ativado-po.html){:.btn .btn-link}
-
-### Produtos para Piscina
-
-- [Algicida para piscina](algicida-para-piscina.html){:.btn .btn-link}
-- [Clarificante para piscina](clarificante-para-piscina.html){:.btn .btn-link}
-- [Cloro para piscina](cloro-para-piscina.html){:.btn .btn-link}
-- [Corretivo para piscina](corretivo-para-piscina.html){:.btn .btn-link}
-- [Oxidante para piscina](Oxidante-para-piscina.html){:.btn .btn-link}
+- [Zeolita Natural para Filtros](zeolita-para-filtro-de-agua.html){:.btn .btn-link}
 
 ### Produtos para tratamento de Águas e Efluentes
 
@@ -66,5 +58,13 @@ robots: follow
 - [Sulfato de Cobre Pentahidratado](sulfato-de-cobre-pentahidratado.html){:.btn .btn-link}
 - [Sulfato Ferroso](sulfato-ferroso.html){:.btn .btn-link}
 - [Tanino Vegetal](tanino-vegetal.html){:.btn .btn-link}
+
+### Produtos para Piscina
+
+- [Algicida para piscina](algicida-para-piscina.html){:.btn .btn-link}
+- [Clarificante para piscina](clarificante-para-piscina.html){:.btn .btn-link}
+- [Cloro para piscina](cloro-para-piscina.html){:.btn .btn-link}
+- [Corretivo para piscina](corretivo-para-piscina.html){:.btn .btn-link}
+- [Oxidante para piscina](Oxidante-para-piscina.html){:.btn .btn-link}
 
 
