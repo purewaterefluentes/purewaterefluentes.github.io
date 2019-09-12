@@ -23,8 +23,10 @@ Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizonta
 - Areia para Estação de Tratamento de Água
 - Areia para Polimento em Filtragem de efluentes
 
-### **Embalagem:** Areia Filtrante - Sacos de 50kg
-
+### **Embalagem:** 
+>
+>Areia Filtrante - Sacos de 50kg
+>
 >
 {% include purewater/link-boletim.html 
    label="Tabela de Conversão (Mesh x Milimetro)" 
