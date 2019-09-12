@@ -23,10 +23,14 @@ Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizonta
 - Areia para Estação de Tratamento de Água
 - Areia para Polimento em Filtragem de efluentes
 
-### **Embalagem:** 
 >
->Areia Filtrante - Sacos de 50kg
->
+> ## **Granulometria:**
+- 0,6 a 1,25mm
+- 1,3 a 1,70mm
+- 1,7 a 3,5mm
+
+> ##  **Embalagem: Areia Filtrante em Sacos de 50kg
+
 >
 {% include purewater/link-boletim.html 
    label="Tabela de Conversão (Mesh x Milimetro)" 
