@@ -5,6 +5,14 @@ title: Produtos Químicos
 subtitle: Tratamento de água | Tratamento de Efluentes | Piscina | Insumos industriais
 robots: follow
 ---
+### Elemento Filtrante para Filtro de Água
+
+- [Areia para Filtros](carvao-ativado.html){:.btn .btn-link}
+- [Carvão Antracito](carvao-antracito.html){:.btn .btn-link}
+- [Carvão Ativado Granulado](carvao-ativado.html){:.btn .btn-link}
+- [Carvão Ativado Pó](carvao-ativado-po.html){:.btn .btn-link}
+- [Zeolita Natural para Filtros](carvao-ativado-po.html){:.btn .btn-link}
+
 ### Produtos para Piscina
 
 - [Algicida para piscina](algicida-para-piscina.html){:.btn .btn-link}
@@ -22,9 +30,6 @@ robots: follow
 - [Anti-Incrustante](anti-incrustante.html){:.btn .btn-link}
 - [Bentonita Lubrificante de perfuração de poços](lubrificante-perfuracao-pocos.html){:.btn .btn-link}
 - [Biocida](biocida.html){:.btn .btn-link}
-- [Carvão Antracito](carvao-antracito.html){:.btn .btn-link}
-- [Carvão Ativado Granulado](carvao-ativado.html){:.btn .btn-link}
-- [Carvão Ativado Pó](carvao-ativado-po.html){:.btn .btn-link}
 - [Clarificador](clarificador-agua-efluentes.html){:.btn .btn-link}
 - [Cloro Liquido](cloro-liquido.html){:.btn .btn-link}
 - [Coagulantes p/ água e efluentes](coagulante-agua-efluentes.html){:.btn .btn-link}
