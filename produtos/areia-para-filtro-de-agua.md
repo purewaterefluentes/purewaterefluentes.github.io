@@ -1,28 +1,25 @@
 ---
 layout: contato
-pageTitle: CARVÃO ATIVADO | CARVÃO ATIVO GRANULADO | PUREWATER EFLUENTES
-title: Carvão Ativado
-subtitle: AQUA-CVT (GRANULADO)
+pageTitle: AREIA PARA FILTRO DE ÁGUA | ELEMENTO FILTRANTE | PUREWATER EFLUENTES
+title: Areia para Filtro de Água
+subtitle: 
 ---
 
-### **Carvão Ativado Vegetal**
+### **Areia Quartzo**
 
-É um material com capacidade de coletar e purificar seletivamente gases, líquidos ou impurezas no interior dos seus poros, apresentando portanto um excelente poder de clarificação, desodorização e purificação de líquidos ou gases.
+A areia de quartzo ou areia filtrante é uma substância natural, coesiva e não plástica, proveniente da desagregação de rochas, com alto teor de sílica (SiO2 > 90%), na forma de quartzo, quanto maior o teor de SiO2 na composição das areias, maior será sua pureza. 
 
-> Principais Aplicações do Carvão Ativado:
-- Carvão Ativado para Filtro.
-- Filtragem de água potável.
-- Filtrar líquidos em geral.
-- Carvão Ativado para retirada de cloro na água.
-- Purificação de poluentes gasosos.
-- Redução de odor, sabor e cor em água e efluentes industriais.
-- O carvão ativado possuí mais de 900 aplicações.
+Podendo ser utilizada para compor leitos de filtragem com objetivo de realizar a filtração física de partículas sólidas.
 
-O **Carvão Ativo Granulado** é normalmente 100 vezes mais poroso que o carvão comum, esta porosidade esta diretamente ligada à "limpeza" que o material sofre na ativação que consiste em remover as substâncias contidas nos poros obstruídos do carvão comum. 
+Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizontais, com operação em série ou paralelo, com fluxo ascendente ou descendente.
 
-Carvão Ativo ou Carvão Ativado é um produto quimicamente inerte e usado para a remoção de impurezas dissolvidas em diversos meios.
+### **Principais Aplicações da Areia Filtrante:**
 
-Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Carvão ativado vegetal
+- Areia para Filtração de Água Potável ou industrial
+- Areia para Filtração de Água de Poços
+- Areia para Estação de Tratamento de Água
+- Areia para Polimento em Filtragem de efluentes
+
 
 <img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/Carvão ativado granulado.jpg" alt="Carvão Ativado Granulado">
 
@@ -42,14 +39,6 @@ Alto controle de qualidade produtivo para impedir a contaminação por microrgan
 Carvão muito utilizado em sistemas de filtragem para água potável, pois a prata coloidal exerce função bactericida.
 Disponivel na forma de pó (pulverizado)
 
-### **Informações Gerais**
-
-+ Embalagens: Sacos de papelão
-+ Proteção: Contem internamente um saco de polietileno hermeticamente fechado e ao abrigo da umidade
-+ Capacidade: 25 Kg 
-+ Classe de embalagem: Insolúvel em água, queima lentamente sem  chamas.
-
->
 {% include purewater/link-boletim.html 
    label="Tabela Granulométrica - Carvão Ativado" 
    arquivo="Tabela Granulométrica Carvão Ativado.pdf" %}
