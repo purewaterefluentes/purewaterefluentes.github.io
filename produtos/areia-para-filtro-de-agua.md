@@ -32,7 +32,7 @@ Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizonta
 
 ### **Embalagem:** 
 
--Areia Filtrante em Sacos de 50kg
+- Areia Filtrante em Sacos de 50kg
 
 <p>
 >
