@@ -21,7 +21,7 @@ Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizonta
 - Areia para Polimento em Filtragem de efluentes
 
 
-<img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/Carvão ativado granulado.jpg" alt="Carvão Ativado Granulado">
+<img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/areia quartzo anuncio 3.png" alt="Areia para Filtro de Água">
 
 >
 ## TIPOS FORNECIDOS:
