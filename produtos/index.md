@@ -21,7 +21,7 @@ robots: follow
 - [Corretivo para piscina](corretivo-para-piscina.html){:.btn .btn-link}
 - [Oxidante para piscina](Oxidante-para-piscina.html){:.btn .btn-link}
 
-### Produtos para tratamento de águas e efluentes
+### Produtos para tratamento de Águas e Efluentes
 
 - [Alcalinizante](alcalinizante-corretor-ph.html){:.btn .btn-link}
 - [Acidificante](acidificante.html){:.btn .btn-link}
