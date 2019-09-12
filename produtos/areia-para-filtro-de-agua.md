@@ -30,8 +30,11 @@ Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizonta
 - 1,3 a 1,70mm
 - 1,7 a 3,5mm
 
-### **Embalagem:** Areia Filtrante em Sacos de 50kg
+### **Embalagem:** 
 
+-Areia Filtrante em Sacos de 50kg
+
+<p>
 >
 >
 {% include purewater/link-boletim.html 
