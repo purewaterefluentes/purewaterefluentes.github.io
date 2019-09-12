@@ -34,7 +34,6 @@ Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizonta
 
 - Areia Filtrante em Sacos de 50kg
 
-<p>
 
 >
 {% include purewater/link-boletim.html 
