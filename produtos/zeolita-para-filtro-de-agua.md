@@ -13,8 +13,10 @@ Estes minerais são caracterizados pela capacidade de perder e ganhar água reve
 
 Zeólitos são utilizados como elemento de filtração em tratamento de água e constituem um grupo numeroso de minerais que possuem uma estrutura porosa.
 
-#### **Tipos de Zeólitas Disponíveis:**
-
+<div>
+&#9758; ### **Tipos de Zeólitas Disponíveis:**
+<div/>
+     
 <hr>
      
 > **ZEÓLITA-ZN:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante ou camada suporte. 
