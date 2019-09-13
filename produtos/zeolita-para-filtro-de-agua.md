@@ -15,21 +15,22 @@ Zeólitos são utilizados como elemento de filtração em tratamento de água e 
 
 ### Tipos de Zeólitas Disponíveis:
 
-<div class="container">
+<hr>
      
 > **Zeólita-ZN:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante ou camada suporte "similar a seixo". 
 
 **Indicação de uso:** Atua diretamente na **melhoria da turbidez, retenção de sólidos em suspensão e cor.**
-</div>
+<hr>
 
 > **Zeólita-SFM:** Meio filtrante granular desenvolvido para a eficiente **remoção de ferro e manganês** no tratamento de águas para consumo humano e efluentes industriais. Remove até 10,0 mg/L de Fe, ou 5,0 mg/L de Mn, ou 12,0 mg/L e Fe+Mn.
 
 **Indicação de uso:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante. Remove tanto o Fe2+ e Mn2+ (solúveis) – a através da adsorção – quanto o Fe3+ e Mn4+ (insolúveis)  Deve ser utilizado um oxidante juntamente com o produto (AQUA-HIPOS).
+<hr>
 
 > **Zeólita-ZS:** Meio filtrante granular à base de zeolita clinoptilolita, utilizada na **remoção de amónia (Nitrito, Nitrato), em água e efluentes.** trabalhado como polimento de efluente ou tratamento de águas com baixas concentrações de nitrogénio amoniacal, tendo a possibilidade de ser regenerado com aplicação de solução salina.
 
 **Indicação de uso:** Produto utilizado em filtros pressurizados, como meio filtrante, trabalhando com pH entre 5,0 – 7,0.
-
+<hr>
 
 ### **Benefícios da Zeólitas para Filtração:**
 
@@ -39,15 +40,5 @@ Zeólitos são utilizados como elemento de filtração em tratamento de água e 
 + Filtros com Zeólito utilizam menor quantidade de água durante a retrolavagem (comparada à areia e quartzo)
 + Filtros com Zeólito possuem maior retenção de partículas de pequeno diâmetro
 
- <div class="container">
-      <hr>
-<p align="center">
-<font color="#0000CD" size="03" face="helvetica,verdana,arial">
-Ha 15 anos ofertando toda linha de produtos químicos para tratamento de água industrial, tratamento de efluentes e tratamento de água para piscinas
-</font>
-<p>
-  </div>
-
-
-
+ 
 
