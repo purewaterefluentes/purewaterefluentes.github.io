@@ -30,11 +30,10 @@ para gerar efeito de limpeza, desincrustação e proteção das membranas Produt
 
 ### **Benefícios da Zeólitas para Filtração:**
 
->
 + Zeólita gera maior intervalo entre retrolavagens
 + O Zeólito Natural proporciona baixa perda de carga
 + Filtragem com Zeólita proporciona boa qualidade na água filtrada e excelente clarificação
 + Filtros com Zeólito utilizam menor quantidade de água durante a retrolavagem (comparada à areia e quartzo)
 + Filtros com Zeólito possuem maior retenção de partículas de pequeno diâmetro
->
+
 
