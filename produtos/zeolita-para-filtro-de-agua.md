@@ -20,7 +20,7 @@ Sendo um meio filtrante de alta qualidade à base de zeolita clinoptilolita, uti
 - **Zeólita-SFM:** Meio filtrante granular desenvolvido para a eficiente **remoção de ferro e manganês** no tratamento de águas para consumo humano e efluentes industriais. Remove até 10,0 mg/L de Fe, ou 5,0 mg/L de Mn, ou 12,0 mg/L e Fe+Mn.
 **Indicação de uso:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante. Deve ser utilizado um oxidante juntamente com o produto (AQUA-HIPOS).
 
-- **Zeólita-ZS:** Meio filtrante granular à base de zeolita clinoptilolita, utilizada na **remoção de amónia em água e efluentes.**
+- **Zeólita-ZS:** Meio filtrante granular à base de zeolita clinoptilolita, utilizada na **remoção de amónia (Nitrito, Nitrato), em água e efluentes.**
 É trabalhado como polimento de efluente ou tratamento de águas com baixas concentrações de nitrogénio amoniacal, tendo a possibilidade de ser regenerado com aplicação de solução salina.
 **Indicação de uso:** Produto utilizado em filtros pressurizados, como meio filtrante, trabalhando com pH entre 5,0 – 7,0.
 
