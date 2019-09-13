@@ -1,13 +1,14 @@
 ---
 layout: contato
-pageTitle: ZEOLITA NATURAL PARA FILTRO DE ÁGUA | ELEMENTO FILTRANTE | PUREWATER EFLUENTES
+pageTitle: ZEOLITA PARA FILTRO DE ÁGUA | ELEMENTO FILTRANTE | PUREWATER EFLUENTES
 title: Zeolita para Filtro de Água
 subtitle: 
 ---
 
 ### **Zeólito para Filtragem de Água**
 
-**Zeólitos, Zeólitas ou Zeolites,** são aluminossilicatos cristalinos hidratados de metais alcalinos e alcalinos terrosos que possuem uma estrutura cristalina tridimensional infinita.
+
+Fornecemos**Zeólitos, Zeólitas ou Zeolites,** são aluminossilicatos cristalinos hidratados de metais alcalinos e alcalinos terrosos que possuem uma estrutura cristalina tridimensional infinita.
 
 Estes minerais são caracterizados pela capacidade de perder e ganhar água reversivelmente e de trocar alguns dos seus elementos constituintes, sem mudanças significativas na sua estrutura.
 
