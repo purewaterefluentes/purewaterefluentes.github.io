@@ -43,14 +43,14 @@ Zeólitos são utilizados como elemento de filtração em tratamento de água e 
 <h4>TIPOS DE ZEÓLITA:</h4>
 <table border="1">
 <tr>
-  <th>Nome</th>
-  <th>Telefone</th>
-  <th>Telefone</th>
+  <th>Código do Produto</th>
+  <th>Descrição</th>
+  <th>Aplicação</th>
 </tr>
 <tr>
-  <td>Bill Gates</td>
-  <td>555 77 854</td>
-  <td>555 77 855</td>
+  <td>Zeólita-ZN</td>
+  <td>Zeólita-SFM</td>
+  <td>Zeólita-ZS</td>
 </tr>
 </table>
 
