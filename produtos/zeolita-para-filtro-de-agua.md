@@ -7,11 +7,11 @@ subtitle:
 
 ### **Zeólito para Filtragem de Água**
 
-Os **zeólitos, zeólitas ou zeolites,** são utilizados como elemento de filtração em tratamento de água e constituem um grupo numeroso de minerais que possuem uma estrutura porosa.
+**Zeólitos, Zeólitas ou Zeolites,** são aluminossilicatos cristalinos hidratados de metais alcalinos e alcalinos terrosos que possuem uma estrutura cristalina tridimensional infinita.
 
-O termo foi aplicado pela primeira vez pelo mineralogista sueco Axel Fredrik Cronstedt depois de observar que, após o aquecimento rápido de um mineral natural, as pedras começavam a saltitar à medida que a água se evaporava. Usando as palavras gregas significando "pedra que ferve", chamou este material zeólito.
+Estes minerais são caracterizados pela capacidade de perder e ganhar água reversivelmente e de trocar alguns dos seus elementos constituintes, sem mudanças significativas na sua estrutura.
 
-Sendo um meio filtrante de alta qualidade à base de zeolita clinoptilolita, utilizado na filtração convencional. Possui grande área superficial e porosidade que permitem a retenção de material particulado.
+Zeólitos são utilizados como elemento de filtração em tratamento de água e constituem um grupo numeroso de minerais que possuem uma estrutura porosa.
 
 ### Tipos de Zeólitas Disponíveis:
 
