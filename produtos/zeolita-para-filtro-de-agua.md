@@ -17,14 +17,14 @@ Zeólitos são utilizados como elemento de filtração em tratamento de água e 
 
 <hr>
      
-> **Zeólita-ZN:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante ou camada suporte "similar a seixo". 
+> **Zeólita-ZN:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante ou camada suporte. 
 
-**Indicação de uso:** Atua diretamente na **melhoria da turbidez, retenção de sólidos em suspensão e cor.**
+**Indicação de uso:** Atua diretamente na **melhoria da turbidez, retenção de sólidos em suspensão e redução de cor.**
 <hr>
 
 > **Zeólita-SFM:** Meio filtrante granular desenvolvido para a eficiente **remoção de ferro e manganês** no tratamento de águas para consumo humano e efluentes industriais. Remove até 10,0 mg/L de Fe, ou 5,0 mg/L de Mn, ou 12,0 mg/L e Fe+Mn.
 
-**Indicação de uso:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante, removendo tanto o Fe2+ e Mn2+ (solúveis) através da adsorção, quanto o Fe3+ e Mn4+ (insolúveis) através de filtração convencional. Deve ser utilizado um oxidante juntamente com o produto **(AQUA-HIPOS).**
+**Indicação de uso:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante, removendo tanto o Fe2+ e Mn2+ (solúveis) através da adsorção, quanto o Fe3+ e Mn4+ (insolúveis) através de filtração convencional. Deve ser utilizado um oxidante **(AQUA-HIPOS)** juntamente com o produto. 
 <hr>
 
 > **Zeólita-ZS:** Meio filtrante granular à base de zeolita clinoptilolita, utilizada na **remoção de amónia (Nitrito, Nitrato), em água e efluentes.** trabalhado como polimento de efluente ou tratamento de águas com baixas concentrações de nitrogénio amoniacal, tendo a possibilidade de ser regenerado com aplicação de solução salina.
