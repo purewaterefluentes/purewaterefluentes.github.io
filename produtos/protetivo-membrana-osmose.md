@@ -14,12 +14,12 @@ Produto Multiação que atua como **Desincrustante, Anti-Incrustante e Protetivo
 ### **Propriedades do Protetivo para Osmose**
 
 >
-- AQUA-FLOCON atua de forma constante na limpeza das membras, sem que haja danos químicos a mesma.
-- Anti-Incrustante para Osmose é excelente no controle de crostas de carbonato e sulfato
-- Protetivo para Osmose apresenta ótimo custo de operação efetivo
+- AQUA-FLOCON atua de forma constante na limpeza das membras, sem que haja danos químicos a mesma
+- Atua como Anti-Incrustante de forma efetiva no controle de crostas de carbonato e sulfato em sistemas de Osmose
+- Protetivo para Osmose com ótimo custo de operação efetivo
 - AQUA-FLOCON é compatível com as principais membranas de osmose reversa
-- O Anti-Incrustante para Osmose AQUA-FLOCON tem ação Dispersante e Desincrustante nas membranas.
-- Protetivo para osmose com alta tolerância ao ferro
+- AQUA-FLOCON tem ação Dispersante e Desincrustante nas membranas
+- Sendo um protetivo para osmose com alta tolerância ao ferro
 >
 
 As principais especificações do Protetivo para Osmose são: 
