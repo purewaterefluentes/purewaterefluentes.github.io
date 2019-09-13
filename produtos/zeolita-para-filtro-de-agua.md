@@ -53,23 +53,15 @@ Zeólitos são utilizados como elemento de filtração em tratamento de água e 
 <TABLE BORDER=1> <! Inicia a tabela e coloca uma borda de espessura igual a 1>
 
 <TR> <! Cria a primeira linha da tabela>
-
 <TD>PRIMEIRA COLUNA </TD> <! Aqui foi criada uma célula>
-
 <TD>SEGUNDA COLUNA </TD>
-
 <TD>TERCEIRA COLUNA </TD>
-
 </TR> <! Fecha a primeira linha da tabela>
 
 <TR> <! Abre a segunda linha da tabela>
-
 <TD> PRIMEIRA COLUNA</TD>
-
 <TD>SEGUNDA COLUNA </TD>
-
 <TD>TERCEIRA COLUNA </TD>
-
 <TR> <! Encerra a Segunda linha da tabela>
 
 </TABLE> <! Encerra a tabela>
