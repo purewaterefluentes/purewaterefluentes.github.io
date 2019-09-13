@@ -37,6 +37,7 @@ Zeólitos são utilizados como elemento de filtração em tratamento de água e 
 + Filtros com Zeólito possuem maior retenção de partículas de pequeno diâmetro
 
 <table border="1">
+  (cellspacing):</h6>
 <tr>
 <td>linha 1, célula 1</td>
 <td>linha 1, célulal 2</td>
