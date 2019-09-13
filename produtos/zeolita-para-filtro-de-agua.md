@@ -36,19 +36,45 @@ Zeólitos são utilizados como elemento de filtração em tratamento de água e 
 + Filtros com Zeólito utilizam menor quantidade de água durante a retrolavagem (comparada à areia e quartzo)
 + Filtros com Zeólito possuem maior retenção de partículas de pequeno diâmetro
 
+<HTML>
 
+<HEAD>
 
-<table>
+<TITLE>Criando Tabelas</TITLE>
 
-<tr>
-<th>Agudo</th>
-<th>Grave</th>
-</tr>
+</HEAD>
 
-<tr>
-<td>Trompete</td>
-<td>Trombone</td>
-</tr>
+<BODY>
 
-</table>
+<CENTER><FONT COLOR=BLUE SIZE=6>TABELA</FONT></CENTER>
+
+<BR>
+
+<TABLE BORDER=1> <! Inicia a tabela e coloca uma borda de espessura igual a 1>
+
+<TR> <! Cria a primeira linha da tabela>
+
+<TD>PRIMEIRA COLUNA </TD> <! Aqui foi criada uma célula>
+
+<TD>SEGUNDA COLUNA </TD>
+
+<TD>TERCEIRA COLUNA </TD>
+
+</TR> <! Fecha a primeira linha da tabela>
+
+<TR> <! Abre a segunda linha da tabela>
+
+<TD> PRIMEIRA COLUNA</TD>
+
+<TD>SEGUNDA COLUNA </TD>
+
+<TD>TERCEIRA COLUNA </TD>
+
+<TR> <! Encerra a Segunda linha da tabela>
+
+</TABLE> <! Encerra a tabela>
+
+</BODY>
+
+</HTML>
 
