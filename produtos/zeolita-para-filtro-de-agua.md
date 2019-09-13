@@ -15,14 +15,14 @@ Sendo um meio filtrante de alta qualidade à base de zeolita clinoptilolita, uti
 
 ### Tipos de Zeólitas Disponíveis:
 
-- **Zeólita-ZN:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante ou camada suporte "similar a seixo", atuando diretamente na turbidez, sólidos em suspensão e cor.
+- **Zeólita-ZN:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante ou camada suporte "similar a seixo", atuando diretamente na **melhoria da turbidez, retenção de sólidos em suspensão e cor.**
 
 - **Zeólita-SFM:** Meio filtrante granular desenvolvido para a eficiente **remoção de ferro e manganês** no tratamento de águas para consumo humano e efluentes industriais. Remove até 10,0 mg/L de Fe, ou 5,0 mg/L de Mn, ou 12,0 mg/L e Fe+Mn.
-**Indicação de uso:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante (Watercel SFM) e camada suporte (Seixo Rolado 1/8” a 1/4" e Seixo Rolado 1/4” a 1/2"). Deve ser utilizado um oxidante juntamente com o produto (AQUA-HIPOS).
+**Indicação de uso:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante. Deve ser utilizado um oxidante juntamente com o produto (AQUA-HIPOS).
 
 - **Zeólita-ZS:** Meio filtrante granular à base de zeolita clinoptilolita, utilizada na **remoção de amónia em água e efluentes.**
 É trabalhado como polimento de efluente ou tratamento de águas com baixas concentrações de nitrogénio amoniacal, tendo a possibilidade de ser regenerado com aplicação de solução salina.
-**Indicação de uso:** Produto utilizado em filtros pressurizados, como meio filtrante (Watercel ZS 0410) e camada suporte (Watercel ZS 1030 e Watercel ZS 3080), trabalhando com pH entre 5,0 – 7,0.
+**Indicação de uso:** Produto utilizado em filtros pressurizados, como meio filtrante, trabalhando com pH entre 5,0 – 7,0.
 
 ### **Benefícios da Zeólitas para Filtração:
 
