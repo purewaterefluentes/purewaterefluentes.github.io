@@ -24,7 +24,7 @@ Sendo um meio filtrante de alta qualidade à base de zeolita clinoptilolita, uti
 É trabalhado como polimento de efluente ou tratamento de águas com baixas concentrações de nitrogénio amoniacal, tendo a possibilidade de ser regenerado com aplicação de solução salina.
 **Indicação de uso:** Produto utilizado em filtros pressurizados, como meio filtrante, trabalhando com pH entre 5,0 – 7,0.
 
-### **Benefícios da Zeólitas para Filtração:
+### **Benefícios da Zeólitas para Filtração:**
 
 >
 Zeólita gera maior intervalo entre retrolavagens
