@@ -6,7 +6,7 @@ subtitle:
 ---
 
 ### **Zeólito para Filtragem de Água**
-<p>
+
 
 Fornecemos **Zeólitos, Zeólitas ou Zeolites,** que são aluminossilicatos cristalinos hidratados de metais alcalinos e alcalinos terrosos que possuem uma estrutura cristalina tridimensional infinita.
 
