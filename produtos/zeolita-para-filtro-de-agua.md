@@ -36,21 +36,15 @@ Zeólitos são utilizados como elemento de filtração em tratamento de água e 
 + Filtros com Zeólito utilizam menor quantidade de água durante a retrolavagem (comparada à areia e quartzo)
 + Filtros com Zeólito possuem maior retenção de partículas de pequeno diâmetro
 
-
-<html>
-<body>
-
-<h4>TIPOS DE ZEÓLITA:</h4>
 <table border="1">
 <tr>
-  <th>Código do Produto</th>
-  <th>Descrição</th>
-  <th>Aplicação</th>
+<td>linha 1, célula 1</td>
+<td>linha 1, célulal 2</td>
 </tr>
 <tr>
-  <td>Zeólita-ZN</td>
-  <td>Zeólita-SFM</td>
-  <td>Zeólita-ZS</td>
+<td>linha 2, célula 1</td>
+<td>&nbsp;</td>
 </tr>
 </table>
+
 
