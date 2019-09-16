@@ -1,11 +1,11 @@
 ---
 layout: contato
-pageTitle: CARVÃO ATIVADO | CARVÃO ATIVO GRANULADO | PUREWATER EFLUENTES
+pageTitle: CARVÃO ATIVADO | ELEMENTO FILTRANTE | PUREWATER EFLUENTES
 title: Carvão Ativado
 subtitle: AQUA-CVT (GRANULADO)
 ---
 
-### **Carvão Ativado Vegetal**
+### **<font color="#1E90FF">Carvão Ativado Vegetal</font>**
 
 É um material com capacidade de coletar e purificar seletivamente gases, líquidos ou impurezas no interior dos seus poros, apresentando portanto um excelente poder de clarificação, desodorização e purificação de líquidos ou gases.
 
@@ -25,6 +25,9 @@ Carvão Ativo ou Carvão Ativado é um produto quimicamente inerte e usado para 
 Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Carvão ativado vegetal
 
 <img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/Carvão ativado granulado.jpg" alt="Carvão Ativado Granulado">
+
+
+<h="12">TIPOS DE CARVÃO</H>
 
 >
 ## TIPOS FORNECIDOS:
