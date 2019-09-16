@@ -25,8 +25,7 @@ Carvão Ativo ou Carvão Ativado é um produto quimicamente inerte e usado para 
 Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Carvão ativado vegetal
 
 <img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/Carvão ativado granulado.jpg" alt="Carvão Ativado Granulado">
-</br>
-
+<br />
 <font size="11">TIPOS DE CARVÃO</font>
 
 ### **Carvão Ativado Granulado** 
