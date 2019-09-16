@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: CARVÃO ATIVADO EM PÓ | CARVÃO PULVERIZADO | PUREWATER EFLUENTES
+pageTitle: CARVÃO ATIVADO PÓ |ELEMENTO FILTRANTE | PUREWATER EFLUENTES
 title: Carvão Ativado em Pó
 subtitle: AQUA-CVP
 ---
@@ -30,7 +30,7 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 - Carvão Ativado em pó para redução de odor, sabor e cor em água.
 - O carvão ativado possuí mais de 900 aplicações.
 
-### **ESPECIFICAÇÕES**
+### **ESPECIFICAÇÕES DO CARVÃO ATIVADO EM PÓ**
 
 - Aspecto: Solido / pó / Pulverizado
 - Odor: Inodoro
