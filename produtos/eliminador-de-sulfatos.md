@@ -7,10 +7,10 @@ subtitle: AQUA-150
 
 ### **<font color="#00CED1">Produto para Tratamento de Sulfato</font>**
 
-```sh
-O **Redutor de sulfatos ou Eliminador de Sulfatos** da Purewater Efluentes foi desenvolvido com a função especifica de precipitação de sais de sulfatos em meio aquoso. É muito aplicado na precipitação de sulfatos em tratamento de efluentes industriais.
-O produto tem fácil aplicação e ação imediata resultando em água de alta qualidade.
-```
+
+[O **Redutor de sulfatos ou Eliminador de Sulfatos** da Purewater Efluentes foi desenvolvido com a função especifica de precipitação de sais de sulfatos em meio aquoso. É muito aplicado na precipitação de sulfatos em tratamento de efluentes industriais.
+O produto tem fácil aplicação e ação imediata resultando em água de alta qualidade.]
+
 ---    
 
 ### **Composição**
