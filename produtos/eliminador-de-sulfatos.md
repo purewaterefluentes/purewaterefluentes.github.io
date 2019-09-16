@@ -55,9 +55,3 @@ A dosagem a ser utilizada varia de acordo com a aplicação e o meio provocador 
 
 - Bombona plástica de 25 ou 50 Kg
 - Container (IBC) Plástico de 1000 litros
-
-<table width=100%> 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
