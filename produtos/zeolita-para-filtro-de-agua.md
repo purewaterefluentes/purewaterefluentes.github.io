@@ -19,7 +19,7 @@ Zeólitos são utilizados como **elemento de filtração em tratamento de água*
      
 <hr>
      
-> <font color= "green">**ZEÓLITA-ZN:**</font> Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante ou camada suporte. 
+> <font color= "#FF8C00"> **ZEÓLITA-ZN:** </font> Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante ou camada suporte. 
 
 **Indicação de uso:** Atua diretamente na **melhoria da turbidez, retenção de sólidos em suspensão e redução de cor.**
 <hr>
