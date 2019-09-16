@@ -25,14 +25,9 @@ Carvão Ativo ou Carvão Ativado é um produto quimicamente inerte e usado para 
 Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Carvão ativado vegetal
 
 <img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/Carvão ativado granulado.jpg" alt="Carvão Ativado Granulado">
+</br>
 
-
-<font size="12">TIPOS DE CARVÃO</font>
-
->
-## TIPOS FORNECIDOS:
->
-
+<font size="11">TIPOS DE CARVÃO</font>
 
 ### **Carvão Ativado Granulado** 
 Fabricado através do processo de carboativação física com alta temperatura em processo contínuo e controlado, o que lhe confere grande área superficial de adsorção, distribuição uniforme de poros e elevada dureza (que evita a geração de finos no leito filtrante)
