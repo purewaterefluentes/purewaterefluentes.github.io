@@ -7,8 +7,6 @@ subtitle: Elemento Filtrante
 
 ### **Zeólito para Filtragem de Água**
 <br />
- <br />
-
 Fornecemos **Zeólitos, Zeólitas ou Zeolites,** que são aluminossilicatos cristalinos hidratados de metais alcalinos e alcalinos terrosos que possuem uma estrutura cristalina tridimensional infinita.
 
 Estes minerais são caracterizados pela capacidade de perder e ganhar água reversivelmente e de trocar alguns dos seus elementos constituintes, sem mudanças significativas na sua estrutura.
@@ -21,7 +19,7 @@ Zeólitos são utilizados como **elemento de filtração em tratamento de água*
      
 <hr>
      
-> **ZEÓLITA-ZN:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante ou camada suporte. 
+> <font color= "green">**ZEÓLITA-ZN:**</font> Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante ou camada suporte. 
 
 **Indicação de uso:** Atua diretamente na **melhoria da turbidez, retenção de sólidos em suspensão e redução de cor.**
 <hr>
