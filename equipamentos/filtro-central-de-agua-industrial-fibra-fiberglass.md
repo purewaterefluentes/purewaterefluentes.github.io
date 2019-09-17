@@ -7,7 +7,7 @@ subtitle: Industrial Fibra - Fiberglass (PRFV)
 
 <img class="img-responsive pull-right" style="max-width: 55%;" src="../../website/images/cyber_tank.jpg" alt="Filtro de Agua em Fiberglass">
 
-<font color="#1E90FF" size="9">Filtro Central de Água em Fibra Sintética</font>
+<font color="#1E90FF" size="8" aling="center">Filtro Central de Água em Fibra Sintética</font>
 <br />
 
 - O cilindro de pressão do filtro central de água **PRFV** é fabricado com alta tecnologia e material composto por fiberglass (PRFV), de enrolamento filamentar e resina polivinilica de alta resistência química e física.
