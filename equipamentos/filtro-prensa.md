@@ -50,8 +50,8 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 
 - **Filtro Prensa Manual:** Onde a operação de abertura e fechamento do filtro prensa é executado pelo operador.
 - **Filtro Prensa Automático:** Onde a operação de abertura e fechamento do filtro prensa é executado pelo conjunto eletro-hidráulico.
-
 <br />
+
 > Também Comercializamos acessório para filtro prensa, tais como: 
   - **Placas em Polipropileno, Bomba Diafragma e Lonas de Filtragem**
 
