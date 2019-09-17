@@ -7,8 +7,6 @@ subtitle: Industrial Fibra - Fiberglass (PRFV)
 
 <img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/cyber_tank.jpg" alt="Filtro de Agua em Fiberglass">
 
-## **Apresentação**
-<br />
 <font color="#1E90FF" size="10">O Filtro Central de Água em Fibra Sintética</font>
 <br />
 
