@@ -16,17 +16,17 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 
 ### **Aplicações para Filtro Prensa:**
 
-- Filtro Prensa para Estações de tratamento de efluentes
+- Filtro Prensa para Estações de Tratamento de Efluentes
 - Filtragem de Metais, acabamentos metálicos, minerais
 - Filtro para lamas oleosas
 - Filtragem de sucos de frutas, vinhos, óleos vegetais e extratos
-- Lavanderias industriais;
+- Filtro Prensa para Lavanderia industrial
 - Filtro para Curtumes
-- Filtro para Separação de processos químicos;
+- Filtro para Separação de processos químicos
 - Filtro Prensa para Desidratação de efluentes com pigmentos e corantes
 - Filtro-Prensa para Remediação Ambiental
 - Filtro para Pré-filtração e clarificação
-- filtração de chorume 
+- Filtração de chorume 
 - Filtro Prensa para resíduos têxteis
 - Filtragem de Borra de tinta
 - Filtro Prensa para Estação de tratamento de Lodo
