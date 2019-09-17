@@ -29,11 +29,9 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 - filtração de chorume 
 - Filtro Prensa para resíduos têxteis
 - Filtragem de Borra de tinta
-- Filtro de retrolavagem;
-- Estação de tratamento de lodo
-- Fltro Prensa para filtragem de Lodo Ativado
+- Filtro Prensa para Estação de tratamento de Lodo
+- Filtro Prensa para filtragem de Lodo Ativado
 - Filtro Prensa para Estação de tratamento de Água
-
 
 
 ### **Especificações do Filtro-Prensa**
@@ -48,7 +46,8 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 - Cone de descarte de lodo em polipropileno
 - Equipamento fabricado em diversos tamanhos
 
-> Também Comercializamos acessório para filtro prensa, tais como: **Placas em Polipropileno, Bomba Diafragma e Lonas de Filtragem**
+> Também Comercializamos acessório para filtro prensa, tais como: 
+ -- **Placas em Polipropileno, Bomba Diafragma e Lonas de Filtragem**
 
 <br />
 {% include purewater/equipamentos/Tabela-Dimensional-Filtro-Prensa.html %}
