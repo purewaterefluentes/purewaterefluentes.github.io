@@ -14,7 +14,7 @@ Também pode ser usado na filtragem de banhos, tais como fosfato e banhos galvâ
 
 Com grande capacidade de filtragem e ótimos resultados na desidratação, podendo atingir até cerca de 92%.
 
-### **Aplicações para Filtro Prensa:
+### **Aplicações para Filtro Prensa:**
 
 - Filtro Prensa para Estações de tratamento de efluentes
 - Filtragem de Metais, acabamentos metálicos, minerais
