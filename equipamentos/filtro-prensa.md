@@ -1,12 +1,12 @@
 ---
 layout: default
-pageTitle: FILTRO PRENSA |FABRICA |PUREWATER EFLUENTES | FILTRAGEM DE LODO | FILTRO PRENSA BORRA
+pageTitle: FILTRO PRENSA |FABRICA |PUREWATER EFLUENTES | FILTRAGEM DE LODO | FILTRO PRENSA BORRA | FILTRO PRENSA INDUSTRIAL
 title: Filtro Prensa 
 subtitle: Equipamento de Filtração
 ---
 <img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/Filtro Prensa Purewater.JPG" alt="Filtro Prensa">
 
-A Purewater Efluentes fabrica **Filtro Prensa (Desaguador)**, para os mais variados seguimentos do mercado, tais como: Tratamento de água, tratamento de efluentes industriais, Galvanoplastia, Metalúrgicas, Siderúrgicas, Alimentícia e outras.
+A Purewater Efluentes fabrica **Filtro Prensa Industrial (Desaguador)**, para os mais variados seguimentos do mercado, tais como: Tratamento de água, tratamento de efluentes industriais, Galvanoplastia, Metalúrgicas, Siderúrgicas, Alimentícia e outras.
 
 Este equipamento é especialmente aplicado em tratamento de água e efluentes industrias, tendo a função de desidratação do lodo gerado no tratamento de água.
 
@@ -14,14 +14,14 @@ Também pode ser usado na filtragem de banhos, tais como fosfato e banhos galvâ
 
 Com grande capacidade de filtragem e ótimos resultados na desidratação, podendo atingir até cerca de 92%.
 
-### **Aplicações para Filtro Prensa:**
+### **Aplicações para Filtro Prensa Industrial:**
 
 - Filtro Prensa para Estações de Tratamento de Efluentes
 - Filtragem de Metais, acabamentos metálicos, minerais
 - Filtro para lamas oleosas
 - Filtragem de sucos de frutas, vinhos, óleos vegetais e extratos
 - Filtro Prensa para Lavanderia industrial
-- Filtro para Curtumes
+- Filtro Prensa Industrial para Curtumes
 - Filtro para Separação de processos químicos
 - Filtro Prensa para Desidratação de efluentes com pigmentos e corantes
 - Filtro-Prensa para Remediação Ambiental
@@ -45,6 +45,11 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 - Calha de coleta de líquidos
 - Cone de descarte de lodo em polipropileno
 - Equipamento fabricado em diversos tamanhos
+
+### Modelos de Filtro Prensa
+
+- **Filtro Prensa Manual:** Onde a operação de abertura e fechamento do filtro prensa é executado pelo operador.
+- **Filtro Prensa Automático:** Onde a operação de abertura e fechamento do filtro prensa é executado pelo conjunto eletro-hidráulico.
 
 > Também Comercializamos acessório para filtro prensa, tais como: 
   - **Placas em Polipropileno, Bomba Diafragma e Lonas de Filtragem**
