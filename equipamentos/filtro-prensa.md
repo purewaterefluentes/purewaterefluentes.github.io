@@ -48,7 +48,7 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 - Cone de descarte de lodo em polipropileno
 - Equipamento fabricado em diversos tamanhos
 
-> Também Comercializamos acessório para filtro prensa, tais como: **Bomba Diafragma e Lonas de Filtragem**
+> Também Comercializamos acessório para filtro prensa, tais como: **Placas em Polipropileno, Bomba Diafragma e Lonas de Filtragem**
 
 <br />
 {% include purewater/equipamentos/Tabela-Dimensional-Filtro-Prensa.html %}
