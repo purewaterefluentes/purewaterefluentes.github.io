@@ -16,7 +16,7 @@ Equipada com circuito eletrônico antiexplosivo e de alta precisão, garante vaz
 A unidade de controle oferece variada opções de dosagem (vazões): de 0 a 15 litros/Hora, para trabalhar em linhas de contrapressão de até 15Kg, com fluxo regulável manualmente por meio de dois botão localizado no painel frontal.
 
 ### **Aplicações da Bomba Dosadora Diafragma**
- <br />
+ 
 - Micro-Dosadora para Processos Industriais
 - Dosadora para Tratamento de Efluentes
 - Dosadora para dosagem de cloro
