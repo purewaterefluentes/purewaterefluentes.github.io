@@ -1,11 +1,12 @@
 ---
 layout: default
-title: EQUIPAMENTOS PARA TRATAMENTO DE ÁGUA | PUREWATER EFLUENTES
+pageTitle: EQUIPAMENTOS PARA TRATAMENTO DE ÁGUA | PUREWATER EFLUENTES
+title: Equipamentos 
 subtitle: Fabricação de equipamentos para tratamento de água e efluentes
 robots: follow
 ---
 
-### Filtros para Água
+### Filtro Industrial para Água
 
 - [Filtro Central de Água em Inox](filtro-central-de-agua-inox.html){:.btn .btn-link}
 - [Filtro Central de Água em Fibra - PRFV](filtro-central-de-agua-fibra.html){:.btn .btn-link}
