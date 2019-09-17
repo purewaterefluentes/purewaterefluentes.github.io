@@ -9,7 +9,7 @@ robots: follow
 
 
 - [Filtro Central de Água em Inox](filtro-central-de-agua-inox.html){:.btn .btn-link}
-- [Filtro Central de Água em Fiberglass - PRFV](filtro-de-agua-central-industrial-fiberglass.html){:.btn .btn-link}
+- [Filtro Central de Água em Fibra - PRFV](filtro-central-de-agua-industrial-fibra-fiberglass.html){:.btn .btn-link}
 - [Filtro Prensa](filtro-prensa.html){:.btn .btn-link}
 
 ### Bombas de transferência e Dosadoras
