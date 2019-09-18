@@ -31,6 +31,7 @@ As principais especificações do Protetivo para Osmose são:
 
 
 ### **Reatividade Química*
+
 **AQUA-FLOCON**: Não é afetado pelo Cloro ou outros biocidas oxidantes em condições normais de uso. Pode ser usado em sistemas de membrana com cloro e metabisulfito de sódio.
 
 ### **Especificação e Níveis de Dosagem**
