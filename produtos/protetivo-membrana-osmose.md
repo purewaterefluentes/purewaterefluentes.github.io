@@ -1,7 +1,7 @@
 ---
 layout: contato
-pageTitle: PROTETIVO P/ MEMBRANA DE OSMOSE REVERSA | ANTI-INCRUSTANTE OSMOSE
-title: PROTETIVO PARA OSMOSE
+pageTitle: PROTETIVO P/ MEMBRANA DE OSMOSE REVERSA | ANTI-INCRUSTANTE OSMOSE |PUREWATER EFLUENTES
+title: PROTETIVO MEMBRANA DE OSMOSE
 subtitle: Anti-Incrustante e Protetivo para Membrana de Osmose
 ---
 
@@ -30,13 +30,13 @@ As principais especificações do Protetivo para Osmose são:
 - **Limite do ponto de congelamento:** 0 a -3°C
 
 
-### **Reatividade Química*
+### **Reatividade Química**
 
 **AQUA-FLOCON**: Não é afetado pelo Cloro ou outros biocidas oxidantes em condições normais de uso. Pode ser usado em sistemas de membrana com cloro e metabisulfito de sódio.
 
 ### **Especificação e Níveis de Dosagem**
 
-**AQUA-FLOCON**: É uma solução aquosa de um ácido orgânico e corrosivo na forma concentrada. 
+**AQUA-FLOCON**: É uma solução aquosa de um ácido orgânico e sais inorgânicos protetivos, levemente corrosivo na forma concentrada. 
 
 **AQUA-FLOCON** é miscível em água em todas as proporções. Pode ser aplicado puro (sem diluição) ou como uma solução saturada. 
 
