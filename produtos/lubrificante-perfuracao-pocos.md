@@ -31,12 +31,12 @@ Os lubrificantes para perfuração de poços **Bentonita sintética** se constit
 ### Características da Bentonita Polimérica
 
 Um quilo de **POLYER GEL LUBRI ou AQUAFLOC GEL LUBRI** produz viscosidade equivalente a 15 a 20 libras de bentônita.
-Apresenta grande vantagem e diferencial no armazenamento, transporte e manipulação como, por exemplo: Estocar um balde de Polyer G.L equivale a 20 sacos de bentônita argilosa mineral.
+Apresenta grande vantagem e diferencial no armazenamento, transporte e manipulação como, **por exemplo:** Estocar um balde de **Polyer G.L** equivale a estocar 20 sacos de bentônita argilosa mineral.
 
-### Fornecimento
+### Fornecimento da Bentônita Sintética
 
-- Bentonita sintética em Saco de 25Kg
-- Bentonita sintética em Bombona plástica de 25Kg
+- Bentonita sintética em Saco de 25Kg (produto granulado)
+- Bentonita sintética em Bombona plástica de 25Kg (produto em emulsão)
 
 ### Boletim Técnico
 
