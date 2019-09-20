@@ -1,8 +1,8 @@
 ---
 layout: contato
-pageTitle: CARVÃO ATIVADO | ELEMENTO FILTRANTE | PUREWATER EFLUENTES
-title: Carvão Ativado
-subtitle: AQUA-CVT (GRANULADO)
+pageTitle: CARVÃO ATIVADO VEGETAL GRANULADO | ELEMENTO FILTRANTE | PUREWATER EFLUENTES | MEIO FILTRANTE | PARA QUE SERVE CARVÃO ATIVADO
+title: Carvão Ativado Granulado
+subtitle: Carvão Ativado Vegetal
 ---
 
 ### **<font color="#1E90FF">Carvão Ativado Vegetal</font>**
