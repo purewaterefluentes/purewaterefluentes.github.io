@@ -16,7 +16,7 @@ Possui simples ação que atua diretamente sobre a camada emulsiva de oléo sobr
 Quebra de emulsificação sobrenadante em tratamento de água e tratamento de efluentes industrial.
 >
 
-### Características do Anti-Emulsão:**
+### **Características do Anti-Emulsão:**
 
 - Anti-Emulsão com alto poder de quebra emulsiva
 - Este anti-emulsão possuem pH próximo do neutro e não altera as caracteristicas de pH da água
