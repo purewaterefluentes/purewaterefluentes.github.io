@@ -52,6 +52,7 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 + Capacidade: 15 Kg 
 + Classe de embalagem: Insolúvel em água, queima lentamente sem  chamas.
 + Preço de Carvão Ativado em Pó: Consulte nosso setor de vendas
+<br />
 
 >
 >
