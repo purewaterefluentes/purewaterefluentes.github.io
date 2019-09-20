@@ -1,7 +1,7 @@
 ---
 layout: contato
 pageTitle: LUBRIFICANTE PARA PERFURAÇÃO DE POÇOS |BENTONITA |FABRICA |bentonita sintetica |bentonita lubrificante |fluido de perfuração de poços
-title: Lubrificante de perfuração de poços profundos
+title: Lubrificante para Perfuração de Poços
 subtitle: Bentônita Polimérica
 ---
 
