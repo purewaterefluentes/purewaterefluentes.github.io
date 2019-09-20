@@ -1,33 +1,35 @@
 ---
 layout: contato
-pageTitle: BIOCIDA | TRATAMENTO DE ÁGUA | PUREWATEREFLUENTES
+pageTitle: BIOCIDA | TRATAMENTO DE ÁGUA | PUREWATEREFLUENTES | TORRE DE RESFRIAMENTO |TRATAMENTO DE EFLUENTES 
 title: Biocida
-subtitle:
+subtitle: Biocida para tratamento de água
 ---
-### Apresentação
-O **biocida ou bactericida** (também chamados de Microbactericida), da linha Purewater Efluentes possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em sistema de águas de recirculação industrial.
-Produto não deve ser aplicado em água potável onde a contaminação desta possa ocorrer. 
+### **Apresentação do Biocida**
 
-### Aplicação do Biocida
+O **biocida ou bactericida** (também chamados de Microbactericida de uso Industrial), da linha Purewater Efluentes possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em **sistema de águas de recirculação industrial.**
+
+> Produto **não deve ser aplicado** em água potável (Consumo Humano) onde a contaminação desta possa ocorrer. 
+
+### **Aplicação do Biocida**
 
 - Usado como agente bactericida, biocida, algicida e fungicida em tratamento de água de refrigeração em sistema de recirculação.
 - Tais como: Torres de resfriamento, Chiller de refrigeração, centrais de refrigeração.
 
-### Características do Biocida
+### **Características do Biocida**
 
 - Biocida com alto poder bactericida, algicida e fungicida
-- Não altera o pH do meio aquoso
-- 100% solúvel em água
+- Biocida para tratamento de água ou efluentes que não altera o pH do meio aquoso
+- Micro-Bactericida 100% solúvel em água
 - Fácil aplicação
 - Aumenta a vida útil do sistema hidráulico e equipamentos
 - Reduz os ciclos de manutenção
 
-### Embalagens
+### **Embalagens do Micro-Bactericida**
 
 - Biocida em bombonas plásticas de 25 e 50 Kg
 - Biocida em Container plástico IBC de 1000 litros
 
-### Boletim Técnico
+### **Boletim Técnico Micro-Bactericida**
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Biocida" 
