@@ -12,7 +12,7 @@ Produto especifico para a redução de compostos orgânicos graxos no efluente, 
 Possui simples ação que atua diretamente sobre a camada emulsiva de oléo sobrenadante, permitindo o tratamento deste residual juntamente com o tratamento convencional dos efluentes industriais.
 
 >
-### Aplicação do Anti-Emulsificante**
+### **Aplicação do Anti-Emulsificante**
 Quebra de emulsificação sobrenadante em tratamento de água e tratamento de efluentes industrial.
 >
 
