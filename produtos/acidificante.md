@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: ACIDIFICANTE | TRATAMENTO DE ÁGUA e PISCINA
+pageTitle: ACIDIFICANTE | TRATAMENTO DE ÁGUA e PISCINA | CORRETOR DE PH
 title: Acidificante
 subtitle: Corretor de pH / AQUA-F400
 ---
