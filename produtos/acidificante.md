@@ -5,13 +5,13 @@ title: Acidificante
 subtitle: Corretor de pH / AQUA-F400
 ---
 
-### **Apresentacao do Acidificante**
+### **Apresentacão do Acidificante**
 
 Produto destinado ao controle de PH em tratamento de água em geral ou sistemas de recirculação fechado de águas, tais como; **Torres de resfriamento - Caldeiras - Piscinas - Lagoas - Água de Reuso - Efluentes**, o produto é de fácil aplicação e pronto para uso.
 
 O corretor de pH acidificante possue a propriedade de baixar ou neutralizar o pH da água ou efluentes, tendo como principal ação a neutralização de alcalinidade em meio aquoso.
 
-### **Aplicação**
+### **Aplicação do Acidificante**
 >
 O produto **Acidificante AQUA-F400**é usado como neutralizante de alcalis (neutrazação de alcalinidade em meio líquido), também para baixar o pH em meio aquoso no tratamento de águas em geral e tratamento de efluentes.
 >
