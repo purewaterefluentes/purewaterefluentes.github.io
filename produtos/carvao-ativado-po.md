@@ -7,6 +7,8 @@ subtitle: AQUA-CVP
 
 O Carvão Ativado em Pó **(AQUA-CVP®)** é um tipo de Carvão Ativado produzido através do processo de ativação física com vapor de água em alta temperatura em sistema contínuo e controlado.
 
+> Para que serve o Carvão Ativado:
+
 Este carvão é muito utilizado para aplicação em fase líquida, em processo contínuo ou descontínuo. Esse produto é indicado para casos em que são requeridas dosagens variadas e/ou existem dificuldades operacionais para a utilização em colunas, assim como no caso de a regeneração do carvão ativado não ser indicada.
 
 Tais sistemas são providos de agitação para manter o pó em suspensão com o líquido a ser tratado, de forma a ocorrer um contato eficiente e o maior aproveitamento do carvão ativado. Desse modo, a granulometria de suas partículas promove um contato íntimo com o líquido a purificar, além de possuir as características necessárias e indispensáveis de umectabilidade e sedimentação.
@@ -49,6 +51,7 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 + Proteção: Contem internamente um saco de polietileno hermeticamente fechado e ao abrigo da umidade
 + Capacidade: 15 Kg 
 + Classe de embalagem: Insolúvel em água, queima lentamente sem  chamas.
++ Preço de Carvão Ativado em Pó: Consulte nosso setor de vendas
 
 >
 >
