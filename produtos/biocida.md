@@ -8,7 +8,7 @@ subtitle: Biocida para tratamento de água
 
 O **biocida ou bactericida** (também chamados de Microbactericida de uso Industrial), da linha Purewater Efluentes possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em **sistema de águas de recirculação industrial.**
 
-> Produto **não deve ser aplicado** em água potável (Consumo Humano) onde a contaminação desta possa ocorrer. 
+> Produto **não deve ser aplicado** em água potável (Consumo Humano), produto apenas de uso industrial. 
 
 ### **Aplicação do Biocida**
 
