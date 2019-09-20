@@ -53,7 +53,7 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 + Classe de embalagem: Insolúvel em água, queima lentamente sem  chamas.
 + Preço de Carvão Ativado em Pó: Consulte nosso setor de vendas
 
->
+<br />
 >
 >
 {% include purewater/link-boletim.html 
