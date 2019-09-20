@@ -18,6 +18,8 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 
 *Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão ativado vegetal*
 
+<br />
+
  <img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/carvao ativado pulverizado.jpg" alt="Carvão Ativado Pó">
  
 >
