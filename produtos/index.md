@@ -9,7 +9,7 @@ robots: follow
 
 - [Areia para Filtros](areia-para-filtro-de-agua.html){:.btn .btn-link}
 - [Carvão Antracito](carvao-antracito.html){:.btn .btn-link}
-- [Carvão Ativado Granulado](carvao-ativado.html){:.btn .btn-link}
+- [Carvão Ativado Granulado](carvao-ativado-vegetal-granulado.html){:.btn .btn-link}
 - [Carvão Ativado Pó](carvao-ativado-po.html){:.btn .btn-link}
 - [Zeolita Natural para Filtros](zeolita-para-filtro-de-agua.html){:.btn .btn-link}
 
