@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 title: Bomba Dosadora de Diafragma 
 subtitle: Ação Mecânica
 ---
