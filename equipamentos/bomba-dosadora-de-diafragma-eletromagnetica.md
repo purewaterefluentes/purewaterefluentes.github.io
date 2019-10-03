@@ -1,6 +1,6 @@
 ---
-layout: default 
-pageTitle: BOMBA DOSADORA DIAFRAGMA PNEUMATICA | PUREWATER EFLUENTES
+layout: contato 
+pageTitle: BOMBA DOSADORA DIAFRAGMA ELETROMAGNÉTICA | PUREWATER EFLUENTES
 title: Bomba Dosadora de Diafragma
 subtitle: Eletromagnética
 ---
@@ -9,7 +9,7 @@ subtitle: Eletromagnética
 
 ### **Apresentação**
 <br />
-A Bomba Dosadora Eletromagnética pode ser aplicada para a dosagem dos mais diversos produtos químicos, com elevado rendimento elétrico e alta reprodutibilidade nas dosagens.
+A **Bomba Dosadora Eletromagnética** pode ser aplicada para a dosagem dos mais diversos produtos químicos, com elevado rendimento elétrico e alta reprodutibilidade nas dosagens.
 
 Equipada com circuito eletrônico antiexplosivo e de alta precisão, garante vazão precisa por todo o tempo, com chave liga e desliga e botões de ajustes.
 
