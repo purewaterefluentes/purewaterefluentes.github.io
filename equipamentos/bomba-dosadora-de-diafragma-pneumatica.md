@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: contato 
+pageTitle: Bomba Diafragma Pneumatica | PUREWATER EFLUENTES 
 title: Bomba Dosadora Duplo Diafragma 
 subtitle: Pneumática
 ---
@@ -10,7 +11,7 @@ As bombas pneumáticas de duplo diafragma são ideais para bombeamento de produt
 
 ### Aplicações
 
-As bombas de Duplo Diafragma Pneumático possuem diversos benefícios tais como:
+**As bombas de Duplo Diafragma Pneumático possuem diversos benefícios tais como:**
 
 - Fáceis de instalar
 - Operação simples
