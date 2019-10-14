@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: PERÓXIDO DE HIDROGENIO | PUREWATER EFLUENTES 
+pageTitle: PERÓXIDO DE HIDROGÊNIO | PUREWATER EFLUENTES 
 title: Peróxido de Hidrogênio 
 subtitle:
 ---
