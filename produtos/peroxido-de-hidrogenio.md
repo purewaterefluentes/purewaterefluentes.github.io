@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Peróxido de Hidrogênio | Água Oxigenada |  Direto na Fabrica
+pageTitle: PERÓXIDO DE HIDROGENIO | PUREWATER EFLUENTES 
 title: Peróxido de Hidrogênio 
 subtitle:
 ---
@@ -15,7 +15,7 @@ O **peróxido de hidrogénio** é instável e quando perturbado, rapidamente se 
 
 Embora não seja inflamável, é poderoso agente oxidante que pode sofrer combustão espontânea em contacto com matéria orgânica ou alguns metais como o cobre ou o bronze.
 
-### Propriedades do Peróxido de Hidrogênio
+### **Propriedades do Peróxido de Hidrogênio**
 
 O peróxido de hidrogénio pode ser encontrado em concentrações que variam de 3 a 50%.
 
@@ -25,15 +25,16 @@ Na indústria, o peróxido de hidrogénio é usado em concentrações mais eleva
 
 Na área médica é usado como desinfectante ou agente esterilizante em autoclave de plasma. Na área química é usado como componente da espuma de borracha orgânica e outras substâncias químicas. Noutras áreas como na investigação é usado para medir a actividade de algumas enzimas como a catalase.
 
-### Concentrações Comerciais
+### **Concentrações do Peróxido de Hidrogênio**
 
 - Peroxido de Hidrogênio 200 volumes (50%)
 - Peroxido de Hidrogênio 130 volumes (35%)
 
-### Embalagem
+### **Embalagem**
 
 - Peróxido de Hidrogênio em bombona plastica de 50 Kg
 - Peróxido de Hidrogênio em Container de 1000 litros 
 
-> Informatico Técnico
+> **Informatico Técnico do Peróxido de Hidrogênio**
 {% include purewater/link-boletim.html label="Boletim Técnico Peróxido de Hidrogênio 50%" arquivo="FISPQ AQUA-PHO Peroxido de Hidrogenio.pdf" %}
+
