@@ -70,3 +70,4 @@ O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , exp
 
 
 
+
