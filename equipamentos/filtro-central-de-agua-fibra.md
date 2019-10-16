@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: FILTRO CENTRAL DE ÁGUA EM FIBRA |FABRICA |PUREWATER EFLUENTES
 title: Filtro Central de Água 
 subtitle: Fibra Industrial - Fiberglass (PRFV)
