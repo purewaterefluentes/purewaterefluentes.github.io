@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Bomba Centrifuga | PUREWATER EFLUENTES
+pageTitle: BOMBA CENTRIFUGA | PUREWATER EFLUENTES
 title: Bomba Centrifuga Química
 subtitle: 
 ---
