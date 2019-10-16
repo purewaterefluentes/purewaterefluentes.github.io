@@ -1,5 +1,6 @@
 ---
 layout: contato
+pageTitle: BOMBA DOSADORA DIAFRAGMA MECANICA | PUREWATER EFLUENTES
 title: Bomba Dosadora de Diafragma 
 subtitle: Ação Mecânica
 ---
