@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contato
 pageTitle: CONTROLADOR DE PH AUTOMATICO | FABRICA | PUREWATER EFLUENTES
 title: Controlador de pH Automático
 subtitle: 
