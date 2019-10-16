@@ -1,18 +1,19 @@
 ---
 layout: default
-pageTitle: 
-title: Controlador Automático de pH 
+pageTitle: CONTROLADOR DE PH AUTOMATICO | FABRICA | PUREWATER EFLUENTES
+title: Controlador de pH Automático
 subtitle: 
 ---
 
 <img class="img-responsive pull-right" style="max-width: 70%;" src="../../website/images/controlador-automatico-ph-purewater.jpg" alt="Controlador automático de pH">
 
+> Controlador Automático de pH 100% Brasileiro.
 
 O medidor e controlador de pH digital automático **Modelo PH-1200** foi desenvolvido para uso contínuo em sistemas onde haja a necessidade de controle constante e ininterruptos de pH.
 Este equipamento possuí fácil instalação e manuseio pois apresenta painel de comando e configuração em português.
 O controlador de pH é compatível com todos os modelos de sensores de pH disponíveis no mercado.
 
-### Características Gerais
+### **Características do Controlador Automático de pH**
 
 - Analisador e Controlador microprocessado para leituras instantâneas de pH ou redox (ORP).
 - Display de cristal líquido com back-light permanente.
@@ -22,7 +23,7 @@ O controlador de pH é compatível com todos os modelos de sensores de pH dispon
 - 1 Set-point configurável de 0 a 14 pH.
 - 2 saídas a relé para controle de 2 produtos (Opção de saída 4a20 Ma.)
  
-### Especificações Técnicas
+### **Especificações Técnicas do Controlador de pH**
 
 - Resolução 0,01 pH. Precisão de leitura 0,1%+1digito.
 - Histerese de comutação regulável até +/- 0,3 pH.
@@ -34,7 +35,7 @@ O controlador de pH é compatível com todos os modelos de sensores de pH dispon
 - Alimentação 230Vac, opcional : 12 Vcc, ou 24Vac, ou 110 Vac.
 - Dimensões em mm : A 214 x L 146 x P 109.
  
-### Itens opcionais
+### **Itens opcionais**
 
 - Terminal de leitura remota, Ligação com o controlador por simples cabo de 2 condutores até 100 mts.
 - Display de cristal líquido 3 dígitos
