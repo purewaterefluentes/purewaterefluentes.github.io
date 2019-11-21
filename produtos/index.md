@@ -64,7 +64,7 @@ robots: follow
 - [Algicida para piscina](algicida-para-piscina.html){:.btn .btn-link}
 - [Clarificante para piscina](clarificante-para-piscina.html){:.btn .btn-link}
 - [Cloro para piscina](cloro-para-piscina.html){:.btn .btn-link}
-- [Corretivo para piscina](corretivo-para-piscina.html){:.btn .btn-link}
+- [PH-Menos / Corretivo para piscina](ph-menos-corretivo-para-piscina.html){:.btn .btn-link}
 - [Oxidante para piscina](Oxidante-para-piscina.html){:.btn .btn-link}
 
 
