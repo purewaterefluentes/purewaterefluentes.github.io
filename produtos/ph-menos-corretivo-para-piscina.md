@@ -7,7 +7,8 @@ subtitle: TRATAMENTO DE PISCINAS
 
 ### Quando usar corretivo de pH:
 
-Este é um produto corretivo de pH, sendo um liquido que apresenta caracteristica ácida com a função de baixar o pH e a alcalinidade total. É indicado usar quando o pH estiver acima de 7,8 ou a alcalinidade total acima de 120 ppm.
+Este é um produto corretivo de pH líquido que apresenta caracteristica ácida com a função de baixar o pH e a alcalinidade total.
+É indicado usar quando o pH estiver acima de 7,8 ou a alcalinidade total acima de 120 ppm.
 
 ### Modo de aplicação do Corretivo de pH:
 
