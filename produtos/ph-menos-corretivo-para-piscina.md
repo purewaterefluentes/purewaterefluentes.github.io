@@ -13,9 +13,10 @@ Este é um produto corretivo de pH, sendo um liquido que apresenta caracteristic
 
 1) Mantenha o pH dentro da faixa ideal entre 7,4 e 7,6, a alcalinidade total entre 80 e 120 ppm e a dureza cálcica entre 200 e 400 ppm.
 
-2) Analise diariamente o pH e, se estiver acima de 7,8, corrija-o com **pH®MENOS LÍQUIDO AQUA-F400®**. Já alcalinidade total deve ser analisada semanalmente e corrigida com pH®MENOS sempre que estiver acima de 120 ppm. Verifique as dosagens nas tabelas abaixo. 
+2) Analise diariamente o pH e, se estiver acima de 7,8, corrija-o com **pH-MENOS LÍQUIDO® AQUA-F400®**. Já alcalinidade total deve ser analisada semanalmente e corrigida com pH®MENOS sempre que estiver acima de 120 ppm. Verifique as dosagens nas tabelas abaixo. 
 
 ### **Dosagem recomendada:**
+
 >
   + 30 ml (para pH 7,8 a 8,0)
   + 50 ml (para pH acima de 8,0)
