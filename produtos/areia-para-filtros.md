@@ -12,7 +12,7 @@ A areia de quartzo ou **Areia Filtrante** é uma substância natural, coesiva e 
 
 Podendo ser utilizada para compor leitos de filtragem com objetivo de realizar a filtração física de partículas sólidas.
 
-Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizontais, com operação em série ou paralelo, com fluxo ascendente ou descendente.
+Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizontais, com operação em série ou paralelo, com fluxo ascendente ou descendente. Comumente usada para filtros industriais,filtro de água residencial e filtro de piscina.
 
 
 <img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/areia quartzo anuncio 3.png" alt="Areia para Filtro de Água">
@@ -20,6 +20,7 @@ Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizonta
 ### **Principais Aplicações da Areia Filtrante:**
 
 - Areia para Filtro
+- Areia para Filtro de Piscina
 - Areia para Filtração de Água Potável ou industrial
 - Areia para Filtração de Água de Poços
 - Areia para Estação de Tratamento de Água
