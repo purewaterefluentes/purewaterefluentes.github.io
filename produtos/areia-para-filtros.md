@@ -26,11 +26,12 @@ Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizonta
 - Areia para Polimento em Filtragem de efluentes
 
 
-### **Granulometria:**
+### **Granulometria de Areia para Filtros:**
 
 - 0,5 a 1,25mm
 - 1,5 a 3,00mm
 - 2,0 a 4,0mm
+- 10 a 24mm (Seixo Rolado / Base suporte para filtros)
 
 ### **Embalagem:** 
 
