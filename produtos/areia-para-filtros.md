@@ -1,11 +1,11 @@
 ---
 layout: contato
-pageTitle: AREIA PARA FILTRO DE ÁGUA | ELEMENTO FILTRANTE | PUREWATER EFLUENTES
+pageTitle: AREIA PARA FILTROS | ELEMENTO FILTRANTE | PUREWATER EFLUENTES
 title: Areia para Filtro de Água
 subtitle: 
 ---
 
-### **Areia Quartzo**
+### **Areia Quartzo para Filtros**
 
 A areia de quartzo ou **Areia Filtrante** é uma substância natural, coesiva e não plástica, proveniente da desagregação de rochas, com alto teor de sílica (SiO2 > 90%), na forma de quartzo, quanto maior o teor de SiO2 na composição das areias, maior será sua pureza. 
 
@@ -26,13 +26,13 @@ Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizonta
 
 ### **Granulometria:**
 
-- 0,6 a 1,25mm
-- 1,3 a 1,70mm
-- 1,7 a 3,5mm
+- 0,5 a 1,25mm
+- 1,5 a 3,00mm
+- 2,0 a 4,0mm
 
 ### **Embalagem:** 
 
-- Areia Filtrante em Sacos de 50kg
+- Areia Filtrante em Sacos de 25kg
 
 
 >
