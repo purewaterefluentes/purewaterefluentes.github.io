@@ -61,5 +61,5 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 
 ### **Galeria de Fotos**
 
-{% include purewater/equipamentos/galeria-filtro-inox.html %}
+{% include purewater/equipamentos/galeria-filtro-prensa.html %}
 
