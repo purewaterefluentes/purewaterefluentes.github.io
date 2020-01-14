@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: FILTRO PRENSA |FABRICA |PUREWATER EFLUENTES | FILTRAGEM DE LODO | FILTRO PRENSA BORRA | FILTRO PRENSA INDUSTRIAL
+pageTitle: FILTRO PRENSA |FABRICA |PUREWATER EFLUENTES  
 title: Filtro Prensa 
 subtitle: Equipamento de Filtração
 ---
