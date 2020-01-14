@@ -55,6 +55,7 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 > Também Comercializamos acessório para filtro prensa, tais como: 
   - **Placas em Polipropileno, Bomba Diafragma e Lonas de Filtragem**
 
+### **Tabela Dimencional - Filtro Prensa**
 <br />
 {% include purewater/equipamentos/Tabela-Dimensional-Filtro-Prensa.html %}
 
