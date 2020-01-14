@@ -59,4 +59,7 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 <br />
 {% include purewater/equipamentos/Tabela-Dimensional-Filtro-Prensa.html %}
 
+### **Galeria de Fotos**
+
+{% include purewater/equipamentos/galeria-filtro-inox.html %}
 
