@@ -18,16 +18,15 @@ Para o tratamento de efluentes industriais que contenham metais pesados e outros
 
 Nosso departamento técnico irá orienta-lo sobre a melhor aplicação do sulfato de alumínio ou Precipitador de Metais em seu segmento industrial.
 
-<img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/sulfato de aluminio_purewater.jpg" alt="Sulfato de Aluminio">
+<img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/sulfato de aluminio_purewater.jpg" alt="Sulfato de Aluminio">
 
 
-
-### **Sulfato de Alumínio para tratamento de piscina**
+### **Sulfato de Alumínio para Piscina**
 
 É muito comum em água de piscina à proliferação de algas, bactérias, fungos, além da presença de carga orgânica liberada pelo suor . 
 O sulfato de alumínio é muito eficaz para uso na clarificação de águas de piscina, apresentando grande eficiência no processo de decantação.
 
-**Instruções de Uso para tratamento de Piscina**
+**Tratamento de Água de Piscina**
 
 Antes de iniciar o tratamento com o produto Sulfato de Alumínio é importante medir a alcalinidade total da água e verificar se está entre 80 e 120 ppm e verificar se a faixa de pH está entre 7,4 e 7,6, se necessário, faça o ajuste utilizando o produto alcalinizante específico.
 
