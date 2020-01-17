@@ -18,7 +18,9 @@ Para o tratamento de efluentes industriais que contenham metais pesados e outros
 
 Nosso departamento técnico irá orienta-lo sobre a melhor aplicação do sulfato de alumínio ou Precipitador de Metais em seu segmento industrial.
 
- <img class="img-responsive pull-right" style="max-width: 50%;" src="../../images/sulfato de aluminio_purewater.jpg" alt="Sulfato de alumínio">
+<img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/sulfato de aluminio_purewater.jpg" alt="Sulfato de Aluminio">
+
+
 
 ### **Sulfato de Alumínio para tratamento de piscina**
 
