@@ -1,8 +1,8 @@
 ---
 layout: contato
-pageTitle: SULFATO DE ALUMÍNIO |PUREWATER EFLUENTES | FABRICANTE | SULFATO DE ALUMINIO PARA PISCINA | TRATAMENTO DE ÁGUA
+pageTitle: SULFATO DE ALUMÍNIO | FABRICA | PUREWATER EFLUENTES 
 title: Sulfato de Alumínio
-subtitle: 
+subtitle: Sulfato de alumíno para tratamento de água.
 ---
 ### **Sulfato de Alumínio**
 
@@ -17,6 +17,8 @@ O sulfato de alumínio tambem utilizado como clarificador na fabricação de pap
 Para o tratamento de efluentes industriais que contenham metais pesados e outros elementos contaminantes, sugerimos nossa Linha de Precipitadores de Metais. O precipitador de metal possui ação mais efetiva devido a sua formulação específica para tratamentos destes tipos de efluentes industriais.
 
 Nosso departamento técnico irá orienta-lo sobre a melhor aplicação do sulfato de alumínio ou Precipitador de Metais em seu segmento industrial.
+
+ <img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/Policloreto de aluminio.png" alt="Sulfato de alumínio">
 
 ### **Sulfato de Alumínio para tratamento de piscina**
 
