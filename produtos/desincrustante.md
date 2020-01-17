@@ -17,6 +17,9 @@ O produto tem fácil aplicação e não expele vapores tóxicos e não danifica 
 
 Sendo usado como recirculação para limpeza de equipamentos dispensa demoradas operações de desmontagem hidráulica.
 
+<img class="img-responsive pull-right" style="max-width: 60%;" src="../../website/images/Desincrustante_tubulação_agua.png" alt="Desincrustante">
+
+
 ### **Indicações de uso do Desincrustante**
 
 Para desentupimento de rede hidráulica, limpeza de caldeiras, trocadores de calor, cabeçotes de compressores, condensadores, torres e resfriamento, usinas misturadoras de concreto, condutores e ar condicionado, medidores de água e tubos injetores de água.
