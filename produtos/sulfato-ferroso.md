@@ -25,7 +25,7 @@ Nos primeiros tempos foi utilizado na produção de ácido sulfúrico, mas este 
 
 Atualmente o hepta-hidrato de sulfato ferroso é também usado como um suplemento mineral, que é uma fonte de ferro, e é aplicado ao solo, a fim de aliviar a deficiência de ferro.
 
-### Aplicações do Sulfato Ferroso Hepta:
+### **Aplicações do Sulfato Ferroso Hepta:**
 
 - Ajusta os níveis de pH como um acidificador
 - Precipitante, coagulante e floculante para tratamento industrial de água / efluente
