@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: AREIA PARA FILTROS | ELEMENTO FILTRANTE | PUREWATER EFLUENTES
+pageTitle: AREIA PARA FILTROS |SEIXO ROLADO |ELEMENTO FILTRANTE | PUREWATER EFLUENTES
 title: Areia para Filtros
 subtitle: 
 ---
@@ -14,6 +14,7 @@ Podendo ser utilizada para compor leitos de filtragem com objetivo de realizar a
 
 Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizontais, com operação em série ou paralelo, com fluxo ascendente ou descendente. Comumente usada para filtros industriais,filtro de água residencial e filtro de piscina.
 
+A Purewater Efluentes possui a melhor **areia especial para filtros e Seixo Rolado usado como base suporte.**
 
 <img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/areia quartzo anuncio 3.png" alt="Areia para Filtro de Água">
 
