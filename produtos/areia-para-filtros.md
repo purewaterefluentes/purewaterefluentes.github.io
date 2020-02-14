@@ -29,10 +29,10 @@ Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizonta
 
 ### **Granulometria de Areia para Filtros:**
 
-- 0,5 a 1,25mm
-- 1,5 a 3,00mm
-- 2,0 a 4,0mm
-- 10 a 24mm (Seixo Rolado / Base suporte para filtros)
+- 0,5 a 1,00mm
+- 1,0 a 1,50mm
+- 1,5 a 3,0mm
+- 1/2" a 1/4"  (**Seixo Rolado 6,0 a 13mm / Base suporte para filtros**)
 
 ### **Embalagem:** 
 
