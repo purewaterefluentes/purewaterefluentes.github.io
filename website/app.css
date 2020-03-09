@@ -9,7 +9,7 @@ footer {
 
 .jumbotron-purewater{
   background-color: #0A0BC8;
-  /*background-color: #D7F207;*/
+  /*background-color: #3A7AB9;*/
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -49,8 +49,8 @@ footer {
 .navbar-purewater .navbar-nav > li > a,
 .navbar-purewater .navbar-nav > li > a:hover,
 .navbar-purewater .navbar-nav > li > a:focus {
-    color: #3F7AB7;
-    color: #0A0BC8;
+    color: #D7F207;
+    color: #60CEF9;
     background-color: transparent;
   }
 
