@@ -7,8 +7,8 @@ subtitle: Fibra Industrial - Fiberglass (PRFV)
 
 <img class="img-responsive pull-right" style="max-width: 52%;" src="../../website/images/cyber_tank.jpg" alt="Filtro de Agua em Fiberglass">
 
-**<font color="#1E90FF" size="7" aling="left">Filtro Central de Água</font>**
-<br />
+### Filtro Central de Água
+
 - O cilindro de pressão do filtro central de água **PRFV** é fabricado com alta tecnologia e material composto por fiberglass (PRFV), de enrolamento filamentar e resina polivinilica de alta resistência química e física.
 
 - Todos os tanques de pressão, residenciais e comerciais, são feitos por uma tecnologia de moldagem por completo sem costura.
@@ -25,12 +25,12 @@ subtitle: Fibra Industrial - Fiberglass (PRFV)
 
 - Todos os tanques de pressão em PRFV apresentam resistência de 100% à corrosão.
 
-### **Dados de Operação do Filtro Central de Água**
+### Dados de Operação do Filtro Central de Água
 
 - Pressão de operação: Máximo 150 psi (10.5 Bar)
 - Temperatura maxima de operação: 49ºC
 
-### **Elementos de Filtragem disponíveis**
+### Elementos de Filtragem disponíveis
 
 O **Filtro de Água Central - Industrial** poderá ser montado nas seguintes configurações de cargas:
 
@@ -39,7 +39,7 @@ O **Filtro de Água Central - Industrial** poderá ser montado nas seguintes con
 - Carga mista areia quartzo e carvão ativo
 - Zeólito natural (Clinoptilolita é classificada como óxido mineral cristalino de alumínio e sílica), alta eficiência em filtragem.
 
-### **Funções e benefícios do Filtro Central de água**
+### Funções e benefícios do Filtro Central de água
 
 - Retém areia, argila, ferrugem e outros sedimentos em suspensão.
 - Reduz os excessos de cálcio e alumínio utilizados no tratamento artificial da água.
@@ -51,7 +51,7 @@ O **Filtro de Água Central - Industrial** poderá ser montado nas seguintes con
 - Evita a incrustação de substância em suspensão nas paredes da tubulação galvanizada
 - Preserva limpos os reservatórios de água.
 
-### **Aplicações do Filtro Central de água**
+### Aplicações do Filtro Central de água
 
 - Filtragem de água de poço
 - Filtragem de água residencial
@@ -61,7 +61,7 @@ O **Filtro de Água Central - Industrial** poderá ser montado nas seguintes con
 - Filtragem de água de chuva
 - Filtragem de água de piscina
 
-### **Galeria de Fotos Filtro de Água Central**
+### Galeria de Fotos Filtro de Água Central
 
 {% include purewater/equipamentos/galeria-filtro-prfv.html %}
 
