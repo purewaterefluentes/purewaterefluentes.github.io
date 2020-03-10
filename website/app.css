@@ -97,3 +97,7 @@ a, a:hover, .btn-link, .btn-link:hover, .btn-link:focus {
 .modal-header .close {
     margin-top: 0;
 }
+
+h3, .h3 {
+  font-weight: 400;
+}
