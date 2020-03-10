@@ -90,6 +90,10 @@ a, a:hover, .btn-link, .btn-link:hover, .btn-link:focus {
   text-align: left;
 }
 
+.btn-primary {
+  background-color: #0788D9;
+}
+
 .modal-header .close {
     margin-top: 0;
 }
