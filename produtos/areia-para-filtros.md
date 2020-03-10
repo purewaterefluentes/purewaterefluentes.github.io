@@ -5,7 +5,7 @@ title: Areia para Filtros
 subtitle: 
 ---
 
-### **Areia Quartzo para Filtros**
+### Areia Quartzo para Filtros
 
 Comprar areia para filtro é um procedimento importante para manter a qualidade final da água filtrada.
 A areia de quartzo ou **Areia Filtrante** é uma substância natural, coesiva e não plástica, proveniente da desagregação de rochas, com alto teor de sílica (SiO2 > 90%), na forma de quartzo, quanto maior o teor de SiO2 na composição das areias, maior será sua pureza. 
@@ -18,7 +18,7 @@ A Purewater Efluentes possui a melhor **areia especial para filtros e Seixo Rola
 
 <img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/areia quartzo anuncio 3.png" alt="Areia para Filtro de Água">
 
-### **Principais Aplicações da Areia Filtrante:**
+### Principais Aplicações da Areia Filtrante:
 
 - Areia para Filtro
 - Areia para Filtro de Piscina
@@ -28,14 +28,14 @@ A Purewater Efluentes possui a melhor **areia especial para filtros e Seixo Rola
 - Areia para Polimento em Filtragem de efluentes
 
 
-### **Granulometria de Areia para Filtros:**
+### Granulometria de Areia para Filtros:
 
 - 0,5 a 1,00mm
 - 1,0 a 1,50mm
 - 1,5 a 3,0mm
 - 1/2" a 1/4"  (**Seixo Rolado 6,0 a 13mm / Base suporte para filtros**)
 
-### **Embalagem:** 
+### Embalagem: 
 
 - Areia Filtrante em Sacos de 25kg
 
