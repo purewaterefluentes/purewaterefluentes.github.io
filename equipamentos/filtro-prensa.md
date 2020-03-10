@@ -14,7 +14,7 @@ Também pode ser usado na filtragem de banhos, tais como fosfato e banhos galvâ
 
 Com grande capacidade de filtragem e ótimos resultados na desidratação, podendo atingir até cerca de 92%.
 
-### **Aplicações para Filtro Prensa Industrial:**
+### Aplicações para Filtro Prensa Industrial
 
 - Filtro Prensa para Estações de Tratamento de Efluentes
 - Filtragem de Metais, acabamentos metálicos, minerais
@@ -34,7 +34,7 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 - Filtro Prensa para Estação de tratamento de Água
 
 
-### **Especificações do Filtro-Prensa**
+### Especificações do Filtro-Prensa
 
 - Estrutura em aço carbono
 - Placas em polipropileno injetado
@@ -46,17 +46,16 @@ Com grande capacidade de filtragem e ótimos resultados na desidratação, poden
 - Cone de descarte de lodo em polipropileno
 - Equipamento fabricado em diversos tamanhos
 
-### **Modelos de Filtro Prensa**
+### Modelos de Filtro Prensa
 
 - **Filtro Prensa Manual:** Onde a operação de abertura e fechamento do filtro prensa é executado pelo operador.
 - **Filtro Prensa Automático:** Onde a operação de abertura e fechamento do filtro prensa é executado pelo conjunto eletro-hidráulico.
-<br />
 
 > Também Comercializamos acessório para filtro prensa, tais como: 
   - **Placas em Polipropileno, Bomba Diafragma e Lonas de Filtragem**
 
-### **Tabela Dimencional - Filtro Prensa**
-<br />
+### Tabela Dimencional - Filtro Prensa
+
 {% include purewater/equipamentos/Tabela-Dimensional-Filtro-Prensa.html %}
 
 ### **Galeria de Fotos**
