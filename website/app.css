@@ -48,7 +48,7 @@ footer {
 .navbar-purewater .navbar-nav > li > a,
 .navbar-purewater .navbar-nav > li > a:hover,
 .navbar-purewater .navbar-nav > li > a:focus {
-    color: #0788D9;
+    color: #d7f207;
     background-color: transparent;
   }
 
@@ -91,7 +91,7 @@ a, a:hover, .btn-link, .btn-link:hover, .btn-link:focus {
 }
 
 .btn-primary {
-  background-color: #000000;
+  background-color: #0788d9;
 }
 
 .modal-header .close {
