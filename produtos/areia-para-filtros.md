@@ -28,7 +28,7 @@ A Purewater Efluentes possui a melhor **areia especial para filtros e Seixo Rola
 - Areia para Polimento em Filtragem de efluentes
 
 
-### Granulometria de Areia para Filtros:
+### Granulométria de Areia para Filtros:
 
 - 0,5 a 1,00mm
 - 1,0 a 1,50mm
@@ -39,7 +39,7 @@ A Purewater Efluentes possui a melhor **areia especial para filtros e Seixo Rola
 Areia Especial para Filtro em Sacos de 25kg
 
 {% include purewater/link-boletim.html 
-   label="Tabela de Conversão (Mesh x Milimetro)" 
+   label="Tabela de Conversão Granulométrica (Mesh x Milimetro)" 
    arquivo="tabela_conversão_mesh_granulometria.pdf" %}
    
    
