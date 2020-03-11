@@ -1,8 +1,8 @@
 ---
 layout: contato
-pageTitle: AREIA PARA FILTROS |SEIXO ROLADO |ELEMENTO FILTRANTE | PUREWATER EFLUENTES
+pageTitle: AREIA PARA FILTROS - SEIXO ROLADO
 title: Areia para Filtros
-subtitle: 
+subtitle: Areia Especial para Filtro
 ---
 
 ### Areia Quartzo para Filtros
