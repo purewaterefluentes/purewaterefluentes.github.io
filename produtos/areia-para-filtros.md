@@ -35,7 +35,8 @@ A Purewater Efluentes possui a melhor **areia especial para filtros e Seixo Rola
 - 1,5 a 3,0mm
 - 1/2" a 1/4"  (**Seixo Rolado 6,0 a 13mm / Base suporte para filtros**)
 
-### Embalagem: Areia Filtrante em Sacos de 25kg
+### Embalagem: 
+Areia Especial para Filtro em Sacos de 25kg
 
  <div class="container">
       <hr>
