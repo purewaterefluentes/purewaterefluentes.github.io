@@ -1,11 +1,11 @@
 ---
 layout: contato
-pageTitle: CARVÃO ATIVADO VEGETAL GRANULADO | ELEMENTO FILTRANTE | PUREWATER EFLUENTES | MEIO FILTRANTE | PARA QUE SERVE CARVÃO ATIVADO
+pageTitle: CARVÃO ATIVADO VEGETAL  
 title: Carvão Ativado Granulado
 subtitle: Carvão Ativado Vegetal
 ---
 
-### **<font color="#1E90FF">Carvão Ativado Vegetal</font>**
+### <font color="#1E90FF">Carvão Ativado Vegetal</font>
 
 É um material com capacidade de coletar e purificar seletivamente gases, líquidos ou impurezas no interior dos seus poros, apresentando portanto um excelente poder de clarificação, desodorização e purificação de líquidos ou gases.
 
@@ -28,44 +28,39 @@ Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Ca
 <br />
 <font size="11">TIPOS DE CARVÃO</font>
 
-### **Carvão Ativado Granulado** 
+### Carvão Ativado Granulado 
 Fabricado através do processo de carboativação física com alta temperatura em processo contínuo e controlado, o que lhe confere grande área superficial de adsorção, distribuição uniforme de poros e elevada dureza (que evita a geração de finos no leito filtrante)
 
 Alto controle de qualidade produtivo para impedir a contaminação por microrganismos. Neste sentido, esse produto apresenta elevada eficiência para adsorção de substâncias químicas e remoção de sabor e odor do fluido a ser tratado e/ou purificado, podendo ser comercializado com pH ajustado conforme as necessidades de cada cliente.
 
 
-### **Carvão Ativado com Prata Coloidal (Ação Bactericida)**
+### Carvão Ativado com Prata Coloidal (Ação Bactericida)
 É um carvão ativado impregnado com **prata coloidal** em porcentagem adequada para adquirir função bacteriostática, impedindo a proliferação de bactérias no interior dos filtros e purificadores residenciais.
 Carvão muito utilizado em sistemas de filtragem para água potável, pois a prata coloidal exerce função bactericida.
 Disponivel na forma de pó (pulverizado)
 
-### **Informações Gerais**
+### Informações Gerais
 
 + Embalagens: Sacos de papelão
 + Proteção: Contem internamente um saco de polietileno hermeticamente fechado e ao abrigo da umidade
 + Capacidade: 25 Kg 
 + Classe de embalagem: Insolúvel em água, queima lentamente sem  chamas.
 
->
+
 {% include purewater/link-boletim.html 
    label="Tabela Granulométrica - Carvão Ativado" 
    arquivo="Tabela Granulométrica Carvão Ativado.pdf" %}
->
->
+
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Carvão Ativado" 
    arquivo="BOLETIM TÉCNICO - AQUA CVAT - REVISADO.pdf" %}
->
->
+
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Carvão Ativado c/ Prata Coloidal" 
    arquivo="Boletim Técnico Carvão Ativado Prata Coloidal.pdf" %}
->
->
+
 {% include purewater/link-boletim.html 
    label="Tabela de Conversão (Mesh x Milimetro)" 
    arquivo="tabela_conversão_mesh_granulometria.pdf" %}
->
-
 
 
