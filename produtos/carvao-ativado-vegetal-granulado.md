@@ -47,7 +47,7 @@ Disponivel na forma de pó (pulverizado)
 + Capacidade: 25 Kg 
 + Classe de embalagem: Insolúvel em água, queima lentamente sem  chamas.
 
-### Especificações do Produto:
+### Especificações do Produto
 
 {% include purewater/link-boletim.html 
    label="Tabela Granulométrica - Carvão Ativado" 
