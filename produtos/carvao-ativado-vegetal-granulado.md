@@ -9,7 +9,8 @@ subtitle: Carvão Ativado Vegetal
 
 É um material com capacidade de coletar e purificar seletivamente gases, líquidos ou impurezas no interior dos seus poros, apresentando portanto um excelente poder de clarificação, desodorização e purificação de líquidos ou gases.
 
-> Principais Aplicações do Carvão Ativado:
+## Principais Aplicações do Carvão Ativado:
+
 - Carvão Ativado para Filtro.
 - Filtragem de água potável.
 - Filtrar líquidos em geral.
