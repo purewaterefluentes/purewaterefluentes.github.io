@@ -29,8 +29,6 @@ Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Ca
 <br />
 <font size="10">TIPOS DE CARVÃO</font>
 
-## Tipos de Carvão Ativado 
-
 ### Carvão Ativado Granulado 
 Fabricado através do processo de carboativação física com alta temperatura em processo contínuo e controlado, o que lhe confere grande área superficial de adsorção, distribuição uniforme de poros e elevada dureza (que evita a geração de finos no leito filtrante)
 
