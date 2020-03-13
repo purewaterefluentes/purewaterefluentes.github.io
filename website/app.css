@@ -33,6 +33,7 @@ footer {
 .navbar-purewater .navbar-brand .logo{
     margin-left: 5px;
     margin-top: 6px;
+    display: inline;
 }
 
 .container.logo {
