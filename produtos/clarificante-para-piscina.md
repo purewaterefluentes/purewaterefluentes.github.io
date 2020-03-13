@@ -4,7 +4,7 @@ pageTitle: Clarificante para Piscina | Purewater Efluentes
 title: Clarificante para Piscina
 subtitle: Auxiliar de Filtração
 ---
-## **AQUA-P2000®**
+## AQUA-P2000®
 
 É um eficiente clarificante e auxiliar de filtração para águas de piscinas. 
 
@@ -13,7 +13,6 @@ Sua ação floculante atrai eletrostaticamente as partículas de sujeira que nor
 Os flocos maiores e mais pesados decantam para o fundo da piscina de onde podem ser aspirados normalmente. 
 
 O resultado é a clarificação completa da água. 
-
 
 <img class="img-responsive pull-left" style="max-width: 45%;" src="../../website/images/piscina agua.jpg" alt="Clarificante para piscina">
 
@@ -30,9 +29,4 @@ Disponível nas embalagens: 5 Kg e 25 Kg
 Auxiliar de filtração: 1,5 ml / m3 /por semana
 
 Clarificante: 3 a 6 ml /m3 (sempre que necessário)
-
-
-<p/>
-
-
 
