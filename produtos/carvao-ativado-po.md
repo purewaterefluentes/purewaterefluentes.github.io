@@ -7,7 +7,7 @@ subtitle: AQUA-CVP
 
 O Carvão Ativado em Pó (Chamado de Carvão Ativado Pulverizado) **(AQUA-CVP®)** é um tipo de Carvão Ativado produzido através do processo de ativação física com vapor de água em alta temperatura em sistema contínuo e controlado.
 
-> Para que serve o Carvão Ativado:
+## Para que serve o Carvão Ativado
 
 Este carvão é muito utilizado para aplicação em fase líquida, em processo contínuo ou descontínuo. Esse produto é indicado para casos em que são requeridas dosagens variadas e/ou existem dificuldades operacionais para a utilização em colunas, assim como no caso de a regeneração do carvão ativado não ser indicada.
 
@@ -22,8 +22,7 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 
  <img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/carvao ativado pulverizado.jpg" alt="Carvão Ativado Pó">
  
->
-### **APLICAÇÕES DO CARVÃO ATIVADO EM PÓ**
+### APLICAÇÕES DO CARVÃO ATIVADO EM PÓ
 
 - Carvão Ativado para clareamento de dentes
 - Carvão Ativado para cosméticos
@@ -34,7 +33,7 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 - Carvão Ativado em pó para redução de odor, sabor e cor em água.
 - O carvão ativado possuí mais de 900 aplicações.
 
-### **ESPECIFICAÇÕES DO CARVÃO ATIVADO EM PÓ**
+### ESPECIFICAÇÕES DO CARVÃO ATIVADO EM PÓ
 
 - Aspecto: Solido / pó / Pulverizado
 - Odor: Inodoro
@@ -47,26 +46,22 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 - pH: 8,0  a 10(natural)
 - Passante na # 325 mesh (0,044mm): min. 80%
 
-### **INFORMAÇÕES GERAIS**
+### INFORMAÇÕES GERAIS
 
 + Embalagens: Sacos de papelão
 + Proteção: Contem internamente um saco de polietileno hermeticamente fechado e ao abrigo da umidade
 + Capacidade: 15 Kg 
 + Classe de embalagem: Insolúvel em água, queima lentamente sem  chamas.
 + Preço de Carvão Ativado em Pó: Consulte nosso setor de vendas
-<br />
 
->
->
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Carvão Ativado em Pó" 
    arquivo=" BOLETIM TÉCNICO - AQUA-CVP (carvão pó).pdf" %}
->
->
+
 {% include purewater/link-boletim.html 
    label="Tabela de Conversão (Mesh x Milimetro)" 
    arquivo="tabela_conversão_mesh_granulometria.pdf" %}
->
+
 
 
 
