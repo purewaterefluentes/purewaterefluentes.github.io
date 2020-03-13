@@ -5,7 +5,7 @@ title: Desengraxante
 subtitle: GT-CLEAN
 ---
 
-### **Apresentação**
+### Apresentação
 
 Desengraxante alcalino para limpeza de peças e utensilios gerais que apresentem sujidade de oléos, graxas, produtos gordurosos e outros.
 
