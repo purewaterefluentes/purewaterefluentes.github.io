@@ -40,7 +40,9 @@ footer {
 }
 
 .navbar-purewater .navbar-nav>li>a {
- font-size: 16px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #0788D9 !important;
 }
 
 .navbar-purewater .navbar-brand:hover,
