@@ -10,7 +10,7 @@ Nossa **cal hidratada Extra purificada** (Solida em pó ou liquída como Leite d
 
 Reage com o dióxido de carbono formando o carbonato de cálcio, podendo ser usado para detectar a presença do dióxido de carbono em uma mistura de gases devido a insolubilidade do carbonato, em uma solução que é comumente conhecida como "água de cal".
 
-### **Aplicações da Cal - Hidróxido de cálcio Dihidratada.**
+### Aplicações da Cal - Hidróxido de cálcio Dihidratada
 
 Devido a suas propriedades básicas fortes, a Cal hidratada Extra possui diversas e variadas aplicações:
 
@@ -30,22 +30,20 @@ Devido a suas propriedades básicas fortes, a Cal hidratada Extra possui diversa
 - Na indústria de alimentos, participando do processamento da água (para bebidas alcoólicas e refrigerantes)
 - No refinamento do açúcar, para separá-lo do açúcar da cana
 
-### **Fornecimento da Cal Hidratada**
+### Fornecimento da Cal Hidratada
 
 
 A Cal Hidratada Extra Purificada pode ser encontrada nas seguintes formas:  
 
->
 - Liquida (Leite de Cal - solução) 
 - Solido em pó
->
 
-### **Embalagens Cal Hidradata**
+### Embalagens Cal Hidradata
 
 - Cal Hidratada em Sacos de 20 Kg (produto solido em pó)
 - Cal solução em (IBC) plastico de 1000 litros (Produto liquido)
 
-### **Boletim Técnico Cal Hidratada**
+### Boletim Técnico Cal Hidratada
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Cal Solução" 
