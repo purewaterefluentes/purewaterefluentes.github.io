@@ -32,7 +32,8 @@ O Aditivo-BIO, ou **biocida ou bactericida** (Também conhecido como Microbacter
 ### **Boletim Técnico Micro-Bactericida**
 
 {% include purewater/link-boletim.html 
-   label="Boletim Técnico Biocida" 
-   arquivo="Boletim-tecnico-biocida.pdf" %}
+   label="Boletim Técnico Aditivo-BIO" 
+   arquivo="BOLETIM TÉCNICO - AQUA-290 - REVISADO.pdf" %}
+
 
 
