@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Biocida - Micro-Biocida 
+pageTitle: Biocida - Microbactericida 
 title: Biocida
 subtitle: Biocida para tratamento de efluentes
 ---
