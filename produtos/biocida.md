@@ -1,16 +1,16 @@
 ---
 layout: contato
-pageTitle: BIOCIDA | TRATAMENTO DE ÁGUA | PUREWATEREFLUENTES | TORRE DE RESFRIAMENTO |TRATAMENTO DE EFLUENTES 
+pageTitle: Biocida - Micro-Biocida 
 title: Biocida
-subtitle: Biocida para tratamento de água
+subtitle: Biocida para tratamento de efluentes
 ---
-### **Apresentação do Biocida**
+### **Apresentação do Aditivo-BIO**
 
-O **biocida ou bactericida** (também chamados de Microbactericida de uso Industrial), da linha Purewater Efluentes possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em **sistema de águas de recirculação industrial.**
+O Aditivo-BIO, ou **biocida ou bactericida** (Também conhecido como Microbactericida de uso Industrial), da linha Purewater Efluentes possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em **sistema de águas de recirculação industrial.** 
 
-> Produto **não deve ser aplicado** em água potável (Consumo Humano), produto apenas de uso industrial. 
+- Importante: Produto **não deve ser aplicado** em água potável (Consumo Humano), produto apenas de uso industrial. 
 
-### **Aplicação do Biocida**
+### **Aplicação do Aditivo-BIO**
 
 - Usado como agente bactericida, biocida, algicida e fungicida em tratamento de água de refrigeração em sistema de recirculação.
 - Tais como: Torres de resfriamento, Chiller de refrigeração, centrais de refrigeração.
@@ -35,10 +35,4 @@ O **biocida ou bactericida** (também chamados de Microbactericida de uso Indust
    label="Boletim Técnico Biocida" 
    arquivo="Boletim-tecnico-biocida.pdf" %}
 
-{% include purewater/link-boletim.html 
-   label="Boletim Técnico Bactericida Pool ISO" 
-   arquivo="Boletim-tecnico-bactericida-Pool-ISO.pdf" %}
 
-{% include purewater/link-boletim.html 
-   label="Boletim Técnico Bactericida Pool CHC" 
-   arquivo="Boletim-tecnico-bactericida-Pool-CHC.pdf" %}
