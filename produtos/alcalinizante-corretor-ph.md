@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: ALCALINIZANTE | CORRETOR DE PH | CORRETOR DE ALCALINIZADADE |PUREWATER EFLUENTES
+pageTitle: ALCALINIZANTE | CORRETOR DE PH | CORRETOR DE ALCALINIZADADE
 title: Alcalinizante
 subtitle: Corretor de pH e Alcalinidade
 ---
