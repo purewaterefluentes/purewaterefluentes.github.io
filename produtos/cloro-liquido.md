@@ -32,7 +32,6 @@ Agindo com Alta Performance, garantindo otima eficiência.
 - pH: >8,0
 - Aparência: Líquido levemente esverdeado
 - Odor: Característico de cloro
-- Produto Não Controlado pelos Órgãos reguladores
 
 
 ### Funcionalidades do Cloro Liquído
