@@ -59,6 +59,6 @@ Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do HI
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Cloro Liquido" 
-   arquivo="BOLETIM TÉCNICO - HIPOCLORE - REVISADO.pdf" %}
+   arquivo="FISPQ HIPOCLORE - aditivo multiuso.pdf" %}
    
    
