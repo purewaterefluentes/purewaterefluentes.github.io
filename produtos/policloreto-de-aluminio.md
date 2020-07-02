@@ -1,13 +1,13 @@
 ---
 layout: contato
-pageTitle: Policloreto de Alumínio (PAC18%) |Purewater Efluentes |Fabricante
+pageTitle: Policloreto de Alumínio (PAC18%) |PUREWATER EFLUENTES |FABRICANTE
 title: Policloreto de Alumínio
-subtitle: 
+subtitle: PAC18% - Policloreto de Aluminio
 ---
 
 ### **Propriedades do Policloreto de Alumínio**
 
-O **Policloreto de Alumínio** é um coagulante inorgânico catiônico pré polimerizado de alto peso molecular a base de policloreto de alumínio, utilizado em processos de tratamento de águas, esgoto, petróleo, mineração e Açucar.
+O **Policloreto de Alumínio** é um coagulante inorgânico catiônico pré polimerizado de baixo peso molecular a base de policloreto de alumínio, utilizado em processos de tratamento de águas, esgoto, petróleo, mineração e Açucar.
 
 O PoliCloreto de Alumínio tem como caracteristica química agregar em sua molécula original cadeias polímericas hidroxiladas, fundamentais nos processos de coagulação e floculação em tratamento de água. A posterior hidrólise irá proporcionar novas espécies insóluveis, que possibilitarão o processo de neutralização elétrica, que neste caso serão menos sensiveis que as espécies originárias a partir da hidrólise dos sais monoméricos.
 
