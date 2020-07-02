@@ -2,10 +2,11 @@
 layout: contato
 pageTitle: CLORO LIQUIDO |CLORO CONCENTRADO |PUREWATER EFLUENTES
 title: Cloro Liquido
-subtitle: HIPOCLORE
+subtitle: Cloro Concentrado
 ---
 
-**HIPOCLORE é o Cloro Liquido Concentrado** que apresenta de 7 a 9% em teor de cloro ativo. 
+### HIPOCLORE:
+É o Cloro Liquido Concentrado que apresenta de 7 a 9% em teor de cloro ativo. 
 
 Atua como agente bactericida, desinfectante,  clarificante e pode ser aplicado em tratamento de águas em geral.
 
