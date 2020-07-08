@@ -5,7 +5,7 @@ title: Cloro Liquido
 subtitle: Cloro Concentrado
 ---
 
-# Comprar Cloro Concentrado Líquido, com entrega em todo Brasil.
+### Comprar Cloro Concentrado Líquido.
 
 
 ### HIPOCLORE:
