@@ -1,16 +1,19 @@
 ---
 layout: default
 pageTitle: 
-title: Medidor de pH - Portátil Digital
-subtitle: 
+title: Medidor de pH Digital
+subtitle: Medidor Digital de PH Portátil
 ---
 
 <img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/box_medidor-ph-portatil.png" alt="Medidor de pH Portátil">
 
+### Comprar Medidor de PH Digital Portátil
 
 O medidor de pH digital portátil **modelo PH-Master** foi desenvolvido para uso contínuo na medição de pH, com grande praticidade atua de modo portátil e medindo de forma simples e direta o pH, milivoltagem e temperatura através de um display LCD de fácil leitura.
 
 Possui compensação manual ou automática de temperatura e também saída analógica para registrador externo 
+
+Este Equipamento substitui o uso da Fita ou papél de medição de pH tradicional.
 
 ### Características Técnicas
 
