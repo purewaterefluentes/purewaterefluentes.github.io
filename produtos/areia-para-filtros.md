@@ -1,9 +1,11 @@
 ---
 layout: contato
-pageTitle: AREIA PARA FILTROS 
+pageTitle: AREIA PARA FILTROS
 title: Areia para Filtros
 subtitle: Areia Especial para Filtro
 ---
+
+### Comprar Areia Especial, Encontre Aqui.
 
 ### Areia Quartzo para Filtros
 
@@ -21,7 +23,7 @@ A Purewater Efluentes possui a melhor **areia especial para filtros e Seixo Rola
 ### Principais Aplicações da Areia Filtrante:
 
 - Areia para Filtro
-- Areia para Filtro de Piscina
+- Areia Especial para Filtro de Piscina
 - Areia para Filtração de Água Potável ou industrial
 - Areia para Filtração de Água de Poços
 - Areia para Estação de Tratamento de Água
