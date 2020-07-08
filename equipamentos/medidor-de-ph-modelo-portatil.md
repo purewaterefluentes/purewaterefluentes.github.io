@@ -13,7 +13,7 @@ O medidor de pH digital portátil **modelo PH-Master** foi desenvolvido para uso
 
 Possui compensação manual ou automática de temperatura e também saída analógica para registrador externo 
 
-Este Equipamento substitui o uso da Fita ou papél de medição de pH tradicional.
+Este Equipamento substitui o uso da Fita ou papel de medição de pH tradicional.
 
 ### Características Técnicas
 
