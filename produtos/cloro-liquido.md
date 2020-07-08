@@ -4,6 +4,7 @@ pageTitle: CLORO LIQUIDO |CLORO CONCENTRADO |PUREWATER EFLUENTES
 title: Cloro Liquido
 subtitle: Cloro Concentrado
 ---
+## Comprar Cloro Concentrado Liquído, com entrega em todo Brasil.
 
 ### HIPOCLORE:
 É o Cloro Liquido Concentrado que apresenta de 7 a 9% em teor de cloro ativo. 
