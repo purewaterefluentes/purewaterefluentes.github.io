@@ -1,6 +1,6 @@
 ---
 layout: default
-pageTitle: 
+pageTitle: Medidor de PH Digital
 title: Medidor de pH Digital
 subtitle: Medidor Digital de PH Portátil
 ---
