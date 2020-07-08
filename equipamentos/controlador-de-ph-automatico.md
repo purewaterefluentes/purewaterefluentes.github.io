@@ -2,10 +2,12 @@
 layout: contato
 pageTitle: CONTROLADOR DE PH AUTOMATICO | FABRICA | PUREWATER EFLUENTES
 title: Controlador de pH Automático
-subtitle: 
+subtitle: Controlador de PH Industrial
 ---
 
 <img class="img-responsive pull-right" style="max-width: 70%;" src="../../website/images/controlador-automatico-ph-purewater.jpg" alt="Controlador automático de pH">
+
+### Comprar Controlador de PH Industrial, encontre Aqui.
 
 > Controlador Automático de pH 100% Brasileiro.
 
@@ -23,7 +25,7 @@ O controlador de pH é compatível com todos os modelos de sensores de pH dispon
 - 1 Set-point configurável de 0 a 14 pH.
 - 2 saídas a relé para controle de 2 produtos (Opção de saída 4a20 Ma.)
  
-### **Especificações Técnicas do Controlador de pH**
+### **Especificações Técnicas do Controlador de pH Automático**
 
 - Resolução 0,01 pH. Precisão de leitura 0,1%+1digito.
 - Histerese de comutação regulável até +/- 0,3 pH.
