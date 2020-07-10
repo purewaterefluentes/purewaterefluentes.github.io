@@ -6,8 +6,7 @@ subtitle: Hidróxido de Sódio
 ---
 ### Comprar Soda Cáustica, Comprar Hidroxido de Sódio, Encontre Aqui!
 
->
-
+<br/>
 O **Hidróxido de Sódio (NaOH)**, também conhecido como **Soda Cáustica** é comercializado na forma sólida "Escamas" ou em solução cáustica alcalina de uso na indústria (principalmente como uma base química ) no fabrico de papel , têxteis e detergentes . 
 
 É utilizado na indústria do petróleo no desenvolvimento de lamas de perfuração, também são reconhecidos para desentupir ou desbloquear tubos de drenagem em cozinhas e banheiros e redes hidraúlicas de indústria, entre outros.
