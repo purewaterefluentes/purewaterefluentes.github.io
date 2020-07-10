@@ -8,18 +8,20 @@ subtitle: Hidróxido de Sódio
 
 O **Hidróxido de Sódio (NaOH)**, também conhecido como **Soda Cáustica** é comercializado na forma sólida "Escamas" ou em solução cáustica alcalina de uso na indústria (principalmente como uma base química ) no fabrico de papel , têxteis e detergentes . 
 
-**Soda Cáustica de uso Doméstico SODA-LIMP Escama®:** 
->Desincrustante Alcalino, Desentupir pias, Desentumpir ralos, limpeza de utensilios, desengraxante e limpeza geral.
-
-**Soda Cáustica de uso Doméstico SODA-LIMP50 Liquída®:** 
->Fabricação de Sabão, Desincrustante Alcalino, Desentupir pias, Desentumpir ralos, limpeza de utensilios, desengraxante e limpeza geral.
-
 É utilizado na indústria do petróleo no desenvolvimento de lamas de perfuração, também são reconhecidos para desentupir ou desbloquear tubos de drenagem em cozinhas e banheiros e redes hidraúlicas de indústria, entre outros.
 
 À temperatura ambiente, o hidróxido de sódio é um sólido cristalino branco inodoro que absorve a humidade do ar ( higroscópico ). 
 Quando dissolvido em água ou neutralizada com uma libertação de ácido de uma grande quantidade de calor pode ser suficiente para inflamar materiais combustíveis. O hidróxido de sódio é altamente corrosivo e geralmente ele é utilizado na forma sólida ou como uma solução a 50%.
 
 O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , explosivos, tintas e óleo. Ele também é usado no processamento de têxteis de algodão, lavandaria e branqueamento, revestimento de óxido, galvanoplastia e electrowinning. É comumente encontrado em drenagem e limpadores de forno. Ele também é usado como um removedor e marceneiros tinta para remover móveis de madeira tinta velha.
+
+### OPÇOES DE PRODUTOS:
+
+**Soda Cáustica de uso Doméstico SODA-LIMP Escama®:** (Embalagem: 1Kg)
+>Desincrustante Alcalino, Desentupir pias, Desentumpir ralos, limpeza de utensilios, desengraxante e limpeza geral.
+
+**Soda Cáustica de uso Doméstico SODA-LIMP50 Liquída®:** (Embalagem: 1Kg)
+>Fabricação de Sabão, Desincrustante Alcalino, Desentupir pias, Desentumpir ralos, limpeza de utensilios, desengraxante e limpeza geral.
 
 ### Propriedades Hidróxido de Sódio Sólido - Soda Escama
 
@@ -43,11 +45,6 @@ O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , exp
 
 ### Fornecimento da Soda Caustica
 
-**Soda-Limp Escama (Uso Doméstico)** - Soda Cáustica 1Kg 
-
-**Soda-Limp50 - Liquída (Uso Doméstico)** - Soda Cáustica 1Kg  
-
-**Uso Industrial**
 - Soda Cáustica Escama 98% em saco plastico de 25 Kg
 - Soda Cáustica Líquida em bombona plástica de 30 e 60 Kg
 - Soda Cáustica Líquida em container (IBC) plastico 1000 litros 
