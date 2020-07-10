@@ -4,6 +4,7 @@ pageTitle: SODA CAUSTICA | HIDROXIDO DE SÓDIO |PUREWATER EFLUENTES
 title: Soda Cáustica
 subtitle: Hidróxido de Sódio 
 ---
+### Comprar Soda Cáustica, Comprar Hidroxido de Sódio, Encontre Aqui!
 
 O **Hidróxido de Sódio (NaOH)**, também conhecido como **Soda Cáustica** é comercializado na forma sólida "Escamas" ou em solução cáustica alcalina de uso na indústria (principalmente como uma base química ) no fabrico de papel , têxteis e detergentes . 
 
@@ -20,7 +21,7 @@ Quando dissolvido em água ou neutralizada com uma libertação de ácido de uma
 
 O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , explosivos, tintas e óleo. Ele também é usado no processamento de têxteis de algodão, lavandaria e branqueamento, revestimento de óxido, galvanoplastia e electrowinning. É comumente encontrado em drenagem e limpadores de forno. Ele também é usado como um removedor e marceneiros tinta para remover móveis de madeira tinta velha.
 
-### **Propriedades Hidróxido de Sódio Sólido - Soda Escama**
+### Propriedades Hidróxido de Sódio Sólido - Soda Escama
 
 - Fórmula molecular: NaOH
 - Massa molar: 39.9971 g/mol
@@ -32,7 +33,7 @@ O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , exp
 - Ponto de ebulição: 1388 °C [1]
 - Solubilidade em água: 1090 g·l-1 a 20 °C  [1]
 
-### **Propriedades Hidróxido de Sódio 50% - Líquido**
+### Propriedades Soda 50% - Líquido
 
 - Aspecto: líquido levemente turvo
 - Cor: incolor a levemente cinza.
@@ -40,29 +41,18 @@ O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , exp
 - Densidade: >1,30 g/cm³.
 - Teor de NaOH: 46 a 52 (%).
 
-### **Toxicologia**
+### Fornecimento da Soda Caustica
 
-- Efeitos Locais: Muito perigoso em contato com olhos (irritante, corrosivo). Os efeitos nos olhos são caracterizados por vermelhidão, lacrimejamento e coceira.
+**Soda-Limp Escama (Uso Doméstico)** - Soda Cáustica 1Kg 
 
-- Sensibilização: Muito perigoso em contato com a pele (irritante, sensibilizante). Não é corrosivo para pele. O contato com a pele pode causar queimaduras. Os efeitos na pele são caracterizados por coceira, escamação, vermelhidão ou ocasionalmente, formação de bolhas.
+**Soda-Limp50 - Liquída (Uso Doméstico)** - Soda Cáustica 1Kg  
 
-- Efeitos específicos: Pode causar danos aos seguintes órgãos: trato respiratório superior, pele e olhos.
-
-### **Fornecimento da Soda Caustica**
-
-
->**Soda-Limp Escama (Uso Doméstico)** - Soda Cáustica 1Kg 
-
->**Soda-Limp50 - Liquída (Uso Doméstico)** - Soda Cáustica 1Kg  
-
->**Uso Industrial**
+**Uso Industrial**
 - Soda Cáustica Escama 98% em saco plastico de 25 Kg
 - Soda Cáustica Líquida em bombona plástica de 30 e 60 Kg
 - Soda Cáustica Líquida em container (IBC) plastico 1000 litros 
->
->
 
-### **Boletim Técnico | Soda Caustica**
+### Boletim Técnico | Soda Caustica
 
 {% include purewater/link-boletim.html label="Boletim Técnico Soda Cáustica Escama" arquivo="FISPQ SODA ESCAMA.pdf" %}
 
