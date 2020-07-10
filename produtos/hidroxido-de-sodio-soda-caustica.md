@@ -38,7 +38,7 @@ O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , exp
 - Aspecto: líquido levemente turvo
 - Cor: incolor a levemente cinza.
 - Solubilidade: solúvel em água em qualquer proporção
-- Densidade: >1,30 g/cm³.
+- Densidade: >1,40 g/cm³.
 - Teor de NaOH: 46 a 52 (%).
 
 ### Fornecimento da Soda Caustica
