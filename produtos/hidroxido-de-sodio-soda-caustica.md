@@ -24,6 +24,7 @@ O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , exp
 **Soda Cáustica de uso Doméstico SODA-LIMP50 Liquída®:** (Embalagem: 1Kg)
 >Fabricação de Sabão, Desincrustante Alcalino, Desentupir pias, Desentumpir ralos, limpeza de utensilios, desengraxante e limpeza geral.
 
+<br/>
 ### Propriedades Hidróxido de Sódio Sólido - Soda Escama
 
 - Fórmula molecular: NaOH
@@ -44,12 +45,12 @@ O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , exp
 - Densidade: >1,40 g/cm³.
 - Teor de NaOH: 46 a 52 (%).
 
-### Fornecimento da Soda Caustica
+### Fornecimento da Soda Caustica uso Industrial:
 
 - Soda Cáustica Escama 98% em saco plastico de 25 Kg
 - Soda Cáustica Líquida em bombona plástica de 30 e 60 Kg
 - Soda Cáustica Líquida em container (IBC) plastico 1000 litros 
-
+<br/>
 ### Boletim Técnico | Soda Caustica
 
 {% include purewater/link-boletim.html label="Boletim Técnico Soda Cáustica Escama" arquivo="FISPQ SODA ESCAMA.pdf" %}
