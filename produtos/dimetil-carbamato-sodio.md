@@ -2,13 +2,12 @@
 layout: contato
 pageTitle: Dimetil Carbamato de Sódio
 title: Dimetil Carbamato de Sódio
-subtitle: DDS - Ditiocarbamato de sódio
+subtitle: DDS - DimetilDitiocarbamato de sódio
 ---
 
 ### Apresentação
 
-O Dimetilditiocarbamato de Sódio (Organo-sulfuroso), pode atuar como biocida,complexantes e coagulante de metais.
-
+O **Dimetilditiocarbamato de Sódio** (Organo-sulfuroso), pode atuar como biocida,complexantes e coagulante de metais.
 
 Dimetilditiocarbamato de Sódio 40% também conhecido como "Ditiocarbamato de sódio" ou "Etileno Bis-ditiocarbamato de sódio" (Organo-sulfuroso), é indicado como biocida para processos de moagem do açúcar e na preservação do couro verde, como sequestrante de metais pesados em tratamento de efluentes, sendo extremamente efetivo para Chumbo, Cobre, Cádmio, Níquel, Alumínio e em processos de síntese de borracha.
 
@@ -27,7 +26,7 @@ O produto também é recomendado como biocida para aplicação na indústria de 
 
 - Tratamento de águas e efluentes industrial: Atuando como coagulante, o Ditiocarbamato de sódio desestabiliza partículas de sólidos e impurezas denominadas colóides, suspensas nas águas que não se separam naturalmente. 
 
-### Características
+### Características do Dimetilditiocarbamato de Sódio 
 
 - Aparência:Líquido límpido amarelado
 - Densidade à 20ºC: 1,05 - 1,20
