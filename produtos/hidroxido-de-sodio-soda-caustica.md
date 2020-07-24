@@ -16,7 +16,7 @@ Quando dissolvido em água ou neutralizada com uma libertação de ácido de uma
 
 O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , explosivos, tintas e óleo. Ele também é usado no processamento de têxteis de algodão, lavandaria e branqueamento, revestimento de óxido, galvanoplastia e electrowinning. É comumente encontrado em drenagem e limpadores de forno. Ele também é usado como um removedor e marceneiros tinta para remover móveis de madeira tinta velha.
 
- <img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/Policloreto de aluminio.png" alt="soda caustica">
+ <img class="img-responsive pull-right" style="max-width: 45%;" src="../../website/images/soda caustica.png" alt="soda caustica">
 
 ### Outras Opções de Produtos de Nossa Linha:
 
