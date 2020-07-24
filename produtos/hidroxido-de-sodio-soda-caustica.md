@@ -4,7 +4,7 @@ pageTitle: SODA CAUSTICA | HIDROXIDO DE SÓDIO |PUREWATER EFLUENTES
 title: Soda Cáustica
 subtitle: Hidróxido de Sódio 
 ---
-### Comprar Soda Cáustica, Comprar Hidroxido de Sódio, Encontre Aqui!
+### Comprar Soda Cáustica, Encontre Aqui!
 
 <br/>
 O **Hidróxido de Sódio (NaOH)**, também conhecido como **Soda Cáustica** é comercializado na forma sólida "Escamas" ou em solução cáustica alcalina de uso na indústria (principalmente como uma base química ) no fabrico de papel , têxteis e detergentes . 
@@ -18,34 +18,6 @@ O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , exp
 
  <img class="img-responsive pull-right" style="max-width: 45%;" src="../../website/images/soda caustica.png" alt="soda caustica">
 
-### Outras Opções de Produtos de Nossa Linha:
-
-**Soda Cáustica de uso Doméstico SODA-LIMP Escama®:** (Embalagem: 1Kg)
->Desincrustante Alcalino, Desentupir pias, Desentumpir ralos, limpeza de utensilios, desengraxante e limpeza geral.
-
-**Soda Cáustica de uso Doméstico SODA-LIMP50 Liquída®:** (Embalagem: 1Kg)
->Fabricação de Sabão, Desincrustante Alcalino, Desentupir pias, Desentumpir ralos, limpeza de utensilios, desengraxante e limpeza geral.
-
-<br/>
-### Propriedades Hidróxido de Sódio Sólido - Soda Escama
-
-- Fórmula molecular: NaOH
-- Massa molar: 39.9971 g/mol
-- Aparência	sólido branco
-- pH >12,5
-- higroscópico
-- Densidade	2,13 g·cm-3[1]
-- Ponto de fusão: 322 °C [1]
-- Ponto de ebulição: 1388 °C [1]
-- Solubilidade em água: 1090 g·l-1 a 20 °C  [1]
-
-### Propriedades Soda 50% - Líquido
-
-- Aspecto: líquido levemente turvo
-- Cor: incolor a levemente cinza.
-- Solubilidade: solúvel em água em qualquer proporção
-- Densidade: >1,40 g/cm³.
-- Teor de NaOH: 46 a 52 (%).
 
 ### Fornecimento da Soda Caustica uso Industrial:
 
