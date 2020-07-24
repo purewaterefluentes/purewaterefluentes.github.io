@@ -24,6 +24,7 @@ O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , exp
 - Soda Cáustica Escama 98% em saco plastico de 25 Kg
 - Soda Cáustica Líquida em bombona plástica de 30 e 60 Kg
 - Soda Cáustica Líquida em container (IBC) plastico 1000 litros 
+
 <br/>
 ### Boletim Técnico | Soda Caustica
 
