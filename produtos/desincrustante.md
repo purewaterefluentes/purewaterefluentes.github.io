@@ -17,7 +17,7 @@ O produto tem fácil aplicação e não expele vapores tóxicos e não danifica 
 
 Sendo usado como recirculação para limpeza de equipamentos dispensa demoradas operações de desmontagem hidráulica.
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Desincrustante_tubulação_agua.png" alt="Desincrustante">
+<img class="img-responsive pull-right" style="max-width: 80%;" src="../../website/images/Desincrustante_tubulação_agua.png" alt="Desincrustante">
 
 
 ### **Indicações de uso do Desincrustante**
