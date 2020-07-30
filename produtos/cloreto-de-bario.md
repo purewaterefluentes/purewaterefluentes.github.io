@@ -15,7 +15,7 @@ O **cloreto de bário**, de fórmula química BaCl2, é uma substância muito ut
 
 Possuí fácil aplicação e também pode ser aplicado em tratamento de água nos seguimentos de: Galvanoplastia, Lavanderia Industrial, Lavanderia Hospitalar, Cromeação, Curtumes, Industria Alimentícia e Industria farmacêutica e outras.
 
-### Transporte e Armazenagem do Cloreto de Bário
+### Armazenagem do Cloreto de Bário
 
 O armazenamento deve ser na embalagem original, em local coberto, seco e ventilado, afastado    de fontes de calor, sendo a temperatura máxima de conservação 45 °C. 
 Pode ocorrer a volatilização do produto em caso de estocagem por longos períodos e em condições adversas.
