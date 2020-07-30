@@ -47,7 +47,7 @@ robots: follow
 - [Cal Hidratada - Extra Purificada](cal-hidratada.html){:.btn .btn-link}
 - [Cloreto de Bário](cloreto-de-bario.html){:.btn .btn-link}
 - [Cloreto férrico](cloreto-ferrico.html){:.btn .btn-link}
-- [Dicloroisocianurato de Sódio](dicloroisocianurato.html){:.btn .btn-link}
+- [Dicloroisocianurato de Sódio](dicloroisocianurato-dicloro.html){:.btn .btn-link}
 - [Dimetil Carbamato de Sódio](dimetil-carbamato-sodio.html){:.btn .btn-link}
 - [Hidroxido de Sódio - Soda Cáustica](hidroxido-de-sodio-soda-caustica.html){:.btn .btn-link}
 - [Hipoclorito de calcio](hipoclorito-de-calcio.html){:.btn .btn-link}
