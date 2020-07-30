@@ -9,7 +9,7 @@ subtitle: Dicloro Granulado
 
 O **cloro Tripla Ação ou Cloro Orgânico Biodegradável** tem como principal composto o **Dicloroisocianurato de sódio** que é um composto orgânico, sólido de cor branca, e altamente solúvel em água. 
 
-O cloro tripla **(Dicloro)** ação é largamente usado como agente de limpeza, desinfetante, saneante e clarificante para inumeras aplicações.
+O cloro tripla ação **(Dicloro)**,  é largamente usado como agente de limpeza, desinfetante, saneante e clarificante para inumeras aplicações.
 Possui PH levemente ácido e é largamente usado no tratamento de água e como agente saneante. Este composto é considerado relativamente estável e possui mais cloro disponível do que o hipoclorito de sódio (alvejante líquido).
 Possui tripla ação no tratamento de água, como; Bactericida, Algicida e clarificante.
 
