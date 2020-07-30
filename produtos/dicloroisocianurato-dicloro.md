@@ -43,3 +43,5 @@ Possui tripla ação no tratamento de água, como; Bactericida, Algicida e clari
 {% include purewater/link-boletim.html label="Boletim Técnico Dicloro Orgânico granulado" arquivo="BOLETIM TÉCNICO AQUA-POOLISO - DICLORO.pdf" %}
 
 
+
+
