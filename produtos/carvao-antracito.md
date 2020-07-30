@@ -1,15 +1,15 @@
 ---
 layout: contato
-pageTitle: CARVÃO ANTRACITO | CARVÃO MINERAL ANTRACITO | PUREWATER EFLUENTES
+pageTitle: CARVÃO ANTRACITO | CARVÃO MINERAL ANTRACITOSO | PUREWATER EFLUENTES
 title: Carvão Antracito
-subtitle: AQUA-CMA
+subtitle: AQUA-CMA ANTRACITOSO
 ---
 
-### Apresentação
+### Compre o melhor Carvão Atracitoso
 
 <img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/Carvão ativado granulado.jpg" alt="Carvão Antracito mineral">
 
-O **Carvão Antracito** é um elemento de filtração de origem mineral e com grande capacidade de coletar e purificar gases, líquidos ou impurezas no interior dos seus poros, apresentando portanto um excelente poder de clarificação e purificação de líquidos ou gases.
+O **Carvão Antracito,** também chamado de carvão antracitoso, é um elemento de filtração de origem mineral e com grande capacidade de coletar e purificar gases, líquidos ou impurezas no interior dos seus poros, apresentando portanto um excelente poder de clarificação e purificação de líquidos ou gases.
 
 O carvão antracito possui uma grande quantidade de carbono e pouquíssimas impurezas em sua composição e, por essa razão, é muito comum ser utilizado em equipamentos de filtração em tratamento de água.
 
