@@ -5,7 +5,11 @@ title: Cloreto de Bário
 subtitle: 
 ---
 
+### Compre Cloreto de Bário na Fabrica
+
 O **cloreto de bário**, de fórmula química BaCl2, é uma substância muito utilizada no setor de metalurgia em sais de têmpera, com a finalidade de aumentar a dureza de ferro-ligas e/ou aços (tratamento térmico de metais). É utilizado também em indústrias de sais de bário e em indústrias para eliminação de sulfato. 
+
+<img class="img-responsive pull-right" style="max-width: 75%;" src="../../website/images/cloreto de bário.png" alt="Cloreto de Bário">
 
 É um sólido branco em temperatura ambiente, conduz corrente elétrica em estado líquido, sendo, assim, uma substância iônica.
 
