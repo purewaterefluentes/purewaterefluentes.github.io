@@ -5,7 +5,7 @@ title: Cloro Liquido
 subtitle: Cloro Concentrado
 ---
 
-### Comprar Cloro Concentrado Líquido.
+### Compre Cloro Concentrado Líquido.
 
 
 ### HIPOCLORE:
@@ -41,7 +41,7 @@ Agindo com Alta Performance, garantindo otima eficiência.
 ### Funcionalidades do Cloro Liquído
 
 - Eficiente na clarificação de água
-- Ótimo agente de limpeza e agente bactericida
+- Cloro concentrado é um ótimo agente de limpeza e agente bactericida
 - Alta concentração de cloro ativo
 - 100% solúvel em água
 - Fácil operacão e manuseio
