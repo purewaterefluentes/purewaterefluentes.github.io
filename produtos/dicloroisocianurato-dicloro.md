@@ -1,11 +1,11 @@
 ---
 layout: contato
-pageTitle: Cloro Tripla Ação, cloro orgânico, cloro granulado, Dicloro Estabilizado, cloro para piscina, cloro multiação, cloro
+pageTitle: Cloro Tripla Ação, Cloro Orgânico, Dicloro Granulado
 title: Dicloroisocianurato de Sódio
-subtitle: Cloro Organico Estabilizado
+subtitle: Dicloro Granulado
 ---
 
-### Apresentação
+### Compre Dicloro Granulado
 
 O **cloro Tripla Ação ou Cloro Orgânico Biodegradável** tem como principal composto o **Dicloroisocianurato de sódio** que é um composto orgânico, sólido brancor, altamente solúvel em água. 
 
@@ -24,7 +24,7 @@ Possui tripla ação no tratamento de água, como; Bactericida, Algicida e clari
 - agente bactericida, clarificante, algicida em tratamento de água de piscina ou tratamento de águas residencial ou industrial
 
 
-### Características do Cloro Tripla Ação
+### Características do Dicloro Granulado
 
 - O dicloro Isocianurato de sódio possui alto teor de cloro estabilizado
 - Alto teor de cloro livre (>65% de cloro)
