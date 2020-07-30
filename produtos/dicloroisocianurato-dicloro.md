@@ -19,9 +19,8 @@ Possui tripla ação no tratamento de água, como; Bactericida, Algicida e clari
 - Dicloroisocianurato é principalmente usado como um desinfetante, biocida, desodorante e detergente industrial. 
 - É encontrado em alguns tabletes ou filtros para purificação de água. 
 - Cloro tripla ação possuí uma fonte de lenta liberação de cloro em baixas concentrações a uma taxa relativamente constante. 
-- Dicloro é usado para desinfecção e esterilizar água potável, piscinas, instrumentos de cozinha e ar, na luta contra as doenças.     
-  infecciosas como rotina de desinfecção.
-- agente bactericida, clarificante, algicida em tratamento de água de piscina ou tratamento de águas residencial ou industrial.
+- Dicloro é usado para desinfecção e esterilizar água potável, piscinas, instrumentos de cozinha e ar, na luta contra as doenças infecciosas.     
+- Usado como agente bactericida, clarificante, algicida em tratamento de água de piscina ou tratamento de águas residencial ou industrial.
 
 
 ### Características do Dicloro Granulado
