@@ -44,6 +44,7 @@ O produto deve se manter em ação no circuito por no minimo 15 minutos para que
 - IBC de 1000 litros
 
 
-**IMPORTANTE:** Verificar a incompatibilidade do produto com superfícies tais como; alumínio, zinco, cobre, estanhos ou ligas com esses elementos.
+**IMPORTANTE:** 
+- Verificar a incompatibilidade do produto com superfícies tais como; alumínio, zinco, cobre, estanhos ou ligas com esses elementos.
 
 
