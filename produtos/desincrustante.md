@@ -17,7 +17,7 @@ O produto tem fácil aplicação e não expele vapores tóxicos e não danifica 
 
 Sendo usado como recirculação para limpeza de equipamentos dispensa demoradas operações de desmontagem hidráulica.
 
-<img class="img-responsive pull-right" style="max-width: 80%;" src="../../website/images/Desincrustante_tubulação_agua.png" alt="Desincrustante">
+<img class="img-responsive pull-right" style="max-width: 90%;" src="../../website/images/Desincrustante_tubulação_agua.png" alt="Desincrustante">
 
 
 ### **Indicações de uso do Desincrustante**
@@ -44,8 +44,6 @@ O produto deve se manter em ação no circuito por no minimo 15 minutos para que
 - IBC de 1000 litros
 
 
-**IMPORTANTE:** Antes da aplicação, verificar a incompatibilidade do produto com superfícies tais como; alumínio, zinco, cobre, estanhos ou ligas com esses elementos.
-
-
+**IMPORTANTE:** Verificar a incompatibilidade do produto com superfícies tais como; alumínio, zinco, cobre, estanhos ou ligas com esses elementos.
 
 
