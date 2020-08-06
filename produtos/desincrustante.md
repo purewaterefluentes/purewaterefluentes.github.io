@@ -2,14 +2,14 @@
 layout: contato
 pageTitle: DESINCRUSTANTE | FABRICA | PUREWATER EFLUENTES
 title: Desincrustante
-subtitle: AQUA-DSF400
+subtitle: Desincrustante para Caldeiras - Torre de Resfriamento
 ---
 
-### **Desincrustante AQUA-DSF400**
+### **Desincrustante**
 
 Designam-se por incrustações os depósitos que se formam no interior de linhas hidráulicas, equipamentos e acessórios industriais, devido à fixação de substâncias em suspensão e da precipitação de sólidos dissolvidos que se transformam em sólidos insolúveis devido ao aumento da temperatura. 
 
->**AQUA-DSF400** é composto por agentes químicos limpadores balanceados, o produto dissolve e deixa em suspensão as crostas formadas internamente por carbonatos, silicatos e oxido de ferro.
+>**Nossa Linha de Desincrustante** é composta por agentes químicos limpadores balanceados, o produto dissolve e deixa em suspensão as crostas formadas internamente por carbonatos, silicatos e oxido de ferro.
 
 Possuí eficiente ação penetrante e de dissolução de sais, o desincrustante desprende rapidamente toda a incrustação formada nas paredes dos tubos e equipamentos.
 
@@ -44,6 +44,8 @@ O produto deve se manter em ação no circuito por no minimo 15 minutos para que
 - IBC de 1000 litros
 
 
-**IMPORTANTE:** O produto não deve ser usado sobre alumínio, zinco, cobre, estanhos ou ligas com esses elementos.
+**IMPORTANTE:** Antes da aplicação, verificar a incompatibilidade do produto com superfícies tais como; alumínio, zinco, cobre, estanhos ou ligas com esses elementos.
+
+
 
 
