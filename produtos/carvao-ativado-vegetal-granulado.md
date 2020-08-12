@@ -9,7 +9,7 @@ subtitle: Carvão Ativado Vegetal
 
 É um material com capacidade de coletar e purificar seletivamente gases, líquidos ou impurezas no interior dos seus poros, apresentando portanto um excelente poder de clarificação, desodorização e purificação de líquidos ou gases.
 
-## Principais Aplicações do Carvão Ativado:
+### Principais Aplicações do Carvão Ativado:
 
 - Carvão Ativado para Filtro.
 - Filtragem de água potável.
@@ -25,9 +25,9 @@ Carvão Ativo ou Carvão Ativado é um produto quimicamente inerte e usado para 
 
 Sinônimos: Carvão ativo, Carbono ativo, Carbono ativado, Carvão antracito, Carvão ativado vegetal
 
-<img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/Carvão ativado granulado.jpg" alt="Carvão Ativado Granulado">
+<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Carvão ativado granulado.jpg" alt="Carvão Ativado Granulado">
 <br />
-<font size="10">TIPOS DE CARVÃO</font>
+<font size="09">TIPOS DE CARVÃO</font>
 
 ### Carvão Ativado Granulado 
 Fabricado através do processo de carboativação física com alta temperatura em processo contínuo e controlado, o que lhe confere grande área superficial de adsorção, distribuição uniforme de poros e elevada dureza (que evita a geração de finos no leito filtrante)
