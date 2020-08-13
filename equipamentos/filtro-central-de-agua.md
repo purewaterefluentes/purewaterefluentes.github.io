@@ -1,13 +1,13 @@
 ---
 layout: contato
-pageTitle: FILTRO CENTRAL DE ÁGUA EM FIBRA |FABRICA |PUREWATER EFLUENTES
+pageTitle: FILTRO CENTRAL DE ÁGUA |FABRICA |PUREWATER EFLUENTES
 title: Filtro Central de Água 
-subtitle: Fibra Industrial - Fiberglass (PRFV)
+subtitle: Filtro de Água Industrial - Fiberglass (PRFV)
 ---
 
 <img class="img-responsive pull-right" style="max-width: 52%;" src="../../website/images/cyber_tank.jpg" alt="Filtro de Agua em Fiberglass">
 
-### Comprar Filtro de Água, encontre Aqui.
+### Comprar Filtro de Água, Encontre Aqui.
 
 ### Filtro Central de Água
 
