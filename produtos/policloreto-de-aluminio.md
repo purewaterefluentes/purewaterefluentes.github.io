@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: Policloreto de Alumínio (PAC18%) |PUREWATER EFLUENTES |FABRICANTE
+pageTitle: Policloreto de Alumínio |PAC18% |PUREWATER EFLUENTES 
 title: Policloreto de Alumínio
 subtitle: PAC18% - Policloreto de Aluminio
 ---
