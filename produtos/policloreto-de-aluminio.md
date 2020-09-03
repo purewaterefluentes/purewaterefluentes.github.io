@@ -15,10 +15,12 @@ O policloreto de alumínio também conhecido como: PAC18 ou cloreto de polialum�
 
 ### Utilização do Policloreto de Alumínio 18%
 
-O Policloreto de Alumínio 18% deve ser aplicado puro ou diluído em água em uma solução não inferior a 10%. 
-O ponto de aplicação do coagulante Policloreto de Alumínio 18% deve ser imediatamente anterior ao ponto de maior agitação, ou diretamente neste ponto. 
+O Policloreto de Alumínio 18% deve ser aplicado puro ou diluído em água em uma solução não inferior a 10%. O ponto de aplicação do coagulante Policloreto de Alumínio 18% deve ser imediatamente anterior ao ponto de maior agitação, ou diretamente neste ponto. 
+
 Garantindo uma perfeita mistura do produto com a água ou efluente a ser tratado. 
+
 A dosagem deve ser determinada por ensaios de **Jar Test** por ser grande a variação de sistema para sistema. 
+
 A dosagens varia de acordo com as características da água ou efluente industrial a ser tratado.
 
 ### Tipos e concentrações de policloreto de alumínio
