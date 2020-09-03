@@ -44,16 +44,6 @@ A dosagens varia de acordo com as características da água ou efluente industri
    label="Boletim Técnico Policloreto de Alumínio - Alta Basicidade" 
    arquivo="BOLETIM TÉCNICO - BASE-PAC - REVISADO.pdf" %}
  <
- 
-### Benefícios no uso de Policloreto de Alumínio - Alta Basicidade
-
-- Tem pouco ou nenhum efeito no pH da água "Não altera o pH da água"
-- É efetivo em uma larga faixa de pH
-- Elimina a utilização de Sulfato de alumínio;
-- Elimina ou reduz a necessidade de ajuste do pH;
-- Forma flocos grandes rígidos e pesados, elevando a velocidade de decantação;
-- Remove eficientemente a cor orgânica;
-- Resistente ao cloro e pode ser usado em sistemas pré- clorados sem redução na atividade química .
 
 ### Embalagem do Policloreto de Alumínio
 
