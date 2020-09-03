@@ -5,8 +5,6 @@ title: Policloreto de Alumínio
 subtitle: PAC18% - Cloreto de Polialumínio
 ---
 
-### Comprar Policloreto de Alumínio no Fabricante, Encontre Aqui.
-
 ### Propriedades do Policloreto de Alumínio
 
 O **Policloreto de Alumínio** é um coagulante inorgânico catiônico pré polimerizado de baixo peso molecular a base de policloreto de alumínio, utilizado em processos de tratamento de águas, esgoto, petróleo, mineração e Açucar.
