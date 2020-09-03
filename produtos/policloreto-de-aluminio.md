@@ -13,6 +13,8 @@ O PoliCloreto de Alumínio tem como caracteristica química agregar em sua molé
 
 O policloreto de alumínio também conhecido como: PAC18 ou cloreto de polialumínio proporciona ao entrar em contato com o líquido, núcleos de geração de incremento de floculação e sua hidrólise se desenvolve muito mais lentamente, facilitando assim o processo de neutralização das cargas. 
 
+ <img class="img-responsive pull-right" style="max-width: 100;" src="../../website/images/Policloreto de aluminio.png" alt="Policloreto de alumínio">
+
 ### Utilização do Policloreto de Alumínio 18%
 
 O Policloreto de Alumínio 18% deve ser aplicado puro ou diluído em água em uma solução não inferior a 10%. O ponto de aplicação do coagulante Policloreto de Alumínio 18% deve ser imediatamente anterior ao ponto de maior agitação, ou diretamente neste ponto. 
@@ -30,7 +32,6 @@ A dosagens varia de acordo com as características da água ou efluente industri
 
 - BASE-PAC - Policloreto de alumínio -**Alta Basicidade** (não altera o pH da água)
     
- <img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/Policloreto de aluminio.png" alt="Policloreto de alumínio">
    
 ### Informativo Técnico do Policloreto de Alumínio
 
