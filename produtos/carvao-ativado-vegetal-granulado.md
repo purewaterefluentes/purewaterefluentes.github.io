@@ -50,7 +50,7 @@ Disponivel na forma de pó (pulverizado)
 ### Especificações do Produto
 
 {% include purewater/link-boletim.html 
-   label="Tabela Granulométrica - Carvão Ativado" 
+   label="TABELAS DE GRANULOMETRIA CARVAO ATIVO.pdf" 
    arquivo="Tabela Granulométrica Carvão Ativado.pdf" %}
 
 {% include purewater/link-boletim.html 
