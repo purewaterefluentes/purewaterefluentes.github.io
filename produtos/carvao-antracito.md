@@ -2,7 +2,7 @@
 layout: contato
 pageTitle: CARVÃO ANTRACITO de 0,8 a 1,0mm  | FABRICA DE CARVÃO   
 title: Carvão Antracito
-subtitle: AQUA-CMA ANTRACITOSO
+subtitle: CARVÃO MINERAL ANTRACITOSO
 ---
 
 ### Compre o melhor Carvão Atracitoso
@@ -32,7 +32,7 @@ Destinado à filtração em filtros de camada dupla (areia e antracito), com uso
 
 **Grãos variando de:** 0,8 até 1,1mm (Abertura max. 0,5 a 3,2mm)
 
-### Fornecimento:
+### Fornecimento de Carvão Mineral Antracitoso:
 Carvão antracito mineral em Sacos de 25Kg
 
 
