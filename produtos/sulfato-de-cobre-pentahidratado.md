@@ -1,12 +1,10 @@
 ---
 layout: contato
-pageTitle: Sulfato de Cobre Pentahidratado | Sulfato de Cobre | Purewater Efluentes
+pageTitle: Sulfato de Cobre Pentahidratado - Purewater Efluentes
 title: Sulfato de Cobre 
-subtitle: PENTAHIDRATADO
+subtitle: SULFATO PENTAHIDRATADO
 ---
 ### Apresentação do Sulfato de Cobre
-
->A Purewater distribui o melhor sulfato de cobre do mercado, com melhor preço e qualidade.
 
 O **Sulfato de cobre pentahidratado** tem sua origem do sulfato de Cobre (II) ou Sulfato Cúprico que é um composto químico com fórmula molecular CuSO4. Este sal existe sob algumas formas, dentre elas a sua forma penta-hidratada **(CuSO4.5H2O)**, a forma no qual é mais encontrada e apresentando cor azul brilhante. 
 
