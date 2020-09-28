@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: CARVÃO ANTRACITO | CARVÃO MINERAL ANTRACITOSO | PUREWATER EFLUENTES
+pageTitle: CARVÃO ANTRACITO de 0,8 a 1,0mm  | FABRICA DE CARVÃO   
 title: Carvão Antracito
 subtitle: AQUA-CMA ANTRACITOSO
 ---
