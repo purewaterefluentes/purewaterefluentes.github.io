@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: HIPOCLORITO DE SÓDIO | FABRICA | PUREWATER EFLUENTES
+pageTitle: HIPOCLORITO DE SÓDIO | CLORO | FABRICA | PUREWATER EFLUENTES
 title: Hipoclorito de Sódio
 subtitle: Cloro Hipoclorito 12%
 ---
