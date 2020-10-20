@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: SULFATO DE ALUMÍNIO | FABRICA | PUREWATER EFLUENTES 
+pageTitle: SULFATO DE ALUMÍNIO | TRATAMENTO DE ÁGUA | SULFATO DE ALUMINIO PARA PISCINA 
 title: Sulfato de Alumínio
 subtitle: Sulfato de alumíno para tratamento de água.
 ---
@@ -20,8 +20,14 @@ Nosso departamento técnico irá orienta-lo sobre a melhor aplicação do sulfat
 
 <img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/sulfato de aluminio_purewater.jpg" alt="Sulfato de Aluminio">
 
+### Aplicações do Sulfato de Alumínio:
 
-### **Sulfato de Alumínio para Piscina**
+- Sulfato de Aluminio para Tratamento de Água
+- Sulfato de Aluminio para Piscina
+- Sulfato de Aluminio para Tratamento de Efluentes
+- Sulfato de Aluminio Coagulante
+
+### Sulfato de Alumínio para Piscina
 
 É muito comum em água de piscina à proliferação de algas, bactérias, fungos, além da presença de carga orgânica liberada pelo suor . 
 O sulfato de alumínio é muito eficaz para uso na clarificação de águas de piscina, apresentando grande eficiência no processo de decantação.
@@ -37,7 +43,7 @@ Antes de iniciar o tratamento com o produto Sulfato de Alumínio é importante m
 > 3. Para obter uma decantação completa e uniforme, deixe a água em repouso por um período de 12 horas. Em seguida, aspire cuidadosamente o fundo da piscina. ATENÇÃO: use o filtro na posição "DRENAR".
 
 
-### **Tipos Fabricados**
+### Tipos Fabricados
 
 - Sulfato de Alumínio Ferroso Líquido 
 - Sulfato de Alumínio Ferroso Granulado
@@ -45,13 +51,13 @@ Antes de iniciar o tratamento com o produto Sulfato de Alumínio é importante m
 - Sulfato de Alumínio Isento de Ferro Líquido
 - Sulfato de Alumínio Isento de Ferro Granulado
 
-### **Embalagens**
+### Embalagens
 
 - Sulfato de alumínio em Saco de 25kg
 - Sulfato de alumínio em bombona Plastica de 50Kg
 - Sulfato de alumínio em container plastico de 1000 litros.
 
-### **Boletim Técnico do Sulfato de Alumínio**
+### Boletim Técnico do Sulfato de Alumínio
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Sulfato de Alumínio Granulado" 
@@ -60,3 +66,5 @@ Antes de iniciar o tratamento com o produto Sulfato de Alumínio é importante m
 {% include purewater/link-boletim.html 
     label="Boletim Técnico Sulfato de Alumínio Líquido" 
     arquivo="Boletim-tecnico-sulfato-aluminio-isento-liquido.pdf" %}
+    
+    
