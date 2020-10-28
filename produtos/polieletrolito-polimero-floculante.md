@@ -9,8 +9,6 @@ A Linha de **Polímero Floculante ou Polieletrólito** da Purewater Efluentes ba
 
 A floculação no campo da química, é o processo onde colóides saem de suspensão na forma de agregados, formando partículas maiores, ditos "flocos" ou "flóculos".
 
- <img class="img-responsive pull-right" style="max-width: 25;" src="../../website/images/polimero floculante_tratamento_de_agua.png" alt="Polimero floculante">
-
 > ### CLASSIFICAÇÃO
 
 >
@@ -27,6 +25,7 @@ Polímeros aniônicos são usados como agentes clarificantes em decantação e t
 
 O polímero floculante possui ação higroscópica e de atração molecular, criando pontes entre as partículas já formadas no tratamento de efluentes e sua estrutura, fazendo com que este aumente sua densidade e potencialize o poder de separação fase solido e água.
 
+<img class="img-responsive pull-right" style="max-width: 25;" src="../../website/images/polimero floculante_tratamento_de_agua.png" alt="Polimero floculante">
 
 ### **Aplicações do Polieletrolito Floculante**
 
