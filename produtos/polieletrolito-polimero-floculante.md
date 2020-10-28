@@ -4,6 +4,7 @@ pageTitle: POLIMERO FLOCULANTE |TRATAMENTO DE ÁGUA |PUREWATER EFLUENTES
 title: Polímero Floculante
 subtitle: Polieletrólito para tratamento água
 ---
+<img class="img-responsive pull-right" style="max-width: 100;" src="../../website/images/polimero floculante_tratamento_de_agua.png" alt="Polimero floculante">
 
 A Linha de **Polímero Floculante ou Polieletrólito** da Purewater Efluentes basea-se em compostos específicos de polímero de acrilamida com variados tipos de cargas e pesos molecular, atuando como floculante e agindo como ponte na formação flóculos "flocos" com alta densidade em tratamento de água ou tratamento de efluentes.
 
@@ -17,7 +18,7 @@ A floculação no campo da química, é o processo onde colóides saem de suspen
 - POLÍMERO NÃO-IÔNICO
 >
 
-<img class="img-responsive pull-right" style="max-width: 100;" src="../../website/images/polimero floculante_tratamento_de_agua.png" alt="Polimero floculante">
+
 
 ### **Mecânismo de ação do Polímero Floculante**
 
