@@ -18,8 +18,6 @@ A floculação no campo da química, é o processo onde colóides saem de suspen
 - POLÍMERO NÃO-IÔNICO
 >
 
-
-
 ### **Mecânismo de ação do Polímero Floculante**
 
 **Como exemplo:** um polímero aniônico é aquele que devido à alta densidade de suas cargas negativas em sua cadeia, atrai e se liga à moléculas de predominantes cargas positivas. 
@@ -31,17 +29,14 @@ O polímero floculante possui ação higroscópica e de atração molecular, cri
 ### **Aplicações do Polieletrolito Floculante**
 
 - Floculante em tratamento de efluentes.
-- Auxiliar de filtração e floculação para uso em tratamento de água.
-- Auxiliar de floculação para uso em tratamento de efluentes industrial.
-- Espessante para torta ou lodo de tratamento de efluentes.
-- Auxiliar de processos industriais como espessante.
+- Polímero auxiliar de filtração
+- Polímero de floculação para uso em tratamento de água.
+- Polímero espessante para torta ou lodo de tratamento de efluentes.
+- Polímero auxiliar em processos industriais como espessante.
 
 ### **Características do Polimero Floculante**
 
 - Composição Química:**a base de políacrilaminas ou políacrilatos de carga variada.**
-- Estado Físico: Solido (Polímero aniônico granulado) e (Polímero Catiônico Granulado) ou Polímero emulsão.
-- Aparência: Variado
-- Odor: Inodoro
 
 ### **Embalagens**
 
