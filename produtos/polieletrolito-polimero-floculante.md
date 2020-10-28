@@ -36,7 +36,7 @@ O polímero floculante possui ação higroscópica e de atração molecular, cri
 
 ### **Características do Polimero Floculante**
 
-- Composição Química:** Políacrilaminas ou políacrilato de sódio de carga variada.**
+- Composição Química: Políacrilaminas ou políacrilato de sódio de carga variada
 
 ### **Embalagens**
 
