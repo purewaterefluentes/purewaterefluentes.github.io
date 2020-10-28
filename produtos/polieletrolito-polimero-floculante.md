@@ -17,7 +17,8 @@ A floculação no campo da química, é o processo onde colóides saem de suspen
 - POLÍMERO NÃO-IÔNICO
 >
 
-
+ <img class="img-responsive pull-right" style="max-width: 75;" src="../../website/images/polimero floculante_tratamento_de_agua.png" alt="Polimero floculante">
+ 
 ### **Mecânismo de ação do Polímero Floculante**
 
 **Como exemplo:** um polímero aniônico é aquele que devido à alta densidade de suas cargas negativas em sua cadeia, atrai e se liga à moléculas de predominantes cargas positivas. 
