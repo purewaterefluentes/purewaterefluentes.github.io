@@ -17,7 +17,7 @@ A floculação no campo da química, é o processo onde colóides saem de suspen
 - POLÍMERO NÃO-IÔNICO
 >
 
-<img class="img-responsive pull-right" style="max-width: 10;" src="../../website/images/polimero floculante_tratamento_de_agua.png" alt="Polimero floculante">
+<img class="img-responsive pull-right" style="max-width: 15;" src="../../website/images/polimero floculante_tratamento_de_agua.png" alt="Polimero floculante">
 
 ### **Mecânismo de ação do Polímero Floculante**
 
