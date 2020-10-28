@@ -9,6 +9,8 @@ A Linha de **Polímero Floculante ou Polieletrólito** da Purewater Efluentes ba
 
 A floculação no campo da química, é o processo onde colóides saem de suspensão na forma de agregados, formando partículas maiores, ditos "flocos" ou "flóculos".
 
+ <img class="img-responsive pull-right" style="max-width: 25;" src="../../website/images/polimero floculante_tratamento_de_agua.png" alt="Polimero floculante">
+
 > ### CLASSIFICAÇÃO
 
 >
@@ -17,8 +19,6 @@ A floculação no campo da química, é o processo onde colóides saem de suspen
 - POLÍMERO NÃO-IÔNICO
 >
 
- <img class="img-responsive pull-right" style="max-width: 25;" src="../../website/images/polimero floculante_tratamento_de_agua.png" alt="Polimero floculante">
- 
 ### **Mecânismo de ação do Polímero Floculante**
 
 **Como exemplo:** um polímero aniônico é aquele que devido à alta densidade de suas cargas negativas em sua cadeia, atrai e se liga à moléculas de predominantes cargas positivas. 
@@ -48,6 +48,4 @@ O polímero floculante possui ação higroscópica e de atração molecular, cri
 - Polimero Floculante em bombona plastica de 25 Kg
 - Polimero Floculante em saco de polietileno de 25 Kg
 - Polimero Floculante em Container (IBC) de 1000Kg
-
-
 
