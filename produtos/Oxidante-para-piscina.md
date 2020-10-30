@@ -7,6 +7,8 @@ subtitle: TRATAMENTO DE PISCINAS
 
 ### Oxidante para Piscinas
 
+<img class="img-responsive pull-right" style="max-width: 90;" src="../../website/images/polimero floculante_tratamento_de_agua.png" alt="Polimero floculante">
+
 **AQUA-PHOS®** É um produto de fácil aplicação e atua como agente oxidante para águas de piscinas e spas que utilizam ou não o cloro e que necessitam de oxidação frequente para destruir os poluentes que consomem o residual de cloro livre, causam turbidez na água, odores desagradáveis e irritação da pele e dos olhos. 
 
 A supercloração pode agravar o problema na qualidade da água gerando cloraminas na piscina, obrigando à interdição da piscina até que seu residual baixe. Realizando oxidação de choque semanalmente com **AQUA-PHOS®** a eliminação desses e outros contaminantes orgânicos é feita mais rapidamente, com maior eficácia e o residual de cloro fica livre para a tarefa de desinfecção com a maxima efeciência.  
