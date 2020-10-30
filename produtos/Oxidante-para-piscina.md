@@ -7,7 +7,7 @@ subtitle: TRATAMENTO DE PISCINAS
 
 ### Oxidante para Piscinas
 
-<img class="img-responsive pull-right" style="max-width: 90;" src="../../website/images/polimero floculante_tratamento_de_agua.png" alt="Polimero floculante">
+<img class="img-responsive pull-right" style="max-width: 80;" src="../../website/images/Oxidante para piscina.png" alt="Oxidante para piscina">
 
 **AQUA-PHOS®** É um produto de fácil aplicação e atua como agente oxidante para águas de piscinas e spas que utilizam ou não o cloro e que necessitam de oxidação frequente para destruir os poluentes que consomem o residual de cloro livre, causam turbidez na água, odores desagradáveis e irritação da pele e dos olhos. 
 
