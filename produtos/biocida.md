@@ -4,6 +4,8 @@ pageTitle: Biocida - Microbactericida
 title: Biocida
 subtitle: Biocida para tratamento de efluentes
 ---
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/anti-incrustante para caldeira.jpg" alt="Biocida industrial_Torre de Resfriamento">
+
 ### **Apresentação do Aditivo-BIO**
 
 O Aditivo-BIO, ou **biocida ou bactericida** (Também conhecido como Microbactericida de uso Industrial), da linha Purewater Efluentes possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em **sistema de águas de recirculação industrial.** 
