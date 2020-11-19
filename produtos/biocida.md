@@ -2,7 +2,7 @@
 layout: contato
 pageTitle: Biocida - Microbactericida - Torre de Resfriamento
 title: Biocida
-subtitle: Biocida para tratamento de efluentes
+subtitle: Tratamento de Torre de Resfriamento - Chiller - Caldeiras
 ---
 <img class="img-responsive center" style="max-width: 100%;" src="../../website/images/Biocida Industrial-torre-de-resfriamento.png" alt="Biocida industrial_Torre de Resfriamento">
 
