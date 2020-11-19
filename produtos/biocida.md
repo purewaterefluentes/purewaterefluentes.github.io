@@ -4,7 +4,7 @@ pageTitle: Biocida - Microbactericida
 title: Biocida
 subtitle: Biocida para tratamento de efluentes
 ---
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/anti-incrustante para caldeira.jpg" alt="Biocida industrial_Torre de Resfriamento">
+<img class="img-responsive center" style="max-width: 70%;" src="../../website/images/Biocida Industrial-torre-de-resfriamento.png" alt="Biocida industrial_Torre de Resfriamento">
 
 ### **Apresentação do Aditivo-BIO**
 
