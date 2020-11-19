@@ -1,23 +1,23 @@
 ---
 layout: contato
-pageTitle: Biocida - Microbactericida 
+pageTitle: Biocida - Microbactericida - Torre de Resfriamento
 title: Biocida
 subtitle: Biocida para tratamento de efluentes
 ---
-<img class="img-responsive center" style="max-width: 70%;" src="../../website/images/Biocida Industrial-torre-de-resfriamento.png" alt="Biocida industrial_Torre de Resfriamento">
+<img class="img-responsive center" style="max-width: 100%;" src="../../website/images/Biocida Industrial-torre-de-resfriamento.png" alt="Biocida industrial_Torre de Resfriamento">
 
-### **Apresentação do Aditivo-BIO**
+### Apresentação
 
-O Aditivo-BIO, ou **biocida ou bactericida** (Também conhecido como Microbactericida de uso Industrial), da linha Purewater Efluentes possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em **sistema de águas de recirculação industrial.** 
+O **Aditivo-BIO**, atua como**biocida ou bactericida** (Também conhecido como Microbactericida de uso Industrial), possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em **sistema de águas de recirculação industrial,** e sistemas como; **Torre de Resfriamento, Chiller de água gelada, Caldeiras**. 
 
 - Importante: Produto **não deve ser aplicado** em água potável (Consumo Humano), produto apenas de uso industrial. 
 
-### **Aplicação do Aditivo-BIO**
+### Aplicação do Aditivo-BIO
 
 - Usado como agente bactericida, biocida, algicida e fungicida em tratamento de água de refrigeração em sistema de recirculação.
-- Tais como: Torres de resfriamento, Chiller de refrigeração, centrais de refrigeração.
+- Protetivo para: Torres de resfriamento, Chiller de refrigeração, centrais de refrigeração e Caldeiras.
 
-### **Características do Biocida**
+### Características do Biocida
 
 - Biocida com alto poder bactericida, algicida e fungicida
 - Biocida para tratamento de água ou efluentes que não altera o pH do meio aquoso
@@ -26,12 +26,12 @@ O Aditivo-BIO, ou **biocida ou bactericida** (Também conhecido como Microbacter
 - Aumenta a vida útil do sistema hidráulico e equipamentos
 - Reduz os ciclos de manutenção
 
-### **Embalagens do Micro-Bactericida**
+### Embalagens do Micro-Bactericida
 
 - Biocida em bombonas plásticas de 25 e 50 Kg
 - Biocida em Container plástico IBC de 1000 litros
 
-### **Boletim Técnico Micro-Bactericida**
+### Boletim Técnico Micro-Bactericida 
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Aditivo-BIO" 
