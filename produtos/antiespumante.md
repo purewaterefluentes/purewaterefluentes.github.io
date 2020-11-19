@@ -25,6 +25,8 @@ Nesse processo propriedades  físico-químicas do meio são alteradas, ressaltan
 - Anti-espumante para controle na formação de espuma em cabines de pintura
 - Controle na formação de espumas em água.
 
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Antiespumante.png" alt="Antiespumante">
+
 ### Características do Antiespumante
 Tipos Fabricados: 
 
@@ -40,8 +42,6 @@ Tipos Fabricados:
 - 100% soluvel em água
 - Apresenta efeito duradouro residual.
 - Alta dispersão superficial.
-
-<img class="img-responsive pull-left" style="max-width: 40%;" src="../../website/images/Antiespumante.png" alt="Antiespumante">
 
 ### Embalagens do Antiespumante
 
