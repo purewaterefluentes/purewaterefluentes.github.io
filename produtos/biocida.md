@@ -8,7 +8,7 @@ subtitle: Biocida para tratamento de efluentes
 
 ### Apresentação
 
-O **Aditivo-BIO**, atua como**biocida ou bactericida** (Também conhecido como Microbactericida de uso Industrial), possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em **sistema de águas de recirculação industrial,** e sistemas como; **Torre de Resfriamento, Chiller de água gelada, Caldeiras**. 
+O **Aditivo-BIO**, atua como **biocida ou bactericida** (Também conhecido como Microbactericida de uso Industrial), possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em **sistema de águas de recirculação industrial,** e sistemas como; **Torre de Resfriamento, Chiller de água gelada, Caldeiras**. 
 
 - Importante: Produto **não deve ser aplicado** em água potável (Consumo Humano), produto apenas de uso industrial. 
 
