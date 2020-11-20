@@ -9,6 +9,8 @@ Subtitle: Inibidor de Incrustação para tratamento de água
 >
 - Caldeira
 - Torres de Resfriamento
+- Chiller (Água Gelada)
+- Osmose Reversa
 - Sistemas de Rescirculação de Água  
 >
 
