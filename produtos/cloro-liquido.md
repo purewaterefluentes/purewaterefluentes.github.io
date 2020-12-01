@@ -18,8 +18,6 @@ Possuí fácil aplicação e pode usado em: Clubes, Hotéis, Piscinas, Lavanderi
 O Cloro Liquído **HIPOCLORE** tem formula especial contendo hipoclorito de sódio, estabilizante e veiculo.
 Agindo com Alta Performance, garantindo otima eficiência.
 
-<img class="img-responsive pull-left" style="max-width: 70%;" src="../../website/images/cloro liquido concentrado.png" alt="Cloro Liquido">
-
 ### Principais Aplicações do Cloro Liquido
 - Agente de cloração
 - Cloro Ativo
@@ -36,6 +34,7 @@ Agindo com Alta Performance, garantindo otima eficiência.
 - Aparência: Líquido levemente esverdeado
 - Odor: Característico de cloro
 
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/cloro liquido concentrado.png" alt="Cloro Liquido">
 
 ### Funcionalidades do Cloro Liquído
 
@@ -47,7 +46,6 @@ Agindo com Alta Performance, garantindo otima eficiência.
 - Baixo custo
 - Não gera residual de cálcio e incrustação de tubulação
 - Ação prolongada de cloração.
-
 
 ### Método de Aplicação do Cloro Liquído Concentrado
 Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do HIPOCLORE em sua forma original (concentrado) ou se preferir diluído na proporção de 2/10 partes (solução a 20%) em água aplicando no meio aquoso a tratar.
@@ -62,5 +60,6 @@ Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do HI
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Cloro Liquido" 
    arquivo="FISPQ HIPOCLORE - aditivo multiuso.pdf" %}
+   
    
    
