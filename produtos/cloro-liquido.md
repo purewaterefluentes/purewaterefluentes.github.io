@@ -5,7 +5,7 @@ title: Cloro Liquido
 subtitle: Cloro Concentrado
 ---
 
-### HIPOCLORE:
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/cloro_liquido concentrado.png" alt="Cloro Liquido">
 
 É o Cloro Liquido Concentrado que apresenta de 7 a 9% em teor de cloro ativo. 
 
@@ -33,8 +33,6 @@ Agindo com Alta Performance, garantindo otima eficiência.
 - pH: >8,0
 - Aparência: Líquido levemente esverdeado
 - Odor: Característico de cloro
-
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/cloro liquido concentrado.png" alt="Cloro Liquido">
 
 ### Funcionalidades do Cloro Liquído
 
