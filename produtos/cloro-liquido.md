@@ -26,7 +26,7 @@ Agindo com Alta Performance, garantindo otima eficiência.
 - Cloro para piscinas
 - Cloro para efluentes
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/cloro liquido concentrado.png" alt="Cloro Liquido">
+<img class="img-responsive pull-right" style="max-width: 60%;" src="../../website/images/cloro liquido concentrado.png" alt="Cloro Liquido">
 
 ### Características do Cloro Liquído
 
