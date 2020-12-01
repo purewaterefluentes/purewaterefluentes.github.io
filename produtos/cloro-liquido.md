@@ -5,10 +5,8 @@ title: Cloro Liquido
 subtitle: Cloro Concentrado
 ---
 
-### Compre Cloro Concentrado Líquido.
-
-
 ### HIPOCLORE:
+
 É o Cloro Liquido Concentrado que apresenta de 7 a 9% em teor de cloro ativo. 
 
 Atua como agente bactericida, desinfectante,  clarificante e pode ser aplicado em tratamento de águas em geral.
@@ -16,6 +14,7 @@ Atua como agente bactericida, desinfectante,  clarificante e pode ser aplicado e
 Possuí fácil aplicação e pode usado em: Clubes, Hotéis, Piscinas, Lavanderia Industrial, Lavanderia Hospitalar, Industria Alimentícia e Industria farmacêutica, dentre outras.
 
 ### Composição do Cloro Liquído
+
 O Cloro Liquído **HIPOCLORE** tem formula especial contendo hipoclorito de sódio, estabilizante e veiculo.
 Agindo com Alta Performance, garantindo otima eficiência.
 
@@ -27,7 +26,7 @@ Agindo com Alta Performance, garantindo otima eficiência.
 - Cloro para piscinas
 - Cloro para efluentes
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/pequeno/Hipoclore - Cloro.jpg" alt="Cloro Liquido">
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/cloro liquido concentrado.png" alt="Cloro Liquido">
 
 ### Características do Cloro Liquído
 
