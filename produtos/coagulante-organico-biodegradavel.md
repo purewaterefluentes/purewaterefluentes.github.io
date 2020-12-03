@@ -7,6 +7,8 @@ subtitle: AQUAFLOC-LS
  
 O **Coagulante Orgânico Biodegradavel - AQUAFLOC-LS** da Purewater Efluentes age de forma unificada como coagulante e floculante, sua composição basica deriva de um polímero orgânico-catiônico de baixo peso molecular de origem essencialmente vegetal e que atua no tratamento de água e efluentes industrais como:
 
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/cloro_liquido concentrado.png" alt="Cloro Liquido">
+
 - Coagulante orgânico para tratamento de água.
 - Coagulante orgânico para tratamento de efluentes.
 - Agente Precipitador em clarificação de água.
