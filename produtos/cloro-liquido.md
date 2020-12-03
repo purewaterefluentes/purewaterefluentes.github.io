@@ -6,6 +6,7 @@ subtitle: Cloro Concentrado
 ---
 <img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/cloro_liquido concentrado.png" alt="Cloro Liquido">
 
+<br />
 ### Apresentação
 
 Hipoclore: É o Cloro Liquido Concentrado que apresenta de 7 a 9% em teor de cloro ativo. 
