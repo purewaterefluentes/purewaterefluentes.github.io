@@ -4,10 +4,9 @@ pageTitle: Coagulante Orgânico Biodegradavel |PUREWATER EFLUENTES
 title: Coagulante Orgânico Biodegradável 
 subtitle: AQUAFLOC-LS
 ---
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/coagulante organico.png" alt="Coagulante Organico">
  
 O **Coagulante Orgânico Biodegradavel - AQUAFLOC-LS** da Purewater Efluentes age de forma unificada como coagulante e floculante, sua composição basica deriva de um polímero orgânico-catiônico de baixo peso molecular de origem essencialmente vegetal e que atua no tratamento de água e efluentes industrais como:
-
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/coagulante organico.png" alt="Coagulante Organico">
 
 - Coagulante orgânico para tratamento de água.
 - Coagulante orgânico para tratamento de efluentes.
