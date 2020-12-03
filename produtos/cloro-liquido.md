@@ -9,7 +9,7 @@ subtitle: Cloro Concentrado
 <br />
 ### Apresentação
 
-Hipoclore: É o Cloro Liquido Concentrado que apresenta de 7 a 9% em teor de cloro ativo. 
+**Hipoclore:** É o Cloro Liquido Concentrado que apresenta de 7 a 9% em teor de cloro ativo. 
 
 Atua como agente bactericida, desinfectante,  clarificante e pode ser aplicado em tratamento de águas em geral.
 
