@@ -13,11 +13,9 @@ Subtitle: Inibidor de Incrustação para tratamento de água
 - Osmose Reversa
 - Sistemas de Rescirculação de Água  
 >
-
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Anti-Incrustante para Caldeira.png" alt="Anti-Incrustante para caldeira">
 <br />
 Os produtos **Anti-incrustante ou Dispersante** são compostos químicos ou formulações que possuem a propriedade de prevenir a deposição de sais contidos em água na forma de precipitado em tubos, tanques, ou qualquer superfície. Tipicamente, estes sais são os carbonatos, silicatos e sulfatos de cálcio de água com elevadas concentrações destes sais. Este tipo de água é normalmente chamada de "água dura".
-
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Anti-Incrustante para Caldeira.png" alt="Anti-Incrustante para caldeira">
 
 Os compostos anti-incrustação frequentemente reagem com o cálcio, magnésio e silicas de modo que eles não possam formar precipitados depósitos na forma cristalizada na rede hidraulica e equipamentos.
 
@@ -71,6 +69,5 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
 
 - Bombonas plásticas de 25 ou 50 Kg
 - Container plástico IBC de 1000 litros
-
 
 
