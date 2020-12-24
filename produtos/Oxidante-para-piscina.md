@@ -1,8 +1,8 @@
 ---
 layout: contato
 pageTitle: OXIDANTE PARA PISCINAS | PUREWATER EFLUENTES
-title: AQUA-PHOS®
-subtitle: TRATAMENTO DE PISCINAS
+title: Oxidante para Piscina
+subtitle: AQUA-PHOS
 ---
 
 ### Oxidante para Piscinas
