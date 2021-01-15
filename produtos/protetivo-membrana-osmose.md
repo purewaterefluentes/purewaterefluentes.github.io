@@ -4,7 +4,10 @@ pageTitle: PROTETIVO P/ MEMBRANA DE OSMOSE REVERSA | ANTI-INCRUSTANTE OSMOSE |PU
 title: PROTETIVO MEMBRANA DE OSMOSE
 subtitle: Anti-Incrustante e Protetivo para Membrana de Osmose
 ---
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/cloro_liquido concentrado.png" alt="Protetivo para Membrana de Osmose">
 
+>
+<br />
 ### **AQUA-FLOCON**
 
 Produto Multiação que atua como **Desincrustante, Anti-Incrustante e Protetivo para Osmose Reversa.**
