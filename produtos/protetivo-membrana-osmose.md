@@ -5,13 +5,13 @@ title: PROTETIVO MEMBRANA DE OSMOSE
 subtitle: Anti-Incrustante e Protetivo para Membrana de Osmose
 ---
 
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/protetivo para osmose reversa.png" alt="Protetivo para Membrana de Osmose">
+
 Produto Multiação que atua como **Desincrustante, Anti-Incrustante e Protetivo para Osmose Reversa.**
 
 **AQUA-FLOCON:**  Tem formulação de alto desempenho, sendo usado no controle e limpeza de deposições de crostas inorgânicas formadas por sais nas superfícies das membranas em geral e sistemas de osmose. 
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/protetivo para osmose reversa.png" alt="Protetivo para Membrana de Osmose">
-
-### **Propriedades do Protetivo para Osmose**
+### Propriedades do Protetivo para Osmose
 
 >
 - AQUA-FLOCON atua de forma constante na limpeza das membras, sem que haja danos químicos a mesma
@@ -30,11 +30,11 @@ As principais especificações do Protetivo para Osmose são:
 - **Limite do ponto de congelamento:** 0 a -3°C
 
 
-### **Reatividade Química**
+### Reatividade Química
 
 **AQUA-FLOCON**: Não é afetado pelo Cloro ou outros biocidas oxidantes em condições normais de uso. Pode ser usado em sistemas de membrana com cloro e metabisulfito de sódio.
 
-### **Especificação e Níveis de Dosagem**
+### Especificação e Níveis de Dosagem
 
 **AQUA-FLOCON**: É uma solução aquosa de um ácido orgânico e sais inorgânicos protetivos, levemente corrosivo na forma concentrada. 
 
@@ -45,16 +45,17 @@ Deve ser dosado continuamente e de forma proporcional ao fluxo de água de alime
 
 A dosagem exigida depende da qualidade da água de alimentação e o índice de saturação de várias formas de crostas presentes na salmoura concentrada. devendo ser aplicado de forma constante .
 
-### **Embalagens do Protetivo para Osmose Reversa.**
+### Embalagens do Protetivo para Osmose Reversa.
 
 - Bombona de plásticos de 50 Kg 
 - IBC de 1000 litros
 
-### **Boletim Técnico**
+### Boletim Técnico Protetivo para Membranas
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Inibidor Incrustação Osmose Flocon" 
    arquivo="Boletim-tecnico-inibidor-incrustação-osmose-flocon.pdf" %}
+   
    
    
    
