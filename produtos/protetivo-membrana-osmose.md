@@ -6,9 +6,7 @@ subtitle: Anti-Incrustante e Protetivo para Membrana de Osmose
 ---
 <img class="img-responsive pull-right" style="max-width: 90%;" src="../../website/images/protetivo para osmose reversa.png" alt="Protetivo para Membrana de Osmose">
 
->
 <br />
-### **AQUA-FLOCON**
 
 Produto Multiação que atua como **Desincrustante, Anti-Incrustante e Protetivo para Osmose Reversa.**
 
