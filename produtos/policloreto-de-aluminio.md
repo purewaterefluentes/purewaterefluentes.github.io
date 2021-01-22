@@ -1,8 +1,8 @@
 ---
 layout: contato
-pageTitle: POLICLORETO DE ALUMÍNIO | PUREWATER EFLUENTES | VENDA DE POLICLORETO
+pageTitle: POLICLORETO DE ALUMÍNIO PAC18 | PUREWATER EFLUENTES
 title: Policloreto de Alumínio
-subtitle: PAC18% - Cloreto de Polialumínio
+subtitle: PAC18% 
 ---
 
 ### Propriedades do Policloreto de Alumínio
