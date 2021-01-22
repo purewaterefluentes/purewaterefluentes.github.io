@@ -5,7 +5,9 @@ title: Hipoclorito de Sódio
 subtitle: Cloro Hipoclorito 12%
 ---
 
-### Hipoclorito de Sódio
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/protetivo para osmose reversa.png" alt="Protetivo para Membrana de Osmose">
+
+<br />
 
 O Hipoclorito de sódio 12% **NaClO**, também chamado de Cloro liquido que apresenta concentração entre 10 a 12% de cloro ativo, Atua como agente bactericida, saneante, desinfectante e clarificante e pode ser aplicado em tratamento de águas em geral e tratamento de efluentes.
 
