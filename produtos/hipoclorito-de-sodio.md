@@ -7,8 +7,8 @@ subtitle: Cloro Hipoclorito 12%
 
 <img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/hipoclorito de sodio.png" alt="Hipoclorito de Sodio">
 
-<br />
 
+<br />
 O Hipoclorito de sódio 12% **NaClO**, também chamado de Cloro liquido que apresenta concentração entre 10 a 12% de cloro ativo, Atua como agente bactericida, saneante, desinfectante e clarificante e pode ser aplicado em tratamento de águas em geral e tratamento de efluentes.
 
 Possuí fácil aplicação e também pode ser aplicado em água de reuso nos seguimentos de: Lavanderia Industrial, Lavanderia Hospitalar, Galvanoplastia, Curtumes, Industria Alimentícia e Industria farmacêutica e outras.
@@ -16,7 +16,6 @@ Possuí fácil aplicação e também pode ser aplicado em água de reuso nos seg
 ### Composição do Hipoclorito de Sódio
 
 Hipoclorito de sódio 12%  (teor de cloro ativo 10 a 12%)
-
 
 ### Principais Aplicações do Hipoclorito de sódio
 
@@ -27,8 +26,6 @@ O alvejante para uso doméstico que é vendido no mercado é uma solução de 2,
 Hipoclorito de sódio 12% é bastante usado em cisternas e em abastecimento de água para clorar a água.
 
 ### Características do Hipoclorito de sódio 12%
-
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/pequeno/Hipoclore - Cloro.jpg" alt="Cloro Liquido">
 
 - Estado: Liquido
 - Densidade: 1,15 a 1,23 g/cm3 (25 °C)
@@ -48,10 +45,6 @@ Hipoclorito de sódio 12% é bastante usado em cisternas e em abastecimento de �
 - Não gera residual de cálcio e incrustação de tubulação
 - Ação prolongada de cloração.
 
-### Manuseio e Método de Aplicação do Hipoclorito de Sódio
-Para uma rápida aplicação e um mínimo consumo recomenda-se aplicação do Hipoclorito de sódio sua forma original (concentrado) ou se preferir diluído na proporção de 1/10 partes (solução a 10%) em água aplicando no meio aquoso a tratar.
-A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminates presente na água ou efluente.
-
 ### Fornecimento do Hipoclorito de Sódio
 
 - Hipoclorito de sódio em bombona plástica de 50 Kg
@@ -64,4 +57,4 @@ A dosagem a ser utilizada varia de acordo com a aplicação e teor de contaminat
    arquivo="BOLETIM TÉCNICO AQUA-HPS.pdf" %}
    
    
-
+   
