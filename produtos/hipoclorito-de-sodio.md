@@ -5,7 +5,7 @@ title: Hipoclorito de Sódio
 subtitle: Cloro Hipoclorito 12%
 ---
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/protetivo para osmose reversa.png" alt="Protetivo para Membrana de Osmose">
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/hipoclorito de sodio.png" alt="Hipoclorito de Sodio">
 
 <br />
 
