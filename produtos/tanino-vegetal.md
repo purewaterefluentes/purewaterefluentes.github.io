@@ -47,18 +47,9 @@ podem ter seu efeito negativo na absorção do ferro remediado pela administraç
 - pH (xarope): 1,3- 2,3 
 - pH (sol. aq. 10% p/v): ---
 
-***Tanino Sólido - Pó fino higroscópico***
-
-- Umidade ao embalar (%) - 4,5 – 6,5
-- Viscosidade (s, 25°C Copo Ford nº4: Não Aplicável
-- Sólidos Totais: ---
-- pH (xarope): ---
-- pH (sol. aq. 10% p/v): 1,8 A 2,7
-
  
 ### **Embalagens do Tanino**
 
-- Tanino em Saco de 25kg (Solido em pó)
 - Tanino em Bombona Plástica de 50Kg. (Líquido)
 - Tanino em Container plastico de 1000 litros (Líquido)
 
@@ -68,8 +59,8 @@ podem ter seu efeito negativo na absorção do ferro remediado pela administraç
    label="Boletim Técnico Tanino vegetal Liquído" 
    arquivo="FISPQ TANINO LIQUIDO.pdf" %}
  
- {% include purewater/link-boletim.html 
-   label="Boletim Técnico Tanino vegetal Pó" 
-   arquivo="FISPQ TANINO PÓ.pdf" %}
-   
+ 
+ 
+ 
+ 
      
