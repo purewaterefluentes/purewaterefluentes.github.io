@@ -40,7 +40,7 @@ podem ter seu efeito negativo na absorção do ferro remediado pela administraç
 
 ***Tanino Líquido***
 
-- Concentração: >23%
+- Concentração: Min. 20%
 - Umidade ao embalar ---
 - Viscosidade (s, 25°C Copo Ford nº4: Máx. 50 
 - Sólidos Totais (%): 30 a 34
