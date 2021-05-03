@@ -2,27 +2,27 @@
 <!-- Global site tag (gtag.js) - Google Ads: 1041562649 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1041562649"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'AW-1041562649');
-</script>
-<script>
-document.addEventListener("DOMContentLoaded", function(){
-    //whatsapp button  ads conversion tracking
-    document.querySelectorAll('a[href*="mailto:"]').forEach( El =>{
-        El.addEventListener('click', event=>{
-        	gtag('event', 'conversion', {'send_to': 'AW-1041562649/y4qfCJ3O1I0CEJn40_AD'});
-        });
-    });
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+  	gtag('config', 'AW-1041562649');
+
+	document.addEventListener("DOMContentLoaded", function(){
+
+	    //whatsapp button  ads conversion tracking
+	    document.querySelectorAll('a[href*="mailto:"]').forEach( El =>{
+	        El.addEventListener('click', event=>{
+	        	gtag('event', 'conversion', {'send_to': 'AW-1041562649/y4qfCJ3O1I0CEJn40_AD'});
+	        });
+	    });
+	   
+	    //form
+	   	if(window.location.href == "http://purewaterefluentes.com.br/contato/"){
+	    	document.querySelector("#sendMessage").addEventListener('click', event=>{
+	        	gtag('event', 'conversion', {'send_to': 'AW-1041562649/FD8RCO-z2o0CEJn40_AD'});
+	    	});	
+	    };
    
-    //form
-   	if(window.location.href == "http://purewaterefluentes.com.br/contato/"){
-    	document.querySelector("#sendMessage").addEventListener('click', event=>{
-        	gtag('event', 'conversion', {'send_to': 'AW-1041562649/FD8RCO-z2o0CEJn40_AD'});
-    	});	
-    };
-   
-});
+	});
 </script>
 {% endif %}
