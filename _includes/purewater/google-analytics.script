@@ -9,14 +9,12 @@
 
 	document.addEventListener("DOMContentLoaded", function(){
 
-	    //whatsapp button  ads conversion tracking
 	    document.querySelectorAll('a[href*="mailto:"]').forEach( El =>{
 	        El.addEventListener('click', event=>{
 	        	gtag('event', 'conversion', {'send_to': 'AW-1041562649/y4qfCJ3O1I0CEJn40_AD'});
 	        });
 	    });
 	   
-	    //form
 	   	if(window.location.href == "http://purewaterefluentes.com.br/contato/"){
 	    	document.querySelector("#sendMessage").addEventListener('click', event=>{
 	        	gtag('event', 'conversion', {'send_to': 'AW-1041562649/FD8RCO-z2o0CEJn40_AD'});
