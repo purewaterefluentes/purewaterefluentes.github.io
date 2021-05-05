@@ -1,26 +1,11 @@
 {% if site.google_analytics %}
-<!-- Global site tag (gtag.js) - Google Ads: 1041562649 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1041562649"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-50083848-3"></script>
 <script>
-  	window.dataLayer = window.dataLayer || [];
-  	function gtag(){dataLayer.push(arguments);}
-  	gtag('js', new Date());
-  	gtag('config', 'AW-1041562649');
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-	document.addEventListener("DOMContentLoaded", function(){
-
-	    document.querySelectorAll('a[href*="mailto:"]').forEach( El =>{
-	        El.addEventListener('click', event=>{
-	        	gtag('event', 'conversion', {'send_to': 'AW-1041562649/y4qfCJ3O1I0CEJn40_AD'});
-	        });
-	    });
-	   
-	   	if(window.location.href == "http://purewaterefluentes.com.br/contato/"){
-	    	document.querySelector("#sendMessage").addEventListener('click', event=>{
-	        	gtag('event', 'conversion', {'send_to': 'AW-1041562649/FD8RCO-z2o0CEJn40_AD'});
-	    	});	
-	    };
-   
-	});
+  gtag('config', 'UA-50083848-3');
 </script>
 {% endif %}
