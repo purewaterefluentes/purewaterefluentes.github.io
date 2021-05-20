@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: CARVÃO ANTRACITO de 0,8 a 1,0mm  | FABRICA DE CARVÃO   
+pageTitle: CARVÃO ANTRACITO GRANULADO  | FABRICA DE CARVÃO   
 title: Carvão Antracito
 subtitle: CARVÃO MINERAL ANTRACITOSO
 ---
@@ -24,13 +24,13 @@ Destinado à filtração em filtros de camada dupla (areia e antracito), com uso
 - O antracito diminui o efeito gradativo de colmatação (entupimento) do leito filtrante.
 - O antracito proporciona melhores resultados na remoção de cor e turbidez além de remover sabor e odor da água.
 
-### Características
+### Características do Carvão Antracitoso
 
 **Carvão antracito mineral:** A vantagem deste de produto é poder trabalhar com taxas de filtração maiores, logo com menor área de filtração, menor volume de material filtrante e menor consumo de água de lavagem, devido ao carvão antracito mineral.
 
 **Densidade:** 1,3 a 1,8 g/cm3
 
-**Grãos variando de:** 0,8 até 1,1mm (Abertura max. 0,5 a 3,2mm)
+**Grãos variando de:** Média 0,8 até 1,1mm (Abertura max. 0,5 a 4,0mm)
 
 ### Fornecimento de Carvão Mineral Antracitoso:
 Carvão antracito mineral em Sacos de 25Kg
