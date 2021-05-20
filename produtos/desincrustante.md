@@ -1,15 +1,19 @@
 ---
 layout: contato
-pageTitle: DESINCRUSTANTE | FABRICA | PUREWATER EFLUENTES
+pageTitle: DESINCRUSTANTE INDUSTRIAL | LIMPEZA QUIMICA | PUREWATER EFLUENTES
 title: Desincrustante
 subtitle: Desincrustante para Caldeiras - Torre de Resfriamento
 ---
-<img class="img-responsive pull-center" style="max-width: 75%;" src="../../website/images/Desincrustante_tubulação_agua.png" alt="Desincrustante">
-### **Desincrustante**
+<img class="img-responsive pull-center" style="max-width: 75%;" src="../../website/images/desincrustante acido-limpeza-industrial.png" alt="Desincrustante - Limpeza Quimica">
+
+### **Desincrustante - Limpeza Quimica**
 
 Designam-se por incrustações os depósitos que se formam no interior de linhas hidráulicas, equipamentos e acessórios industriais, devido à fixação de substâncias em suspensão e da precipitação de sólidos dissolvidos que se transformam em sólidos insolúveis devido ao aumento da temperatura. 
 
->**Nossa Linha de Desincrustante** é composta por agentes químicos limpadores balanceados, o produto dissolve e deixa em suspensão as crostas formadas internamente por carbonatos, silicatos e oxido de ferro.
+>**Desincrustante para Limpeza Quimica** Composta por agentes químicos limpadores balanceados, o produto dissolve e deixa em suspensão as crostas formadas internamente por carbonatos, silicatos e oxido de ferro.
+
+### **Limpeza Acida**: AQUA-DSF400
+### **Limpeza Alcalina**: DSF-CC25
 
 Possuí eficiente ação penetrante e de dissolução de sais, o desincrustante desprende rapidamente toda a incrustação formada nas paredes dos tubos e equipamentos.
 
