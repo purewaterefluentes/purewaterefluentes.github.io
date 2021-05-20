@@ -17,9 +17,9 @@ Designam-se por incrustações os depósitos que se formam no interior de linhas
 ### **Limpeza Acida**: AQUA-DSF400
 ### **Limpeza Alcalina**: DSF-CC25
 
-Possuí eficiente ação penetrante e de dissolução de sais, o desincrustante desprende rapidamente toda a incrustação formada nas paredes dos tubos e equipamentos.
+Ação penetrante e de dissolução de sais, o desincrustante desprende rapidamente toda a incrustação formada nas paredes dos tubos e equipamentos.
 
-O produto tem fácil aplicação e não expele vapores tóxicos e não danifica o material da seção aplicada quando mantido em tempo certo de contato.
+Fácil aplicação e não expele vapores tóxicos e não danifica o material da seção aplicada quando mantido em tempo certo de contato.
 
 Sendo usado como recirculação para limpeza de equipamentos dispensa demoradas operações de desmontagem hidráulica.
 
@@ -34,14 +34,14 @@ Remoção de oxidação de tanques de esterilização, construção civil e remo
 O desincrustante possuí formula balanceada com ativos específicos para a total dissolução de sais depositados na rede hidráulica, reagindo diretamente sob as estruturas salinas depositadas de carbonato e bicarbonatos de cálcio e magnésio e eventualmente depósitos de zinco, ferro e sílica.
 
 O desincrustante é miscível em água em todas as proporções e pode ser aplicado puro (sem diluição) ou como solução. 
-É recomendada a dosagem mínima da solução com concentração de não inferior a 10%. 
+É recomendada a dosagem mínima da solução com concentração não inferior a 10%. 
 
 Deve ser dosado continuamente e de forma proporcional ao fluxo de água de alimentação para manter o nível de dose recomendada. 
 A dosagem exigida depende da qualidade da água de alimentação e o índice de saturação de várias formas de crostas.
 
 O produto deve se manter em ação no circuito por no minimo 15 minutos para que haja tempo de contato, em alguns casos onde a incrustação seja de alta concentração este tempo poderá ser superior, devendo sempre aplicar o enxague com água limpa após sua aplicação.
 
-### **Embalagens do Desincrustante**
+### **Embalagens do Desincrustante para Limpeza Quimica**
 
 - Bombona de plásticos de 50 Kg 
 - IBC de 1000 litros
