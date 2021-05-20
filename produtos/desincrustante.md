@@ -4,8 +4,10 @@ pageTitle: DESINCRUSTANTE INDUSTRIAL | LIMPEZA QUIMICA | PUREWATER EFLUENTES
 title: Desincrustante
 subtitle: Desincrustante para Caldeiras - Torre de Resfriamento
 ---
-<img class="img-responsive pull-center" style="max-width: 75%;" src="../../website/images/desincrustante acido-limpeza-industrial.png" alt="Desincrustante - Limpeza Quimica">
 
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/desincrustante acido-limpeza-industrial.png" alt="Desincrustante - Limpeza Quimica">
+
+<br />
 ### **Desincrustante - Limpeza Quimica**
 
 Designam-se por incrustações os depósitos que se formam no interior de linhas hidráulicas, equipamentos e acessórios industriais, devido à fixação de substâncias em suspensão e da precipitação de sólidos dissolvidos que se transformam em sólidos insolúveis devido ao aumento da temperatura. 
