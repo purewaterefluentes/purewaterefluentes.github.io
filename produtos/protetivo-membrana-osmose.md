@@ -1,7 +1,7 @@
 ---
 layout: contato
 pageTitle: PROTETIVO P/ LIMPEZA MEMBRANA DE OSMOSE REVERSA | ANTI-INCRUSTANTE OSMOSE |PUREWATER EFLUENTES
-title: PROTETIVO MEMBRANA DE OSMOSE
+title: LIMPEZA DE MEMBRANA DE OSMOSE
 subtitle: Anti-Incrustante e Protetivo para Membrana de Osmose
 ---
 
