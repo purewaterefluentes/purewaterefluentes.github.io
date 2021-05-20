@@ -4,7 +4,7 @@ pageTitle: DESINCRUSTANTE | FABRICA | PUREWATER EFLUENTES
 title: Desincrustante
 subtitle: Desincrustante para Caldeiras - Torre de Resfriamento
 ---
-
+<img class="img-responsive pull-center" style="max-width: 75%;" src="../../website/images/Desincrustante_tubulação_agua.png" alt="Desincrustante">
 ### **Desincrustante**
 
 Designam-se por incrustações os depósitos que se formam no interior de linhas hidráulicas, equipamentos e acessórios industriais, devido à fixação de substâncias em suspensão e da precipitação de sólidos dissolvidos que se transformam em sólidos insolúveis devido ao aumento da temperatura. 
@@ -16,9 +16,6 @@ Possuí eficiente ação penetrante e de dissolução de sais, o desincrustante 
 O produto tem fácil aplicação e não expele vapores tóxicos e não danifica o material da seção aplicada quando mantido em tempo certo de contato.
 
 Sendo usado como recirculação para limpeza de equipamentos dispensa demoradas operações de desmontagem hidráulica.
-
-<img class="img-responsive pull-right" style="max-width: 90%;" src="../../website/images/Desincrustante_tubulação_agua.png" alt="Desincrustante">
-
 
 ### **Indicações de uso do Desincrustante**
 
