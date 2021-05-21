@@ -1,6 +1,8 @@
 ---
 layout: contato
-title: Sequestrante de Oxigênio
+title: SEQUESTRANTE DE OXIGÊNIO | CALDEIRA GERAÇÃO DE VAPOR | PUREWATER EFLUENTES
+titlePage: SEQUESTRANTE DE OXIGÊNIO
+Subtitle: Inibidor de Corrosão Industrial
 ---
 <img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/sequestrante-de-oxigenio-caldeira.png" alt="Sequestrante de Oxigênio para Caldeira">
 
