@@ -1,13 +1,15 @@
 ---
 layout: contato
-pageTitle: INIBIDOR DE CORROSÃO - PUREWATER EFLUENTES - FABRICA 
+pageTitle: INIBIDOR DE CORROSÃO - GERAÇÃO DE VAPOR - PUREWATER EFLUENTES
 title: Inibidor de Corrosão
-subtitle:   
+subtitle: Tratamento de água de Caldeira | Geração de Vapor  
 ---
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Inibidor-de-Corrosão-caldeira-geração-vapor.png" alt="Inibidor de Corrosão para Caldeira">
 
-### **Inibidor de Corrosão**
 
-A ***Purewater Efluentes*** desenvolve o melhor inibidor de corrosão para uso em: **caldeiras, torres de resfriamento, chillers, sistemas de rescirculação de água industrial.** 
+### **Apresentação**
+
+A ***Purewater Efluentes*** desenvolve o melhor inibidor de corrosão uso industrial, aplicado para: **Caldeiras, torres de resfriamento, chillers, sistemas de rescirculação de água industrial.** 
 
 ### **Funcionamento do Inibidor de Corrosão**
 
