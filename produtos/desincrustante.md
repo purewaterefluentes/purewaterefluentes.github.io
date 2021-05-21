@@ -8,14 +8,15 @@ subtitle: Desincrustante para Caldeiras - Torre de Resfriamento - Chiller - Rede
 <img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/desincrustante acido-limpeza-industrial.png" alt="Desincrustante - Limpeza Quimica">
 
 <br />
-### **Desincrustante - Limpeza Quimica**
+
+### **Desincrustante para Limpeza Quimica**
 
 Designam-se por incrustações os depósitos que se formam no interior de linhas hidráulicas, equipamentos e acessórios industriais, devido à fixação de substâncias em suspensão e da precipitação de sólidos dissolvidos que se transformam em sólidos insolúveis devido ao aumento da temperatura. 
 
 >**Desincrustante para Limpeza Quimica** Composta por agentes químicos limpadores balanceados, o produto dissolve e deixa em suspensão as crostas formadas internamente por carbonatos, silicatos e oxido de ferro.
 
-### **Limpeza Acida**: AQUA-DSF400
-### **Limpeza Alcalina**: DSF-CC25
+### **Desincrustante Limpeza Acida**: AQUA-DSF400
+### **Desincrustante Limpeza Alcalina**: DSF-CC25
 
 Ação penetrante e de dissolução de sais, o desincrustante desprende rapidamente toda a incrustação formada nas paredes dos tubos e equipamentos.
 
@@ -25,7 +26,7 @@ Sendo usado como recirculação para limpeza de equipamentos dispensa demoradas 
 
 ### **Indicações de uso do Desincrustante**
 
-Para desentupimento de rede hidráulica, limpeza de caldeiras, trocadores de calor, cabeçotes de compressores, condensadores, torres e resfriamento, usinas misturadoras de concreto, condutores e ar condicionado, medidores de água e tubos injetores de água.
+Para desentupimento de rede hidráulica, limpeza de caldeiras, trocadores de calor, cabeçotes de compressores, condensadores, torre de resfriamento, usinas misturadoras de concreto, condutores e ar condicionado, medidores de água e tubos injetores de água.
 
 Remoção de oxidação de tanques de esterilização, construção civil e remove qualquer incrustação calcária ou oxidação.
 
