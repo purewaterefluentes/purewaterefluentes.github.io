@@ -12,13 +12,15 @@ O **Sequestrante de oxigênio** da Purewater Efluentes possuem alto poder reativ
 
 O sequestrante de oxigênio é formulado por substâncias químicas que removem o oxigênio da água de alimentação e da água de caldeira, ou sistemas com ciclos abertos ou fechados de circulação de águas, inibindo desta forma o processo de corrosão.
 
+O produto tem amplia aplicação como sequestrante de oxigênio em tratamento de água de caldeiras, tambem atuando como inibidor de corrosão para caldeira.
+
 Existem diversas formulações para sequestrante de oxigênio, os mais usuais possuem em sua formulação sais inorgânicos redutores.
 
 #### **Vantagens do uso de sequestrante de oxigênio para Caldeira**
 
-A remoção do oxigenio na água de caldeira protege as superfícies ferrosas de ataques corrosivos.
-
-No tratamento de caldeiras, adiciona-se um pequeno excesso de sequestrante de oxigênio no sistema de recirculação da água, de forma a se obter um residual do produto e assim garantir a redução nos índices de oxigênio dissolvido.
+- A remoção do oxigenio na água de caldeira protege as superfícies ferrosas de ataques corrosivos.
+- No tratamento de caldeiras, adiciona-se um pequeno excesso de sequestrante de oxigênio no sistema de recirculação da água, de forma a se obter um residual do produto e assim garantir a redução nos índices de oxigênio dissolvido.
+- Prolonga a vida útil de equipamentos e rede hidráulica.
 
 
 #### **Funcionalidades do Sequestrante de Oxigênio**
