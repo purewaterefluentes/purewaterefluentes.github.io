@@ -1,12 +1,19 @@
 ---
 layout: contato
+pageTitle: SEQUESTRANTE DE OXIGÊNIO | CALDEIRA GERAÇÃO DE VAPOR | PUREWATER EFLUENTES
+title: Sequestrante de Oxigênio
+subtitle: Tratamento de água de Caldeira
+---
+layout: contato
 pagetitle: SEQUESTRANTE DE OXIGÊNIO | CALDEIRA GERAÇÃO DE VAPOR | PUREWATER EFLUENTES
-title: RED-OXY Sequestrante de Oxigênio
+title:  
 Subtitle: Inibidor de Corrosão Industrial
 ---
 <img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/sequestrante-de-oxigenio-caldeira.png" alt="Sequestrante de Oxigênio para Caldeira">
 
+
 ### Apresentação
+
 O **Sequestrante de oxigênio** da Purewater Efluentes possuem alto poder reativo, agindo diretamente sobre os íons oxigênio dissolvidos contidos na água.
 
 O sequestrante de oxigênio é formulado por substâncias químicas que removem o oxigênio da água de alimentação e da água de caldeira, ou sistemas com ciclos abertos ou fechados de circulação de águas, inibindo desta forma o processo de corrosão.
