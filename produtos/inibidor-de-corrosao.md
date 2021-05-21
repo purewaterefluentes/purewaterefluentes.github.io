@@ -9,7 +9,8 @@ subtitle: Tratamento de água de Caldeira | Geração de Vapor
 
 ### **Apresentação**
 
-A **Purewater Efluentes** desenvolve o melhor inibidor de corrosão uso industrial, aplicado para: **Caldeiras, torres de resfriamento, chillers, sistemas de rescirculação de água industrial.** 
+
+Desenvolvemos uma linha com os melhores inibidores de corrosão de uso industrial, aplicado para: **Caldeiras, torres de resfriamento, chillers, sistemas de rescirculação de água industrial.** 
 
 ### **Funcionamento do Inibidor de Corrosão**
 
