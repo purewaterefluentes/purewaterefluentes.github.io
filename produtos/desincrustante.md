@@ -14,8 +14,9 @@ subtitle: Desincrustante para Caldeiras - Torre de Resfriamento - Chiller - Rede
 Designam-se por incrustações os depósitos que se formam no interior de linhas hidráulicas, equipamentos e acessórios industriais, devido à fixação de substâncias em suspensão e da precipitação de sólidos dissolvidos que se transformam em sólidos insolúveis devido ao aumento da temperatura. 
 
 >**Desincrustante para Limpeza Quimica** Composto por agentes químicos limpadores balanceados, o produto dissolve e deixa em suspensão as crostas formadas internamente por carbonatos, silicatos e oxido de ferro.
-**Desincrustante Limpeza Acida**: AQUA-DSF400
-**Desincrustante Limpeza Alcalina**: DSC-CC25
+>
+>**Desincrustante Limpeza Acida**: AQUA-DSF400
+>**Desincrustante Limpeza Alcalina**: DSC-CC25
 
 Ação penetrante e de dissolução de sais, o desincrustante desprende rapidamente toda a incrustação formada nas paredes dos tubos e equipamentos.
 
