@@ -1,7 +1,7 @@
 ---
 layout: contato
 pagetitle: SEQUESTRANTE DE OXIGÊNIO | CALDEIRA GERAÇÃO DE VAPOR | PUREWATER EFLUENTES
-title: SEQUESTRANTE DE OXIGÊNIO
+title: RED-OXY Sequestrante de Oxigênio
 Subtitle: Inibidor de Corrosão Industrial
 ---
 <img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/sequestrante-de-oxigenio-caldeira.png" alt="Sequestrante de Oxigênio para Caldeira">
@@ -13,12 +13,11 @@ O sequestrante de oxigênio é formulado por substâncias químicas que removem 
 
 O produto tem amplia aplicação como sequestrante de oxigênio em tratamento de água de caldeiras, tambem atuando como inibidor de corrosão para caldeira.
 
-Existem diversas formulações para sequestrante de oxigênio, os mais usuais possuem em sua formulação sais inorgânicos redutores.
+No tratamento de caldeiras, adiciona-se um pequeno excesso de sequestrante de oxigênio no sistema de recirculação da água, de forma a se obter um residual do produto e assim garantir a redução nos índices de oxigênio dissolvido.
 
 #### **Vantagens do uso de sequestrante de oxigênio para Caldeira**
 
 - A remoção do oxigenio na água de caldeira protege as superfícies ferrosas de ataques corrosivos.
-- No tratamento de caldeiras, adiciona-se um pequeno excesso de sequestrante de oxigênio no sistema de recirculação da água, de forma a se obter um residual do produto e assim garantir a redução nos índices de oxigênio dissolvido.
 - Prolonga a vida útil de equipamentos e rede hidráulica.
 
 
