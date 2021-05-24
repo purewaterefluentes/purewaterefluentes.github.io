@@ -1,7 +1,7 @@
 ---
 layout: contato
 pagetitle: PROTETIVO PARA TORRE DE RESFRIAMENTO - CHILLER ÁGUA GELADA - PUREWATER EFLUENTES
-title: AQUA-PFO 
+title: Tratamento de Água de Resfriamento
 subtitle: Anti-Incrustante Protetivo para Torre de Resfriamento / Chiller Água Gelada
 ---
 
@@ -15,13 +15,13 @@ Possui multipla ação como sequestrante e na desincrustação das tubulações 
 
 - Anti-Incrustante para Torre de resfriamento com excelente controle de crostas de carbonato e oxido de ferro.
 
-- Protetivo para Chiller (Água Gelada) que apresenta ótimo custo de operação efetivo.
+- Produto para tratar água de Chiller (Água Gelada), que apresenta ótimo custo de operação efetivo.
 
-- AQUA-PFO é compatível com os principais sistemas de refrigeração de água.
+- **AQUA-PFO** é compatível com os principais sistemas de refrigeração de água.
 
-- O Anti-Incrustante AQUA-PFO tem ação Dispersante e Desincrustante em Torres de Resfriamento e Chiller.
+- **AQUA-PFO** é um produto com ação Dispersante e Desincrustante em Torres de Resfriamento e Chiller.
 
-- Alto poder como sequestrante de ferro, manganês, magnésio e todos os demais metais bivalentes.
+- Alto poder como sequestrante de ferro, remoção de manganês, remoção de magnésio e todos os demais metais bivalentes.
 
 
 
