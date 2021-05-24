@@ -5,7 +5,7 @@ title: AQUA-PFO
 subtitle: Anti-Incrustante Protetivo para Tratamento de água de Torre de Resfriamento / Chiller Água Gelada 
 ---
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/desincrustante acido-limpeza-industrial.png" alt="Tratamento de água de Resfriamento">
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/ images/produto-tratamento-de-agua-torre-resfriamento-chiller-gelada.png" alt="Tratamento de água de Resfriamento">
 
 <br />
 
