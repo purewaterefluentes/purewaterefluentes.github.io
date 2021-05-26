@@ -54,6 +54,11 @@ Tipos Fabricados:
    label="Boletim Técnico Antiespumante" 
    arquivo="Boletim-tecnico-antiespumante.pdf" %}
    
+{% include purewater/link-boletim.html 
+   label="Boletim Técnico AQUA-THPS" 
+   arquivo="BOLETIM TÉCNICO AQUA-THPS aditivo Bio.pdf" %}
+   
+   
    
    
    
