@@ -34,11 +34,11 @@ O **Aditivo-BIO**, atua como **biocida ou bactericida** (Também conhecido como 
 ### Boletim Técnico Micro-Bactericida 
 
 {% include purewater/link-boletim.html 
-   label="Boletim Técnico Aditivo-BIO" 
+   label="Boletim Técnico AQUA-290" 
    arquivo="BOLETIM TÉCNICO - AQUA-290 - REVISADO.pdf" %}
 
 {% include purewater/link-boletim.html 
-   label="Boletim Técnico Aditivo-BIO" 
+   label="Boletim Técnico AQUA-THPS" 
    arquivo="BOLETIM TÉCNICO AQUA-THPS aditivo Bio.pdf" %}
    
    
