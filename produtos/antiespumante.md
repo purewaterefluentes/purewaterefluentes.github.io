@@ -2,7 +2,7 @@
 layout: contato
 pageTitle: ANTIESPUMANTE | PUREWATER EFLUENTES
 title: Antiespumante
-subtitle: 
+subtitle: Silicona antiespumante
 ---
 <img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/antiespumante_industrial.png" alt="Antiespumante">
 
