@@ -17,11 +17,6 @@ O **Aditivo-BIO**, atua como **biocida ou bactericida** (Também conhecido como 
 - Usado como agente bactericida, biocida, algicida e fungicida em tratamento de água de refrigeração em sistema de recirculação.
 - Protetivo para: Torres de resfriamento, Chiller de refrigeração, centrais de refrigeração e Caldeiras.
 
-{% include purewater/link-boletim.html 
-   label="Boletim Técnico Antiespumante" 
-   arquivo="BOLETIM TÉCNICO AQUA-THPS aditivo Bio.pdf" %}
-
-
 ### Características do Biocida
 
 - Biocida com alto poder bactericida, algicida e fungicida
