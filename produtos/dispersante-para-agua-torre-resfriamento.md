@@ -1,6 +1,6 @@
 ---
 layout: contato
-pageTitle: DISPERSANTE PARA ÁGUA - PUREWATER EFLUENTES  
+pageTitle: DISPERSANTE PARA ÁGUA DE TORRE RESFRIAMENTO - PUREWATER EFLUENTES  
 title: Dispersante  
 subtitle: Torre de resfriamento e Caldeiras 
 ---
