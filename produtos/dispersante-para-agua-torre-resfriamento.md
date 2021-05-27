@@ -9,16 +9,22 @@ subtitle: Torre de resfriamento e Caldeiras
 
 >
 A ***Purewater Efluentes*** desenvolve o melhor Dispersante para água de uso em: 
+
 - Caldeiras
 - Torres de resfriamento e chillers
 - Sistemas de rescirculação de água industrial.
 >
 
-### **Funcionamento dos Dispersantes para Água**
+### **Funcionamento do Dispersante para Torre de Resfriamento ou Caldeira**
 
 **AQUA-HEDP**: Dispersante com formula especial onde o produto age como excelente dispersante e inibidor de corrosão.
 
-### **Características do Dispersante**
+Durante o proicesso de funcionamento, a torre ou a caldeira precisam realizar as suas funções com eficiência, e para isso, é necessário a utilização do dispersante.
+Esse produto atua como um filme protetor, criando uma pelicula protetiva sobre a superficie da tubulação e equipamentos, que evita que impurezas adentrem os sistemas e acarretem em corrosões e incrustações. 
+
+Existem diversos tipos de dispersante para torre de resfriamento, cada um deles possui uma característica, e seus componentes químicos se diferem entre si. A escolha deve ser realizada de acordo com o ramo de segmento da indústria e o ambiente ao qual o produto será submetido, a fim de que melhor se adeque.
+
+### **Características do Dispersante para Torre de Resfriamento ou Caldeiras**
 
 - Produto com alta efeciência na proteção contra íons metálicos em torres de resfriamento e caldeiras
 - Dispersante para torre de resfriamento
@@ -29,7 +35,7 @@ A ***Purewater Efluentes*** desenvolve o melhor Dispersante para água de uso em
 - Fácil aplicação
 
 
-### **Embalagens**
+### **Embalagens do Dispersante para Água**
 
 - Bombonas plásticas de 50 Kg
 - Container plástico IBC de 1000 litros
