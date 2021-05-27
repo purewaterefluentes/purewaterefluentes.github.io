@@ -5,6 +5,10 @@ title: Dispersante
 subtitle: Torre de resfriamento e Caldeiras 
 ---
 
+
+images/Dispersante-agua-torre-de-resfriamento.png
+
+
 ### **AQUA-HEDP - Dispersante de íons metálicos em caldeiras e torre de resfriamento**
 
 >
