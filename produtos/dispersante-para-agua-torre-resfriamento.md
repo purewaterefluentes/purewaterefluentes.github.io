@@ -6,15 +6,19 @@ subtitle: Torre de resfriamento e Caldeiras
 ---
 <img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Dispersante-agua-torre-de-resfriamento.png" alt="Dispersante para Torre de Resfriamento">
 
+<br />
+  <br />
 ### Apresentação 
 
 **AQUA-HEDP - Dispersante de íons metálicos em caldeiras e torre de resfriamento**
 
 >
-A ***Purewater Efluentes*** desenvolve o melhor Dispersante para água de uso em: 
-- Caldeiras
+Uso e Aplicação do Dispersante Industrial: 
 - Torres de resfriamento e chillers
+- Caldeira
 - Sistemas de rescirculação de água industrial.
+- Chiller de água gelada
+- Colunas de Destilação
 >
 
 ### Funcionamento do Dispersante para Torre de Resfriamento ou Caldeira
