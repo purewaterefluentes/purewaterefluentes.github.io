@@ -4,12 +4,11 @@ pageTitle: DISPERSANTE PARA ÁGUA DE TORRE RESFRIAMENTO - PUREWATER EFLUENTES
 title: Dispersante  
 subtitle: Torre de resfriamento e Caldeiras 
 ---
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Dispersante-agua-torre-de-resfriamento.png" alt="Dispersante para Torre de Resfriamento">
 
+### Apresentação 
 
-images/Dispersante-agua-torre-de-resfriamento.png
-
-
-### **AQUA-HEDP - Dispersante de íons metálicos em caldeiras e torre de resfriamento**
+**AQUA-HEDP - Dispersante de íons metálicos em caldeiras e torre de resfriamento**
 
 >
 A ***Purewater Efluentes*** desenvolve o melhor Dispersante para água de uso em: 
@@ -18,7 +17,7 @@ A ***Purewater Efluentes*** desenvolve o melhor Dispersante para água de uso em
 - Sistemas de rescirculação de água industrial.
 >
 
-### **Funcionamento do Dispersante para Torre de Resfriamento ou Caldeira**
+### Funcionamento do Dispersante para Torre de Resfriamento ou Caldeira
 
 **AQUA-HEDP**: Dispersante com formula especial onde o produto age como excelente dispersante e inibidor de corrosão.
 
@@ -27,7 +26,7 @@ Esse produto atua como um filme protetor, criando uma pelicula protetiva sobre a
 
 Existem diversos tipos de dispersante para torre de resfriamento, cada um deles possui uma característica, e seus componentes químicos se diferem entre si. A escolha deve ser realizada de acordo com o ramo de segmento da indústria e o ambiente ao qual o produto será submetido, a fim de que melhor se adeque.
 
-### **Características do Dispersante para Torre de Resfriamento ou Caldeiras**
+### Características do Dispersante para Torre de Resfriamento ou Caldeiras
 
 - Produto com alta efeciência na proteção contra íons metálicos em torres de resfriamento e caldeiras
 - Dispersante para torre de resfriamento
@@ -38,12 +37,13 @@ Existem diversos tipos de dispersante para torre de resfriamento, cada um deles 
 - Fácil aplicação
 
 
-### **Embalagens do Dispersante para Água**
+### Embalagens do Dispersante para Água
 
 - Bombonas plásticas de 50 Kg
 - Container plástico IBC de 1000 litros
 
-### **Informativo - Dispersante para Água**
+### Informativo - Dispersante para Água
 
 {% include purewater/link-boletim.html label="Dispersante - AQUA-HEDP" arquivo="BOLETIM TÉCNICO - AQUA-HEDP dispersante.pdf" %}
+
 
