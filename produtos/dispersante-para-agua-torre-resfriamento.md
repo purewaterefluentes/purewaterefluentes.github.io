@@ -4,7 +4,7 @@ pageTitle: DISPERSANTE PARA ÁGUA DE TORRE RESFRIAMENTO - PUREWATER EFLUENTES
 title: Dispersante  
 subtitle: Torre de resfriamento e Caldeiras 
 ---
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Dispersante-agua-torre-de-resfriamento.png" alt="Dispersante para Torre de Resfriamento">
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Dispersante-tratamento-agua-torre-resfriamento.png" alt="Dispersante para Torre de Resfriamento">
 
 <br />
   <br />
