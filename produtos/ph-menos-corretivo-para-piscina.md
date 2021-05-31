@@ -7,9 +7,9 @@ subtitle: Corretor de PH para Água
 <p>
 <img class="img-responsive pull-right" style="max-width: 65%;" src="../../website/images/corretor de PH acido.png" alt="corretor de PH acido">  
 <img class="img-responsive pull-left" style="max-width: 65%;" src="../../website/images/corretor de PH alcalino.png" alt="corretor de PH alcalino">
-<br/>
+</p>
 
-  </p>
+  
 ### **Quando usar corretor de PH Alcalino:**
 
 Este é um produto líquido que apresenta caracteristica alcalina, e que deve ser usado sempre que desejar elevar ou aumentar o PH da  água, auxiliando tambem na redução da acidez. 
