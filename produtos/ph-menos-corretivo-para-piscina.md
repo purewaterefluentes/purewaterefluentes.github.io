@@ -26,6 +26,6 @@ Este é um produto líquido que apresenta caracteristica ácida, e que deve ser 
 2) Analise diariamente o pH e, se estiver acima de 7,8, corrija-o com **AQUA-PH-®**, caso o PH da água esteja abaixo de 6,5 dosar **AQUA-PH+**.
 3) Já alcalinidade total deve ser analisada semanalmente e corrigida conforme necessidade  
 
-**Validade:** 12 meses
-**Embalagens do Corretor de PH**: 1 Kg / 25 Kg / 50Kg
+- **Validade:** 12 meses
+- **Embalagens do Corretor de PH**: 1 Kg / 25 Kg / 50Kg
 
