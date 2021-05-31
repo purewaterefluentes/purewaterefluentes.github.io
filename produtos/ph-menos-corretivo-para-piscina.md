@@ -7,7 +7,7 @@ subtitle: Corretor de PH para Água
 <p>
 <img class="img-responsive pull-right" style="max-width: 65%;" src="../../website/images/corretor de PH acido.png" alt="corretor de PH acido">  
 <img class="img-responsive pull-left" style="max-width: 65%;" src="../../website/images/corretor de PH alcalino.png" alt="corretor de PH alcalino">
-</p>
+<br/><br/><br/>
 
   
 ### **Quando usar corretor de PH Alcalino:**
