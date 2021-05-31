@@ -4,8 +4,7 @@ pageTitle: ALCALINIZANTE | CORRETOR DE PH | CORRETOR DE ALCALINIZADADE
 title: Alcalinizante
 subtitle: Corretor de pH e Alcalinidade
 ---
-<img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/corretor de ph alcalino PH+.png" alt="corretor de PH alcalino">
-<br />
+
 ### **Corretor de pH Alcalino (Elevação de PH)**
 ----
 Fabricamos uma linha completa de produtos destinados ao controle de PH em tratamento de água, efluentes industriais ou sistemas de recirculação fechado como torres de resfriamento ou caldeiras.
