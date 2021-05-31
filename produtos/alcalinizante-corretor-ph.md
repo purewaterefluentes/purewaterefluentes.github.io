@@ -4,7 +4,7 @@ pageTitle: ALCALINIZANTE | CORRETOR DE PH | CORRETOR DE ALCALINIZADADE
 title: Alcalinizante
 subtitle: Corretor de pH e Alcalinidade
 ---
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Anti-Incrustante para Caldeira.png" alt="corretor de PH alcalino">
+<img class="img-responsive pull-right" style="max-width: 80%;" src="../../website/images/corretor de ph alcalino PH+.png" alt="corretor de PH alcalino">
 <br />
 ### **Corretor de pH Alcalino (Elevação de PH)**
 ----
