@@ -24,7 +24,7 @@ robots: follow
 - [Biocida](biocida.html){:.btn .btn-link}
 - [Clarificador](clarificador-agua-efluentes.html){:.btn .btn-link}
 - [Cloro Liquido](cloro-liquido.html){:.btn .btn-link}
-- [Coagulantes p/ água e efluentes](coagulante-agua-efluentes.html){:.btn .btn-link}
+- [Coagulante para Tratamento de Água](coagulante-para-tratamento-de-agua-efluentes.html){:.btn .btn-link}
 - [Coagulante Orgânico Biodegradável](coagulante-organico-biodegradavel.html){:.btn .btn-link}
 - [Descomplexante para efluentes](descomplexante.html){:.btn .btn-link}
 - [Desincrustante](desincrustante.html){:.btn .btn-link}
