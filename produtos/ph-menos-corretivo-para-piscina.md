@@ -5,7 +5,10 @@ title: PH-MENOS - CORRETIVO
 subtitle: TRATAMENTO DE PISCINAS
 ---
 <img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/corretor de PH alcalino.png" alt="corretor de PH alcalino">
+
+<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/corretor de PH acido.png" alt="corretor de PH acido">
 <br />
+
 ### Quando usar corretivo de pH:
 
 Este é um produto corretivo de pH líquido que apresenta caracteristica ácida com a função de baixar o pH e a alcalinidade total.
@@ -16,8 +19,6 @@ Este é um produto corretivo de pH líquido que apresenta caracteristica ácida 
 1) Mantenha o pH dentro da faixa ideal entre 7,4 e 7,6, a alcalinidade total entre 80 e 120 ppm e a dureza cálcica entre 200 e 400 ppm.
 
 2) Analise diariamente o pH e, se estiver acima de 7,8, corrija-o com **pH-MENOS LÍQUIDO® AQUA-F400®**. Já alcalinidade total deve ser analisada semanalmente e corrigida com pH®MENOS sempre que estiver acima de 120 ppm. Verifique as dosagens nas tabelas abaixo. 
-
-<img class="img-responsive pull-left" style="max-width: 50%;" src="../../website/website/images/corretor de PH acido.png" alt="corretor de PH acido">
 
 ### **Dosagem recomendada:**
 
