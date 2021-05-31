@@ -17,7 +17,7 @@ Este é um produto líquido que apresenta caracteristica alcalina, e que deve se
 
 ### Quando usar corretor de PH Ácido:
 
-Este é um produto líquido que **apresenta** caracteristica ácida, e que deve ser usado sempre que desejar baixar ou reduzir o PH da  água.
+Este é um produto líquido que apresenta caracteristica ácida, e que deve ser usado sempre que desejar baixar ou reduzir o PH da  água.
 É indicado usar quando o pH estiver acima de 7,8 ou a alcalinidade total acima de 120 ppm. 
 </p>
 
