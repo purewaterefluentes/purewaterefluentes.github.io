@@ -9,7 +9,7 @@ subtitle: Corretor de PH para Água
 
 <img class="img-responsive pull-left" style="max-width: 45%;" src="../../website/images/corretor de PH acido.png" alt="corretor de PH acido">
 
-<br />
+-----
 
 ### Quando usar corretivo de pH:
 
