@@ -4,11 +4,15 @@ pageTitle: PH-MENOS CORRETIVO PARA PISCINA | PUREWATER EFLUENTES
 title: PH-MENOS - CORRETIVO
 subtitle: TRATAMENTO DE PISCINAS
 ---
-
+<img class="img-responsive pull-right" style="max-width: 90%;" src="../../website/images/corretor de PH alcalino.png" alt="corretor de PH alcalino">
+<br />
 ### Quando usar corretivo de pH:
 
 Este é um produto corretivo de pH líquido que apresenta caracteristica ácida com a função de baixar o pH e a alcalinidade total.
 É indicado usar quando o pH estiver acima de 7,8 ou a alcalinidade total acima de 120 ppm.
+
+<img class="img-responsive pull-right" style="max-width: 90%;" src="../../website/website/images/corretor de PH acido.png" alt="corretor de PH acido">
+<br />
 
 ### Modo de aplicação do Corretivo de pH:
 
