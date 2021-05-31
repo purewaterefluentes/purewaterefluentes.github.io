@@ -4,6 +4,10 @@ pageTitle: CORRETOR DE PH PARA PISCINA | PH+ | PH-
 title: Corretor de PH
 subtitle: Corretor de PH para Água
 ---
+
+<img class="img-responsive pull-right" style="max-width: 65%;" src="../../website/images/corretor de PH acido.png" alt="corretor de PH acido">  
+<img class="img-responsive pull-left" style="max-width: 65%;" src="../../website/images/corretor de PH alcalino.png" alt="corretor de PH alcalino">
+
 ### **Quando usar corretor de PH Alcalino:**
 
 Este é um produto líquido que apresenta caracteristica alcalina, e que deve ser usado sempre que desejar elevar ou aumentar PH da  água, auxiliando tambem na redução da acidez. 
@@ -13,8 +17,7 @@ Este é um produto líquido que apresenta caracteristica alcalina, e que deve se
 
 Este é um produto líquido que apresenta caracteristica ácida, e que deve ser usado sempre que desejar baixar ou reduzir o PH da  água.
 É indicado usar quando o pH estiver acima de 7,8 ou a alcalinidade total acima de 120 ppm. 
-<img class="img-responsive pull-right" style="max-width: 65%;" src="../../website/images/corretor de PH acido.png" alt="corretor de PH acido">  
-<img class="img-responsive pull-left" style="max-width: 65%;" src="../../website/images/corretor de PH alcalino.png" alt="corretor de PH alcalino">
+
 
 ### **Tratamento de Água de Piscina:**
 
