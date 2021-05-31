@@ -1,12 +1,12 @@
 ---
 layout: contato
-pageTitle: PH-MENOS CORRETIVO PARA PISCINA | PUREWATER EFLUENTES
-title: PH-MENOS - CORRETIVO
-subtitle: TRATAMENTO DE PISCINAS
+pageTitle: CORRETOR DE PH PARA PISCINA | PH+ | PH- 
+title: Corretor de PH
+subtitle: Corretor de PH para Água
 ---
-<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/corretor de PH alcalino.png" alt="corretor de PH alcalino">
+<img class="img-responsive pull-center" style="max-width: 50%;" src="../../website/images/corretor de PH alcalino.png" alt="corretor de PH alcalino">
 
-<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/corretor de PH acido.png" alt="corretor de PH acido">
+<img class="img-responsive pull-center" style="max-width: 50%;" src="../../website/images/corretor de PH acido.png" alt="corretor de PH acido">
 <br />
 
 ### Quando usar corretivo de pH:
