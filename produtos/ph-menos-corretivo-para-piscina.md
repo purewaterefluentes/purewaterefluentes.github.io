@@ -23,8 +23,10 @@ Este é um produto líquido que apresenta caracteristica ácida, e que deve ser 
 3) Já alcalinidade total deve ser analisada semanalmente e corrigida conforme necessidade  
 
 <p>
+ 
 - **Validade:** 12 meses
-- **Embalagens do Corretor de PH**: 1 Kg / 25 Kg / 50Kg.<br/><br/><br/>
+- **Embalagens do Corretor de PH**: 1 Kg / 25 Kg / 50Kg.
+ <br/><br/><br/>
 
   
 <img class="img-responsive pull-right" style="max-width: 45%;" src="../../website/images/corretor de PH acido.png" alt="corretor de PH acido">  
