@@ -2,12 +2,12 @@
 layout: contato
 pageTitle: POLICLORETO DE ALUMÍNIO PAC18 | PUREWATER EFLUENTES
 title: Policloreto de Alumínio
-subtitle: PAC18% 
+subtitle: Coagulante - PAC18% 
 ---
 
 ### Propriedades do Policloreto de Alumínio
 
-O **Policloreto de Alumínio (PAC 18)** é um coagulante inorgânico catiônico pré polimerizado de baixo peso molecular a base de policloreto de alumínio, esse coagulante possui cadeias de polímeros pré-formadas, exibindo uma alta concentração de carga catiônica na unidade polimérica. Apresenta fórmula Aln(OH)mCl3n-m, sendo utilizado em processos de tratamento de águas, Tratamento de efluentes industriais, Tratamento de esgoto.
+O **Policloreto de Alumínio (PAC18)** é um coagulante inorgânico catiônico pré polimerizado de baixo peso molecular a base de policloreto de alumínio, esse coagulante possui cadeias de polímeros pré-formadas, exibindo uma alta concentração de carga catiônica na unidade polimérica. Apresenta fórmula Aln(OH)mCl3n-m, sendo utilizado em processos de tratamento de águas, Tratamento de efluentes industriais, Tratamento de esgoto.
 
 O PoliCloreto de Alumínio tem como caracteristica química agregar em sua molécula original cadeias polímericas hidroxiladas, fundamentais nos processos de coagulação e floculação em tratamento de água. A posterior hidrólise irá proporcionar novas espécies insóluveis, que possibilitarão o processo de neutralização elétrica, que neste caso serão menos sensiveis que as espécies originárias a partir da hidrólise dos sais monoméricos.
 
