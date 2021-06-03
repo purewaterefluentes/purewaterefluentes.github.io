@@ -8,6 +8,8 @@ subtitle: Corretor de PH para Água
 ><img class="img-responsive pull-left" style="max-width: 55%;" src="../../website/images/corretor de PH alcalino.png" alt="corretor de PH alcalino">
 >
 
+2
+2
 
 ### Quando usar corretor de PH Alcalino: **AQUA-PH+**
 
