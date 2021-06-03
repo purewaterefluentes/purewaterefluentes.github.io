@@ -2,7 +2,7 @@
 layout: contato
 pageTitle: CORRETOR DE PH PARA PISCINA | PH+ | PH- 
 title: Corretor de PH
-subtitle: Corretor de PH para Água
+subtitle: Piscina 
 ---
 
 <img class="img-responsive pull-left" style="max-width: 50%;" src="../../website/images/corretor de PH alcalino.png" alt="corretor de PH alcalino">
