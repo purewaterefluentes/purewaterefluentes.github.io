@@ -53,7 +53,7 @@ robots: follow
 - [Hipoclorito de calcio](hipoclorito-de-calcio.html){:.btn .btn-link}
 - [Hipoclorito de Sódio](hipoclorito-de-sodio.html){:.btn .btn-link}
 - [Peroxido de Hidrogenio 200Volumes](peroxido-de-hidrogenio.html){:.btn .btn-link}
-- [Policloreto de Alumínio](policloreto-de-aluminio-pac18-coagulante.html){:.btn .btn-link}
+- [Policloreto de Alumínio](policloreto-de-aluminio-pac-coagulante.html){:.btn .btn-link}
 - [Sulfato de Aluminio](sulfato-de-aluminio.html){:.btn .btn-link}
 - [Sulfato de Cobre Pentahidratado](sulfato-de-cobre-pentahidratado.html){:.btn .btn-link}
 - [Sulfato Ferroso](sulfato-ferroso.html){:.btn .btn-link}
