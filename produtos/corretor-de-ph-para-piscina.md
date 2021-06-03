@@ -21,9 +21,9 @@ Este é um produto líquido que apresenta caracteristica ácida, e que deve ser 
 
 ### Tratamento de Água de Piscina:
 
-1) Mantenha o pH dentro da faixa ideal entre 7,4 e 7,6, a alcalinidade total entre 80 e 120 ppm e a dureza cálcica entre 200 e 400 ppm.
+1) Mantenha o pH dentro da faixa ideal entre 7,4 e 7,6 a alcalinidade total entre 80 e 120 ppm e a dureza cálcica entre 200 e 400 ppm.
 
-2) Analise diariamente o pH e, se estiver acima de 7,8, corrija-o com **AQUA(PH-)®**, caso o PH da água esteja abaixo de 6,5 dosar **AQUA(PH+)®**.
+2) Analise diariamente o pH e, se estiver acima de 7,8 corrija-o com **AQUA(PH-)®**, caso o PH da água esteja abaixo de 6,5 dosar **AQUA(PH+)®**.
 
 3) Já alcalinidade total deve ser analisada semanalmente e corrigida conforme necessidade  
 
