@@ -4,8 +4,7 @@ pageTitle: CORRETOR DE PH PARA PISCINA | PH+ | PH-
 title: Corretor de PH
 subtitle: Piscina 
 ---
-
-<img class="img-responsive pull-center style="max-width: 100%;" src="../../website/images/corretor de pH_tratamento de água.png" alt="corretor de PH">
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/corretor de pH_tratamento de água.png" alt="corretor de PH">
 
 ### Quando usar corretor de PH Alcalino: **AQUA(PH+)**
 
