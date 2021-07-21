@@ -51,7 +51,7 @@ Disponivel na forma de pó (pulverizado)
 
 {% include purewater/link-boletim.html 
    label="Tabela Grânulometrica de Carvão Ativado" 
-   arquivo="FISPQ AQUA-238 revisada.pdf" %}
+   arquivo="Tabela Grânulometrica de Carvão Ativado.pdf" %}
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Carvão Ativado" 
