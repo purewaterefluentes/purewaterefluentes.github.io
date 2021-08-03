@@ -24,7 +24,7 @@ function sendEnquire(fromModal){
     $("#sendMessage").prop('disabled', true);
 
     $.ajax({
-        url: "http://purewaterefluentes.tempsite.ws/sendEmail.php",
+        url: "https://purewaterefluentes.tempsite.ws/sendEmail.php",
         method: "POST",
         data: postData,
         dataType: "text",
