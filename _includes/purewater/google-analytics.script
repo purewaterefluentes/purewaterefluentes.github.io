@@ -23,7 +23,7 @@
  	        });
  	    });
 
- 	   	if(window.location.href == "http://purewaterefluentes.com.br/contato/"){
+ 	   	if(window.location.href == "https://purewaterefluentes.com.br/contato/"){
  	    	document.querySelector("#sendMessage").addEventListener('click', event=>{
  	        	gtag('event', 'conversion', {'send_to': 'AW-1041562649/FD8RCO-z2o0CEJn40_AD'});
 	    	});	
