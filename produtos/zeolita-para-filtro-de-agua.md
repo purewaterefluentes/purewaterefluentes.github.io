@@ -4,10 +4,12 @@ pageTitle: ZEOLITA PARA FILTRO DE ÁGUA | ELEMENTO FILTRANTE | PUREWATER EFLUENT
 title: Zeolita para Filtro de Água
 subtitle: Elemento Filtrante
 ---
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/zeolita para filtro.png" alt="Zeolita para filtro">
+<figure class="figure">
+  <img src="../../website/images/zeolita para filtro.png" class="figure-img img-fluid rounded" alt="Zeolita para filtro">
+</figure>
 
 
-### **Zeólito para Filtragem de Água**
+### Zeólito para Filtragem de Água
 <br />
 Fornecemos **Zeólitos, Zeólitas ou Zeolites,** que são aluminossilicatos cristalinos hidratados de metais alcalinos e alcalinos terrosos que possuem uma estrutura cristalina tridimensional infinita.
 
@@ -16,7 +18,7 @@ Estes minerais são caracterizados pela capacidade de perder e ganhar água reve
 Zeólitos são utilizados como **elemento de filtração em tratamento de água** e constituem um grupo numeroso de minerais que possuem uma estrutura porosa.
 <br />
 <br />
-### &#9758; **Tipos de Zeólitas Disponíveis:**
+### Tipos de Zeólitas Disponíveis:
 
 <hr>
      
@@ -35,7 +37,7 @@ Zeólitos são utilizados como **elemento de filtração em tratamento de água*
 **Indicação de uso:** Produto utilizado em filtros pressurizados, como meio filtrante, trabalhando com pH entre 5,0 – 7,0.
 <hr>
 
-### **Benefícios da Zeólitas para Filtração:**
+### Benefícios da Zeólitas para Filtração:
 
 + Zeólita gera maior intervalo entre retrolavagens
 + O Zeólito Natural proporciona baixa perda de carga
