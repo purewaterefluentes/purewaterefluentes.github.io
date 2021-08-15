@@ -5,7 +5,7 @@ title: Zeolita para Filtro de Água
 subtitle: Elemento Filtrante
 ---
 <figure class="figure">
-  <img src="../../website/images/zeolita para filtro.png" class="figure-img img-fluid rounded" alt="Zeolita para filtro">
+  <img src="../../website/images/zeolita para filtro.png" class="figure-img img-fluid rounded" alt="Zeolita para filtro" style="max-width: 100%;">
 </figure>
 
 
