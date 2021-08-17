@@ -4,8 +4,9 @@ pageTitle: INIBIDOR DE CORROSÃO - GERAÇÃO DE VAPOR - PUREWATER EFLUENTES
 title: Inibidor de Corrosão
 subtitle: Tratamento de água de Caldeira | Geração de Vapor  
 ---
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Inibidor-de-Corrosão-caldeira-geração-vapor.png" alt="Inibidor de Corrosão para Caldeira">
-
+<figure class="figure">
+  <img src="../../website/images/inibidor_de_corrosao_caldeira_geracao_vapor.jpg" class="figure-img img-fluid rounded" alt="Inibidor de Corrosão para Caldeira" style="max-width: 100%;">
+</figure>
 
 ### **Apresentação**
 
