@@ -14,7 +14,7 @@ Subtitle: Inibidor de Incrustação para tratamento de água
 - Sistemas de Rescirculação de Água  
 >
 <figure class="figure">
-  <img src="../../website/images/anti_incrustante_agua_caldeira-torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Anti-Incrustante para caldeira e torre de resfriamento" style="max-width: 70%;">
+  <img src="../../website/images/anti_incrustante_agua_caldeira-torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Anti-Incrustante para caldeira e torre de resfriamento" style="max-width: 50%;">
 </figure>
 
 <img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Anti-Incrustante para Caldeira.png" alt="Anti-Incrustante para caldeira">
