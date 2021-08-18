@@ -4,8 +4,11 @@ title: ANTI-INCRUSTANTE
 titlePage: ANTI-INCRUSTANTE | CALDEIRAS - TORRE DE RESFRIAMENTO - CHILLER - MEMBRANA DE OSMOSE    
 Subtitle: Inibidor de Incrustação para tratamento de água
 ---
+<figure class="figure">
+  <img src="../../website/images/anti-incrustante_agua_caldeira_torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Anti-Incrustante para caldeira e torre de resfriamento" style="max-width: 60%;" >
+</figure>
 
-### **Anti-Incrustante destinados à:**
+### **Aplicações do Anti-Incrustante:**
 >
 - Caldeira
 - Torres de Resfriamento
@@ -13,9 +16,6 @@ Subtitle: Inibidor de Incrustação para tratamento de água
 - Osmose Reversa
 - Sistemas de Rescirculação de Água  
 >
-<figure class="figure">
-  <img src="../../website/images/anti_incrustante_agua_caldeira-torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Anti-Incrustante para caldeira e torre de resfriamento" style="max-width: 60%;" >
-</figure>
 
 Os produtos **Anti-incrustante ou Dispersante** são compostos químicos ou formulações que possuem a propriedade de prevenir a deposição de sais contidos em água na forma de precipitado em tubos, tanques, ou qualquer superfície. Tipicamente, estes sais são os carbonatos, silicatos e sulfatos de cálcio de água com elevadas concentrações destes sais. Este tipo de água é normalmente chamada de "água dura".
 
@@ -69,6 +69,6 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
 
 ### **Embalagens de Anti-Incrustante**
 
-- Bombonas plásticas de 25 ou 50 Kg
+- Bombonas plásticas de 50 Kg
 - Container plástico IBC de 1000 litros
 
