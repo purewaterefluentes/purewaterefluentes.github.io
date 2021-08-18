@@ -5,7 +5,7 @@ titlePage: ANTI-INCRUSTANTE | CALDEIRAS - TORRE DE RESFRIAMENTO - CHILLER - MEMB
 Subtitle: Inibidor de Incrustação para tratamento de água
 ---
 <figure class="figure">
-  <img src="../../website/images/anti-incrustante_agua_caldeira_torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Anti-Incrustante para caldeira e torre de resfriamento" style="max-width: 60%;" >
+  <img src="../../website/images/anti-incrustante_agua_caldeira_torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Anti-Incrustante para caldeira e torre de resfriamento" style="max-width: 100%;" >
 </figure>
 
 ### **Aplicações do Anti-Incrustante:**
@@ -71,4 +71,5 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
 
 - Bombonas plásticas de 50 Kg
 - Container plástico IBC de 1000 litros
+
 
