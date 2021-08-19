@@ -4,8 +4,9 @@ pageTitle: SEQUESTRANTE DE OXIGÊNIO | CALDEIRA GERAÇÃO DE VAPOR | PUREWATER E
 title: Sequestrante de Oxigênio
 subtitle: Tratamento de água de Caldeira
 ---
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/sequestrante-de-oxigenio-caldeira.png" alt="Sequestrante de Oxigênio para Caldeira">
-
+<figure class="figure">
+  <img src="../../website/images/sequestrante_de_oxigenio_caldeira.jpg" class="figure-img img-fluid rounded" alt="Sequestrante de Oxigênio para Caldeira" style="max-width: 100%;">
+</figure>
 
 ### Apresentação
 
@@ -36,5 +37,6 @@ No tratamento de caldeiras, adiciona-se um pequeno excesso de sequestrante de ox
 
 - Bombona plástica de 50 Kg
 - Container Plastico (IBC) de 1000 litros
+
 
 
