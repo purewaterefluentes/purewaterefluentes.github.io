@@ -4,7 +4,9 @@ pageTitle: Produtos Biocida - Microbactericida - Torre de Resfriamento
 title: Biocida
 subtitle: Tratamento de Torre de Resfriamento - Chiller - Caldeiras
 ---
-<img class="img-responsive center" style="max-width: 100%;" src="../../website/images/Biocida Industrial-torre-de-resfriamento.png" alt="Biocida industrial_Torre de Resfriamento">
+<figure class="figure">
+  <img src="../../website/images/biocida_industrial_torre_de_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Biocida industrial_Torre de Resfriamento" style="max-width: 100%;">
+</figure>
 
 ### Apresentação
 
@@ -44,7 +46,4 @@ O **Aditivo-BIO**, atua como **biocida ou bactericida** (Também conhecido como 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Biocida AQUA-THPS" 
    arquivo="Boletim Técnico -AQUA-THPS.pdf" %}
-   
-   
-   
    
