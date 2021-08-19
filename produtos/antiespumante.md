@@ -5,7 +5,7 @@ title: Antiespumante
 subtitle: Silicona antiespumante
 ---
 <figure class="figure">
-  <img src="../../website/images/antiespumante_industrial.jpg" class="figure-img img-fluid rounded" alt="Dispersante para Torre de Resfriamento" style="max-width: 100%;">
+  <img src="../../website/images/antiespumante_industrial.jpg" class="figure-img img-fluid rounded" alt="Atiespumante" style="max-width: 100%;">
 </figure>
 
 A Linha de **Antiespumantes** da **Purewater Efluentes** baseam-se em compostos específicos atuando combinadamente entre o efeito dispersante e o antiespumante, agindo com eficácia no controle e na formação de espumas em tratamento de água e aplicações industriais. 
@@ -54,5 +54,6 @@ Tipos Fabricados:
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Antiespumante" 
    arquivo="Boletim-tecnico-antiespumante.pdf" %}
+   
    
    
