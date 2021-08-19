@@ -4,10 +4,9 @@ pageTitle: CLORO LIQUIDO |CLORO CONCENTRADO |PUREWATER EFLUENTES
 title: Cloro Liquido
 subtitle: Cloro Concentrado
 ---
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/cloro_liquido concentrado.png" alt="Cloro Liquido">
-
->
-<br />
+<figure class="figure">
+  <img src="../../website/images/cloro_liquido_concentrado.jpg" class="figure-img img-fluid rounded" alt="Cloro Liquido" style="max-width: 100%;">
+</figure>
 
 ### Apresentação
 
