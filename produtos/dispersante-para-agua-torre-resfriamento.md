@@ -4,10 +4,10 @@ pageTitle: DISPERSANTE PARA ÁGUA DE TORRE RESFRIAMENTO - PUREWATER EFLUENTES
 title: Dispersante  
 subtitle: Torre de resfriamento e Caldeiras 
 ---
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Dispersante-tratamento-agua-torre-resfriamento.png" alt="Dispersante para Torre de Resfriamento">
+<figure class="figure">
+  <img src="../../website/images/Dispersante_tratamento_agua_torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Dispersante para Torre de Resfriamento" style="max-width: 100%;">
+</figure>
 
-<br />
-  <br />
 ### Apresentação 
 
 **AQUA-HEDP - Dispersante de íons metálicos em caldeiras e torre de resfriamento**
@@ -49,6 +49,5 @@ Existem diversos tipos de dispersante para torre de resfriamento, cada um deles 
 ### Informativo - Dispersante para Água
 
 {% include purewater/link-boletim.html label="Dispersante - AQUA-HEDP" arquivo="BOLETIM TÉCNICO - AQUA-HEDP dispersante.pdf" %}
-
 
 
