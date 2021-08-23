@@ -4,12 +4,13 @@ pageTitle: HIPOCLORITO DE SÓDIO | CLORO | FABRICA | PUREWATER EFLUENTES
 title: Hipoclorito de Sódio
 subtitle: Cloro Hipoclorito 12%
 ---
+<figure class="figure">
+  <img src="../../website/images/hipoclorito_de_sodio.png" class="figure-img img-fluid rounded" alt="Hipoclorito de Sodio" style="max-width: 100%;">
+</figure>
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/hipoclorito de sodio.png" alt="Hipoclorito de Sodio">
+### Apresentação
 
-
-<br />
-O Hipoclorito de sódio 12% **NaClO**, também chamado de Cloro liquido que apresenta concentração entre 10 a 12% de cloro ativo, Atua como agente bactericida, saneante, desinfectante e clarificante e pode ser aplicado em tratamento de águas em geral e tratamento de efluentes.
+O **Hipoclorito de sódio 12%**, também chamado de Cloro liquido que apresenta concentração entre 10 a 12% de cloro ativo, Atua como agente bactericida, saneante, desinfectante e clarificante e pode ser aplicado em tratamento de águas em geral e tratamento de efluentes.
 
 Possuí fácil aplicação e também pode ser aplicado em água de reuso nos seguimentos de: Lavanderia Industrial, Lavanderia Hospitalar, Galvanoplastia, Curtumes, Industria Alimentícia e Industria farmacêutica e outras.
 
