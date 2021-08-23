@@ -14,8 +14,6 @@ subtitle: Anti-Incrustante e Protetivo para Membrana de Osmose
 
 Produto Multiação para Osmose Reversa e Sistemas de Ultra-Filtração que atua como **Desincrustante, Anti-Incrustante e Protetivo para Limpeza de Osmose Reversa.**
 
-**AQUA-FLOCON:**  Tem formulação de alto desempenho, sendo usado no controle e limpeza de deposições de crostas inorgânicas formadas por sais nas superfícies das membranas em geral e sistemas de osmose. 
-
 ### Propriedades do Protetivo para Osmose
 
 >
