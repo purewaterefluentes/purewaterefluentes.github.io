@@ -4,11 +4,12 @@ pageTitle: PROTETIVO P/ LIMPEZA MEMBRANA DE OSMOSE REVERSA | ANTI-INCRUSTANTE OS
 title: LIMPEZA DE MEMBRANA DE OSMOSE
 subtitle: Anti-Incrustante e Protetivo para Membrana de Osmose
 ---
+<figure class="figure">
+  <img src="../../website/images/zeolita_para_filtro_de_agua.jpg" class="figure-img img-fluid rounded" alt="Zeolita para filtro" style="max-width: 100%;">
+</figure>
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/protetivo para osmose reversa.png" alt="Protetivo para Membrana de Osmose">
 
-<br />
-Produto Multiação que atua como **Desincrustante, Anti-Incrustante e Protetivo para Osmose Reversa.**
+Produto Multiação que atua como **Desincrustante, Anti-Incrustante e Protetivo para Limpeza de Osmose Reversa.**
 
 **AQUA-FLOCON:**  Tem formulação de alto desempenho, sendo usado no controle e limpeza de deposições de crostas inorgânicas formadas por sais nas superfícies das membranas em geral e sistemas de osmose. 
 
