@@ -4,9 +4,9 @@ pageTitle: PRODUTO PARA TRATAMENTO DE AGUA DE TORRE DE RESFRIAMENTO - CHILLER Á
 title: AQUA-PFO
 subtitle: Anti-Incrustante Protetivo para Tratamento de água de Torre de Resfriamento / Chiller Água Gelada 
 ---
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/produto-tratamento-de-agua-torre-resfriamento-chiller-gelada.png" alt="Tratamento de água de Resfriamento">
-
-<br />
+<figure class="figure">
+  <img src="../../website/images/produto_para_tratamento_de_agua_torre_resfriamento_chiller_gelada.jpg" class="figure-img img-fluid rounded" alt="Produto para tratamento de água de Torre de Resfriamento" style="max-width: 100%;">
+</figure>
 
 ### **Apresentação**
 
@@ -50,7 +50,6 @@ Não classificado como perigoso para o transporte terrestre. Não classificado c
 {% include purewater/link-boletim.html 
    label="Ficha Técnica Protetivo para água de refrigeração" 
    arquivo="FISPQ - AQUA-PFO protetivo água refrigeração.pdf" %}
-   
    
    
    
