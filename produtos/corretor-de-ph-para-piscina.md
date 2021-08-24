@@ -4,7 +4,9 @@ pageTitle: CORRETOR DE PH PARA PISCINA | PH+ | PH-
 title: Corretor de PH
 subtitle: Piscina 
 ---
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/corretor de pH_tratamento de água.png" alt="corretor de PH">
+<figure class="figure">
+  <img src="../../website/images/corretor de pH_tratamento de água.jpg" class="figure-img img-fluid rounded" alt="Produto corretor de pH para água de piscina" style="max-width: 100%;">
+</figure>
 
 ### Quando usar corretor de PH Alcalino: **AQUA(PH+)**
 
@@ -26,8 +28,9 @@ Este é um produto líquido que apresenta caracteristica ácida, e que deve ser 
 
  
 - **Validade:** 12 meses
-- **Embalagens do Corretor de PH**: 1 Kg / 25 Kg / 50Kg.
-                                                                                                                                                     
+- **Embalagens do Corretor de PH**: 1 Kg / 25 Kg / 50Kg.        
+
+                                               
                                                                                                                                                      
                                                                                                                                                      
 
