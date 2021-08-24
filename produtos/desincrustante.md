@@ -4,10 +4,9 @@ pageTitle: DESINCRUSTANTE INDUSTRIAL | LIMPEZA QUIMICA | PUREWATER EFLUENTES
 title: Desincrustante
 subtitle: Desincrustante para Caldeiras - Torre de Resfriamento - Chiller - Rede Hidráulica Industrial
 ---
-
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/desincrustante acido-limpeza-industrial.png" alt="Desincrustante - Limpeza Quimica">
-
-<br />
+<figure class="figure">
+  <img src="../../website/images/desincrustante_acido_limpeza_tubulacao_industrial.jpg" class="figure-img img-fluid rounded" alt="Desincrustante industrial para limpeza quimica" style="max-width: 100%;">
+</figure>
 
 ### **Apresentação**
 
