@@ -20,10 +20,10 @@ Eficaz no combate à depósitos de carbonatos de cálcio, sílica e magnésio, t
 ### Propriedades do Protetivo para Osmose AQUA-FLOCON
 
 >
-- Atua de forma constante na limpeza das membranas de Osmose Reversa e outras, sem que haja danos químicos a mesma
+- Atua de forma constante na limpeza das membranas de Osmose Reversa e outras, sem que haja danos químicos  
 - Anti-Incrustante de forma efetiva no controle de crostas de carbonatos e sulfatos em sistemas de Osmose Reversa
 - Efêciente Protetivo para Osmose com ótimo custo de operação efetivo
-- Compatível com as principais membranas de osmose reversa, tambem para sistemas de nano-Filtragem Industrial.
+- Compatível com as principais membranas de osmose reversa, tambem para sistemas de nano-Filtragem Industrial 
 - Apresenta ação Dispersante e Desincrustante nas membranas
 - Protetivo químico para osmose reversa (OR), com alta tolerância ao ferro
 >
