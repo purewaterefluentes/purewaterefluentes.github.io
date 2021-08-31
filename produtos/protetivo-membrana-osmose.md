@@ -14,7 +14,7 @@ subtitle: Anti-Incrustante e Protetivo para Membrana de Osmose
 
 Produto Multiação para Osmose Reversa e Sistemas de Ultra-Filtração que atua como **Desincrustante, Anti-Incrustante e Protetivo para Limpeza de Osmose Reversa.**
 
-Eficaz no combate de depósito de carbonatos de cálcio, sílica e magnésio, também atuando como agente Dispersante.
+Eficaz no combate à depósitos de carbonatos de cálcio, sílica e magnésio, também atuando como agente Dispersante.
 
 
 ### Propriedades do Protetivo para Osmose
