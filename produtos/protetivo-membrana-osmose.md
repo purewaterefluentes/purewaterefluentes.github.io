@@ -14,13 +14,16 @@ subtitle: Anti-Incrustante e Protetivo para Membrana de Osmose
 
 Produto Multiação para Osmose Reversa e Sistemas de Ultra-Filtração que atua como **Desincrustante, Anti-Incrustante e Protetivo para Limpeza de Osmose Reversa.**
 
+Eficaz no combate de depósito de carbonatos de cálcio, sílica e magnésio, também atuando como agente Dispersante.
+
+
 ### Propriedades do Protetivo para Osmose
 
 >
-- AQUA-FLOCON atua de forma constante na limpeza das membras, sem que haja danos químicos a mesma
-- Atua como Anti-Incrustante de forma efetiva no controle de crostas de carbonato e sulfato em sistemas de Osmose
-- Protetivo para Osmose com ótimo custo de operação efetivo
-- AQUA-FLOCON é compatível com as principais membranas de osmose reversa
+- AQUA-FLOCON atua de forma constante na limpeza das membranas de Osmose Reversa e outras, sem que haja danos químicos a mesma
+- Atua como Anti-Incrustante de forma efetiva no controle de crostas de carbonatos e sulfatos em sistemas de Osmose Reversa
+- Efêciente Protetivo para Osmose com ótimo custo de operação efetivo
+- AQUA-FLOCON é compatível com as principais membranas de osmose reversa, tambem para sistemas de nano-Filtragem Industrial.
 - AQUA-FLOCON tem ação Dispersante e Desincrustante nas membranas
 - Sendo um protetivo para osmose com alta tolerância ao ferro
 >
@@ -48,6 +51,8 @@ Deve ser dosado continuamente e de forma proporcional ao fluxo de água de alime
 
 A dosagem exigida depende da qualidade da água de alimentação e o índice de saturação de várias formas de crostas presentes na salmoura concentrada. devendo ser aplicado de forma constante .
 
+dosagem sugerida: Entre 6 a 12 ppm. (Podendo ser ajustado conforme necessidade)
+
 ### Embalagens do Protetivo para Osmose Reversa.
 
 - Bombona de plásticos de 50 Kg 
@@ -57,8 +62,7 @@ A dosagem exigida depende da qualidade da água de alimentação e o índice de 
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Inibidor Incrustação Osmose Flocon" 
-   arquivo="Boletim-tecnico-inibidor-incrustação-osmose-flocon.pdf" %}
-   
+   arquivo="boletim-tecnico-inibidor-incrustacao-osmose-reversa-flocon-260.pdf" %}
    
    
    
