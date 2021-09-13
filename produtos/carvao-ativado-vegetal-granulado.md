@@ -11,8 +11,8 @@ subtitle: Carvão Ativado Vegetal
 
 **Redução do Teor de Cloro Livre na Água**
 
-- Estudos mostram que é necessario filtrar e reduzir o cloro livre na água, em média o uso de:
-- 50Kg de Carvão Ativado Vegetal para cada 1m3 de água contendo o teor de cloro entre 1 a 2ppm, com tempo de filtração médio de 3 a 4 minutos de contato.
+Estudos mostram que é necessario filtrar e reduzir o cloro livre na água, em média o uso de:
+50Kg de Carvão Ativado Vegetal para cada 1m3 de água contendo o teor de cloro entre 1 a 2ppm, com tempo de filtração médio de 3 a 4 minutos de contato.
 
 ### Principais Aplicações do Carvão Ativado:
 
