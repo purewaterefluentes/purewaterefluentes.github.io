@@ -46,6 +46,4 @@ subtitle: AQUA-150 - Remoção de Sulfatos
 - Bombona plástica de 25 ou 50 Kg
 - Container (IBC) Plástico de 1000 litros
 
-### Produto indicado para uso industrial, não recomendado para uso em tratamento de água potavel ou de consumo humano.
-
-
+## Produto indicado para uso industrial, não recomendado para uso em tratamento de água potavel ou de consumo humano.
