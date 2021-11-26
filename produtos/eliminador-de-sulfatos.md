@@ -7,7 +7,7 @@ subtitle: AQUA-150 - Remoção de Sulfatos
 
 ### Apresentação
 
-## AQUA-150: Produto para Remoção de Sulfato em Tratamento de Efluentes  
+#### AQUA-150: Produto para Remoção de Sulfato em Tratamento de Efluentes  
   
 O **Redutor de sulfatos ou Eliminador de Sulfatos** da Purewater Efluentes foi desenvolvido com a função especifica de precipitação de sais de sulfatos (Remoção de Sulfato em tratamento de água), em meio aquoso. 
 
@@ -15,11 +15,14 @@ O **Redutor de sulfatos ou Eliminador de Sulfatos** da Purewater Efluentes foi d
 O produto tem fácil aplicação e ação imediata, com resultado efetivo em tratamento de água.
 
 ---    
+
 ### Composição do Redutor de Sulfatos para Efluentes
+
 
 O **AQUA-150** é formulado a base de sais inorgânicos presentes na Família IIA e estabilizantes, sendo totalmente solúvel em água, podendo ser aplicado em sua forma concentrada ou diluído na proporção sugerida de 1:5 partes.
 
 ### Mecanismo de Ação do Redutor de Sulfatos
+
 
 Sua ação se deve a presença de componentes complexados que atuam no nucleo de formação dos sais de sulfato, gerando a quebra imediata desta estrutura e formando um novo complexo altamente estável de precipitação.  
 
