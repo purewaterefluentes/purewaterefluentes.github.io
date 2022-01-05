@@ -18,6 +18,7 @@ O **Aditivo-BIO**, atua como **biocida ou bactericida** (Também conhecido como 
 
 - Usado como agente bactericida, biocida, algicida e fungicida em tratamento de água de refrigeração em sistema de recirculação.
 - Protetivo para: Torres de resfriamento, Chiller de refrigeração, centrais de refrigeração e Caldeiras.
+- Controle Microbiológico nas águas de resfriamento industrial.
 
 ### Características do Biocida
 
@@ -26,6 +27,7 @@ O **Aditivo-BIO**, atua como **biocida ou bactericida** (Também conhecido como 
 - Microbicida para água de torre de resfriamento
 - Micro-Bactericida 100% solúvel em água, não altera o PH do meio aquoso
 - Elimina a presença de algas nos sistemas de resfriamento de água
+- Microbicida para eliminar a presença de filme biológico em torres de resfriamento
 - Aumenta a vida útil do sistema hidráulico e equipamentos
 - Reduz os ciclos de manutenção
 
