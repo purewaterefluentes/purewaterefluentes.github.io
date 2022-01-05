@@ -1,8 +1,8 @@
 ---
 layout: contato
-pageTitle: Produtos Biocida - Microbactericida - Torre de Resfriamento
+pageTitle: Produtos Biocida - Microbactericida - Microbicida - Torre de Resfriamento
 title: Biocida
-subtitle: Tratamento de Torre de Resfriamento - Chiller - Caldeiras
+subtitle: Microbicida para Tratamento de Torre de Resfriamento - Chiller - Caldeiras
 ---
 <figure class="figure">
   <img src="../../website/images/biocida_industrial_torre_de_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Biocida industrial_Torre de Resfriamento" style="max-width: 100%;">
@@ -10,7 +10,7 @@ subtitle: Tratamento de Torre de Resfriamento - Chiller - Caldeiras
 
 ### Apresentação
 
-O **Aditivo-BIO**, atua como **biocida ou bactericida** (Também conhecido como Microbactericida de uso Industrial), possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em **sistema de águas de recirculação industrial,** e sistemas como; **Torre de Resfriamento, Chiller de água gelada, Caldeiras**. 
+O **Aditivo-BIO**, atua como **biocida ou bactericida** (Também conhecido como Microbactericida ou Microbicida de uso Industrial), possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em **sistema de águas de recirculação industrial,** e sistemas como; **Torre de Resfriamento, Chiller de água gelada, Caldeiras**. 
 
 - Importante: Produto **não deve ser aplicado** em água potável (Consumo Humano), produto apenas de uso industrial. 
 
@@ -21,14 +21,15 @@ O **Aditivo-BIO**, atua como **biocida ou bactericida** (Também conhecido como 
 
 ### Características do Biocida
 
-- Biocida com alto poder bactericida, algicida e fungicida
-- Biocida para tratamento de água ou efluentes que não altera o pH do meio aquoso
-- Micro-Bactericida 100% solúvel em água
-- Fácil aplicação
+- Microbicida com alto poder bactericida, algicida e fungicida
+- Biocida para tratamento de água industrial
+- Microbicida para água de torre de resfriamento
+- Micro-Bactericida 100% solúvel em água, não altera o PH do meio aquoso
+- Elimina a presença de algas nos sistemas de resfriamento de água
 - Aumenta a vida útil do sistema hidráulico e equipamentos
 - Reduz os ciclos de manutenção
 
-### Embalagens do Micro-Bactericida
+### Embalagens do Microbicida
 
 - Biocida em bombonas plásticas de 25 e 50 Kg
 - Biocida em Container plástico IBC de 1000 litros
