@@ -33,6 +33,7 @@ function sendEnquire(fromModal){
              console.log(arguments);
             $("#confirmationModal").modal("show");
             $("#confirmationModal").on('hidden.bs.modal', cleanForm);
+            gtagReportConversionContactForm();
         },
         error: function(){
             console.log('fail' + arguments);

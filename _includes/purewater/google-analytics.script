@@ -31,5 +31,30 @@
    
 	});
 </script>
+<script> 
 
+function gtagReportConversionContactForm() {
+  gtag('event', 'conversion', {'send_to': 'AW-1041562649/y4qfCJ3O1I0CEJn40_AD'});   
+}
+
+function gtagReportConversionEmailLink(url) { 
+  var callback = function () { 
+    if (typeof(url) != 'undefined') { 
+      window.location = url; 
+    } 
+  }; 
+  gtag('event', 'conversion', { 'send_to': 'AW-1041562649/58TSCIn_-qADEJn40_AD', 'event_callback': callback }); 
+  return false; 
+}
+
+function gtagReportConversionWhatsapp(url) {
+  var callback = function () { 
+    if (typeof(url) != 'undefined') { 
+      window.location = url; 
+    } 
+  }; 
+  gtag('event', 'conversion', { 'send_to': 'AW-1041562649/is9gCNHz-qADEJn40_AD', 'event_callback': callback }); return false; 
+} 
+
+</script>
 {% endif %}
