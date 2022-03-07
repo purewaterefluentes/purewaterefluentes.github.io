@@ -10,7 +10,7 @@ Subtitle: Inibidor de Incrustação para tratamento de água
 
 ### **Aplicações do Anti-Incrustante:**
 >
-- Anti-Incrustante para Caldeira, quereduzindo a deposição de sais de cálcio, sílica e magnésio e dureza.
+- Anti-Incrustante para Caldeira, que reduz a deposição de sais de cálcio, sílica e magnésio e dureza.
 - Anti-Incrustante para Torres de Resfriamento
 - Inibidor de incrustação para Chiller (Água Gelada)
 - Osmose Reversa
