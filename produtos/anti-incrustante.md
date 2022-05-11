@@ -41,9 +41,9 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
  >
 
 >**Padrões de pressão para Caldeira:** 
- - Pressão baixa de até 10 Kgf/cm2 
- - Pressão média de 11 a 40 Kgf/cm2
- - Pressão alta de 40 Kgf/cm2
+ - **Pressão baixa:** Até 10 Kgf/cm2 
+ - **Pressão média:** de 11 a 40 Kgf/cm2
+ - **Pressão alta:** de 40 Kgf/cm2
  
 <img src="../../website/images/Tabela_parametros_controle_qualidade_agua_caldeira.jpg" class="figure-img img-fluid rounded" alt="Tabela de Parâmetros para Controle de água de caldeira" style="max-width: 100%;" >
 
