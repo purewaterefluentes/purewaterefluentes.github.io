@@ -45,6 +45,8 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
  - Pressão média de 11 a 40 Kgf/cm2
  - Pressão alta de 40 Kgf/cm2
  
+<img src="../../website/images/anti-incrustante_agua_caldeira_torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Anti-Incrustante para caldeira e torre de resfriamento" style="max-width: 100%;" >
+
 **Consulte o setor técnico para indicação do melhor Anti-incrustante para seu sistema.**
 
 ### **Funcionalidades do Anti-incrustante**
