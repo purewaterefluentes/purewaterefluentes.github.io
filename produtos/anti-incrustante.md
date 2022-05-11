@@ -45,7 +45,7 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
  - Pressão média de 11 a 40 Kgf/cm2
  - Pressão alta de 40 Kgf/cm2
  
-<img src="../../website/images/Tabela_parametros_controle_qualidade_agua_caldeira.jpg" class="figure-img img-fluid rounded" alt="Tabela de Parâmetros para Controle de água de caldeira" style="max-width: 100%;" >
+<img src="../../website/images/Tabela_parametros_controle_qualidade_agua_caldeira.jpg" class="figure-img img-fluid rounded" alt="Tabela de Parâmetros para Controle de água de caldeira" style="max-width: 80%;" >
 
 **Consulte o setor técnico para indicação do melhor Anti-incrustante para seu sistema.**
 
