@@ -10,7 +10,7 @@ subtitle: Microbicida para Tratamento de Torre de Resfriamento - Chiller - Calde
 
 ### Apresentação
 
-O **Aditivo-BIO**, atua como **biocida ou bactericida** (Também conhecido como Microbactericida ou Microbicida de uso Industrial), possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em **sistema de águas de recirculação industrial,** e sistemas como; **Torre de Resfriamento, Chiller de água gelada, Caldeiras e Filtro de Osmose Reversa O.R**. 
+O **Aditivo-BIO**, atua como **biocida ou bactericida** (Também conhecido como Microbactericida ou Microbicida de uso Industrial), possuem tripla ação como algicida, fungicida e bactericida, eficaz no controle e redução da proliferação de algas e micro-organismos em **sistema de águas de recirculação industrial,** e sistemas como; **Torre de Resfriamento, Chiller de água gelada, Caldeiras e Filtro de Osmose Reversa**. 
 
 - Importante: Produto **não deve ser aplicado** em água potável (Consumo Humano), produto apenas de uso industrial. 
 
