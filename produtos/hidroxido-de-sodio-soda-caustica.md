@@ -27,7 +27,8 @@ O hidróxido de sódio é usado na fabricação de sabão , lápis , papel , exp
 <br/>
 ### Boletim Técnico | Soda Caustica
 
-{% include purewater/link-boletim.html label="Boletim Técnico Soda Cáustica Escama" arquivo="FISPQ SODA ESCAMA.pdf" %}
+{% include purewater/link-boletim.html label="Boletim Técnico Soda Cáustica Escama" arquivo="FISPQ MP-NAOH - hidroxido de sodio escamas.pdf" %}
 
 {% include purewater/link-boletim.html label="Boletim Técnico Soda Cáustica 50% Líquida" arquivo="FISPQ SODA 50.pdf" %}
+
 
