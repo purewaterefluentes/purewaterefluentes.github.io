@@ -4,6 +4,9 @@ pageTitle: POLICLORETO DE ALUMÍNIO PAC18 | PUREWATER EFLUENTES
 title: Policloreto de Alumínio
 subtitle: Coagulante - PAC18% 
 ---
+<figure class="figure">
+  <img src="../../website/images/cloro_liquido_concentrado.jpg" class="figure-img img-fluid rounded" alt="Policloreto-de-Aluminio-pac18" style="max-width: 100%;">
+</figure>
 
 ### Propriedades do Policloreto de Alumínio
 
