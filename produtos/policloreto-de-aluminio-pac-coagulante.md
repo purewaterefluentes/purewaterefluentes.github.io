@@ -5,7 +5,7 @@ title: Policloreto de Alumínio
 subtitle: Coagulante - PAC18% 
 ---
 <figure class="figure">
-  <img src="../../website/images/hipoclorito de sodio.jpg" class="figure-img img-fluid rounded" alt="Hipoclorito de Sodio" style="max-width: 100%;">
+  <img src="../../website/images/Policloreto-de-aluminio-coagulante.png" class="figure-img img-fluid rounded" alt="Policloreto-de-aluminio-coagulante" style="max-width: 100%;">
 </figure>
 
 ### Propriedades do Policloreto de Alumínio
@@ -54,8 +54,6 @@ A dosagens varia de acordo com as características da água ou efluente industri
 - Policloreto de alumínio em bombona plastica de 30Kg ou 60Kg.
 - Policloreto de alumínio em Container de 1000 litros. 
 - Policloreto de alumínio em Caminhão Tanque Truck 10.250 litros.
-
-
 
 
 
