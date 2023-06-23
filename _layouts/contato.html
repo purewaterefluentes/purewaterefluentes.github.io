@@ -5,9 +5,14 @@ layout: default
 {{ content }}
 
 <div class="pull-right">
-  <a href="/contato?s={{ page.title }}" class="btn btn-primary">
+  <!-- a href="/contato?s={{ page.title }}" class="btn btn-primary">
       Solicite já a sua cotação
-  </a>
+  </a -->
+
+  <!-- Envio atraves do modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#contatoModal">
+  Solicite já a sua cotação
+</button>
 
   <a onclick="gtagReportConversionWhatsapp()" href="https://wa.me/5511913409867?text=Tenho%20interesse%20em%20{{ page.title }}" target="pw_whats" class="btn btn-success mobile-only">
       Chat pelo Whatsapp
@@ -27,11 +32,12 @@ layout: default
         </button>
       </div>
       <div class="modal-body">
+        {% include purewater/alerts.html %}
         {% include purewater/contato-form.html %}
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-        <button type="button" class="btn btn-primary" onclick="sendEnquire(true)">Enviar</button>
+        <button type="button" class="btn btn-primary mail-sender-modal" id="sendMessage">Enviar</button>
       </div>
     </div>
   </div>
