@@ -5,7 +5,7 @@ title: LIMPEZA DE MEMBRANA DE OSMOSE
 subtitle: Anti-Incrustante e Protetivo para Membrana de Osmose
 ---
 <figure class="figure">
-  <img src="../../website/images/protetivo para limpeza osmose reversa.jpg" class="figure-img img-fluid rounded" alt="Produto para Limpeza de Osmose Reversa" style="max-width: 100%;">
+  <img src="../../website/images/protetivo para limpeza osmose reversa.jpg" class="figure-img img-fluid rounded" alt="Produto para Limpeza de Osmose Reversa" style="max-width: 90%;">
 </figure>
 
 ### Apresentação
@@ -16,8 +16,9 @@ Produto Multiação para Osmose Reversa e Sistemas de Ultra-Filtração que atua
 
 Eficaz no combate à depósitos de carbonatos de cálcio, sílica e magnésio, também atuando como agente Dispersante.
 
+O que é um anti-incrustante para Osmose? É um produto com formulação especialmente desenvolvida para atuar no pré-tratamento da O.R, sendo injetado na água de alimentação que flui pela membrana de osmose reversa, impedindo a formação de incrustações na membrana pela presença de sais de calcio, silica, magnesio e oxido ferroso.
 
-### Propriedades do Protetivo para Osmose AQUA-FLOCON
+### Propriedades do Anti-Incrustante Protetivo para Osmose AQUA-FLOCON
 
 >
 - Atua de forma constante na limpeza das membranas de Osmose Reversa e outras, sem que haja danos químicos  
