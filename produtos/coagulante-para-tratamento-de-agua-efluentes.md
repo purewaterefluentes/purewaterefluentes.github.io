@@ -8,7 +8,7 @@ subtitle: Tratamento de água | Tratamento de Efluentes
 
 A purificação da água ou potabilização é um processo que consiste no tratamento da água ou efluentes indústriais, a fim de remover os contaminantes que eventualmente contenha, tornando-a potável, isto é, própria para o consumo humano ou para o reuso secundario nas industrias, clubes, residencias e outros, ou para descarte na rede coletora de águas do municipio.
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Coagulante para tratamento de agua.png" alt="Coagulante para tratamento de agua">
+<img class="img-responsive pull-right" style="max-width: 75%;" src="../../website/images/Coagulante para tratamento de agua.png" alt="Coagulante para tratamento de agua">
 <br />
 
 Dependendo da fonte da água, uma grande variedade de técnicas poderá ser empregada para esse fim, dentre essas técnicas esta o método de Coagulação, Floculação ou Precipitação.
