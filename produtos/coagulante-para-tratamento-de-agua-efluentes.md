@@ -20,9 +20,8 @@ A **Purewater Efluentes** desenvolve formulações especificas na criação de c
 - Coagulante para tratamento de água de poço
 - Aplicações diversas; Galvanoplastia, Lavanderia industrial, industria metalurgica, farmaceutico e outros
 >
-
-images/Coagulante para tratamento de agua.png
-
+<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Coagulante para tratamento de agua.png" alt="Coagulante para tratamento de agua">
+<br />
 
 ### Classificação de Coagulantes
 
