@@ -8,11 +8,13 @@ subtitle: Tratamento de água | Tratamento de Efluentes
 
 A purificação da água ou potabilização é um processo que consiste no tratamento da água ou efluentes indústriais, a fim de remover os contaminantes que eventualmente contenha, tornando-a potável, isto é, própria para o consumo humano ou para o reuso secundario nas industrias, clubes, residencias e outros, ou para descarte na rede coletora de águas do municipio.
 
+<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/Coagulante para tratamento de agua.png" alt="Coagulante para tratamento de agua">
+<br />
+
 Dependendo da fonte da água, uma grande variedade de técnicas poderá ser empregada para esse fim, dentre essas técnicas esta o método de Coagulação, Floculação ou Precipitação.
 
 A **Purewater Efluentes** desenvolve formulações especificas na criação de coagulantes para o tratamento de água e efluentes industrial, disponibilizando uma linha completa de coagulantes inorgânicos e coagulates orgânicos.
-<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Coagulante para tratamento de agua.png" alt="Coagulante para tratamento de agua">
-<br />
+
 
 **Consulte a area técnica para indicação do melhor COAGULANTE para tratamento de sua água ou efluente.**
 
@@ -33,5 +35,4 @@ A **Purewater Efluentes** desenvolve formulações especificas na criação de c
 - Sacos de 25Kg 
 - Bombona plastica de 25Kg e 50 Kg
 - Container plastico (IBC) de 1000 litros
-
 
