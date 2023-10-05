@@ -21,6 +21,9 @@ A **Purewater Efluentes** desenvolve formulações especificas na criação de c
 - Aplicações diversas; Galvanoplastia, Lavanderia industrial, industria metalurgica, farmaceutico e outros
 >
 
+images/Coagulante para tratamento de agua.png
+
+
 ### Classificação de Coagulantes
 
 - Coagulantes Inorgânicos / Estado: Líquido ou Sólido (pó)
