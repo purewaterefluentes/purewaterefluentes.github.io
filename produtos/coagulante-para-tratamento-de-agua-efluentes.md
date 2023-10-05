@@ -11,6 +11,8 @@ A purificação da água ou potabilização é um processo que consiste no trata
 Dependendo da fonte da água, uma grande variedade de técnicas poderá ser empregada para esse fim, dentre essas técnicas esta o método de Coagulação, Floculação ou Precipitação.
 
 A **Purewater Efluentes** desenvolve formulações especificas na criação de coagulantes para o tratamento de água e efluentes industrial, disponibilizando uma linha completa de coagulantes inorgânicos e coagulates orgânicos.
+<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Coagulante para tratamento de agua.png" alt="Coagulante para tratamento de agua">
+<br />
 
 **Consulte a area técnica para indicação do melhor COAGULANTE para tratamento de sua água ou efluente.**
 
@@ -20,14 +22,11 @@ A **Purewater Efluentes** desenvolve formulações especificas na criação de c
 - Coagulante para tratamento de água de poço
 - Aplicações diversas; Galvanoplastia, Lavanderia industrial, industria metalurgica, farmaceutico e outros
 >
-<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Coagulante para tratamento de agua.png" alt="Coagulante para tratamento de agua">
-<br />
 
 ### Classificação de Coagulantes
 
 - Coagulantes Inorgânicos / Estado: Líquido ou Sólido (pó)
 - Coagulantes Orgânicos   / Estado: Líquido ou Sólido (pó)
-
 
 ### Embalagens de Coagulante para tratamento de água:
 
