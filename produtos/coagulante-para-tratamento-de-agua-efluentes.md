@@ -4,7 +4,7 @@ pageTitle: COAGULANTE PARA TRATAMENTO DE ÁGUA | FLOCULANTES
 title: Coagulantes
 subtitle: Tratamento de água | Tratamento de Efluentes  
 ---
-<img class="img-responsive pull-right" style="max-width: 75%;" src="../../website/images/Coagulante para tratamento de agua.png" alt="Coagulante para tratamento de agua">
+<img class="img-responsive pull-center" style="max-width: 70%;" src="../../website/images/Coagulante para tratamento de agua.png" alt="Coagulante para tratamento de agua">
 <br />
 
 ### **Aplicação de Coagulante para tratamento de água**
