@@ -53,7 +53,7 @@ dosagem sugerida: Entre 6 a 12 ppm. (Podendo ser ajustado conforme necessidade)
 - Bombona de plásticos de 50 Kg 
 - IBC de 1000 litros
 
-### Boletim Técnico Protetivo para Membranas
+### Boletim - Anti-Incrustante Dispersante para Membranas de Osmose (OR)
 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Inibidor Incrustação Osmose Flocon" 
