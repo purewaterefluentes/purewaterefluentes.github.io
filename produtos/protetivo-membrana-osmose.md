@@ -10,11 +10,13 @@ subtitle: Anti-Incrustante e Protetivo para Membrana de Osmose
 
 ### Apresentação do Anti-Incrustante para Osmose
 
-**AQUA-FLOCON:**  Tem formulação de alto desempenho, sendo usado no controle e limpeza de deposições de crostas inorgânicas formadas por sais nas superfícies das membranas em geral e sistemas de Osmose Reversa. 
+**AQUA-FLOCON:** É um Antiscalant para Osmose (OR), que tem formulação de alto desempenho, sendo usado no controle e limpeza de incrustações inorgânicas formadas por sais de dureza e filme biologico nas superfícies das membranas da Osmose Reversa, e outros sistemas de Nanofiltragem. 
 
 Produto Multiação para Osmose Reversa e Sistemas de Ultra-Filtração que atua como **Desincrustante, Anti-Incrustante e Protetivo para Limpeza de Osmose Reversa.**
 
 Eficaz no combate à depósitos de carbonatos de cálcio, sílica e magnésio, também atuando como agente Dispersante.
+
+### Saiba mais sobre uso de Anti-incrustante para Osmose
 
 O que é um anti-incrustante para Osmose? É um produto com formulação especialmente desenvolvida para atuar no pré-tratamento da O.R, sendo injetado na água de alimentação que flui pela membrana de osmose reversa, impedindo a formação de incrustações na membrana pela presença de sais de cálcio, sálica, magnésio e oxido ferroso.
 
