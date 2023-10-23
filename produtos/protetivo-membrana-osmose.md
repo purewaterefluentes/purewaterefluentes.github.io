@@ -53,7 +53,7 @@ dosagem sugerida: Entre 6 a 12 ppm. (Podendo ser ajustado conforme necessidade)
 - Bombona de plásticos de 50 Kg 
 - IBC de 1000 litros
 
-<img class="img-responsive pull-Right" style="max-width: 60%;" src="../../website/images/Anti-Incrustante para Osmose Flocon.png" alt="Flocon Anti-incrustante para membrana de osmose reversa">
+<img class="img-responsive pull-Right" style="max-width: 48%;" src="../../website/images/Anti-Incrustante para Osmose Flocon.png" alt="Flocon Anti-incrustante para membrana de osmose reversa">
 
 ### Boletim - Anti-Incrustante Dispersante para Membranas de Osmose (OR)
 
