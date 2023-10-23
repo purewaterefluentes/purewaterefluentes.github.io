@@ -22,6 +22,7 @@ O que é um anti-incrustante para Osmose? É um produto com formulação especia
 
 ### Propriedades do Anti-Incrustante Protetivo para Osmose AQUA-FLOCON
 
+<img class="img-responsive pull-right" style="max-width: 75%;" src="../../website/images/Anti-Incrustante para Osmose Flocon.png" alt="Flocon Anti-incrustante para membrana de osmose reversa">
 >
 - Atua de forma constante na limpeza das membranas de Osmose Reversa e outras, sem que haja danos químicos  
 - Anti-Incrustante de forma efetiva no controle de crostas de carbonatos e sulfatos em sistemas de Osmose Reversa
