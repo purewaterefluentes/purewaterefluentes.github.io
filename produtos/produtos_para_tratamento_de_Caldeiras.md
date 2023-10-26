@@ -23,7 +23,7 @@ subtitle: Tratamento de água de Caldeira
 de corrosão e anti-incrustante, e frequentemente reagem com os compostos de cloretos, cálcio, magnésio e sílicas de modo que eles não possam formar precipitados depósitos
 na forma cristalizada na rede hidráulica e equipamentos. 
 
-**AQUA-CA20: Controlador de Alcalinidade e PH emÁgua de Caldeira**
+**AQUA-CA20: Controlador de Alcalinidade e PH em Água de Caldeira**
 - Possiveis alterações na faixa de PH (baixo valor do pH), em águas de torre de resfriamento, água gelada, caldeira e geradores de vapor, podem gerar ataque ácido na superficie da tubulação e equipamentos, ocasionando a corrosão e a deterioração destes. **AQUA-CA20** Atua, prevenindo o atque acido e seu efeito perigoso da corrosão. Excelente para correção de pH após a sua lavagem ácida ou com problema de água de alimentação ácida.
 
 **RED-OXY-CARB: Sequestrante de Oxigênio para Caldeira**
@@ -32,8 +32,8 @@ na forma cristalizada na rede hidráulica e equipamentos.
 **AQUA-PFO: Dispersante para Ferro**
 Formulado para caldeiras de média e baixa pressão de trabalho, indicado para ser usado como dispersante em sistemas com alto conteúdo de Ferro na água de alimentação, ou como produto suplementar ao trabalho de fosfatos. O uso continua durante alguns meses remove os depósitos de Ferro, não é efetivo para remover incrustações de carbonato de cálcio ou sílica.
 
-**AQUA-DSF400: Desicnrustante Acido para Tratamento Corretivo**
-- ”Formulação especial contendo Ácidos Inibido”, Aplicado para “limpeza química” de torre de resfriamento, sistema de água gelada e caldeira. Remove com alta eficiência incrustações minerais com presença de cálcio, sálica, oxido de ferro, ferrugem, corrosão e algas. Restabelece a eficiência operacional e devolve a capacidade total de trabalho do equipamento.
+**AQUA-DSF400: Desincrustante Acido para Tratamento Corretivo**
+- "Formulação Especial contendo Ácidos Inibido”, Aplicado para “limpeza química” de torre de resfriamento, sistema de água gelada e caldeira. Remove com alta eficiência incrustações minerais com presença de cálcio, sálica, oxido de ferro, ferrugem, corrosão e algas. Restabelece a eficiência operacional e devolve a capacidade total de trabalho do equipamento.
 
 >
 ## Entre em contato através de um de nossos Canais e receba Cotação dos produtos para Tratamento de caldeira Direto no Fabricante
