@@ -35,6 +35,13 @@ Formulado para caldeiras de média e baixa pressão de trabalho, indicado para s
 **AQUA-DSF400: Desincrustante Acido para Tratamento Corretivo**
 - "Formulação Especial contendo Ácidos Inibido”, Aplicado para “limpeza química” de torre de resfriamento, sistema de água gelada e caldeira. Remove com alta eficiência incrustações minerais com presença de cálcio, sálica, oxido de ferro, ferrugem, corrosão e algas. Restabelece a eficiência operacional e devolve a capacidade total de trabalho do equipamento.
 
+>**Padrões de pressão para Caldeira:** 
+ - **Pressão baixa:** Até 10 Kgf/cm2 
+ - **Pressão média:** de 11 a 40 Kgf/cm2
+ - **Pressão alta:** de 40 Kgf/cm2
+ 
+<img src="../../website/images/Tabela_parametros_controle_qualidade_agua_caldeira.jpg" class="figure-img img-fluid rounded" alt="Tabela de Parâmetros para Controle de água de caldeira" style="max-width: 100%;" >
+
 >
 ### Entre em contato através de um de nossos Canais e receba sua Cotação
 
