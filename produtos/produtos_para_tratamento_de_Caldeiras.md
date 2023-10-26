@@ -11,10 +11,10 @@ subtitle: Tratamento de água de Caldeira
 ### **Fabricação de Toda Linha de Produtos para Caldeira**
 
 
-**AQUA-238: Anti-Incrustante para Caldeiras**
+>**AQUA-238: Anti-Incrustante para Caldeiras**
 - Solúvel em água, alta performance contra à formação de sedimentos, depósitos e incrustações em caldeiras, promove reações de precipitação, condicionando a lama para fácil remoção.
 
-**AQUA-HEDP: Dispersante de Ions Metalicos para Caldeira**
+**AQUA-HEDP: Dispersante de Íons Metálicos para Caldeira**
 - Produto Dispersante de íons metálicos para meio aquoso AQUA-HEDP é um composto químico ou formulação que tem a propriedade de inibir a ação de prevenir a deposição de sais contidos em água na forma de precipitados na tubulação, tanques, ou qualquer superfície, e também de da ação corrosiva.
 
 **AQUA-HPMA: Inibidor Corrosão para Caldeiras**
