@@ -11,7 +11,7 @@ subtitle: Tratamento de água de Caldeira
 ### **Fabricação de Toda Linha de Produtos para Caldeira**
 
 >
->
+
 
 **AQUA-238: Anti-Incrustante para Caldeiras**
 - Solúvel em água, alta performance contra à formação de sedimentos, depósitos e incrustações em caldeiras, promove reações de precipitação, condicionando a lama para fácil remoção.
@@ -32,11 +32,12 @@ na forma cristalizada na rede hidráulica e equipamentos.
 - Formulação de Alta Performance que atua como Sequestrante Químico de Oxigênio, que age combinando-se e reduzindo o oxigênio presente nas águas, inibindo a principal causa da corrosão no interior das caldeiras. 
 
 **AQUA-PFO: Dispersante para Ferro**
-Formulado para caldeiras de média e baixa pressão de trabalho, indicado para ser usado como dispersante em sistemas com alto conteúdo de Ferro na água de alimentação, ou como produto suplementar ao trabalho de fosfatos. O uso continua durante alguns meses remove os depósitos de Ferro, não é efetivo para remover incrustações de carbonato de cálcio ou sílica.
+- Formulado para caldeiras de média e baixa pressão de trabalho, indicado para ser usado como dispersante em sistemas com alto conteúdo de Ferro na água de alimentação, ou como produto suplementar ao trabalho de fosfatos. O uso continua durante alguns meses remove os depósitos de Ferro, não é efetivo para remover incrustações de carbonato de cálcio ou sílica.
 
 **AQUA-DSF400: Desincrustante Acido para Tratamento Corretivo**
 - "Formulação Especial contendo Ácidos Inibido”, Aplicado para “limpeza química” de torre de resfriamento, sistema de água gelada e caldeira. Remove com alta eficiência incrustações minerais com presença de cálcio, sálica, oxido de ferro, ferrugem, corrosão e algas. Restabelece a eficiência operacional e devolve a capacidade total de trabalho do equipamento.
 
+>
 >**Padrões de pressão para Caldeira:** 
  - **Pressão baixa:** Até 10 Kgf/cm2 
  - **Pressão média:** de 11 a 40 Kgf/cm2
