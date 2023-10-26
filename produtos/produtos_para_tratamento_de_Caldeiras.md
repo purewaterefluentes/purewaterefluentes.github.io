@@ -24,7 +24,7 @@ de corrosão e anti-incrustante, e frequentemente reagem com os compostos de clo
 na forma cristalizada na rede hidráulica e equipamentos. 
 
 **AQUA-CA20: Controlador de Alcalinidade e PH em Água de Caldeira**
-- Possiveis alterações na faixa de PH (baixo valor do pH), em águas de torre de resfriamento, água gelada, caldeira e geradores de vapor, podem gerar ataque ácido na superficie da tubulação e equipamentos, ocasionando a corrosão e a deterioração destes. **AQUA-CA20** Atua, prevenindo o atque acido e seu efeito perigoso da corrosão. Excelente para correção de pH após a sua lavagem ácida ou com problema de água de alimentação ácida.
+- Possiveis alterações na faixa de PH (baixo valor do pH), em águas de torre de resfriamento, água gelada, caldeira e geradores de vapor, podem gerar ataque ácido na superficie da tubulação e equipamentos, ocasionando a corrosão e a deterioração destes. **AQUA-CA20** Atua, prevenindo o ataque acido e seu efeito perigoso da corrosão. Excelente para correção de pH após a sua lavagem ácida ou com problema de água de alimentação ácida.
 
 **RED-OXY-CARB: Sequestrante de Oxigênio para Caldeira**
 - Formulação de Alta Performance que atua como Sequestrante Químico de Oxigênio, que age combinando-se e reduzindo o oxigênio presente nas águas, inibindo a principal causa da corrosão no interior das caldeiras. 
