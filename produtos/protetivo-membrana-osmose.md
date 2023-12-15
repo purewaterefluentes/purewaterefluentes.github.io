@@ -23,15 +23,15 @@ O que é um anti-incrustante para Osmose? É um produto com formulação especia
 ### Propriedades do Anti-Incrustante Protetivo para Osmose AQUA-FLOCON
 
 >
-- Atua de forma constante na limpeza das membranas de Osmose Reversa e outras, sem que haja danos químicos  
-- Anti-Incrustante de forma efetiva no controle de crostas de carbonatos e sulfatos em sistemas de Osmose Reversa
-- Efêciente Protetivo para Osmose com ótimo custo de operação efetivo
-- Compatível com as principais membranas de osmose reversa, tambem para sistemas de nano-Filtragem Industrial 
-- Apresenta ação Dispersante e Desincrustante nas membranas
-- Protetivo químico para osmose reversa (OR), com alta tolerância ao ferro
+- AQUA-FLOCON Antiscalant atua de forma constante na limpeza das membranas de Osmose Reversa e outras, sem que haja danos químicos.  
+- Anti-Incrustante de forma efetiva no controle de crostas de carbonatos e sulfatos em sistemas de Osmose Reversa.
+- AQUA-FLOCON Antiscalant atua como efêciente Protetivo para Osmose com ótimo custo de operação efetivo.
+- Compatível com as principais membranas de osmose reversa, tambem para sistemas de nano-Filtragem Industrial. 
+- AQUA-FLOCON Antiscalant Apresenta ação Dispersante e Desincrustante nas membranas.
+- Protetivo químico para osmose reversa (OR), com alta tolerância ao ferro.
 >
 
-### Reatividade Química
+### Reatividade Química 
 
 **AQUA-FLOCON**: Não é afetado pelo Cloro ou outros biocidas oxidantes em condições normais de uso. Pode ser usado em sistemas de membrana com cloro e metabisulfito de sódio.
 
