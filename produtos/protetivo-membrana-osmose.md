@@ -60,6 +60,5 @@ dosagem sugerida: Entre 6 a 12 ppm. (Podendo ser ajustado conforme necessidade)
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Inibidor Incrustação Osmose Flocon" 
    arquivo="boletim-tecnico-inibidor-incrustacao-osmose-reversa-flocon-260.pdf" %}
-   
-   
+     
    
