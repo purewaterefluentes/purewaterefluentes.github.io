@@ -108,8 +108,30 @@ var pw = {
             
             ga('send', 'event', 'botao', 'clique');
 
+            pw._sendMailJS(fromModal);
+
             return true;
         };
+    },
+
+    _sendMailJS: function (fromModal) {
+        $("#origemContato").val(pw._origemContato(fromModal));
+
+        emailjs.sendForm('service_2grjoqj', 'template_x0vtmap', '#form-contato')
+            .then(function() {
+                // console.log('EmailJS SUCCESS!');
+                // if(fromModal) {
+                //     $("#contatoModal").modal("hide");    
+                // }
+                // $("#confirmationModal").modal("show");
+                // $("#confirmationModal").on('hidden.bs.modal', cleanForm);
+                // gtagReportConversionContactForm();
+            }, function(error) {
+                console.log('EmailJS FAILED...', error);
+                // $(".alert-danger").show();
+            });
+
+        //ga('send', 'event', 'botao', 'clique');
     },
 
     sendEnquireModal: function (){
@@ -117,6 +139,8 @@ var pw = {
     },
 
     setup: function(){
+        emailjs.init('UsifToQtVPwhXem35');
+
         $(".mail-sender").on("click", pw.sendEnquire);
         $(".mail-sender-modal").on("click", pw.sendEnquireModal);
     },
