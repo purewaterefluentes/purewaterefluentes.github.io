@@ -61,7 +61,7 @@ var pw = {
         return pw._urlParam("s");
     },
 
-    _sendMail: function (fromModal){
+    _sendMail_deprecated: function (fromModal){
         return function() {
 
             var message = "Requisicao do Site \n\n" +
@@ -114,24 +114,29 @@ var pw = {
         };
     },
 
-    _sendMailJS: function (fromModal) {
+    _sendMail: function (fromModal) {
+
+        var cleanForm = function(){
+            $("form input").val('');
+            $("form textarea").val('');
+            $("#sendMessage").prop('disabled', false);
+        };
+
         $("#origemContato").val(pw._origemContato(fromModal));
 
         emailjs.sendForm('service_2grjoqj', 'template_x0vtmap', '#form-contato')
             .then(function() {
-                // console.log('EmailJS SUCCESS!');
-                // if(fromModal) {
-                //     $("#contatoModal").modal("hide");    
-                // }
-                // $("#confirmationModal").modal("show");
-                // $("#confirmationModal").on('hidden.bs.modal', cleanForm);
-                // gtagReportConversionContactForm();
+                if(fromModal) {
+                    $("#contatoModal").modal("hide");    
+                }
+                $("#confirmationModal").modal("show");
+                $("#confirmationModal").on('hidden.bs.modal', cleanForm);
+                gtagReportConversionContactForm();
             }, function(error) {
-                console.log('EmailJS FAILED...', error);
-                // $(".alert-danger").show();
+                $(".alert-danger").show();
             });
 
-        //ga('send', 'event', 'botao', 'clique');
+        ga('send', 'event', 'botao', 'clique');
     },
 
     sendEnquireModal: function (){
