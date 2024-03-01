@@ -2,7 +2,7 @@
 layout: contato
 pageTitle: DESINCRUSTANTE INDUSTRIAL | LIMPEZA QUIMICA | CALDEIRA | TORRE DE RESFRIAMENTO | GERADOR DE VAPOR 
 title: Desincrustante
-subtitle: Desincrustante para Caldeiras - Torre de Resfriamento - Chiller - Rede Hidráulica Industrial
+subtitle: Desincrustante para Caldeiras - Torre de Resfriamento - Chiller - Rede Hidráulica Industrial - Desincrustante ácido
 ---
 <figure class="figure">
   <img src="../../website/images/desincrustante_acido_limpeza_tubulacao_industrial.jpg" class="figure-img img-fluid rounded" alt="Desincrustante industrial para limpeza quimica" style="max-width: 100%;">
@@ -12,11 +12,11 @@ subtitle: Desincrustante para Caldeiras - Torre de Resfriamento - Chiller - Rede
 
 Designam-se por incrustações os depósitos que se formam no interior de linhas hidráulicas, equipamentos e acessórios industriais, devido à fixação de substâncias em suspensão e da precipitação de sólidos dissolvidos que se transformam em sólidos insolúveis devido ao aumento da temperatura. 
 
->**Desincrustante para Limpeza Quimica** Composto por agentes químicos limpadores balanceados, o produto dissolve e deixa em suspensão as crostas formadas internamente por carbonatos, silicatos e oxido de ferro.
+>**Desincrustante para Limpeza Quimica** Compostos por agentes químicos limpadores balanceados, o produto dissolve e deixa em suspensão as crostas formadas internamente por carbonatos, silicatos e oxido de ferro. O Desincrustante ácido é uma solução química potencializada específica para remoção de impurezas prejudiciais em tubulações de torres de resfriamento, caldeiras e linhas de vapor.
 >
->**Desincrustante Limpeza Acida**: AQUA-DSF400
+>**Desincrustante Ácido (Limpeza Ácida)**: AQUA-DSF400
 >
->**Desincrustante Limpeza Alcalina**: DSC-CC25
+>**Desincrustante Alcalino (Limpeza Alcalina)**: DSC-CC25
 
 Ação penetrante e de dissolução de sais, o desincrustante desprende rapidamente toda a incrustação formada nas paredes dos tubos e equipamentos.
 
