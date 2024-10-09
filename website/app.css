@@ -46,6 +46,14 @@ footer {
   color: #0788D9 !important;
 }
 
+.navbar-purewater .navbar-nav>li>a.zap,
+.navbar-purewater .navbar-nav>li>a.zap:hover,
+.navbar-purewater .navbar-nav>li>a.zap:focus {
+  color: #ffffff !important;
+  background-color: #43ac6a;
+  border-color: #3c9a5f;
+}
+
 .navbar-purewater .navbar-brand:hover,
 .navbar-purewater .navbar-brand:focus,
 .navbar-purewater .navbar-nav > li > a,
