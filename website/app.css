@@ -46,14 +46,6 @@ footer {
   color: #0788D9 !important;
 }
 
-.navbar-purewater .navbar-nav>li>a.zap,
-.navbar-purewater .navbar-nav>li>a.zap:hover,
-.navbar-purewater .navbar-nav>li>a.zap:focus {
-  color: #ffffff !important;
-  background-color: #43ac6a;
-  border-color: #3c9a5f;
-}
-
 .navbar-purewater .navbar-brand:hover,
 .navbar-purewater .navbar-brand:focus,
 .navbar-purewater .navbar-nav > li > a,
@@ -128,21 +120,25 @@ h3, .h3 {
 }
 
 .float{
-	position:fixed;
-	width:60px;
-	height:60px;
-	bottom:40px;
-	right:40px;
-	background-color:#25d366;
-	color:#FFF;
-	border-radius:50px;
-	text-align:center;
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:40px;
+  right:40px;
+  background-color:#25d366;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
   font-size:30px;
-	box-shadow: 2px 2px 3px #999;
+  box-shadow: 2px 2px 3px #999;
   z-index:100;
 }
 
 .my-float{
-	margin-top:16px;
+    margin-top:16px;
 }
 
+a.zap:hover,
+a.zap:focus {
+   color: #FFFFFF;
+}
