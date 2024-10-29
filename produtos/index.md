@@ -64,7 +64,11 @@ robots: follow
 
 - [Algicida para piscina](algicida-para-piscina.html){:.btn .btn-link}
 - [Clarificante para piscina](clarificante-para-piscina.html){:.btn .btn-link}
-- [Cloro para piscina](cloro-para-piscina.html){:.btn .btn-link}
+- [Cloro para piscina](cloro-para-piscina.html){:.btn .btn-link} 
+  - [Cloro Granulado Estabilizado](cloro-granulado-estabilizado.html){:.btn .btn-link}
+  - [Cloro Granulado Tradicional](cloro-granulado-tradicional.html){:.btn .btn-link}
+  - [Cloro Granulado Multiação 3 em 1](cloro-granulado-multiacao.html){:.btn .btn-link}
+  - [Cloro Pastilha-Tablete](cloro-pastilha-tablete-piscina.html){:.btn .btn-link}
 - [Corretor de PH](corretor-de-ph-para-piscina.html){:.btn .btn-link}
 - [Oxidante para piscina](Oxidante-para-piscina.html){:.btn .btn-link}
 

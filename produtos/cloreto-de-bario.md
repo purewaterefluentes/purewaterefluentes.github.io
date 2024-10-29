@@ -1,8 +1,8 @@
 ---
 layout: contato
-pageTitle: CLORETO DE BÁRIO - PUREWATER EFLUENTES
 title: Cloreto de Bário
-subtitle: 
+description: cloreto de bário
+keywords: cloreto, bário, dihidratado
 ---
 
 ### Compre Cloreto de Bário na Fabrica

@@ -5,7 +5,7 @@ title: Antiespumante
 subtitle: Silicona antiespumante
 ---
 <figure class="figure">
-  <img src="../../website/images/antiespumante_industrial.jpg" class="figure-img img-fluid rounded" alt="Atiespumante" style="max-width: 100%;">
+  <img src="../../website/images/antiespumante_industrial.jpg" class="figure-img img-fluid rounded" alt="Antiespumante industrial" style="max-width: 100%;">
 </figure>
 
 ### Apresentação
@@ -36,7 +36,7 @@ Tipos Fabricados:
   - **Antiespumante com silicone** 
   - **Antiespumante isento de silicone**
 
-  <br />
+Caracteristicas:
 - Densidade: 0,97 a 1,2 g/cm3 (25 °C)
 - pH: 6-8
 - Aparência: Líquido Branco

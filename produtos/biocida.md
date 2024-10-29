@@ -2,7 +2,9 @@
 layout: contato
 pageTitle: Produtos Biocida - Microbactericida - Microbicida - Torre de Resfriamento - Osmose Reversa
 title: Biocida
-subtitle: Microbicida para Tratamento de Torre de Resfriamento - Chiller - Caldeiras - Osmose 
+subtitle: Microbicida para Tratamento de Torre de Resfriamento - Chiller - Caldeiras - Osmose
+desscription: Produtos Biocida - Microbactericida - Microbicida - Torre de Resfriamento - Osmose Reversa
+keywords: biocida, microbactericida, microbicida, torre, resfriamento osmose, reversa
 ---
 <figure class="figure">
   <img src="../../website/images/biocida_industrial_torre_de_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Biocida industrial_Torre de Resfriamento" style="max-width: 100%;">

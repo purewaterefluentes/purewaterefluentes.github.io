@@ -1,6 +1,5 @@
 ---
-layout: contato
-pageTitle: CARVÃO ATIVADO VEGETAL  
+layout: contato 
 title: Carvão Ativado Granulado
 subtitle: Carvão Ativado Vegetal
 ---

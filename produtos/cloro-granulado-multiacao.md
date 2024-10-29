@@ -1,16 +1,18 @@
 ---
 layout: contato
-pageTitle: CLORO GRANULADO MULTIAÇÃO | CLORO PARA PISCINA |PUREWATER EFLUENTES
+pageTitle: CLORO GRANULADO MULTIAÇÃO | CLORO PARA PISCINA
 title: Cloro Granulado Multiação 3 em 1
-subtitle: 
+subtitle: SUPER-POOL® 
+description: Cloro Granulado Multiação 3 em 1, CLoro para piscina
+keywords: cloro, granulado, multiação, piscina, algicida, algistático, Clarificante
 ---
-## **SUPER-POOL® - CLORO MULTIAÇÃO 3 em 1**
+### SUPER-POOL® - CLORO MULTIAÇÃO 3 em 1
 
 Produto que apresenta alta praticidade aliada à qualidade, atuando como poderoso agente desinfetante para águas de piscinas (cloro com estabilizante), clarificante, algicida e algistático. 
 
 Indicado para piscinas residenciais, Clubes, Hoteis.
 
-## **Atuação**
+### Atuação
 
 **Cloro Multiação 3 em 1** - Elimina os microorganismos causadores de doenças presentes na água.
 
@@ -18,8 +20,9 @@ Por ser estabilizado (possui proteção contra os raios UV) dura muito mais temp
 
 **Clarificante** - mantém a água da piscina cristalina e aumenta o desempenho do filtro de areia.
 
-**Algicida e algistático** - elimina e previne o surgimento de algas.
+Algicida e algistático - elimina e previne o surgimento de algas.
 
+----
 
 Embalagens: **50kg.**
 

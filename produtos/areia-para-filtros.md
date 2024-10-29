@@ -1,6 +1,5 @@
 ---
 layout: contato
-pageTitle: AREIA PARA FILTROS
 title: Areia para Filtros
 subtitle: Areia Especial para Filtro
 ---

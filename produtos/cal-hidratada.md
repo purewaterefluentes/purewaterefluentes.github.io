@@ -1,8 +1,9 @@
 ---
 layout: contato
-pageTitle: Cal Hidratada | Cal em Suspensão | Purewater Efluentes
-title: Cal Hidratada
+title: Cal Hidratada e Cal em Suspensão
 subtitle: Extra Purificada
+description:  Cal hidratada e Cal em Suspensão
+keywords: cal, hidratada, suspensão, hidroxido, calcio
 ---
 
 ### Apresentação 

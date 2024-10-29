@@ -1,4 +1,5 @@
 {% if page.robots %}
-<!--<meta name="robots_" content="{{ page.robots | join: ', ' }}">-->
-<meta name="robots" content="index,follow">
+<meta name="robots" content="{{ page.robots | join: ', ' }}">
+{% else %}
+<meta name="robots" content="index">
 {% endif %}

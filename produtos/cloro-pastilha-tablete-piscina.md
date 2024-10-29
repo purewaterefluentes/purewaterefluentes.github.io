@@ -1,13 +1,14 @@
 ---
 layout: contato
-pageTitle: CLORO PASTILHA MULTIAÇÃO |CLORO TABLETE MULTIAÇÃO 3em1 | PUREWATER EFLUENTES
 title: Cloro Pastilha Tablete
-subtitle: 
+subtitle: SUPER-POOL-PASTILHA | TABLETE®
+description: CLORO PASTILHA MULTIAÇÃO |CLORO TABLETE MULTIAÇÃO 3em1 | PUREWATER EFLUENTES
+keywords: cloro, pastilha, tablete, multiação
+
 ---
-### **SUPER-POOL-PASTILHA|TABLETE®** 
->
-Cloro Tablete Multiação 3em1
->
+### SUPER-POOL-PASTILHA | TABLETE® 
+#### Cloro Tablete Multiação 3 em 1
+
 
 Produto que apresenta alta praticidade aliada à qualidade, atuando como poderoso agente desinfetante para águas de piscinas (cloro com estabilizante), clarificante, algicida e algistático. 
 
@@ -15,7 +16,7 @@ Possuí alta concentranção com 85% de cloro ativo, apresenta dissolução lent
 
 Indicado para piscinas residenciais, Clubes, Hoteis.
 
-### **Atuação**
+### Atuação
 
 **Cloro em Pastilha - Tablete Multiação 3 em 1** - Elimina os microorganismos causadores de doenças presentes na água.
 
@@ -25,17 +26,18 @@ Com ação **Clarificante** - mantém a água da piscina cristalina e aumenta o 
 
 Atua como **Algicida e algistático** - elimina e previne o surgimento de algas.
 
+----
 
->Embalagens: **50kg.**
+Embalagens: 50kg.
 
->Tipo de Cloro: **Tricloro - Tablete com 200gramas**
+Tipo de Cloro: **Tricloro - Tablete com 200gramas**
 
->Teor Cloro  Ativo: **85,0%**
+Teor Cloro  Ativo: 85,0%
 
->Alcalinidade total recomendada: **100 a 120 ppm**           
+Alcalinidade total recomendada: 100 a 120 ppm           
 
->Dosagem: **1 tablete para cada 30 m³ (duração: 7 a 10 dias)**
+Dosagem: 1 tablete para cada 30 m³ (duração: 7 a 10 dias)
 
->Validade: **1 ano após a data de fabricação**
+Validade: 1 ano após a data de fabricação
 
 

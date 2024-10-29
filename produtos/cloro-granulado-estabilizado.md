@@ -1,13 +1,13 @@
 ---
 layout: contato
-pageTitle: CLORO GRANULADO ESTABILIZADO | CLORO PARA PISCINA
+pageTitle: Cloro Granulado Estabilizado | Cloro para piscina
 title: Cloro Granulado Estabilizado
-subtitle:
+subtitle: AQUA-POOL/ISO®
+description: Cloro Granulado Estabilizado, Cloro para piscina
+keywords: cloro, granulado, estabilizado, piscina
 ---
-## **AQUA-POOL/ISO®**
->
-É o **Cloro Granulado Estabilizado** que possui alta concentração, e apresenta rendimento superior (Até 2 vezes mais), atua como um poderoso agente desinfetante e oxidante com rápida dissolução e ação instantânea. 
->
+### AQUA-POOL / ISO®
+É o **Cloro Granulado Estabilizado** que possui alta concentração, e apresenta rendimento superior (Até 2 vezes mais), atua como um poderoso agente desinfetante e oxidante com rápida dissolução e ação instantânea.
 
 Possui estabilizante que inibe a degradação do cloro pelos raios UV. 
 

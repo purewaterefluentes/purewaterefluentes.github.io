@@ -2,6 +2,7 @@
 layout: contato
 title: Ácido Fosfino Carboxilico
 subtitle: Desincrustante e Dispersante
+keywords: Ácido, Fosfino, Carboxilico, Desincrustante, Dispersante
 ---
 
 ### Apresentação
