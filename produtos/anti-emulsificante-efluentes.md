@@ -1,11 +1,10 @@
 ---
 layout: contato
 title: Anti-Emulsificante
-subtitle: AQUA-200
-keywords: anti-emulsificante, tratamento, efluentes
-description: Anti-Emulsificante 
+subtitle: Quebra de Emulsão AQUA-200
+keywords: anti-emulsificante, quebra, rompedor, emulsão,tratamento, efluentes
+description: Anti-Emulsificante, tendo a função de quebra emulsiva de óleos e graxas que se apresentam no tratamento de água ou efluentes industriais.
 ---
-
 ### Para que serve o Anti-Emulsão
 
 Produto especifico para a redução de compostos orgânicos graxos no efluente, tendo a função de quebra  emulsiva de óleos e graxas que se apresentam no tratamento de água ou efluentes industriais.
@@ -15,6 +14,7 @@ Possui simples ação que atua diretamente sobre a camada emulsiva de oléo sobr
 ### Aplicação do Anti-Emulsificante
 Quebra de emulsificação sobrenadante em tratamento de água e tratamento de efluentes industrial.
 
+<img class="img-responsive pull-Right" style="max-width: 48%;" src="../../website/images/Alcalinizante_agua_efluente_piscina.jpg" alt="Alcalinizante_para_correção_PH_agua_piscina">
 
 ### Características do Anti-Emulsão
 
