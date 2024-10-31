@@ -3,9 +3,10 @@ layout: contato
 title: Anti-Incrustante
 Subtitle: Inibidor de Incrustação para tratamento de água
 keywords: Anti-Incrustante, caldeiras, torre de resfriamento, chiller
+description: Anti-incrustante é usado para prevenir a deposição de sais dissolvidos de carbonatos, silicatos, oxido ferroso e sulfatos de cálcio na água industrial, evitando a incrustação em tanques, tubulações, caldeiras, torre de resfriamento, chiller. 
 ---
 <figure class="figure">
-  <img src="../../website/images/anti-incrustante_agua_caldeira_torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Anti-Incrustante para caldeira e torre de resfriamento" style="max-width: 100%;" >
+  <img src="../../website/images/anti-incrustante_agua_caldeira_torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Anti-Incrustante para caldeira, Inibidor de Incrustação para torre de resfriamento" style="max-width: 75%;" >
 </figure>
 
 ### Aplicações do Anti-Incrustante
@@ -47,7 +48,7 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
  - **Pressão média:** de 11 a 40 Kgf/cm2
  - **Pressão alta:** de 40 Kgf/cm2
  
-<img src="../../website/images/Tabela_parametros_controle_qualidade_agua_caldeira.jpg" class="figure-img img-fluid rounded" alt="Tabela de Parâmetros para Controle de água de caldeira" style="max-width: 100%;" >
+<img src="../../website/images/Tabela_parametros_controle_qualidade_agua_caldeira.jpg" class="figure-img img-fluid rounded" alt="Tabela de Parâmetros para Controle de água de caldeira" style="max-width: 90%;" >
 
 **Consulte o setor técnico para indicação do melhor Anti-incrustante para seu sistema.**
 
