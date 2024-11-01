@@ -1,8 +1,9 @@
 ---
 layout: contato
-pageTitle: LUBRIFICANTE PARA PERFURAÇÃO DE POÇOS |BENTONITA |FABRICA |bentonita sintetica |bentonita lubrificante |fluido de perfuração de poços
+pageTitle: Fluido lubrificante para perfuração de poços
 title: Lubrificante para Perfuração de Poços
 subtitle: Bentônita Polimérica
+keywords: bentonita, lubrificação, poços, sintetica, polimero
 ---
 
 ### Apresentação
@@ -14,7 +15,7 @@ Os lubrificantes para perfuração de poços **Bentonita sintética** se constit
 <img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Bentonita polimerica perfuração de poços.jpg" alt="Bentonita Sintética Lubrificante para perfuração de poços">
 <br />
 
-**As propriedades mais importantes e os benefícios são descritos abaixo.**
+### As propriedades mais importantes e os benefícios são descritos abaixo
 
 - Mistura-se facilmente em água doce e salgada.
 - Permite a mais rápida de perfuração.
