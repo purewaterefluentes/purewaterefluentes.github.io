@@ -72,6 +72,8 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
 - Anti-incrustante reduz a formação de massa residual (borra), no tratamento de efluentes.
 - Anti-incrustante substitui o uso de substâncias de alto risco operacional como os ácido.
 
+<img class="img-responsive pull-Right" style="max-width: 55%;" src="../../website/images/Anti-incrustante_caldeira_torre.jpg" alt="Anti-incrustante_para_caldeira_torre_resfriamento">
+
 ### Embalagens de Anti-Incrustante
 
 - Bombonas plásticas de 50 Kg
