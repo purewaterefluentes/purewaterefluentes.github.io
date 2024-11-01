@@ -78,3 +78,4 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
 <figure class="figure">
   <img src="../../website/images/anti-incrustante_agua_caldeira_torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Anti-Incrustante para caldeira, Inibidor de Incrustação para torre de resfriamento" style="max-width: 85%;" >
 </figure>
+
