@@ -7,7 +7,7 @@ Keywords: Desincrustante acido, Torre de Resfriamento, Chiller, Rede Hidráulica
 Description: Desincrustante ácido é uma solução química potencializada específica para remoção de impurezas prejudiciais em tubulações de torres de resfriamento, caldeiras e linhas de vapor.
 ---
 <figure class="figure">
-  <img src="../../website/images/desincrustante_acido_limpeza_tubulacao_industrial.jpg" class="figure-img img-fluid rounded" alt="Desincrustante industrial para limpeza quimica" style="max-width: 100%;">
+  <img src="../../website/images/desincrustante_acido_limpeza_tubulacao_industrial.jpg" class="figure-img img-fluid rounded" alt="Desincrustante industrial para limpeza quimica" style="max-width: 80%;">
 </figure>
 
 ### **Apresentação**
