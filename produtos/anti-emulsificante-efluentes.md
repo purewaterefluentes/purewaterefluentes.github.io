@@ -14,8 +14,8 @@ Possui simples ação que atua diretamente sobre a camada emulsiva de oléo sobr
 ### Aplicação do Anti-Emulsificante
 Quebra de emulsificação sobrenadante em tratamento de água e tratamento de efluentes industrial.
 
-<img class="img-responsive pull-Right" style="max-width: 48%;" src="../../website/images/Anti-emulsificante_tratamento_efluentes.jpg" alt="Anti-emulsificante_para_tratamento_de_efluentes">
-
+<br />
+<img class="img-responsive pull-Right" style="max-width: 50%;" src="../../website/images/Anti-emulsificante_tratamento_efluentes.jpg" alt="Anti-emulsificante_para_tratamento_de_efluentes">
 ### Características do Anti-Emulsão para Efluentes
 
 - Anti-Emulsão com alto poder de quebra emulsiva
