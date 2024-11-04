@@ -4,6 +4,8 @@ title: Alcalinizante Corretor de pH
 subtitle: Corretor de Alcalinidade
 keywords: alcalinizante, corretor, ph, alcalinidade, piscina, efluente
 ---
+<br />
+<img class="img-responsive pull-right" style="max-width: 60%;" src="../../website/images/Alcalinizante_agua_efluente_piscina.jpg" alt="Alcalinizante_para_correção_PH_agua_piscina">
 
 ### Corretor de pH Alcalino (Elevação de PH)
 ----
@@ -12,9 +14,6 @@ Fabricamos uma linha completa de produtos destinados ao controle de PH em tratam
 Produto apresenta fácil aplicação estando pronto para uso o corretor de pH alcalino possueí a propriedade de elevar o pH da água ou efluentes, tendo como principal ação a neutralização de acidez em meio aquoso.
 
 Nossos alcalinizantes podem substituir o uso de produtos de alto risco de manuseio tais como; Soda caústica com a vantagem de não necessitar de nenhuma Licença Ambiental especifica para compra.
-
-<br />
-<img class="img-responsive pull-right" style="max-width: 65%;" src="../../website/images/Alcalinizante_agua_efluente_piscina.jpg" alt="Alcalinizante_para_correção_PH_agua_piscina">
 
 ### Aplicação do Alcalinizante
 
