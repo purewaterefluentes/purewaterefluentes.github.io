@@ -1,8 +1,10 @@
 ---
 layout: contato
-pageTitle: ANTIESPUMANTE | PUREWATER EFLUENTES
+pageTitle: Antiespumante industrial
 title: Antiespumante
 subtitle: Silicona antiespumante
+keywords: Antiespumante, inibidor de espuma, controle, água, efluente
+description: Antiespumantes são substancias insolúveis no meio espumante, e inibem a formação de espuma na superfície dos líquidos, reduzindo a tensão superficial, sendo utilizado em tratamento de água, efluentes.
 ---
 <figure class="figure">
   <img src="../../website/images/antiespumante_industrial.jpg" class="figure-img img-fluid rounded" alt="Antiespumante industrial" style="max-width: 100%;">
@@ -29,14 +31,13 @@ Nesse processo propriedades  físico-químicas do meio são alteradas, ressaltan
 - Anti-espumante para controle na formação de espuma em cabines de pintura
 - Controle na formação de espumas em água.
 
-### Características do Antiespumante
+### Tipos de Antiespumante
 
-Tipos Fabricados: 
+  - Antiespumante com silicone
+  - Antiespumante isento de silicone
 
-  - **Antiespumante com silicone** 
-  - **Antiespumante isento de silicone**
+### Caracteristicas gerais do Antiespumante:
 
-Caracteristicas:
 - Densidade: 0,97 a 1,2 g/cm3 (25 °C)
 - pH: 6-8
 - Aparência: Líquido Branco
