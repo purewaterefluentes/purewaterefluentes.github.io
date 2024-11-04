@@ -7,6 +7,7 @@ description: Anti-incrustante é usado para prevenir a deposição de sais disso
 ---
 <br />
 <img class="img-responsive pull-Right" style="max-width: 60%;" src="../../website/images/Anti-incrustante_caldeira_torre.jpg" alt="Anti-incrustante_para_caldeira_torre_resfriamento">
+
 ### Aplicações do Anti-Incrustante
 
 - Anti-Incrustante para Caldeira, que reduz a deposição de sais de cálcio, sílica e magnésio e dureza.
