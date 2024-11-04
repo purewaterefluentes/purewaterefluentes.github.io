@@ -13,7 +13,7 @@ Produto apresenta fácil aplicação estando pronto para uso o corretor de pH al
 
 Nossos alcalinizantes podem substituir o uso de produtos de alto risco de manuseio tais como; Soda caústica com a vantagem de não necessitar de nenhuma Licença Ambiental especifica para compra.
 
-<img class="img-responsive pull-Right" style="max-right: 48%;" src="../../website/images/Alcalinizante_agua_efluente_piscina.jpg" alt="Alcalinizante_para_correção_PH_agua_piscina">
+<img class="img-responsive pull-Right" style="max-width: 48%;" src="../../website/images/Alcalinizante_agua_efluente_piscina.jpg" alt="Alcalinizante_para_correção_PH_agua_piscina">
 
 ### Aplicação do Alcalinizante
 
