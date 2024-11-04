@@ -15,6 +15,7 @@ O corretor de pH acidificante possue a propriedade de baixar ou neutralizar o pH
 ### Aplicação do Acidificante
 O produto **Acidificante AQUA-F400** é usado como neutralizante de alcalis (neutrazação de alcalinidade em meio líquido), também para baixar o pH em meio aquoso no tratamento de águas em geral e tratamento de efluentes.
 
+<br />
 <img class="img-responsive pull-Right" style="max-width: 50%;" src="../../website/images/acifificante_PH_piscina_agua.jpg" alt="Acidificante_para_correção_PH_agua_piscina">
 
 ### Características do Acidificante de pH
