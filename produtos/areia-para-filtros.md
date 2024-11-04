@@ -2,6 +2,8 @@
 layout: contato
 title: Areia para Filtros
 subtitle: Areia Especial para Filtro
+Keywords: areia quartzo, filtros, filtração, poço, filtragem
+description: filtro central usado para purificação de água de poço ou piscina, podendo conter elemento de filtração tais como; areia quartzo ou zeolita.
 ---
 
 ### Comprar Areia Especial, Encontre Aqui.
@@ -19,7 +21,7 @@ A Purewater Efluentes possui a melhor **areia especial para filtros e Seixo Rola
 
 <img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/areia quartzo anuncio 3.png" alt="Areia para Filtro de Água">
 
-### Principais Aplicações da Areia Filtrante:
+### Principais Aplicações da Areia Quartzo para Filtro:
 
 - Areia para Filtro
 - Areia Especial para Filtro de Piscina
