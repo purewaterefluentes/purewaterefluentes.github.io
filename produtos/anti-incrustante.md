@@ -6,7 +6,7 @@ keywords: Anti-Incrustante, caldeiras, torre de resfriamento, chiller
 description: Anti-incrustante é usado para prevenir a deposição de sais dissolvidos de carbonatos, silicatos, oxido ferroso e sulfatos de cálcio na água industrial, evitando a incrustação em tanques, tubulações, caldeiras, torre de resfriamento, chiller. 
 ---
 <br />
-<img class="img-responsive pull-Right" style="max-width: 60%;" src="../../website/images/Anti-incrustante_caldeira_torre.jpg" alt="Anti-incrustante_para_caldeira_torre_resfriamento">
+<img class="img-responsive pull-Right" style="max-width: 40%;" src="../../website/images/Anti-incrustante_caldeira_torre.jpg" alt="Anti-incrustante_para_caldeira_torre_resfriamento">
 
 ### Aplicações do Anti-Incrustante
 
