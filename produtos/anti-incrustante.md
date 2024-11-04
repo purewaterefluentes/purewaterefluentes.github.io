@@ -13,7 +13,7 @@ description: Anti-incrustante é usado para prevenir a deposição de sais disso
 - Osmose Reversa
 - Produto quimico para proteção de Sistemas de Rescirculação de Água  
 
-<img class="img-responsive pull-Right" style="max-width: 35;" src="../../website/images/Anti-incrustante_caldeira_torre.jpg" alt="Anti-incrustante_para_caldeira_torre_resfriamento">
+<img class="img-responsive pull-Right" style="max-width: 10;" src="../../website/images/Anti-incrustante_caldeira_torre.jpg" alt="Anti-incrustante_para_caldeira_torre_resfriamento">
 Os produtos **Anti-incrustante ou Dispersante** são compostos químicos ou formulações que possuem a propriedade de prevenir a deposição de sais contidos em água na forma de precipitado em tubos, tanques, ou qualquer superfície. Tipicamente, estes sais são os carbonatos, silicatos e sulfatos de cálcio de água com elevadas concentrações destes sais. Este tipo de água é normalmente chamada de "água dura".
 
 Os compostos anti-incrustação frequentemente reagem com o cálcio, magnésio e silicas de modo que eles não possam formar precipitados depósitos na forma cristalizada na rede hidraulica e equipamentos.
