@@ -4,8 +4,7 @@ title: Alcalinizante Corretor de pH
 subtitle: Corretor de Alcalinidade
 keywords: alcalinizante, corretor, ph, alcalinidade, piscina, efluente
 ---
-<br />
-<img class="img-responsive pull-right" style="max-width: 60%;" src="../../website/images/Alcalinizante_agua_efluente_piscina.jpg" alt="Alcalinizante_para_correção_PH_agua_piscina">
+<img class="img-responsive pull-right" style="max-width: 90;" src="../../website/images/Alcalinizante_agua_efluente_piscina_PH.jpg" alt="Alcalinizante_para_correção_PH_agua_piscina">
 
 ### Corretor de pH Alcalino (Elevação de PH)
 ----
