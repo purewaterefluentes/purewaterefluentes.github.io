@@ -1,11 +1,13 @@
 ---
 layout: contato
-pageTitle: ZEOLITA PARA FILTRO DE ÁGUA | ELEMENTO FILTRANTE | PUREWATER EFLUENTES
+pageTitle: ZEOLITA PARA FILTRO DE ÁGUA | ELEMENTO FILTRANTE 
 title: Zeolita para Filtro de Água
 subtitle: Elemento Filtrante
+keywords: zeolita, filtracacao, purificacao, agua, piscina, mineral, adsorver
+description: Zeólita é um mineral que tem a capacidade de adsorver a amônia da água, são aluminossilicatos cristalinos hidratados de metais alcalinos e alcalinos terrosos que possuem uma estrutura cristalina tridimensional infinita, usados para filtração.
 ---
 <figure class="figure">
-  <img src="../../website/images/zeolita_para_filtro_de_agua.jpg" class="figure-img img-fluid rounded" alt="Zeolita para filtro" style="max-width: 100%;">
+  <img src="../../website/images/zeolita_para_filtro_de_agua.jpg" class="figure-img img-fluid rounded" alt="Zeolita para filtro" style="max-width: 75;">
 </figure>
 
 ### Zeólito para Filtragem de Água
@@ -18,20 +20,19 @@ Zeólitos são utilizados como **elemento de filtração em tratamento de água*
 
 ### Tipos de Zeólitas Disponíveis:
   
-> **<font color="#1E90FF">ZEÓLITA-ZN:</font>** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante ou camada suporte. 
+**ZEÓLITA-ZN:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante ou camada suporte. 
 
-**Indicação de uso:** Atua diretamente na **melhoria da turbidez, retenção de sólidos em suspensão e redução de cor.**
-<hr>
+Indicação de uso: Atua diretamente na **melhoria da turbidez, retenção de sólidos em suspensão e redução de cor.**
 
-> **<font color="#1E90FF">ZEÓLITA-SFM:</font>** Meio filtrante granular desenvolvido para a eficiente **remoção de ferro e manganês** no tratamento de águas para consumo humano e efluentes industriais. Remove até 10,0 mg/L de Fe, ou 5,0 mg/L de Mn, ou 12,0 mg/L e Fe+Mn.
+**ZEÓLITA-SFM:** Meio filtrante granular desenvolvido para a eficiente **remoção de ferro e manganês** no tratamento de águas para consumo humano e efluentes industriais. Remove até 10,0 mg/L de Fe, ou 5,0 mg/L de Mn, ou 12,0 mg/L e Fe+Mn.
 
 **Indicação de uso:** Produto utilizado em filtros pressurizados e por gravidade, como meio filtrante, removendo tanto o Fe2+ e Mn2+ (solúveis) através da adsorção, quanto o Fe3+ e Mn4+ (insolúveis) através de filtração convencional. Deve ser utilizado um oxidante **(AQUA-HIPOS)** juntamente com o produto. 
-<hr>
 
-> **<font color="#1E90FF">ZEÓLITA-ZS:</font>** Meio filtrante granular à base de zeolita clinoptilolita, utilizada na **remoção de amónia (Nitrito, Nitrato), em água e efluentes.** trabalhado como polimento de efluente ou tratamento de águas com baixas concentrações de nitrogénio amoniacal, tendo a possibilidade de ser regenerado com aplicação de solução salina.
+
+**ZEÓLITA-ZS:** Meio filtrante granular à base de zeolita clinoptilolita, utilizada na **remoção de amónia (Nitrito, Nitrato), em água e efluentes.** trabalhado como polimento de efluente ou tratamento de águas com baixas concentrações de nitrogénio amoniacal, tendo a possibilidade de ser regenerado com aplicação de solução salina.
 
 **Indicação de uso:** Produto utilizado em filtros pressurizados, como meio filtrante, trabalhando com pH entre 5,0 – 7,0.
-<hr>
+
 
 ### Benefícios da Zeólitas para Filtração:
 
