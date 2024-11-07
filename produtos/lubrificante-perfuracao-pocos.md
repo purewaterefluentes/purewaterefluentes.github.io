@@ -3,8 +3,9 @@ layout: contato
 pageTitle: Fluido lubrificante para perfuração de poços
 title: Lubrificante para Perfuração de Poços
 subtitle: Bentônita Polimérica
-keywords: bentonita, lubrificação, poços, sintetica, polimero
+keywords: bentonita, lubrificação, poços, sintetica, polimero, sondagem, profundo, perfuração
 ---
+<img class="img-responsive pull-right" style="max-width: 90;" src="../../website/images/Bentonita_lubrificante_perfuração_solo.jpg" alt="Bentonita_sintetica_lubrificante_perfuracao_solo">
 
 ### Apresentação
 
