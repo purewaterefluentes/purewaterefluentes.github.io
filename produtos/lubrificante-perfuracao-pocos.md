@@ -31,7 +31,7 @@ Os lubrificantes para perfuração de poços **Bentonita sintética** se constit
 
 Um quilo de **POLYER GEL LUBRI ou AQUAFLOC GEL LUBRI** produz viscosidade equivalente a 15 a 20 libras de bentônita.
 Apresenta grande vantagem e diferencial no armazenamento, transporte e manipulação como, **por exemplo:** Estocar um balde de **Polyer G.L** equivale a estocar 20 sacos de bentônita argilosa mineral.
-<img class="img-responsive pull-right" style="max-width: 75;" src="../../website/images/Bentonita polimerica perfuração de poços.jpg" alt="Bentonita Sintética Lubrificante para perfuração de poços">
+<img class="img-responsive pull-left" style="max-width: 70;" src="../../website/images/Bentonita polimerica perfuração de poços.jpg" alt="Bentonita Sintética Lubrificante para perfuração de poços">
 
 ### Fornecimento da Bentônita Sintética
 
