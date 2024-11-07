@@ -6,7 +6,7 @@ subtitle: Elemento Filtrante
 keywords: zeolita, filtracacao, purificacao, agua, piscina, mineral, adsorver
 description: Zeólita é um mineral que tem a capacidade de adsorver a amônia da água, são aluminossilicatos cristalinos hidratados de metais alcalinos e alcalinos terrosos que possuem uma estrutura cristalina tridimensional infinita, usados para filtração.
 ---
-<img class="img-responsive pull-center" style="max-width: 50;" src="../../website/images/zeolita_para_filtro_de_agua.jpg" alt="Zeolita_Natural_para_Filtro_agua">
+<img class="img-responsive pull-center" style="max-width: 50%;" src="../../website/images/zeolita_para_filtro_de_agua.jpg" alt="Zeolita_Natural_para_Filtro_agua">
 
 ### Apresentacão do Acidificante
 
