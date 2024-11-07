@@ -13,9 +13,6 @@ keywords: bentonita, lubrificação, poços, sintetica, polimero, sondagem, prof
 
 Os lubrificantes para perfuração de poços **Bentonita sintética** se constituem em polímeros de baixo custo efetivo, e adequados para uma ampla gama de perfurações e trabalhos de longa aplicação.
 
-<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Bentonita polimerica perfuração de poços.jpg" alt="Bentonita Sintética Lubrificante para perfuração de poços">
-<br />
-
 ### As propriedades mais importantes e os benefícios são descritos abaixo
 
 - Mistura-se facilmente em água doce e salgada.
@@ -46,5 +43,5 @@ Apresenta grande vantagem e diferencial no armazenamento, transporte e manipula�
    label="Boletim Técnico Bentonita Sintética Emulsão" 
    arquivo="Boletim-tecnico-lubrificante-perfuração-emulsão.pdf" %}
    
-
+<img class="img-responsive pull-right" style="max-width: 75;" src="../../website/images/Bentonita polimerica perfuração de poços.jpg" alt="Bentonita Sintética Lubrificante para perfuração de poços">
 
