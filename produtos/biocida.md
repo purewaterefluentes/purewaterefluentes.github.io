@@ -3,12 +3,10 @@ layout: contato
 pageTitle: Produtos Biocida - Microbactericida - Microbicida - Torre de Resfriamento - Osmose Reversa
 title: Biocida
 subtitle: Microbicida para Tratamento de Torre de Resfriamento - Chiller - Caldeiras - Osmose
-desscription: Produtos Biocida - Microbactericida - Microbicida - Torre de Resfriamento - Osmose Reversa
+desscription: biocidas são utilizados para desinfetar superfícies, purificar água, preservar produtos alimentícios e evitar o crescimento de microrganismos, sendo aplicado em Torre de Resfriamento, chiller de água gelada e Osmose Reversa
 keywords: biocida, microbactericida, microbicida, torre, resfriamento osmose, reversa
 ---
-<figure class="figure">
-  <img src="../../website/images/biocida_industrial_torre_de_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Biocida industrial_Torre de Resfriamento" style="max-width: 100%;">
-</figure>
+<img class="img-responsive pull-center" style="max-width: 80;" src="../../website/images/biocida_industrial_torre_de_resfriamento.jpg" alt="Biocida industrial_Torre_de_Resfriamento_chiller">
 
 ### Apresentação
 
@@ -53,5 +51,5 @@ O **Aditivo-BIO**, atua como **biocida ou bactericida** (Também conhecido como 
 {% include purewater/link-boletim.html 
    label="Boletim Técnico Biocida AQUA-THPS" 
    arquivo="Boletim Técnico -AQUA-THPS.pdf" %}
-   
-   
+
+      
