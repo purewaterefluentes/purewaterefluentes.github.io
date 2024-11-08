@@ -6,7 +6,7 @@ subtitle: Microbicida para Tratamento de Torre de Resfriamento - Chiller - Osmos
 desscription: biocidas são utilizados para desinfetar superfícies, purificar água, preservar produtos alimentícios e evitar o crescimento de microrganismos, sendo aplicado em Torre de Resfriamento, chiller de água gelada e Osmose Reversa
 keywords: biocida, microbactericida, microbicida, torre, resfriamento osmose, reversa
 ---
-<img class="img-responsive pull-center" style="max-width: 80%;" src="../../website/images/biocida_industrial_torre_de_resfriamento.jpg" alt="Biocida industrial_Torre_de_Resfriamento_chiller">
+<img class="img-responsive pull-right" style="max-width: 80%;" src="../../website/images/biocida_industrial_torre_de_resfriamento.jpg" alt="Biocida industrial_Torre_de_Resfriamento_chiller">
 
 ### Apresentação
 
