@@ -1,11 +1,11 @@
 ---
 layout: contato
 pageTitle: Cloro Liquido - Cloro Concentrado
-subtitle: Cloro Concentrado
+subtitle: Cloro  Liquido Concentrado
 Keywords: cloro liquido, sanitaria, cloro 12, desinfetante, lavadeira, piscina, limpeza
 description: cloro liquido concentrado, a base de Hipoclorito, usado para limpeza como agente desinfetante ou para tratamento de água
 ---
-<img class="img-responsive pull-right" style="max-width: 82%;" src="../../website/images/cloro_liquido_concentrado.jpg" alt="Cloro_liquido_concentrado_sanitaria_alvejante_limpeza_psicina">
+<img class="img-responsive pull-left" style="max-width: 82%;" src="../../website/images/cloro_liquido_concentrado.jpg" alt="Cloro_liquido_concentrado_sanitaria_alvejante_limpeza_psicina">
 
 ### Apresentação
 
