@@ -6,7 +6,7 @@ subtitle: Tratamento de água | Tratamento de Efluentes
 keywords: coagulante, floculante, clarificante, efluente, decantação
 description: Coagulante são substâncias químicas de caráter catiônico que tem como função principal desestabilizar as partículas coloidais que formam o efluente
 ---
-<img class="img-responsive pull-center" style="max-width: 50;" src="../../website/images/Coagulante para tratamento de agua.png" alt="Coagulante para tratamento de agua">
+<img class="img-responsive pull-center" style="max-width: 70%;" src="../../website/images/Coagulante para tratamento de agua.png" alt="Coagulante para tratamento de agua">
 <br />
 
 ### Aplicação de Coagulante para tratamento de água
