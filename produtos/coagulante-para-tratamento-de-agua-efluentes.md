@@ -1,13 +1,13 @@
 ---
 layout: contato
-pageTitle: COAGULANTE PARA TRATAMENTO DE ÁGUA | FLOCULANTES
-title: Coagulantes
+pageTitle: COAGULANTE PARA TRATAMENTO DE ÁGUA e FLOCULANTES
+title: Coagulante Floculante
 subtitle: Tratamento de água | Tratamento de Efluentes  
 ---
-<img class="img-responsive pull-center" style="max-width: 80%;" src="../../website/images/Coagulante para tratamento de agua.png" alt="Coagulante para tratamento de agua">
+<img class="img-responsive pull-center" style="max-width: 70;" src="../../website/images/Coagulante para tratamento de agua.png" alt="Coagulante para tratamento de agua">
 <br />
 
-### **Aplicação de Coagulante para tratamento de água**
+### Aplicação de Coagulante para tratamento de água
 
 A purificação da água ou potabilização é um processo que consiste no tratamento da água ou efluentes indústriais, a fim de remover os contaminantes que eventualmente contenha, tornando-a potável, isto é, própria para o consumo humano ou para o reuso secundario nas industrias, clubes, residencias e outros, ou para descarte na rede coletora de águas do municipio.
 
@@ -25,7 +25,7 @@ A **Purewater Efluentes** desenvolve formulações especificas na criação de c
 - Aplicações diversas; Galvanoplastia, Lavanderia industrial, industria metalurgica, farmaceutico e outros
 >
 
-### Classificação de Coagulantes
+### Classificação de Coagulantes para Tratar Efluente:
 
 - Coagulantes Inorgânicos / Estado: Líquido ou Sólido (pó)
 - Coagulantes Orgânicos   / Estado: Líquido ou Sólido (pó)
