@@ -7,6 +7,9 @@ layout: compress
 <head>
  
   {% include purewater/google-analytics.script %}
+
+  {% include purewater/tagmanager/tag-manager-head.script %}
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>
@@ -39,6 +42,8 @@ layout: compress
   <meta property="og:image:height" content="500">
 </head>
 <body>
+    
+    {% include purewater/tagmanager/tag-manager-body.script %}
 
    <nav class="navbar navbar-inverse navbar-purewater navbar-fixed-top">
       <div class="container">
