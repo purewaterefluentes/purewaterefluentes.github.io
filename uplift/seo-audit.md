@@ -67,7 +67,7 @@ Audit date: 2026-05-18
 ### SEO / Structured Data
 - [x] **T04 — Fix `og:description`** — change `default.html:39` from `page.title` to `page.description`
 - [x] **T05 — Add fallback meta description** — update `meta-description.html` to render a site-level fallback when `page.description` is absent
-- [ ] **T06 — Add `Organization` JSON-LD schema** — inject into `default.html` `<head>` with name, URL, logo, telephone, address
+- [x] **T06 — Add `Organization` JSON-LD schema** — inject into `default.html` `<head>` with name, URL, logo, telephone, address
 - [ ] **T07 — Add `BreadcrumbList` JSON-LD schema** — generate from the same breadcrumb logic already in `breadcrumbs.html`
 - [ ] **T08 — Add `Product` / `ItemPage` JSON-LD schema** — for product and equipment pages, inject schema from front matter fields
 
