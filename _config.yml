@@ -40,5 +40,5 @@ purewater:
         url: /equipamentos/
       - name: Contato
         url: /contato/
-gems:
+plugins:
   - jekyll-redirect-from
