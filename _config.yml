@@ -42,3 +42,4 @@ purewater:
         url: /contato/
 plugins:
   - jekyll-redirect-from
+  - jekyll-sitemap
