@@ -19,6 +19,7 @@ layout: compress
       {{ page.title }}
     {% endif %}
   </title>
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
   {% include purewater/robots.html %}
   {% include purewater/meta-description.html %}
 

@@ -62,7 +62,7 @@ Audit date: 2026-05-18
 ### Critical
 - [ ] **T01 — Migrate UA → GA4** — replace `UA-50083848-3` with a GA4 measurement ID in `google-analytics.script`; remove the duplicate `gtag` function definition
 - [x] **T02 — Add XML sitemap** — add `jekyll-sitemap` gem to `Gemfile` and `plugins:` in `_config.yml`
-- [ ] **T03 — Add canonical tags** — add `<link rel="canonical" href="{{ page.url | absolute_url }}">` to `_layouts/default.html`
+- [x] **T03 — Add canonical tags** — add `<link rel="canonical" href="{{ page.url | absolute_url }}">` to `_layouts/default.html`
 
 ### SEO / Structured Data
 - [ ] **T04 — Fix `og:description`** — change `default.html:39` from `page.title` to `page.description`
