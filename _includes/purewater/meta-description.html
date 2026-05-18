@@ -1,3 +1,1 @@
-{% if page.description %}
-<meta name="description" content="{{ page.description | strip_html }}">
-{% endif %}
+<meta name="description" content="{{ page.description | default: site.description | strip_html }}">
