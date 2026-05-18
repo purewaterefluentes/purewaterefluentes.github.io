@@ -19,7 +19,7 @@ Comumente aplicados em sistemas de colunas, que podem ser verticais ou horizonta
 
 A Purewater Efluentes possui a melhor **areia especial para filtros e Seixo Rolado usado como base suporte.**
 
-<img class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/areia quartzo anuncio 3.png" alt="Areia para Filtro de Água">
+<img loading="lazy" class="img-responsive pull-right" style="max-width: 40%;" src="../../website/images/areia quartzo anuncio 3.png" alt="Areia para Filtro de Água">
 
 ### Principais Aplicações da Areia Quartzo para Filtro:
 

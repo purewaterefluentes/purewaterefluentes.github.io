@@ -5,7 +5,7 @@ title: Dispersante
 subtitle: Torre de resfriamento e Caldeiras 
 ---
 <figure class="figure">
-  <img src="../../website/images/Dispersante_tratamento_agua_torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Dispersante para Torre de Resfriamento" style="max-width: 100%;">
+  <img loading="lazy" src="../../website/images/Dispersante_tratamento_agua_torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Dispersante para Torre de Resfriamento" style="max-width: 100%;">
 </figure>
 
 ### Apresentação 

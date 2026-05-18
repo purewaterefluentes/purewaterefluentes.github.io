@@ -5,7 +5,7 @@ title: Filtro Central de Água
 subtitle: 
 ---
 
-<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Filtros Inox_purewater1.png" alt="Filtro Inox para Agua">
+<img loading="lazy" class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Filtros Inox_purewater1.png" alt="Filtro Inox para Agua">
   
 ### Filtro central de água com estrutura em aço inox 304.
 

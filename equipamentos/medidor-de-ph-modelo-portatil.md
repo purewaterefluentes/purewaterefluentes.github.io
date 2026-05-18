@@ -5,7 +5,7 @@ title: Medidor de pH Digital
 subtitle: Medidor Digital de PH Portátil
 ---
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/box_medidor-ph-portatil.png" alt="Medidor de pH Portátil">
+<img loading="lazy" class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/box_medidor-ph-portatil.png" alt="Medidor de pH Portátil">
 
 ### Comprar Medidor de PH Digital Portátil
 

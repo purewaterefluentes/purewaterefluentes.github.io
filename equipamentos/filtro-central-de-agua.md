@@ -5,7 +5,7 @@ title: Filtro Central de Água
 subtitle: Filtro de Água Industrial - Fiberglass (PRFV)
 ---
 
-<img class="img-responsive pull-right" style="max-width: 52%;" src="../../website/images/cyber_tank.jpg" alt="Filtro de Agua em Fiberglass">
+<img loading="lazy" class="img-responsive pull-right" style="max-width: 52%;" src="../../website/images/cyber_tank.jpg" alt="Filtro de Agua em Fiberglass">
 
 ### Comprar Filtro de Água, Encontre Aqui.
 

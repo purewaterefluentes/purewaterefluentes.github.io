@@ -5,7 +5,7 @@ title: Sequestrante de Oxigênio
 subtitle: Tratamento de água de Caldeira
 ---
 <figure class="figure">
-  <img src="../../website/images/sequestrante_de_oxigenio_caldeira.jpg" class="figure-img img-fluid rounded" alt="Sequestrante de Oxigênio para Caldeira" style="max-width: 100%;">
+  <img loading="lazy" src="../../website/images/sequestrante_de_oxigenio_caldeira.jpg" class="figure-img img-fluid rounded" alt="Sequestrante de Oxigênio para Caldeira" style="max-width: 100%;">
 </figure>
 
 ### Apresentação

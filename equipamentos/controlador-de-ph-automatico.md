@@ -5,7 +5,7 @@ title: Controlador de pH Automático
 subtitle: Controlador de PH Industrial
 ---
 
-<img class="img-responsive pull-right" style="max-width: 70%;" src="../../website/images/controlador-automatico-ph-purewater.jpg" alt="Controlador automático de pH">
+<img loading="lazy" class="img-responsive pull-right" style="max-width: 70%;" src="../../website/images/controlador-automatico-ph-purewater.jpg" alt="Controlador automático de pH">
 
 ### Comprar Controlador de PH Industrial, encontre Aqui.
 

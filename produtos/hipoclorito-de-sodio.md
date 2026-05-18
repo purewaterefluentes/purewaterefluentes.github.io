@@ -5,7 +5,7 @@ title: Hipoclorito de Sódio
 subtitle: Cloro Hipoclorito 12%
 ---
 <figure class="figure">
-  <img src="../../website/images/hipoclorito de sodio.jpg" class="figure-img img-fluid rounded" alt="Hipoclorito de Sodio" style="max-width: 100%;">
+  <img loading="lazy" src="../../website/images/hipoclorito de sodio.jpg" class="figure-img img-fluid rounded" alt="Hipoclorito de Sodio" style="max-width: 100%;">
 </figure>
 
 ### Apresentação

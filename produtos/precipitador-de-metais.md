@@ -18,7 +18,7 @@ consulte nosso atendimento técnico para determinar o produto indicado para seu 
 ### **Mecanismo de Ação do Precipitador de Metais**
 Sua ação se deve a presença de componentes de alto poder reativo e de remoção de metais pesados dissolvidos na água ou efluente.
 
-<img class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/precipitador de metais para efluentes.png" alt="Precipitador de Metais para tratamento de efluentes">
+<img loading="lazy" class="img-responsive pull-right" style="max-width: 100%;" src="../../website/images/precipitador de metais para efluentes.png" alt="Precipitador de Metais para tratamento de efluentes">
 
 ### **Principais Aplicações do Precipitador de Metais**
 

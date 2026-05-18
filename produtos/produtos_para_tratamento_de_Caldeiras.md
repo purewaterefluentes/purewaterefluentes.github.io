@@ -5,7 +5,7 @@ title: Produtos para Caldeira
 subtitle: Tratamento de água de Caldeira   
 ---
 <figure class="figure">
-  <img src="../../website/images/Produtos para Caldeira.png" class="figure-img img-fluid rounded" alt="Produtos para Caldeira" style="center: 85%;">
+  <img loading="lazy" src="../../website/images/Produtos para Caldeira.png" class="figure-img img-fluid rounded" alt="Produtos para Caldeira" style="center: 85%;">
 </figure>
 
 ### **Fabricante de Produtos para Tratamento de água de Caldeira**
@@ -47,7 +47,7 @@ na forma cristalizada na rede hidráulica e equipamentos.
  - **Pressão média:** de 11 a 40 Kgf/cm2
  - **Pressão alta:** de 40 Kgf/cm2
  
-<img src="../../website/images/Tabela_parametros_controle_qualidade_agua_caldeira.jpg" class="figure-img img-fluid rounded" alt="Tabela de Parâmetros para Controle de água de caldeira" style="max-width: 100%;" >
+<img loading="lazy" src="../../website/images/Tabela_parametros_controle_qualidade_agua_caldeira.jpg" class="figure-img img-fluid rounded" alt="Tabela de Parâmetros para Controle de água de caldeira" style="max-width: 100%;" >
 
 >
 ### Entre em contato através de um de nossos Canais e receba sua Cotação

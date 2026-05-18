@@ -5,7 +5,7 @@ title: Lubrificante para Perfuração de Poços
 subtitle: Bentônita Polimérica
 keywords: bentonita, lubrificação, poços, sintetica, polimero, sondagem, profundo, perfuração
 ---
-<img class="img-responsive pull-right" style="max-width: 90;" src="../../website/images/Bentonita_lubrificante_perfuração_solo.jpg" alt="Bentonita_sintetica_lubrificante_perfuracao_solo">
+<img loading="lazy" class="img-responsive pull-right" style="max-width: 90;" src="../../website/images/Bentonita_lubrificante_perfuração_solo.jpg" alt="Bentonita_sintetica_lubrificante_perfuracao_solo">
 
 ### Apresentação
 
@@ -26,7 +26,7 @@ Os lubrificantes para perfuração de poços **Bentonita sintética** se constit
 - **Não forma resíduo de carbono (uma exigência da ANP).**
 - Bentonita sintética Biodegradável.
 
-<img class="img-responsive pull-left" style="max-width: 100;" src="../../website/images/Bentonita polimerica perfuração de poços.jpg" alt="Bentonita Sintética Lubrificante para perfuração de poços">
+<img loading="lazy" class="img-responsive pull-left" style="max-width: 100;" src="../../website/images/Bentonita polimerica perfuração de poços.jpg" alt="Bentonita Sintética Lubrificante para perfuração de poços">
 ### Características da Bentonita Polimérica
 
 Um quilo de **POLYER GEL LUBRI ou AQUAFLOC GEL LUBRI** produz viscosidade equivalente a 15 a 20 libras de bentônita.

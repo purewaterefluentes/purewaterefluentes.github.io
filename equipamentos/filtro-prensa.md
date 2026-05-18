@@ -4,7 +4,7 @@ pageTitle: FILTRO PRENSA |FABRICA |PUREWATER EFLUENTES
 title: Filtro Prensa 
 subtitle: Equipamento de Filtração
 ---
-<img class="img-responsive pull-right" style="max-width: 60%;" src="../../website/images/small/filtro prensa purewater anuncio.jpg" alt="Filtro Prensa">
+<img loading="lazy" class="img-responsive pull-right" style="max-width: 60%;" src="../../website/images/small/filtro prensa purewater anuncio.jpg" alt="Filtro Prensa">
 
 ## Comprar Filtro Prensa
 

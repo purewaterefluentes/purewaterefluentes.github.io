@@ -5,7 +5,7 @@ title: Inibidor de Corrosão
 subtitle: Tratamento de água de Caldeira | Geração de Vapor  
 ---
 <figure class="figure">
-  <img src="../../website/images/inibidor_de_corrosao_caldeira_geracao_vapor.jpg" class="figure-img img-fluid rounded" alt="Inibidor de Corrosão para Caldeira" style="max-width: 100%;">
+  <img loading="lazy" src="../../website/images/inibidor_de_corrosao_caldeira_geracao_vapor.jpg" class="figure-img img-fluid rounded" alt="Inibidor de Corrosão para Caldeira" style="max-width: 100%;">
 </figure>
 
 ### **Apresentação**

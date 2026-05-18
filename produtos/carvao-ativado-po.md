@@ -20,7 +20,7 @@ A elevada eficiência proporciona o uso de dosagens mínimas, favorecendo a filt
 
 <br />
 
- <img class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/carvao ativado pulverizado.jpg" alt="Carvão Ativado Pó">
+ <img loading="lazy" class="img-responsive pull-right" style="max-width: 35%;" src="../../website/images/carvao ativado pulverizado.jpg" alt="Carvão Ativado Pó">
  
 ### APLICAÇÕES DO CARVÃO ATIVADO EM PÓ
 

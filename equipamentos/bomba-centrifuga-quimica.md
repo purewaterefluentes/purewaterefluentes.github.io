@@ -4,7 +4,7 @@ pageTitle: BOMBA CENTRIFUGA | PUREWATER EFLUENTES
 title: Bomba Centrifuga Química
 subtitle: 
 ---
-<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/bomba centrifuga quimica monobloco.png" alt="Bomba Centrifuga Química">
+<img loading="lazy" class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/bomba centrifuga quimica monobloco.png" alt="Bomba Centrifuga Química">
 
 ### **Bomba Centrífuga Monobloco**
 

@@ -5,7 +5,7 @@ title: Bomba Dosadora de Diafragma
 subtitle: Ação Mecânica
 ---
 
-<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Dosadora diafragma mecanica Mono-cabeça.jpg" alt="Dosadora Diafragma Mecânica">
+<img loading="lazy" class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/Dosadora diafragma mecanica Mono-cabeça.jpg" alt="Dosadora Diafragma Mecânica">
 
 ### **Bomba Dosadora Diafragma - Acionamento Mecânico**
 

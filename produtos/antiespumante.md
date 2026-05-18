@@ -7,7 +7,7 @@ keywords: Antiespumante, inibidor de espuma, controle, água, efluente
 description: Antiespumantes são substancias insolúveis no meio espumante, e inibem a formação de espuma na superfície dos líquidos, reduzindo a tensão superficial, sendo utilizado em tratamento de água, efluentes.
 ---
 <figure class="figure">
-  <img src="../../website/images/antiespumante_industrial.jpg" class="figure-img img-fluid rounded" alt="Antiespumante industrial" style="max-width: 100%;">
+  <img loading="lazy" src="../../website/images/antiespumante_industrial.jpg" class="figure-img img-fluid rounded" alt="Antiespumante industrial" style="max-width: 100%;">
 </figure>
 
 ### Apresentação

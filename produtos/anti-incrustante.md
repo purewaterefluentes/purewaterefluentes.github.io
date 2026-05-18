@@ -5,7 +5,7 @@ subtitle: Inibidor de Incrustação para Água Industrial
 keywords: Anti-Incrustante, caldeiras, torre de resfriamento, chiller
 description: Anti-incrustante é usado para prevenir a deposição de sais dissolvidos de carbonatos, silicatos, oxido ferroso e sulfatos de cálcio na água industrial, evitando a incrustação em tanques, tubulações, caldeiras, torre de resfriamento, chiller. 
 ---
-<img class="img-responsive pull-right" style="max-width: 90;" src="../../website/images/Anti-incrustante_caldeira_torre.png" alt="Anti_incrustante_para_caldeira_Torre_resfriamento">
+<img loading="lazy" class="img-responsive pull-right" style="max-width: 90;" src="../../website/images/Anti-incrustante_caldeira_torre.png" alt="Anti_incrustante_para_caldeira_Torre_resfriamento">
 
 ### Aplicações do Anti-Incrustante
 - Anti-Incrustante para Caldeira, que reduz a deposição de sais de cálcio, sílica e magnésio e dureza.
@@ -44,7 +44,7 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
  - **Pressão média:** de 11 a 40 Kgf/cm2
  - **Pressão alta:** de 40 Kgf/cm2
  
-<img src="../../website/images/Tabela_parametros_controle_qualidade_agua_caldeira.jpg" class="figure-img img-fluid rounded" alt="Tabela de Parâmetros para Controle de água de caldeira" style="max-width: 90%;" >
+<img loading="lazy" src="../../website/images/Tabela_parametros_controle_qualidade_agua_caldeira.jpg" class="figure-img img-fluid rounded" alt="Tabela de Parâmetros para Controle de água de caldeira" style="max-width: 90%;" >
 
 **Consulte o setor técnico para indicação do melhor Anti-incrustante para seu sistema.**
 
@@ -73,6 +73,6 @@ Na indústria é determinada uma faixa representativa de utilização das caldei
 - Container plástico IBC de 1000 litros
 
 <figure class="figure">
-  <img src="../../website/images/anti-incrustante_agua_caldeira_torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Anti-Incrustante para caldeira, Inibidor de Incrustação para torre de resfriamento" style="max-width: 70%;" >
+  <img loading="lazy" src="../../website/images/anti-incrustante_agua_caldeira_torre_resfriamento.jpg" class="figure-img img-fluid rounded" alt="Anti-Incrustante para caldeira, Inibidor de Incrustação para torre de resfriamento" style="max-width: 70%;" >
 </figure>
 

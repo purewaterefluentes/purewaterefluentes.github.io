@@ -5,7 +5,7 @@ title: Medidor de pH - Bancada
 subtitle: 
 ---
 
-<img class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/medidor_bancada_ph._img.png" alt="Medidor de pH Bancada">
+<img loading="lazy" class="img-responsive pull-right" style="max-width: 50%;" src="../../website/images/medidor_bancada_ph._img.png" alt="Medidor de pH Bancada">
 
 ### Medidor de pH - Modelo Bancada
       

@@ -4,7 +4,7 @@ title: Sensor de Redox (ORP)
 subtitle: 
 ---
 
-<img class="img-responsive center" style="max-width: 100%;" src="../../website/images/sensor de redox ORP.jpg" alt="Sensor de Redox">
+<img loading="lazy" class="img-responsive center" style="max-width: 100%;" src="../../website/images/sensor de redox ORP.jpg" alt="Sensor de Redox">
 
 ### Apresentação
 

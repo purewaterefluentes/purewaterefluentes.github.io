@@ -5,7 +5,7 @@ title: LIMPEZA DE MEMBRANA DE OSMOSE
 subtitle: Anti-Incrustante e Protetivo para Membrana de Osmose
 ---
 <figure class="figure">
-  <img src="../../website/images/protetivo para limpeza osmose reversa.jpg" class="figure-img img-fluid rounded" alt="Produto para Limpeza de Osmose Reversa" style="max-width: 90%;">
+  <img loading="lazy" src="../../website/images/protetivo para limpeza osmose reversa.jpg" class="figure-img img-fluid rounded" alt="Produto para Limpeza de Osmose Reversa" style="max-width: 90%;">
 </figure>
 
 ### Apresentação do Anti-Incrustante para Osmose
@@ -53,7 +53,7 @@ dosagem sugerida: Entre 6 a 12 ppm. (Podendo ser ajustado conforme necessidade)
 - Bombona de plásticos de 50 Kg 
 - IBC de 1000 litros
 
-<img class="img-responsive pull-Right" style="max-width: 48%;" src="../../website/images/Anti-Incrustante para Osmose Flocon.png" alt="Flocon Anti-incrustante para membrana de osmose reversa">
+<img loading="lazy" class="img-responsive pull-Right" style="max-width: 48%;" src="../../website/images/Anti-Incrustante para Osmose Flocon.png" alt="Flocon Anti-incrustante para membrana de osmose reversa">
 
 ### Boletim - Anti-Incrustante Dispersante para Membranas de Osmose (OR)
 

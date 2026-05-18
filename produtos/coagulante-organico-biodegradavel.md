@@ -5,7 +5,7 @@ title: Coagulante Orgânico Biodegradável
 subtitle: AQUAFLOC-LS
 ---
 <figure class="figure">
-  <img src="../../website/images/coagulante_organico_tratamento_de_efluentes.jpg" class="figure-img img-fluid rounded" alt="Coagulante Orgânico para Tratamento de Efluentes" style="max-width: 100%;">
+  <img loading="lazy" src="../../website/images/coagulante_organico_tratamento_de_efluentes.jpg" class="figure-img img-fluid rounded" alt="Coagulante Orgânico para Tratamento de Efluentes" style="max-width: 100%;">
 </figure>
 
 ### Apresentação
