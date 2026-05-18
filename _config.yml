@@ -12,6 +12,7 @@ exclude:
   - vendor/
   - vnu/
   - vnu.zip
+  - uplift/
 layouts_dir: ./_layouts
 sass:
   sass_dir: website/_scss
