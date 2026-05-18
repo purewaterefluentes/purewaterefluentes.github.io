@@ -60,7 +60,7 @@ Audit date: 2026-05-18
 ## Tasks
 
 ### Critical
-- [ ] **T01 — Migrate UA → GA4** — replace `UA-50083848-3` with a GA4 measurement ID in `google-analytics.script`; remove the duplicate `gtag` function definition
+- [x] **T01 — Migrate UA → GA4** — replace `UA-50083848-3` with a GA4 measurement ID in `google-analytics.script`; remove the duplicate `gtag` function definition
 - [x] **T02 — Add XML sitemap** — add `jekyll-sitemap` gem to `Gemfile` and `plugins:` in `_config.yml`
 - [x] **T03 — Add canonical tags** — add `<link rel="canonical" href="{{ page.url | absolute_url }}">` to `_layouts/default.html`
 
