@@ -72,7 +72,7 @@ Audit date: 2026-05-18
 - [x] **T08 — Add `Product` / `ItemPage` JSON-LD schema** — for product and equipment pages, inject schema from front matter fields
 
 ### Performance / Technical
-- [ ] **T09 — Move Font Awesome to `<head>`** — move the Font Awesome `<link>` from bottom of `<body>` to `<head>` in `default.html`
+- [x] **T09 — Move Font Awesome to `<head>`** — move the Font Awesome `<link>` from bottom of `<body>` to `<head>` in `default.html`
 - [ ] **T10 — Add `loading="lazy"` to images** — audit product and service pages for `<img>` tags missing the lazy attribute
 - [ ] **T11 — Add `<main>` semantic element** — wrap the `<div class="container">` content block in `default.html` with `<main>`
 - [ ] **T12 — Upgrade Bootstrap and jQuery** — evaluate moving to Bootstrap 5 and dropping jQuery dependency
