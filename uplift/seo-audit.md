@@ -69,13 +69,16 @@ Audit date: 2026-05-18
 - [x] **T05 — Add fallback meta description** — update `meta-description.html` to render a site-level fallback when `page.description` is absent
 - [x] **T06 — Add `Organization` JSON-LD schema** — inject into `default.html` `<head>` with name, URL, logo, telephone, address
 - [x] **T07 — Add `BreadcrumbList` JSON-LD schema** — generate from the same breadcrumb logic already in `breadcrumbs.html`
-- [ ] **T08 — Add `Product` / `ItemPage` JSON-LD schema** — for product and equipment pages, inject schema from front matter fields
+- [x] **T08 — Add `Product` / `ItemPage` JSON-LD schema** — for product and equipment pages, inject schema from front matter fields
 
 ### Performance / Technical
 - [ ] **T09 — Move Font Awesome to `<head>`** — move the Font Awesome `<link>` from bottom of `<body>` to `<head>` in `default.html`
 - [ ] **T10 — Add `loading="lazy"` to images** — audit product and service pages for `<img>` tags missing the lazy attribute
 - [ ] **T11 — Add `<main>` semantic element** — wrap the `<div class="container">` content block in `default.html` with `<main>`
 - [ ] **T12 — Upgrade Bootstrap and jQuery** — evaluate moving to Bootstrap 5 and dropping jQuery dependency
+
+### Content Enrichment
+- [ ] **T15 — Add `image:` front matter to product and equipment pages** — add a standardised `image:` field to each product/equipment page so the Product JSON-LD schema (T08) can include a product image, improving rich result eligibility
 
 ### Marketing / Tracking
 - [ ] **T13 — Consolidate GA into GTM** — remove the direct `gtag.js` script and manage GA4 + conversion events entirely through GTM

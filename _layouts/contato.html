@@ -3,6 +3,27 @@ layout: default
 robots: index
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "{{ page.title }}",
+  "description": "{{ page.description | default: site.description | strip_html | escape }}",
+  "brand": {
+    "@type": "Brand",
+    "name": "Purewater Efluentes"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "{{ page.url | absolute_url }}",
+    "seller": {
+      "@type": "Organization",
+      "name": "Purewater Efluentes"
+    }
+  }
+}
+</script>
+
 {{ content }}
 
 <div class="pull-right">
