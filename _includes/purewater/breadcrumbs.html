@@ -18,4 +18,61 @@
             <li class="breadcrumb-item active">{{ page.title }}</li>
         {% endif %}
     </ol>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "{{ site.url }}/"
+        }{% if sessao1 == sessao2 %},
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ page.title }}",
+          "item": "{{ page.url | absolute_url }}"
+        }{% elsif sessao1 == " produtos" %},
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Produtos Químicos",
+          "item": "{{ site.url }}/produtos/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{ page.title }}",
+          "item": "{{ page.url | absolute_url }}"
+        }{% elsif sessao1 == " servicos" %},
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Serviços",
+          "item": "{{ site.url }}/servicos/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{ page.title }}",
+          "item": "{{ page.url | absolute_url }}"
+        }{% elsif sessao1 == " equipamentos" %},
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Equipamentos",
+          "item": "{{ site.url }}/equipamentos/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{ page.title }}",
+          "item": "{{ page.url | absolute_url }}"
+        }{% endif %}
+      ]
+    }
+    </script>
 {% endif %}
